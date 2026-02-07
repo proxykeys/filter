@@ -1,0 +1,44 @@
+name: Update Antifilter Lists
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Каждые 6 часов (UTC)
+    - cron: '0 */6 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Setup Git config
+        run: |
+          git config --global user.name "ProxyKeys Bot"
+          git config --global user.email "bot@proxykeys.com"
+          
+      - name: Run conversion script
+        run: |
+          chmod +x convert.sh
+          ./convert.sh
+          
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git add release/
+          git commit -m "Update antifilter lists - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+

@@ -46,21 +46,21 @@ cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | s
 cp "${TEMP_DIR}/reject.txt" "${RELEASE_DIR}/mihomo-adguard-domains.txt"
 
 # ========================================
-# SHADOWROCKET (с ACTION)
+# SHADOWROCKET (без ACTION - как Mihomo)
 # ========================================
 echo "  Shadowrocket..."
 
 # Antifilter домены
-sed -e 's/^/DOMAIN-SUFFIX,/' -e 's/$/,PROXY/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/shadowrocket-antifilter-domains.txt"
+sed -e 's/^/DOMAIN-SUFFIX,/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/shadowrocket-antifilter-domains.txt"
 
 # Antifilter IP
-cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | sed -e 's/^/IP-CIDR,/' -e 's/$/,PROXY/' > "${RELEASE_DIR}/shadowrocket-antifilter-ip.txt"
+cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | sed -e 's/^/IP-CIDR,/' > "${RELEASE_DIR}/shadowrocket-antifilter-ip.txt"
 
-# AdGuard reject
-sed -e 's/$/,REJECT/' "${TEMP_DIR}/reject.txt" > "${RELEASE_DIR}/shadowrocket-adguard-domains.txt"
+# AdGuard reject (чистый формат без DOMAIN-SUFFIX,)
+sed -e 's/^DOMAIN-SUFFIX,//' "${TEMP_DIR}/reject.txt" > "${RELEASE_DIR}/shadowrocket-adguard-domains.txt"
 
 # ========================================
-# SING-BOX (JSON)
+# SING-BOX (JSON через Python)
 # ========================================
 echo "  Sing-box (Python)..."
 
@@ -107,47 +107,48 @@ print(json.dumps(result, indent=2))
 " > "${RELEASE_DIR}/singbox-adguard-domains.json"
 
 # ========================================
-# DNSMASQ
+# DNSMASQ формат
 # ========================================
 echo "  DNSMasq..."
 sed -e 's/^/server=\//g' -e 's/$/\/127.0.0.1#5353/g' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/dnsmasq-antifilter-domains.conf"
 
 # ========================================
-# ADGUARD HOME
+# ADGUARD HOME формат
 # ========================================
 echo "  AdGuard Home..."
 
-# AdGuard reject
+# AdGuard reject (блокировка рекламы)
 sed -e 's/DOMAIN-SUFFIX,/||/' -e 's/$/\^/' "${TEMP_DIR}/reject.txt" | sort -u > "${RELEASE_DIR}/adguard-home-adguard-domains.txt"
 
-# Antifilter домены
+# Antifilter домены (антифильтр через прокси)
 sed -e 's/^/||/' -e 's/$/\^/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/adguard-home-antifilter-domains.txt"
 
 # Antifilter IP
 cp "${TEMP_DIR}/community-ip.lst" "${RELEASE_DIR}/adguard-home-antifilter-ip.txt"
 
 # ========================================
-# PI-HOLE
+# PI-HOLE формат
 # ========================================
 echo "  Pi-Hole..."
 
-# AdGuard reject
+# AdGuard reject (блокировка рекламы)
 sed -e 's/DOMAIN-SUFFIX,//' "${TEMP_DIR}/reject.txt" | sort -u > "${RELEASE_DIR}/pihole-adguard-domains.txt"
 
-# Antifilter домены
+# Antifilter домены (антифильтр через прокси)
 sed -e 's/DOMAIN-SUFFIX,//' "${TEMP_DIR}/domains.lst" | sort -u > "${RELEASE_DIR}/pihole-antifilter-domains.txt"
 
 # ========================================
-# HOSTS
+# HOSTS формат
 # ========================================
 echo "  HOSTS..."
 
-# AdGuard reject
+# AdGuard reject (блокировка рекламы)
 awk '{if ($0 ~ /^DOMAIN-SUFFIX,/) {sub(/DOMAIN-SUFFIX,/, "", $0); print "0.0.0.0 " $0 "\n::1 " $0}}' "${TEMP_DIR}/reject.txt" | sort -u > "${RELEASE_DIR}/hosts-adguard-hosts.txt"
 
-# Antifilter домены
+# Antifilter домены (антифильтр через прокси)
 awk '{print "0.0.0.0 " $0 "\n::1 " $0}' "${TEMP_DIR}/domains.lst" | sort -u > "${RELEASE_DIR}/hosts-antifilter-hosts.txt"
 
+# Очистка
 rm -rf "${TEMP_DIR}"
 
 echo ""

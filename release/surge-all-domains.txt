@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,bt3.t-ru.org
 DOMAIN-SUFFIX,bt4.t-ru.org
 DOMAIN-SUFFIX,builds.parsec.app
 DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdn.id.supercell.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,cdn2site.com

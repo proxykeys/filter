@@ -10,16 +10,19 @@ mkdir -p "${TEMP_DIR}"
 
 # URL списков
 ANTIFILTER_DOMAINS_URL="https://community.antifilter.download/list/domains.lst"
-ANTIFILTER_COMMUNITY_DOMAINS_URL="https://community.antifilter.download/list/domains.lst"
 ANTIFILTER_COMMUNITY_IP_URL="https://community.antifilter.download/list/community.lst"
 ALLYOUNEED_IP_URL="https://antifilter.download/list/allyouneed.lst"
 
 echo "Загрузка списков..."
 
 # Загрузка списков
+echo "  domains.lst (community.antifilter - домены)..."
 curl -s -o "${TEMP_DIR}/domains.lst" "${ANTIFILTER_DOMAINS_URL}"
-curl -s -o "${TEMP_DIR}/community-domains.lst" "${ANTIFILTER_COMMUNITY_DOMAINS_URL}"
+
+echo "  community.ip.lst (community.antifilter - IP)..."
 curl -s -o "${TEMP_DIR}/community-ip.lst" "${ANTIFILTER_COMMUNITY_IP_URL}"
+
+echo "  allyouneed.ip.lst (antifilter - IP)..."
 curl -s -o "${TEMP_DIR}/allyouneed-ip.lst" "${ALLYOUNEED_IP_URL}"
 
 echo "Конвертация..."
@@ -28,10 +31,12 @@ echo "Конвертация..."
 # SURGE/CLASH/MIHOMO Rule Providers (без ACTION)
 # ========================================
 echo "  Surge/Clash/Mihomo..."
-sed -e 's/^/DOMAIN-SUFFIX,/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/surge-domains.txt"
-sed -e 's/^/DOMAIN-SUFFIX,/' "${TEMP_DIR}/community-domains.lst" > "${RELEASE_DIR}/surge-community-domains.txt"
-cat "${TEMP_DIR}/domains.lst" "${TEMP_DIR}/community-domains.lst" | sort -u | sed -e 's/^/DOMAIN-SUFFIX,/' > "${RELEASE_DIR}/surge-all-domains.txt"
 
+# Домены (единственный источник)
+sed -e 's/^/DOMAIN-SUFFIX,/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/surge-domains.txt"
+sed -e 's/^/DOMAIN-SUFFIX,/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/surge-all-domains.txt"
+
+# IP (community + allyouneed)
 sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/community-ip.lst" > "${RELEASE_DIR}/ipcidr-community.txt"
 sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/allyouneed-ip.lst" > "${RELEASE_DIR}/ipcidr-allyouneed.txt"
 cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | sed -e 's/^/IP-CIDR,/' > "${RELEASE_DIR}/ipcidr-all.txt"
@@ -40,8 +45,12 @@ cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | s
 # SHADOWROCKET/SURGE/QUANTUMULT X/LOON (с ACTION)
 # ========================================
 echo "  Shadowrocket..."
+
+# Домены
 sed -e 's/^/DOMAIN-SUFFIX,/' -e 's/$/,PROXY/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/shadowrocket-domains.txt"
-cat "${TEMP_DIR}/domains.lst" "${TEMP_DIR}/community-domains.lst" | sort -u | sed -e 's/^/DOMAIN-SUFFIX,/' -e 's/$/,PROXY/' > "${RELEASE_DIR}/shadowrocket-all-domains.txt"
+sed -e 's/^/DOMAIN-SUFFIX,/' -e 's/$/,PROXY/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/shadowrocket-all-domains.txt"
+
+# IP
 sed -e 's/^/IP-CIDR,/' -e 's/$/,PROXY/' "${TEMP_DIR}/community-ip.lst" > "${RELEASE_DIR}/shadowrocket-community-ip.txt"
 cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | sed -e 's/^/IP-CIDR,/' -e 's/$/,PROXY/' > "${RELEASE_DIR}/shadowrocket-all-ip.txt"
 
@@ -51,7 +60,7 @@ cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | s
 echo "  Sing-box (Python)..."
 
 # Генерация JSON для доменов
-cat "${TEMP_DIR}/domains.lst" "${TEMP_DIR}/community-domains.lst" | sort -u | python3 -c "
+cat "${TEMP_DIR}/domains.lst" | python3 -c "
 import sys, json
 
 domains = [line.strip() for line in sys.stdin if line.strip()]
@@ -85,7 +94,7 @@ echo "  DNSMasq..."
 while IFS= read -r domain; do
     [ -z "$domain" ] && continue
     echo "server=/$domain/127.0.0.1#5353"
-done < <(cat "${TEMP_DIR}/domains.lst" "${TEMP_DIR}/community-domains.lst" | sort -u) > "${RELEASE_DIR}/dnsmasq-domains.conf"
+done < "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/dnsmasq-domains.conf"
 
 # ========================================
 # ADGUARD формат
@@ -134,17 +143,22 @@ rm -rf "${TEMP_DIR}"
 echo ""
 echo "✅ Готово! Созданные файлы:"
 echo ""
+echo "=== ИСТОЧНИКИ ==="
+echo "  domains.lst          ← community.antifilter.download/list/domains.lst"
+echo "  community-ip.lst      ← community.antifilter.download/list/community.lst"
+echo "  allyouneed-ip.lst    ← antifilter.download/list/allyouneed.lst"
+echo ""
 echo "=== SURGE/CLASH/MIHOMO ==="
-echo "  release/surge-all-domains.txt"
-echo "  release/ipcidr-all.txt"
+echo "  release/surge-all-domains.txt (domains only)"
+echo "  release/ipcidr-all.txt (community-ip + allyouneed-ip)"
 echo ""
 echo "=== SHADOWROCKET ==="
-echo "  release/shadowrocket-all-domains.txt"
-echo "  release/shadowrocket-all-ip.txt"
+echo "  release/shadowrocket-all-domains.txt (domains only)"
+echo "  release/shadowrocket-all-ip.txt (community-ip + allyouneed-ip)"
 echo ""
 echo "=== SING-BOX ==="
-echo "  release/singbox-domains.json"
-echo "  release/singbox-ip.json"
+echo "  release/singbox-domains.json (domains only)"
+echo "  release/singbox-ip.json (community-ip + allyouneed-ip)"
 echo ""
 echo "=== DNSMASQ ==="
 echo "  release/dnsmasq-domains.conf"
@@ -160,12 +174,13 @@ echo "=== HOSTS ==="
 echo "  release/hosts-domains.txt"
 echo ""
 echo "=== Совместимость ==="
-echo "  release/allyouneed.txt"
-echo "  release/allyouneed-sr.txt"
-echo "  release/community.txt"
-echo "  release/community-sr.txt"
+echo "  release/allyouneed.txt = ipcidr-all.txt"
+echo "  release/allyouneed-sr.txt = shadowrocket-all-ip.txt"
+echo "  release/community.txt = ipcidr-community.txt"
+echo "  release/community-sr.txt = shadowrocket-community-ip.txt"
 echo ""
 echo "Статистика:"
 echo "  Доменов: $(cat "${RELEASE_DIR}/surge-all-domains.txt" | wc -l)"
-echo "  IP: $(cat "${RELEASE_DIR}/ipcidr-all.txt" | wc -l)"
-
+echo "  IP (community): $(cat "${RELEASE_DIR}/ipcidr-community.txt" | wc -l)"
+echo "  IP (allyouneed): $(cat "${RELEASE_DIR}/ipcidr-allyouneed.txt" | wc -l)"
+echo "  IP (всего): $(cat "${RELEASE_DIR}/ipcidr-all.txt" | wc -l)"

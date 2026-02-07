@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,bt3.t-ru.org,PROXY
 DOMAIN-SUFFIX,bt4.t-ru.org,PROXY
 DOMAIN-SUFFIX,builds.parsec.app,PROXY
 DOMAIN-SUFFIX,canva.com,PROXY
+DOMAIN-SUFFIX,canva.com,PROXY
 DOMAIN-SUFFIX,cdn.id.supercell.com,PROXY
 DOMAIN-SUFFIX,cdn.oaistatic.com,PROXY
 DOMAIN-SUFFIX,cdn2site.com,PROXY

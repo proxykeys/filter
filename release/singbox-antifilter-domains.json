@@ -1,0 +1,1448 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": "10minutemail.com"
+    },
+    {
+      "domain_suffix": "1337x.to"
+    },
+    {
+      "domain_suffix": "4pda.to"
+    },
+    {
+      "domain_suffix": "7tv.app"
+    },
+    {
+      "domain_suffix": "ab.chatgpt.com"
+    },
+    {
+      "domain_suffix": "abook-club.ru"
+    },
+    {
+      "domain_suffix": "abs-0.twimg.com"
+    },
+    {
+      "domain_suffix": "abs-zero.twimg.com"
+    },
+    {
+      "domain_suffix": "abs.twimg.com"
+    },
+    {
+      "domain_suffix": "account-api.protonmail.com"
+    },
+    {
+      "domain_suffix": "account.jetbrains.com"
+    },
+    {
+      "domain_suffix": "account.protonmail.com"
+    },
+    {
+      "domain_suffix": "accounts.spotify.com"
+    },
+    {
+      "domain_suffix": "accounts.supercell.com"
+    },
+    {
+      "domain_suffix": "adblockplus.org"
+    },
+    {
+      "domain_suffix": "adguard.com"
+    },
+    {
+      "domain_suffix": "afcs.dellcdn.com"
+    },
+    {
+      "domain_suffix": "aftermarket.schaeffler.com"
+    },
+    {
+      "domain_suffix": "aftermarket.zf.com"
+    },
+    {
+      "domain_suffix": "agents.media"
+    },
+    {
+      "domain_suffix": "agentura.ru"
+    },
+    {
+      "domain_suffix": "alberta.ca"
+    },
+    {
+      "domain_suffix": "alphacoders.com"
+    },
+    {
+      "domain_suffix": "amnezia.org"
+    },
+    {
+      "domain_suffix": "anilibria.tv"
+    },
+    {
+      "domain_suffix": "animestars.org"
+    },
+    {
+      "domain_suffix": "ansys.com"
+    },
+    {
+      "domain_suffix": "antizapret.prostovpn.org"
+    },
+    {
+      "domain_suffix": "api.app.prod.grazie.aws.intellij.net"
+    },
+    {
+      "domain_suffix": "api.github.com"
+    },
+    {
+      "domain_suffix": "api.githubcopilot.com"
+    },
+    {
+      "domain_suffix": "api.home-connect.com"
+    },
+    {
+      "domain_suffix": "api.openai.com"
+    },
+    {
+      "domain_suffix": "api.protonmail.ch"
+    },
+    {
+      "domain_suffix": "api.radarr.video"
+    },
+    {
+      "domain_suffix": "api.themoviedb.org"
+    },
+    {
+      "domain_suffix": "api.twitter.com"
+    },
+    {
+      "domain_suffix": "aplawrence.com"
+    },
+    {
+      "domain_suffix": "app.4pda.to"
+    },
+    {
+      "domain_suffix": "app.amplitude.com"
+    },
+    {
+      "domain_suffix": "app.m3u.in"
+    },
+    {
+      "domain_suffix": "app.paraswap.io"
+    },
+    {
+      "domain_suffix": "app.zerossl.com"
+    },
+    {
+      "domain_suffix": "appstorrent.ru"
+    },
+    {
+      "domain_suffix": "apt.releases.hashicorp.com"
+    },
+    {
+      "domain_suffix": "aqicn.org"
+    },
+    {
+      "domain_suffix": "arc.intel.com"
+    },
+    {
+      "domain_suffix": "archiveofourown.org"
+    },
+    {
+      "domain_suffix": "arm.com"
+    },
+    {
+      "domain_suffix": "artifacts.elastic.co"
+    },
+    {
+      "domain_suffix": "atlassian.com"
+    },
+    {
+      "domain_suffix": "auth.grazie.ai"
+    },
+    {
+      "domain_suffix": "auth.openai.com"
+    },
+    {
+      "domain_suffix": "auth0.openai.com"
+    },
+    {
+      "domain_suffix": "bard.google.com"
+    },
+    {
+      "domain_suffix": "bbc.co.uk"
+    },
+    {
+      "domain_suffix": "bbc.com"
+    },
+    {
+      "domain_suffix": "bbci.co.uk"
+    },
+    {
+      "domain_suffix": "bestchange.ru"
+    },
+    {
+      "domain_suffix": "bitbucket.org"
+    },
+    {
+      "domain_suffix": "bitcoin.org"
+    },
+    {
+      "domain_suffix": "bitru.org"
+    },
+    {
+      "domain_suffix": "booktracker.org"
+    },
+    {
+      "domain_suffix": "boosteroid.com"
+    },
+    {
+      "domain_suffix": "bosch-home.com"
+    },
+    {
+      "domain_suffix": "bradyid.com"
+    },
+    {
+      "domain_suffix": "broadcom.com"
+    },
+    {
+      "domain_suffix": "bt.t-ru.org"
+    },
+    {
+      "domain_suffix": "bt2.t-ru.org"
+    },
+    {
+      "domain_suffix": "bt3.t-ru.org"
+    },
+    {
+      "domain_suffix": "bt4.t-ru.org"
+    },
+    {
+      "domain_suffix": "builds.parsec.app"
+    },
+    {
+      "domain_suffix": "canva.com"
+    },
+    {
+      "domain_suffix": "canva.com"
+    },
+    {
+      "domain_suffix": "cdn.id.supercell.com"
+    },
+    {
+      "domain_suffix": "cdn.oaistatic.com"
+    },
+    {
+      "domain_suffix": "cdn2site.com"
+    },
+    {
+      "domain_suffix": "cdninstagram.com"
+    },
+    {
+      "domain_suffix": "certifytheweb.com"
+    },
+    {
+      "domain_suffix": "chat.openai.com"
+    },
+    {
+      "domain_suffix": "chatgpt.com"
+    },
+    {
+      "domain_suffix": "checkout.buckaroo.nl"
+    },
+    {
+      "domain_suffix": "cherta.media"
+    },
+    {
+      "domain_suffix": "chess.com"
+    },
+    {
+      "domain_suffix": "cisco.com"
+    },
+    {
+      "domain_suffix": "citrix.com"
+    },
+    {
+      "domain_suffix": "clamav.net"
+    },
+    {
+      "domain_suffix": "claude.ai"
+    },
+    {
+      "domain_suffix": "cloud.mongodb.com"
+    },
+    {
+      "domain_suffix": "cloudflare-dns.com"
+    },
+    {
+      "domain_suffix": "codeium.com"
+    },
+    {
+      "domain_suffix": "colta.ru"
+    },
+    {
+      "domain_suffix": "community.cisco.com"
+    },
+    {
+      "domain_suffix": "coomer.su"
+    },
+    {
+      "domain_suffix": "copilot-proxy.githubusercontent.com"
+    },
+    {
+      "domain_suffix": "copilot-telemetry.githubusercontent.com"
+    },
+    {
+      "domain_suffix": "crunchyroll.com"
+    },
+    {
+      "domain_suffix": "cub.red"
+    },
+    {
+      "domain_suffix": "czx.to"
+    },
+    {
+      "domain_suffix": "d.docs.live.net"
+    },
+    {
+      "domain_suffix": "data-cdn.mbamupdates.com"
+    },
+    {
+      "domain_suffix": "database.clamav.net"
+    },
+    {
+      "domain_suffix": "debian.map.fastlydns.net"
+    },
+    {
+      "domain_suffix": "deepl.com"
+    },
+    {
+      "domain_suffix": "deezer.com"
+    },
+    {
+      "domain_suffix": "dell.com"
+    },
+    {
+      "domain_suffix": "deviantart.com"
+    },
+    {
+      "domain_suffix": "devops.com"
+    },
+    {
+      "domain_suffix": "digitalocean.com"
+    },
+    {
+      "domain_suffix": "discord.com"
+    },
+    {
+      "domain_suffix": "discord.gg"
+    },
+    {
+      "domain_suffix": "discord.media"
+    },
+    {
+      "domain_suffix": "discordapp.com"
+    },
+    {
+      "domain_suffix": "discordapp.io"
+    },
+    {
+      "domain_suffix": "discordapp.org"
+    },
+    {
+      "domain_suffix": "discordstatus.com"
+    },
+    {
+      "domain_suffix": "dist.torproject.org"
+    },
+    {
+      "domain_suffix": "dl.discordapp.net"
+    },
+    {
+      "domain_suffix": "docker.elastic.co"
+    },
+    {
+      "domain_suffix": "docs.redis.com"
+    },
+    {
+      "domain_suffix": "documentation.meraki.com"
+    },
+    {
+      "domain_suffix": "download.jetbrains.com"
+    },
+    {
+      "domain_suffix": "download.lenovo.com"
+    },
+    {
+      "domain_suffix": "download.qt.io"
+    },
+    {
+      "domain_suffix": "download.screamingfrog.co.uk"
+    },
+    {
+      "domain_suffix": "download.wetransfer.com"
+    },
+    {
+      "domain_suffix": "doxajournal.ru"
+    },
+    {
+      "domain_suffix": "dual-a-0001.a-msedge.net"
+    },
+    {
+      "domain_suffix": "dw.com"
+    },
+    {
+      "domain_suffix": "e1v-h.phncdn.com"
+    },
+    {
+      "domain_suffix": "edge.microsoft.com"
+    },
+    {
+      "domain_suffix": "edgeservices.bing.com"
+    },
+    {
+      "domain_suffix": "ehorussia.com"
+    },
+    {
+      "domain_suffix": "ej.ru"
+    },
+    {
+      "domain_suffix": "envato.com"
+    },
+    {
+      "domain_suffix": "epg.one"
+    },
+    {
+      "domain_suffix": "etsy.com"
+    },
+    {
+      "domain_suffix": "eu-iot-prod.aws.tcljd.com"
+    },
+    {
+      "domain_suffix": "euronews.com"
+    },
+    {
+      "domain_suffix": "event.on24.com"
+    },
+    {
+      "domain_suffix": "exler.ru"
+    },
+    {
+      "domain_suffix": "facebook.com"
+    },
+    {
+      "domain_suffix": "fb.com"
+    },
+    {
+      "domain_suffix": "fbcdn.net"
+    },
+    {
+      "domain_suffix": "fbsbx.com"
+    },
+    {
+      "domain_suffix": "fex.net"
+    },
+    {
+      "domain_suffix": "files.oaiusercontent.com"
+    },
+    {
+      "domain_suffix": "firefly-ps.adobe.io"
+    },
+    {
+      "domain_suffix": "fitgirl-repacks.site"
+    },
+    {
+      "domain_suffix": "flashscore.com"
+    },
+    {
+      "domain_suffix": "flibusta.is"
+    },
+    {
+      "domain_suffix": "fluke.com"
+    },
+    {
+      "domain_suffix": "fork.pet"
+    },
+    {
+      "domain_suffix": "forklog.com"
+    },
+    {
+      "domain_suffix": "formula1.com"
+    },
+    {
+      "domain_suffix": "forum.voynaplemyon.com"
+    },
+    {
+      "domain_suffix": "freecodecamp.org"
+    },
+    {
+      "domain_suffix": "fw-download.ubnt.com"
+    },
+    {
+      "domain_suffix": "fw-update.ubnt.com"
+    },
+    {
+      "domain_suffix": "gallery.zetalliance.org"
+    },
+    {
+      "domain_suffix": "game.brawlstarsgame.com"
+    },
+    {
+      "domain_suffix": "gateway.discord.gg"
+    },
+    {
+      "domain_suffix": "geekyfuroshiki.com"
+    },
+    {
+      "domain_suffix": "gemini.google.com"
+    },
+    {
+      "domain_suffix": "geni.us"
+    },
+    {
+      "domain_suffix": "genius.com"
+    },
+    {
+      "domain_suffix": "githubcopilot.com"
+    },
+    {
+      "domain_suffix": "gitlab.io"
+    },
+    {
+      "domain_suffix": "gllto.glpals.com"
+    },
+    {
+      "domain_suffix": "gnome-look.org"
+    },
+    {
+      "domain_suffix": "golosameriki.com"
+    },
+    {
+      "domain_suffix": "googletagmanager.com"
+    },
+    {
+      "domain_suffix": "gordonua.com"
+    },
+    {
+      "domain_suffix": "grammarly.com"
+    },
+    {
+      "domain_suffix": "grazie.ai"
+    },
+    {
+      "domain_suffix": "grok.com"
+    },
+    {
+      "domain_suffix": "gulagu.net"
+    },
+    {
+      "domain_suffix": "habr.com"
+    },
+    {
+      "domain_suffix": "happycolorapp.com"
+    },
+    {
+      "domain_suffix": "hd.zetfix.online"
+    },
+    {
+      "domain_suffix": "hdkinoteatr.com"
+    },
+    {
+      "domain_suffix": "hdrezka.fm"
+    },
+    {
+      "domain_suffix": "helm.releases.hashicorp.com"
+    },
+    {
+      "domain_suffix": "holod.global.ssl.fastly.net"
+    },
+    {
+      "domain_suffix": "holod.media"
+    },
+    {
+      "domain_suffix": "honeywell.com"
+    },
+    {
+      "domain_suffix": "hyperhost.ua"
+    },
+    {
+      "domain_suffix": "i.4pda.ws"
+    },
+    {
+      "domain_suffix": "ichef.bbci.co.uk"
+    },
+    {
+      "domain_suffix": "id.cisco.com"
+    },
+    {
+      "domain_suffix": "iichan.hk"
+    },
+    {
+      "domain_suffix": "image.tmdb.org"
+    },
+    {
+      "domain_suffix": "images.discordapp.net"
+    },
+    {
+      "domain_suffix": "instagram.com"
+    },
+    {
+      "domain_suffix": "instagram.fhrk1-1.fna.fbcdn.net"
+    },
+    {
+      "domain_suffix": "instagram.fkun2-1.fna.fbcdn.net"
+    },
+    {
+      "domain_suffix": "instagram.frix7-1.fna.fbcdn.net"
+    },
+    {
+      "domain_suffix": "instagram.fvno2-1.fna.fbcdn.net"
+    },
+    {
+      "domain_suffix": "intel.com"
+    },
+    {
+      "domain_suffix": "ios.chat.openai.com"
+    },
+    {
+      "domain_suffix": "island-of-pleasure.site"
+    },
+    {
+      "domain_suffix": "istories.media"
+    },
+    {
+      "domain_suffix": "jut.su"
+    },
+    {
+      "domain_suffix": "kasparov.ru"
+    },
+    {
+      "domain_suffix": "kavkaz-uzel.eu"
+    },
+    {
+      "domain_suffix": "kemono.party"
+    },
+    {
+      "domain_suffix": "kemono.su"
+    },
+    {
+      "domain_suffix": "kino.pub"
+    },
+    {
+      "domain_suffix": "kinobase.org"
+    },
+    {
+      "domain_suffix": "kinogo.ec"
+    },
+    {
+      "domain_suffix": "kinokopilka.pro"
+    },
+    {
+      "domain_suffix": "kinovod.net"
+    },
+    {
+      "domain_suffix": "kinozal.me"
+    },
+    {
+      "domain_suffix": "kinozal.tv"
+    },
+    {
+      "domain_suffix": "korrespondent.net"
+    },
+    {
+      "domain_suffix": "kpapp.link"
+    },
+    {
+      "domain_suffix": "lenovo.com"
+    },
+    {
+      "domain_suffix": "lib.rus.ec"
+    },
+    {
+      "domain_suffix": "libgen.rs"
+    },
+    {
+      "domain_suffix": "linkedin.com"
+    },
+    {
+      "domain_suffix": "linuxiac.com"
+    },
+    {
+      "domain_suffix": "localbitcoins.com"
+    },
+    {
+      "domain_suffix": "login.amd.com"
+    },
+    {
+      "domain_suffix": "lostfilm.run"
+    },
+    {
+      "domain_suffix": "lostfilm.today"
+    },
+    {
+      "domain_suffix": "lostfilm.tv"
+    },
+    {
+      "domain_suffix": "lostfilm.win"
+    },
+    {
+      "domain_suffix": "m.strava.com"
+    },
+    {
+      "domain_suffix": "macpaw.com"
+    },
+    {
+      "domain_suffix": "macvendors.com"
+    },
+    {
+      "domain_suffix": "mail.protonmail.com"
+    },
+    {
+      "domain_suffix": "malwarebytes.com"
+    },
+    {
+      "domain_suffix": "marketplace.atlassian.com"
+    },
+    {
+      "domain_suffix": "master.qt.io"
+    },
+    {
+      "domain_suffix": "mattermost.com"
+    },
+    {
+      "domain_suffix": "mdza.io"
+    },
+    {
+      "domain_suffix": "mediazona.ca"
+    },
+    {
+      "domain_suffix": "mediazona.online"
+    },
+    {
+      "domain_suffix": "medium.com"
+    },
+    {
+      "domain_suffix": "meduza.io"
+    },
+    {
+      "domain_suffix": "megapeer.ru"
+    },
+    {
+      "domain_suffix": "melord.net"
+    },
+    {
+      "domain_suffix": "memohrc.org"
+    },
+    {
+      "domain_suffix": "metacritic.com"
+    },
+    {
+      "domain_suffix": "meteo.paraplan.net"
+    },
+    {
+      "domain_suffix": "mobile.events.data.microsoft.com"
+    },
+    {
+      "domain_suffix": "monster.ie"
+    },
+    {
+      "domain_suffix": "mouser.com"
+    },
+    {
+      "domain_suffix": "mrakopedia.net"
+    },
+    {
+      "domain_suffix": "my.atlassian.com"
+    },
+    {
+      "domain_suffix": "myworld-portal.leica-geosystems.com"
+    },
+    {
+      "domain_suffix": "naps2.com"
+    },
+    {
+      "domain_suffix": "nasvsehtoshnit.ru"
+    },
+    {
+      "domain_suffix": "navalny.com"
+    },
+    {
+      "domain_suffix": "netapp.com"
+    },
+    {
+      "domain_suffix": "netflix.com"
+    },
+    {
+      "domain_suffix": "news.google.com"
+    },
+    {
+      "domain_suffix": "newstudio.tv"
+    },
+    {
+      "domain_suffix": "newtimes.ru"
+    },
+    {
+      "domain_suffix": "nih.gov"
+    },
+    {
+      "domain_suffix": "nnmclub.to"
+    },
+    {
+      "domain_suffix": "nordvpn.com"
+    },
+    {
+      "domain_suffix": "notepad-plus-plus.org"
+    },
+    {
+      "domain_suffix": "notion.com"
+    },
+    {
+      "domain_suffix": "novayagazeta.eu"
+    },
+    {
+      "domain_suffix": "novayagazeta.ru"
+    },
+    {
+      "domain_suffix": "nsf.gov"
+    },
+    {
+      "domain_suffix": "ntc.party"
+    },
+    {
+      "domain_suffix": "nxp.com"
+    },
+    {
+      "domain_suffix": "nyaa.si"
+    },
+    {
+      "domain_suffix": "nyaa.tracker.wf"
+    },
+    {
+      "domain_suffix": "oaistatic.com"
+    },
+    {
+      "domain_suffix": "oasis.app"
+    },
+    {
+      "domain_suffix": "omv-extras.org"
+    },
+    {
+      "domain_suffix": "onlineradiobox.com"
+    },
+    {
+      "domain_suffix": "onlinesim.ru"
+    },
+    {
+      "domain_suffix": "open.spotify.com"
+    },
+    {
+      "domain_suffix": "openwrt.wk.cz"
+    },
+    {
+      "domain_suffix": "orbit-games.com"
+    },
+    {
+      "domain_suffix": "os.mbed.com"
+    },
+    {
+      "domain_suffix": "ovdinfo.org"
+    },
+    {
+      "domain_suffix": "packages.gitlab.com"
+    },
+    {
+      "domain_suffix": "pages.dev"
+    },
+    {
+      "domain_suffix": "pandasecurity.com"
+    },
+    {
+      "domain_suffix": "paperpaper.ru"
+    },
+    {
+      "domain_suffix": "parallels.com"
+    },
+    {
+      "domain_suffix": "path3.xtracloud.net"
+    },
+    {
+      "domain_suffix": "patreon.com"
+    },
+    {
+      "domain_suffix": "pay.buckaroo.nl"
+    },
+    {
+      "domain_suffix": "paypal.com"
+    },
+    {
+      "domain_suffix": "pb.wtf"
+    },
+    {
+      "domain_suffix": "pbs.twimg.com"
+    },
+    {
+      "domain_suffix": "pcbway.com"
+    },
+    {
+      "domain_suffix": "pcbway.ru"
+    },
+    {
+      "domain_suffix": "pepperl-fuchs.com"
+    },
+    {
+      "domain_suffix": "phoenixcontact.com"
+    },
+    {
+      "domain_suffix": "photopea.com"
+    },
+    {
+      "domain_suffix": "php.su"
+    },
+    {
+      "domain_suffix": "piccy.info"
+    },
+    {
+      "domain_suffix": "pixabay.com"
+    },
+    {
+      "domain_suffix": "pixiv.net"
+    },
+    {
+      "domain_suffix": "plab.site"
+    },
+    {
+      "domain_suffix": "platform.twitter.com"
+    },
+    {
+      "domain_suffix": "plugins.jetbrains.com"
+    },
+    {
+      "domain_suffix": "polit.ru"
+    },
+    {
+      "domain_suffix": "pornhub.com"
+    },
+    {
+      "domain_suffix": "pornolab.net"
+    },
+    {
+      "domain_suffix": "portal.bgpmon.net"
+    },
+    {
+      "domain_suffix": "proekt.media"
+    },
+    {
+      "domain_suffix": "protonmail.com"
+    },
+    {
+      "domain_suffix": "proxy.individual.githubcopilot.com"
+    },
+    {
+      "domain_suffix": "quora.com"
+    },
+    {
+      "domain_suffix": "radarr.servarr.com"
+    },
+    {
+      "domain_suffix": "radiosvoboda.org"
+    },
+    {
+      "domain_suffix": "raw-data.gitlab.io"
+    },
+    {
+      "domain_suffix": "redis.com"
+    },
+    {
+      "domain_suffix": "redis.io"
+    },
+    {
+      "domain_suffix": "redtube.com"
+    },
+    {
+      "domain_suffix": "refactoring.guru"
+    },
+    {
+      "domain_suffix": "refinitiv.com"
+    },
+    {
+      "domain_suffix": "registry.terraform.io"
+    },
+    {
+      "domain_suffix": "releases.hashicorp.com"
+    },
+    {
+      "domain_suffix": "repo.mongodb.org"
+    },
+    {
+      "domain_suffix": "republic.ru"
+    },
+    {
+      "domain_suffix": "resp.app"
+    },
+    {
+      "domain_suffix": "rezka.ag"
+    },
+    {
+      "domain_suffix": "ridl.io"
+    },
+    {
+      "domain_suffix": "rpm.grafana.com"
+    },
+    {
+      "domain_suffix": "ru.bellingcat.com"
+    },
+    {
+      "domain_suffix": "ru.depositphotos.com"
+    },
+    {
+      "domain_suffix": "ru.euronews.com"
+    },
+    {
+      "domain_suffix": "ru.iherb.com"
+    },
+    {
+      "domain_suffix": "ru.krymr.com"
+    },
+    {
+      "domain_suffix": "rus-media.org"
+    },
+    {
+      "domain_suffix": "rus.delfi.lv"
+    },
+    {
+      "domain_suffix": "rustorka.com"
+    },
+    {
+      "domain_suffix": "rutor.info"
+    },
+    {
+      "domain_suffix": "rutor.is"
+    },
+    {
+      "domain_suffix": "rutor.org"
+    },
+    {
+      "domain_suffix": "rutracker.org"
+    },
+    {
+      "domain_suffix": "rutracker.ru"
+    },
+    {
+      "domain_suffix": "s3-1.amazonaws.com"
+    },
+    {
+      "domain_suffix": "saveeditonline.com"
+    },
+    {
+      "domain_suffix": "saverudata.info"
+    },
+    {
+      "domain_suffix": "scontent.cdninstagram.com"
+    },
+    {
+      "domain_suffix": "searchfloor.org"
+    },
+    {
+      "domain_suffix": "sebeanus.online"
+    },
+    {
+      "domain_suffix": "secure-web.cisco.com"
+    },
+    {
+      "domain_suffix": "seedoff.zannn.top"
+    },
+    {
+      "domain_suffix": "semnasem.org"
+    },
+    {
+      "domain_suffix": "sentry.io"
+    },
+    {
+      "domain_suffix": "serpstat.com"
+    },
+    {
+      "domain_suffix": "siemens-home.bsh-group.com"
+    },
+    {
+      "domain_suffix": "singlekey-id.com"
+    },
+    {
+      "domain_suffix": "skladchik.com"
+    },
+    {
+      "domain_suffix": "skyscanner.com"
+    },
+    {
+      "domain_suffix": "slideshare.net"
+    },
+    {
+      "domain_suffix": "snapmagic.com"
+    },
+    {
+      "domain_suffix": "soapui.org"
+    },
+    {
+      "domain_suffix": "sobesednik.ru"
+    },
+    {
+      "domain_suffix": "software.cisco.com"
+    },
+    {
+      "domain_suffix": "sora.com"
+    },
+    {
+      "domain_suffix": "soundcloud.com"
+    },
+    {
+      "domain_suffix": "spotify.com"
+    },
+    {
+      "domain_suffix": "st.kinovod.net"
+    },
+    {
+      "domain_suffix": "static-ss.xvideos-cdn.com"
+    },
+    {
+      "domain_suffix": "static.cdninstagram.com"
+    },
+    {
+      "domain_suffix": "static.files.bbci.co.uk"
+    },
+    {
+      "domain_suffix": "static.rutracker.cc"
+    },
+    {
+      "domain_suffix": "status.discordapp.com"
+    },
+    {
+      "domain_suffix": "store.supercell.com"
+    },
+    {
+      "domain_suffix": "strava.com"
+    },
+    {
+      "domain_suffix": "stulchik.net"
+    },
+    {
+      "domain_suffix": "support.cambiumnetworks.com"
+    },
+    {
+      "domain_suffix": "support.huawei.com"
+    },
+    {
+      "domain_suffix": "support.ruckuswireless.com"
+    },
+    {
+      "domain_suffix": "svoboda.org"
+    },
+    {
+      "domain_suffix": "svtv.org"
+    },
+    {
+      "domain_suffix": "swagger.io"
+    },
+    {
+      "domain_suffix": "sydney.bing.com"
+    },
+    {
+      "domain_suffix": "sysdig.com"
+    },
+    {
+      "domain_suffix": "t.co"
+    },
+    {
+      "domain_suffix": "tayga.info"
+    },
+    {
+      "domain_suffix": "tcr9i.chat.openai.com"
+    },
+    {
+      "domain_suffix": "terraform.io"
+    },
+    {
+      "domain_suffix": "theins.press"
+    },
+    {
+      "domain_suffix": "theins.ru"
+    },
+    {
+      "domain_suffix": "themoviedb.org"
+    },
+    {
+      "domain_suffix": "thepiratebay.org"
+    },
+    {
+      "domain_suffix": "tidal.com"
+    },
+    {
+      "domain_suffix": "tiktok.com"
+    },
+    {
+      "domain_suffix": "timberland.com"
+    },
+    {
+      "domain_suffix": "tjournal.ru"
+    },
+    {
+      "domain_suffix": "tmdb.org"
+    },
+    {
+      "domain_suffix": "tokenized.play.google.com"
+    },
+    {
+      "domain_suffix": "tools.cisco.com"
+    },
+    {
+      "domain_suffix": "torproject.org"
+    },
+    {
+      "domain_suffix": "torrent.by"
+    },
+    {
+      "domain_suffix": "tr.anidub.com"
+    },
+    {
+      "domain_suffix": "tracker.opentrackr.org"
+    },
+    {
+      "domain_suffix": "tutanota.com"
+    },
+    {
+      "domain_suffix": "tvrain.ru"
+    },
+    {
+      "domain_suffix": "twitter.com"
+    },
+    {
+      "domain_suffix": "ufile.io"
+    },
+    {
+      "domain_suffix": "underver.se"
+    },
+    {
+      "domain_suffix": "unfiltered.adguard-dns.com"
+    },
+    {
+      "domain_suffix": "unian.net"
+    },
+    {
+      "domain_suffix": "uniongang.tv"
+    },
+    {
+      "domain_suffix": "vectorworks.net"
+    },
+    {
+      "domain_suffix": "veeam.com"
+    },
+    {
+      "domain_suffix": "velocidrone.com"
+    },
+    {
+      "domain_suffix": "veritas.com"
+    },
+    {
+      "domain_suffix": "verstka.media"
+    },
+    {
+      "domain_suffix": "vhd.zetflix.online"
+    },
+    {
+      "domain_suffix": "viber.com"
+    },
+    {
+      "domain_suffix": "video.twimg.com"
+    },
+    {
+      "domain_suffix": "vipdrive.net"
+    },
+    {
+      "domain_suffix": "vndb.org"
+    },
+    {
+      "domain_suffix": "vot-tak.tv"
+    },
+    {
+      "domain_suffix": "vrv.co"
+    },
+    {
+      "domain_suffix": "vyos.io"
+    },
+    {
+      "domain_suffix": "vyos.net"
+    },
+    {
+      "domain_suffix": "wall.alphacoders.com"
+    },
+    {
+      "domain_suffix": "wallpapercave.com"
+    },
+    {
+      "domain_suffix": "watchguard.com"
+    },
+    {
+      "domain_suffix": "weather.com"
+    },
+    {
+      "domain_suffix": "weblance.com.ua"
+    },
+    {
+      "domain_suffix": "welt.de"
+    },
+    {
+      "domain_suffix": "wetransfer.com"
+    },
+    {
+      "domain_suffix": "wheather.com"
+    },
+    {
+      "domain_suffix": "windguru.cz"
+    },
+    {
+      "domain_suffix": "windsurf.com"
+    },
+    {
+      "domain_suffix": "wixmp.com"
+    },
+    {
+      "domain_suffix": "wunderground.com"
+    },
+    {
+      "domain_suffix": "www.analog.com"
+    },
+    {
+      "domain_suffix": "www.bbc.com"
+    },
+    {
+      "domain_suffix": "www.cisco.com"
+    },
+    {
+      "domain_suffix": "www.citrix.com"
+    },
+    {
+      "domain_suffix": "www.currenttime.tv"
+    },
+    {
+      "domain_suffix": "www.dell.com"
+    },
+    {
+      "domain_suffix": "www.digitalocean.com"
+    },
+    {
+      "domain_suffix": "www.dw.com"
+    },
+    {
+      "domain_suffix": "www.grammarly.com"
+    },
+    {
+      "domain_suffix": "www.hetzner.com"
+    },
+    {
+      "domain_suffix": "www.hrw.org"
+    },
+    {
+      "domain_suffix": "www.intel.com"
+    },
+    {
+      "domain_suffix": "www.jabra.com"
+    },
+    {
+      "domain_suffix": "www.kavkazr.com"
+    },
+    {
+      "domain_suffix": "www.lenovo.com"
+    },
+    {
+      "domain_suffix": "www.lostfilm.tv"
+    },
+    {
+      "domain_suffix": "www.lostfilmtv5.site"
+    },
+    {
+      "domain_suffix": "www.microchip.com"
+    },
+    {
+      "domain_suffix": "www.moscowtimes.ru"
+    },
+    {
+      "domain_suffix": "www.mouser.com"
+    },
+    {
+      "domain_suffix": "www.postfix.org"
+    },
+    {
+      "domain_suffix": "www.qualcomm.com"
+    },
+    {
+      "domain_suffix": "www.smashwords.com"
+    },
+    {
+      "domain_suffix": "www.stalker2.com"
+    },
+    {
+      "domain_suffix": "www.support.xerox.com"
+    },
+    {
+      "domain_suffix": "www.the-village.ru"
+    },
+    {
+      "domain_suffix": "www.themoviedb.org"
+    },
+    {
+      "domain_suffix": "www.ti.com"
+    },
+    {
+      "domain_suffix": "www.torproject.org"
+    },
+    {
+      "domain_suffix": "www.wikiart.org"
+    },
+    {
+      "domain_suffix": "www.wunderground.com"
+    },
+    {
+      "domain_suffix": "x.ai"
+    },
+    {
+      "domain_suffix": "x.com"
+    },
+    {
+      "domain_suffix": "xerox.com"
+    },
+    {
+      "domain_suffix": "xhamster.com"
+    },
+    {
+      "domain_suffix": "xhamsterlive.com"
+    },
+    {
+      "domain_suffix": "xnxx.com"
+    },
+    {
+      "domain_suffix": "xvideos.com"
+    },
+    {
+      "domain_suffix": "yeggi.com"
+    },
+    {
+      "domain_suffix": "youtu.be"
+    },
+    {
+      "domain_suffix": "yt3.googleusercontent.com"
+    },
+    {
+      "domain_suffix": "zetflix.online"
+    },
+    {
+      "domain_suffix": "zimbra.com"
+    },
+    {
+      "domain_suffix": "zimbra.org"
+    },
+    {
+      "domain_suffix": "znanija.com"
+    },
+    {
+      "domain_suffix": "zohomail.com"
+    },
+    {
+      "domain_suffix": "zona.media"
+    }
+  ]
+}

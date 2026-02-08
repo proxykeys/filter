@@ -32,7 +32,7 @@ curl -s -o "${TEMP_DIR}/reject.txt" "${ADGUARD_REJECT_URL}"
 echo "Конвертация..."
 
 # ========================================
-# MIHOMO/CLASH/SURGE (без ACTION)
+# MIHOMO/CLASH/SURGE (Surge формат без ACTION)
 # ========================================
 echo "  Mihomo/Clash/Surge..."
 
@@ -46,7 +46,7 @@ cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | s
 cp "${TEMP_DIR}/reject.txt" "${RELEASE_DIR}/mihomo-adguard-domains.txt"
 
 # ========================================
-# SHADOWROCKET (без ACTION - как Mihomo)
+# SHADOWROCKET (Surge формат без ACTION)
 # ========================================
 echo "  Shadowrocket..."
 
@@ -107,6 +107,20 @@ print(json.dumps(result, indent=2))
 " > "${RELEASE_DIR}/singbox-adguard-domains.json"
 
 # ========================================
+# CLASH (YAML формат для Clash Verge/ClashX/Clash for Windows)
+# ========================================
+echo "  Clash (YAML)..."
+
+# Antifilter домены
+cat "${TEMP_DIR}/domains.lst" | awk 'BEGIN{print "payload:"} {print "  - DOMAIN-SUFFIX,"$0}' > "${RELEASE_DIR}/clash-antifilter-domains.yaml"
+
+# Antifilter IP
+cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | awk 'BEGIN{print "payload:"} {print "  - IP-CIDR,"$0}' > "${RELEASE_DIR}/clash-antifilter-ip.yaml"
+
+# AdGuard reject
+cat "${TEMP_DIR}/reject.txt" | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-adguard-domains.yaml"
+
+# ========================================
 # DNSMASQ формат
 # ========================================
 echo "  DNSMasq..."
@@ -160,20 +174,25 @@ echo "  community-ip.lst      ← community.antifilter.download/list/community.l
 echo "  allyouneed-ip.lst    ← antifilter.download/list/allyouneed.lst"
 echo "  reject.txt            ← Loyalsoldier/surge-rules/refs/heads/release/ruleset/reject.txt"
 echo ""
-echo "=== MIHOMO/CLASH/SURGE ==="
+echo "=== MIHOMO/CLASH/SURGE (Surge формат) ==="
 echo "  mihomo-antifilter-domains.txt (antifilter домены)"
 echo "  mihomo-antifilter-ip.txt (antifilter IP)"
 echo "  mihomo-adguard-domains.txt (adguard reject)"
 echo ""
-echo "=== SHADOWROCKET ==="
+echo "=== SHADOWROCKET (Surge формат без ACTION) ==="
 echo "  shadowrocket-antifilter-domains.txt (antifilter домены)"
 echo "  shadowrocket-antifilter-ip.txt (antifilter IP)"
 echo "  shadowrocket-adguard-domains.txt (adguard reject)"
 echo ""
-echo "=== SING-BOX ==="
+echo "=== SING-BOX (JSON формат) ==="
 echo "  singbox-antifilter-domains.json (antifilter домены)"
 echo "  singbox-antifilter-ip.json (antifilter IP)"
 echo "  singbox-adguard-domains.json (adguard reject)"
+echo ""
+echo "=== CLASH (YAML формат для Clash Verge/ClashX/Clash for Windows) ==="
+echo "  clash-antifilter-domains.yaml (antifilter домены)"
+echo "  clash-antifilter-ip.yaml (antifilter IP)"
+echo "  clash-adguard-domains.yaml (adguard reject)"
 echo ""
 echo "=== DNSMASQ ==="
 echo "  dnsmasq-antifilter-domains.conf"
@@ -197,3 +216,4 @@ echo "  Antifilter IP: $(cat "${RELEASE_DIR}/mihomo-antifilter-ip.txt" | wc -l)"
 echo "  AdGuard reject: $(cat "${RELEASE_DIR}/mihomo-adguard-domains.txt" | wc -l)"
 echo "  Sing-box Antifilter: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-antifilter-domains.json'))['rules']))")"
 echo "  Sing-box AdGuard: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-adguard-domains.json'))['rules']))")"
+echo "  Clash YAML файлы: $(find "${RELEASE_DIR}" -name "clash-*.yaml" | wc -l)"

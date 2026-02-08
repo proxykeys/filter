@@ -111,13 +111,13 @@ print(json.dumps(result, indent=2))
 # ========================================
 echo "  Clash (YAML)..."
 
-# Antifilter домены
+# Antifilter домены (с префиксом)
 cat "${TEMP_DIR}/domains.lst" | awk 'BEGIN{print "payload:"} {print "  - DOMAIN-SUFFIX,"$0}' > "${RELEASE_DIR}/clash-antifilter-domains.yaml"
 
-# Antifilter IP
-cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | awk 'BEGIN{print "payload:"} {print "  - IP-CIDR,"$0}' > "${RELEASE_DIR}/clash-antifilter-ip.yaml"
+# Antifilter IP (БЕЗ префикса!)
+cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-antifilter-ip.yaml"
 
-# AdGuard reject
+# AdGuard reject (с префиксом)
 cat "${TEMP_DIR}/reject.txt" | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-adguard-domains.yaml"
 
 # ========================================

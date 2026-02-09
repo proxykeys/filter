@@ -125,4 +125,4 @@ Lists are updated automatically every 6 hours via GitHub Actions.
 
 ## License
 
-MIT
+GPL v3

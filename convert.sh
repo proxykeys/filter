@@ -13,6 +13,9 @@ ANTIFILTER_DOMAINS_URL="https://community.antifilter.download/list/domains.lst"
 ANTIFILTER_COMMUNITY_IP_URL="https://community.antifilter.download/list/community.lst"
 ALLYOUNEED_IP_URL="https://antifilter.download/list/allyouneed.lst"
 ADGUARD_REJECT_URL="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/refs/heads/release/ruleset/reject.txt"
+# Дополнительные URL для Shadowrocket
+RU_IP_URL="https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/ru.txt"
+PRIVATE_IP_URL="https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/private.txt"
 
 echo "Загрузка списков..."
 
@@ -28,6 +31,12 @@ curl -s -o "${TEMP_DIR}/allyouneed-ip.lst" "${ALLYOUNEED_IP_URL}"
 
 echo "  reject.txt (Loyalsoldier - реклама)..."
 curl -s -o "${TEMP_DIR}/reject.txt" "${ADGUARD_REJECT_URL}"
+
+echo "  ru.txt (Loyalsoldier geoip - Россия)..."
+curl -s -o "${TEMP_DIR}/ru.txt" "${RU_IP_URL}"
+
+echo "  private.txt (Loyalsoldier geoip - Private)..."
+curl -s -o "${TEMP_DIR}/private.txt" "${PRIVATE_IP_URL}"
 
 echo "Конвертация..."
 
@@ -58,6 +67,12 @@ cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | s
 
 # AdGuard reject (чистый формат без DOMAIN-SUFFIX,)
 sed -e 's/^DOMAIN-SUFFIX,//' "${TEMP_DIR}/reject.txt" > "${RELEASE_DIR}/shadowrocket-adguard-domains.txt"
+
+# Loyalsoldier GeoIP - Россия (отдельный файл)
+sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/ru.txt" > "${RELEASE_DIR}/shadowrocket-ru-ip.txt"
+
+# Loyalsoldier GeoIP - Private (отдельный файл)
+sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/private.txt" > "${RELEASE_DIR}/shadowrocket-private-ip.txt"
 
 # ========================================
 # SING-BOX (JSON через Python)
@@ -173,6 +188,8 @@ echo "  domains.lst          ← community.antifilter.download/list/domains.lst"
 echo "  community-ip.lst      ← community.antifilter.download/list/community.lst"
 echo "  allyouneed-ip.lst    ← antifilter.download/list/allyouneed.lst"
 echo "  reject.txt            ← Loyalsoldier/surge-rules/refs/heads/release/ruleset/reject.txt"
+echo "  ru.txt               ← Loyalsoldier/geoip/release/text/ru.txt"
+echo "  private.txt           ← Loyalsoldier/geoip/release/text/private.txt"
 echo ""
 echo "=== MIHOMO/CLASH/SURGE (Surge формат) ==="
 echo "  mihomo-antifilter-domains.txt (antifilter домены)"
@@ -183,6 +200,8 @@ echo "=== SHADOWROCKET (Surge формат без ACTION) ==="
 echo "  shadowrocket-antifilter-domains.txt (antifilter домены)"
 echo "  shadowrocket-antifilter-ip.txt (antifilter IP)"
 echo "  shadowrocket-adguard-domains.txt (adguard reject)"
+echo "  shadowrocket-ru-ip.txt (российские IP - Loyalsoldier geoip)"
+echo "  shadowrocket-private-ip.txt (private IP - Loyalsoldier geoip)"
 echo ""
 echo "=== SING-BOX (JSON формат) ==="
 echo "  singbox-antifilter-domains.json (antifilter домены)"
@@ -214,6 +233,8 @@ echo "Статистика:"
 echo "  Antifilter доменов: $(cat "${RELEASE_DIR}/mihomo-antifilter-domains.txt" | wc -l)"
 echo "  Antifilter IP: $(cat "${RELEASE_DIR}/mihomo-antifilter-ip.txt" | wc -l)"
 echo "  AdGuard reject: $(cat "${RELEASE_DIR}/mihomo-adguard-domains.txt" | wc -l)"
+echo "  Shadowrocket RU IP: $(cat "${RELEASE_DIR}/shadowrocket-ru-ip.txt" | wc -l)"
+echo "  Shadowrocket Private IP: $(cat "${RELEASE_DIR}/shadowrocket-private-ip.txt" | wc -l)"
 echo "  Sing-box Antifilter: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-antifilter-domains.json'))['rules']))")"
 echo "  Sing-box AdGuard: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-adguard-domains.json'))['rules']))")"
 echo "  Clash YAML файлы: $(find "${RELEASE_DIR}" -name "clash-*.yaml" | wc -l)"

@@ -13,7 +13,6 @@ ANTIFILTER_DOMAINS_URL="https://community.antifilter.download/list/domains.lst"
 ANTIFILTER_COMMUNITY_IP_URL="https://community.antifilter.download/list/community.lst"
 ALLYOUNEED_IP_URL="https://antifilter.download/list/allyouneed.lst"
 ADGUARD_REJECT_URL="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/refs/heads/release/ruleset/reject.txt"
-# Дополнительные URL для Shadowrocket
 RU_IP_URL="https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/ru.txt"
 PRIVATE_IP_URL="https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/private.txt"
 
@@ -54,6 +53,12 @@ cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | s
 # AdGuard reject
 cp "${TEMP_DIR}/reject.txt" "${RELEASE_DIR}/mihomo-adguard-domains.txt"
 
+# Loyalsoldier GeoIP - Россия
+sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/ru.txt" > "${RELEASE_DIR}/mihomo-ru-ip.txt"
+
+# Loyalsoldier GeoIP - Private
+sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/private.txt" > "${RELEASE_DIR}/mihomo-private-ip.txt"
+
 # ========================================
 # SHADOWROCKET (Surge формат без ACTION)
 # ========================================
@@ -68,10 +73,10 @@ cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | s
 # AdGuard reject (чистый формат без DOMAIN-SUFFIX,)
 sed -e 's/^DOMAIN-SUFFIX,//' "${TEMP_DIR}/reject.txt" > "${RELEASE_DIR}/shadowrocket-adguard-domains.txt"
 
-# Loyalsoldier GeoIP - Россия (отдельный файл)
+# Loyalsoldier GeoIP - Россия
 sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/ru.txt" > "${RELEASE_DIR}/shadowrocket-ru-ip.txt"
 
-# Loyalsoldier GeoIP - Private (отдельный файл)
+# Loyalsoldier GeoIP - Private
 sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/private.txt" > "${RELEASE_DIR}/shadowrocket-private-ip.txt"
 
 # ========================================
@@ -121,6 +126,34 @@ result = {
 print(json.dumps(result, indent=2))
 " > "${RELEASE_DIR}/singbox-adguard-domains.json"
 
+# Loyalsoldier GeoIP - Россия
+cat "${TEMP_DIR}/ru.txt" | python3 -c "
+import sys, json
+
+ips = [line.strip() for line in sys.stdin if line.strip()]
+
+result = {
+    'version': 1,
+    'rules': [{'ip_cidr': ip} for ip in ips]
+}
+
+print(json.dumps(result, indent=2))
+" > "${RELEASE_DIR}/singbox-ru-ip.json"
+
+# Loyalsoldier GeoIP - Private
+cat "${TEMP_DIR}/private.txt" | python3 -c "
+import sys, json
+
+ips = [line.strip() for line in sys.stdin if line.strip()]
+
+result = {
+    'version': 1,
+    'rules': [{'ip_cidr': ip} for ip in ips]
+}
+
+print(json.dumps(result, indent=2))
+" > "${RELEASE_DIR}/singbox-private-ip.json"
+
 # ========================================
 # CLASH (YAML формат для Clash Verge/ClashX/Clash for Windows)
 # ========================================
@@ -134,6 +167,12 @@ cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | a
 
 # AdGuard reject (с префиксом)
 cat "${TEMP_DIR}/reject.txt" | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-adguard-domains.yaml"
+
+# Loyalsoldier GeoIP - Россия (БЕЗ префикса!)
+cat "${TEMP_DIR}/ru.txt" | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-ru-ip.yaml"
+
+# Loyalsoldier GeoIP - Private (БЕЗ префикса!)
+cat "${TEMP_DIR}/private.txt" | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-private-ip.yaml"
 
 # ========================================
 # DNSMASQ формат
@@ -195,6 +234,8 @@ echo "=== MIHOMO/CLASH/SURGE (Surge формат) ==="
 echo "  mihomo-antifilter-domains.txt (antifilter домены)"
 echo "  mihomo-antifilter-ip.txt (antifilter IP)"
 echo "  mihomo-adguard-domains.txt (adguard reject)"
+echo "  mihomo-ru-ip.txt (российские IP - Loyalsoldier geoip)"
+echo "  mihomo-private-ip.txt (private IP - Loyalsoldier geoip)"
 echo ""
 echo "=== SHADOWROCKET (Surge формат без ACTION) ==="
 echo "  shadowrocket-antifilter-domains.txt (antifilter домены)"
@@ -207,11 +248,15 @@ echo "=== SING-BOX (JSON формат) ==="
 echo "  singbox-antifilter-domains.json (antifilter домены)"
 echo "  singbox-antifilter-ip.json (antifilter IP)"
 echo "  singbox-adguard-domains.json (adguard reject)"
+echo "  singbox-ru-ip.json (российские IP - Loyalsoldier geoip)"
+echo "  singbox-private-ip.json (private IP - Loyalsoldier geoip)"
 echo ""
 echo "=== CLASH (YAML формат для Clash Verge/ClashX/Clash for Windows) ==="
 echo "  clash-antifilter-domains.yaml (antifilter домены)"
 echo "  clash-antifilter-ip.yaml (antifilter IP)"
 echo "  clash-adguard-domains.yaml (adguard reject)"
+echo "  clash-ru-ip.yaml (российские IP - Loyalsoldier geoip)"
+echo "  clash-private-ip.yaml (private IP - Loyalsoldier geoip)"
 echo ""
 echo "=== DNSMASQ ==="
 echo "  dnsmasq-antifilter-domains.conf"
@@ -235,6 +280,12 @@ echo "  Antifilter IP: $(cat "${RELEASE_DIR}/mihomo-antifilter-ip.txt" | wc -l)"
 echo "  AdGuard reject: $(cat "${RELEASE_DIR}/mihomo-adguard-domains.txt" | wc -l)"
 echo "  Shadowrocket RU IP: $(cat "${RELEASE_DIR}/shadowrocket-ru-ip.txt" | wc -l)"
 echo "  Shadowrocket Private IP: $(cat "${RELEASE_DIR}/shadowrocket-private-ip.txt" | wc -l)"
+echo "  Mihomo RU IP: $(cat "${RELEASE_DIR}/mihomo-ru-ip.txt" | wc -l)"
+echo "  Mihomo Private IP: $(cat "${RELEASE_DIR}/mihomo-private-ip.txt" | wc -l)"
+echo "  Clash RU IP: $(cat "${RELEASE_DIR}/clash-ru-ip.yaml" | grep -c "^  -")"
+echo "  Clash Private IP: $(cat "${RELEASE_DIR}/clash-private-ip.yaml" | grep -c "^  -")"
+echo "  Sing-box RU IP: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-ru-ip.json'))['rules']))")"
+echo "  Sing-box Private IP: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-private-ip.json'))['rules']))")"
 echo "  Sing-box Antifilter: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-antifilter-domains.json'))['rules']))")"
 echo "  Sing-box AdGuard: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-adguard-domains.json'))['rules']))")"
 echo "  Clash YAML файлы: $(find "${RELEASE_DIR}" -name "clash-*.yaml" | wc -l)"

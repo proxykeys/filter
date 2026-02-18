@@ -1,0 +1,25 @@
+payload:
+  - DOMAIN,test
+  - DOMAIN,lan
+  - DOMAIN,localdomain
+  - DOMAIN,local
+  - DOMAIN,internal
+  - DOMAIN,private
+  - DOMAIN,corp
+  - DOMAIN,example
+  - DOMAIN,invalid
+  - DOMAIN,localhost
+  - DOMAIN,broadcasthost
+  - DOMAIN,intranet
+  - DOMAIN-SUFFIX,test
+  - DOMAIN-SUFFIX,lan
+  - DOMAIN-SUFFIX,localdomain
+  - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,internal
+  - DOMAIN-SUFFIX,private
+  - DOMAIN-SUFFIX,corp
+  - DOMAIN-SUFFIX,example
+  - DOMAIN-SUFFIX,invalid
+  - DOMAIN-SUFFIX,localhost
+  - DOMAIN-SUFFIX,broadcasthost
+  - DOMAIN-SUFFIX,intranet

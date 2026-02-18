@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {"domain": "test"},
+    {"domain": "lan"},
+    {"domain": "localdomain"},
+    {"domain": "local"},
+    {"domain": "internal"},
+    {"domain": "private"},
+    {"domain": "corp"},
+    {"domain": "example"},
+    {"domain": "invalid"},
+    {"domain": "localhost"},
+    {"domain": "broadcasthost"},
+    {"domain": "intranet"},
+    {"domain_suffix": "test"},
+    {"domain_suffix": "lan"},
+    {"domain_suffix": "localdomain"},
+    {"domain_suffix": "local"},
+    {"domain_suffix": "internal"},
+    {"domain_suffix": "private"},
+    {"domain_suffix": "corp"},
+    {"domain_suffix": "example"},
+    {"domain_suffix": "invalid"},
+    {"domain_suffix": "localhost"},
+    {"domain_suffix": "broadcasthost"},
+    {"domain_suffix": "intranet"}
+  ]
+}

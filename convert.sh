@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-set -euo pipefail
+#!/bin/bash
+set -e
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 RELEASE_DIR="${SCRIPT_DIR}/release"
@@ -9,44 +9,10 @@ RU_NON_RU_SOURCE="${SCRIPT_DIR}/ru-non-ru-domains.txt"
 mkdir -p "${RELEASE_DIR}"
 mkdir -p "${TEMP_DIR}"
 
-cleanup() {
-  rm -rf "${TEMP_DIR}"
-}
-trap cleanup EXIT
-
-require_file() {
-  local file="$1"
-  if [[ ! -f "${file}" ]]; then
-    echo "❌ File not found: ${file}" >&2
-    exit 1
-  fi
-}
-
-download() {
-  local url="$1"
-  local out="$2"
-  local label="$3"
-
-  echo "  ${label}..."
-  curl -fsSL "${url}" -o "${out}"
-}
-
-clean_plain_file() {
-  local input="$1"
-  local output="$2"
-
-  awk '
-    {
-      sub(/\r$/, "", $0)
-      if ($0 ~ /^[[:space:]]*$/) next
-      if ($0 ~ /^[[:space:]]*#/) next
-      print $0
-    }
-  ' "${input}" > "${output}"
-}
-
-echo "Подготовка..."
-require_file "${RU_NON_RU_SOURCE}"
+if [ ! -f "${RU_NON_RU_SOURCE}" ]; then
+  echo "❌ Не найден файл: ${RU_NON_RU_SOURCE}"
+  exit 1
+fi
 
 # URL списков
 ANTIFILTER_DOMAINS_URL="https://community.antifilter.download/list/domains.lst"
@@ -56,95 +22,58 @@ ADGUARD_REJECT_URL="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/r
 RU_IP_URL="https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/ru.txt"
 PRIVATE_IP_URL="https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/private.txt"
 
+DOMAIN_LIST_COMMUNITY_REPO="https://github.com/v2fly/domain-list-community.git"
+DOMAIN_LIST_CUSTOM_REPO="https://github.com/runetfreedom/domain-list-custom.git"
+
 echo "Загрузка списков..."
 
-download "${ANTIFILTER_DOMAINS_URL}" "${TEMP_DIR}/domains.raw" "domains.lst (community.antifilter - домены)"
-download "${ANTIFILTER_COMMUNITY_IP_URL}" "${TEMP_DIR}/community-ip.raw" "community.lst (community.antifilter - IP)"
-download "${ALLYOUNEED_IP_URL}" "${TEMP_DIR}/allyouneed-ip.raw" "allyouneed.lst (antifilter - IP)"
-download "${ADGUARD_REJECT_URL}" "${TEMP_DIR}/reject.raw" "reject.txt (Loyalsoldier - реклама)"
-download "${RU_IP_URL}" "${TEMP_DIR}/ru.raw" "ru.txt (Loyalsoldier geoip - Россия)"
-download "${PRIVATE_IP_URL}" "${TEMP_DIR}/private.raw" "private.txt (Loyalsoldier geoip - Private)"
+# Загрузка списков
+echo "  domains.lst (community.antifilter - домены)..."
+curl -fsSL -o "${TEMP_DIR}/domains.lst" "${ANTIFILTER_DOMAINS_URL}"
 
-echo "Нормализация..."
+echo "  community.ip.lst (community.antifilter - IP)..."
+curl -fsSL -o "${TEMP_DIR}/community-ip.lst" "${ANTIFILTER_COMMUNITY_IP_URL}"
 
-clean_plain_file "${TEMP_DIR}/domains.raw" "${TEMP_DIR}/domains.lst"
-clean_plain_file "${TEMP_DIR}/community-ip.raw" "${TEMP_DIR}/community-ip.lst"
-clean_plain_file "${TEMP_DIR}/allyouneed-ip.raw" "${TEMP_DIR}/allyouneed-ip.lst"
-clean_plain_file "${TEMP_DIR}/reject.raw" "${TEMP_DIR}/reject.txt"
-clean_plain_file "${TEMP_DIR}/ru.raw" "${TEMP_DIR}/ru.txt"
-clean_plain_file "${TEMP_DIR}/private.raw" "${TEMP_DIR}/private.txt"
+echo "  allyouneed.ip.lst (antifilter - IP)..."
+curl -fsSL -o "${TEMP_DIR}/allyouneed-ip.lst" "${ALLYOUNEED_IP_URL}"
 
-cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u > "${TEMP_DIR}/merged-antifilter-ip.lst"
+echo "  reject.txt (Loyalsoldier - реклама)..."
+curl -fsSL -o "${TEMP_DIR}/reject.txt" "${ADGUARD_REJECT_URL}"
 
-echo "Проверка и подготовка ru-non-ru-domains.txt..."
+echo "  ru.txt (Loyalsoldier geoip - Россия)..."
+curl -fsSL -o "${TEMP_DIR}/ru.txt" "${RU_IP_URL}"
 
-python3 - "${RU_NON_RU_SOURCE}" "${TEMP_DIR}/ru-non-ru-domains.normalized.txt" "${TEMP_DIR}/ru-non-ru-domains.stats.json" << 'PY'
-import json
-import pathlib
-import re
-import sys
+echo "  private.txt (Loyalsoldier geoip - Private)..."
+curl -fsSL -o "${TEMP_DIR}/private.txt" "${PRIVATE_IP_URL}"
 
-src = pathlib.Path(sys.argv[1])
-normalized_out = pathlib.Path(sys.argv[2])
-stats_out = pathlib.Path(sys.argv[3])
+echo "Подготовка ru-non-ru-domains..."
+awk '
+{
+  sub(/\r$/, "", $0)
+  if ($0 ~ /^[[:space:]]*$/) next
+  if ($0 ~ /^[[:space:]]*#/) next
+  print tolower($0)
+}
+' "${RU_NON_RU_SOURCE}" | awk '!seen[$0]++' > "${TEMP_DIR}/ru-non-ru-domains.lst"
 
-domain_re = re.compile(
-    r"^(?=.{1,253}$)(?!-)(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])$"
+echo "Подготовка geosite source для Shadowrocket category-ru/category-gov-ru..."
+
+echo "  domain-list-community..."
+git clone --depth=1 "${DOMAIN_LIST_COMMUNITY_REPO}" "${TEMP_DIR}/domain-list-community"
+
+echo "  domain-list-custom..."
+git clone --depth=1 "${DOMAIN_LIST_CUSTOM_REPO}" "${TEMP_DIR}/domain-list-custom"
+
+echo "  Сборка plaintext export category-ru/category-gov-ru..."
+mkdir -p "${TEMP_DIR}/domain-export"
+(
+  cd "${TEMP_DIR}/domain-list-custom"
+  go mod download
+  go run ./ \
+    --exportlists=category-ru,category-gov-ru \
+    --datapath="${TEMP_DIR}/domain-list-community/data" \
+    --outputpath="${TEMP_DIR}/domain-export"
 )
-
-normalized_lines = []
-seen = set()
-suffix_count = 0
-full_count = 0
-
-for lineno, raw_line in enumerate(src.read_text(encoding="utf-8").splitlines(), start=1):
-    line = raw_line.strip()
-
-    if not line or line.startswith("#"):
-        continue
-
-    kind = "suffix"
-    if line.startswith("full:"):
-        kind = "full"
-        line = line[5:].strip()
-
-    line = line.lower().rstrip(".")
-
-    if not domain_re.match(line):
-        raise SystemExit(f"Invalid domain in {src.name}:{lineno}: {raw_line}")
-
-    key = f"{kind}:{line}"
-    if key in seen:
-        continue
-    seen.add(key)
-
-    normalized_lines.append(key)
-
-    if kind == "full":
-        full_count += 1
-    else:
-        suffix_count += 1
-
-normalized_out.write_text(
-    "\n".join(normalized_lines) + ("\n" if normalized_lines else ""),
-    encoding="utf-8"
-)
-
-stats_out.write_text(
-    json.dumps(
-        {
-            "total": len(normalized_lines),
-            "suffix": suffix_count,
-            "full": full_count,
-        },
-        indent=2,
-        ensure_ascii=False,
-    ) + "\n",
-    encoding="utf-8",
-)
-PY
-
-RU_NON_RU_NORMALIZED="${TEMP_DIR}/ru-non-ru-domains.normalized.txt"
 
 echo "Конвертация..."
 
@@ -157,7 +86,7 @@ echo "  Mihomo/Clash/Surge..."
 sed -e 's/^/DOMAIN-SUFFIX,/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/mihomo-antifilter-domains.txt"
 
 # Antifilter IP
-sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/merged-antifilter-ip.lst" > "${RELEASE_DIR}/mihomo-antifilter-ip.txt"
+cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | sed -e 's/^/IP-CIDR,/' > "${RELEASE_DIR}/mihomo-antifilter-ip.txt"
 
 # AdGuard reject
 cp "${TEMP_DIR}/reject.txt" "${RELEASE_DIR}/mihomo-adguard-domains.txt"
@@ -170,9 +99,9 @@ sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/private.txt" > "${RELEASE_DIR}/mihomo-privat
 
 # RU non-RU domains
 awk '
-  /^suffix:/ { sub(/^suffix:/, "", $0); print "DOMAIN-SUFFIX," $0; next }
-  /^full:/   { sub(/^full:/,   "", $0); print "DOMAIN," $0; next }
-' "${RU_NON_RU_NORMALIZED}" > "${RELEASE_DIR}/mihomo-ru-non-ru-domains.txt"
+  /^full:/ { sub(/^full:/, "", $0); print "DOMAIN," $0; next }
+          { print "DOMAIN-SUFFIX," $0 }
+' "${TEMP_DIR}/ru-non-ru-domains.lst" > "${RELEASE_DIR}/mihomo-ru-non-ru-domains.txt"
 
 # ========================================
 # SHADOWROCKET (Surge формат без ACTION)
@@ -183,9 +112,9 @@ echo "  Shadowrocket..."
 sed -e 's/^/DOMAIN-SUFFIX,/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/shadowrocket-antifilter-domains.txt"
 
 # Antifilter IP
-sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/merged-antifilter-ip.lst" > "${RELEASE_DIR}/shadowrocket-antifilter-ip.txt"
+cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | sed -e 's/^/IP-CIDR,/' > "${RELEASE_DIR}/shadowrocket-antifilter-ip.txt"
 
-# AdGuard reject
+# AdGuard reject (чистый формат без DOMAIN-SUFFIX,)
 sed -e 's/^DOMAIN-SUFFIX,//' "${TEMP_DIR}/reject.txt" > "${RELEASE_DIR}/shadowrocket-adguard-domains.txt"
 
 # Loyalsoldier GeoIP - Россия
@@ -194,11 +123,34 @@ sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/ru.txt" > "${RELEASE_DIR}/shadowrocket-ru-ip
 # Loyalsoldier GeoIP - Private
 sed -e 's/^/IP-CIDR,/' "${TEMP_DIR}/private.txt" > "${RELEASE_DIR}/shadowrocket-private-ip.txt"
 
+# category-ru / category-gov-ru из geosite source
+if grep -q '^regexp:' "${TEMP_DIR}/domain-export/category-ru.txt"; then
+  echo "❌ regexp rules found in category-ru.txt; Shadowrocket export is not implemented for regexp"
+  exit 1
+fi
+
+if grep -q '^regexp:' "${TEMP_DIR}/domain-export/category-gov-ru.txt"; then
+  echo "❌ regexp rules found in category-gov-ru.txt; Shadowrocket export is not implemented for regexp"
+  exit 1
+fi
+
+awk '
+  /^domain:/  { sub(/^domain:/, "", $0); print "DOMAIN-SUFFIX," $0; next }
+  /^full:/    { sub(/^full:/, "", $0); print "DOMAIN," $0; next }
+  /^keyword:/ { sub(/^keyword:/, "", $0); print "DOMAIN-KEYWORD," $0; next }
+' "${TEMP_DIR}/domain-export/category-ru.txt" | awk '!seen[$0]++' > "${RELEASE_DIR}/shadowrocket-category-ru-domains.txt"
+
+awk '
+  /^domain:/  { sub(/^domain:/, "", $0); print "DOMAIN-SUFFIX," $0; next }
+  /^full:/    { sub(/^full:/, "", $0); print "DOMAIN," $0; next }
+  /^keyword:/ { sub(/^keyword:/, "", $0); print "DOMAIN-KEYWORD," $0; next }
+' "${TEMP_DIR}/domain-export/category-gov-ru.txt" | awk '!seen[$0]++' > "${RELEASE_DIR}/shadowrocket-category-gov-ru-domains.txt"
+
 # RU non-RU domains
 awk '
-  /^suffix:/ { sub(/^suffix:/, "", $0); print "DOMAIN-SUFFIX," $0; next }
-  /^full:/   { sub(/^full:/,   "", $0); print "DOMAIN," $0; next }
-' "${RU_NON_RU_NORMALIZED}" > "${RELEASE_DIR}/shadowrocket-ru-non-ru-domains.txt"
+  /^full:/ { sub(/^full:/, "", $0); print "DOMAIN," $0; next }
+          { print "DOMAIN-SUFFIX," $0 }
+' "${TEMP_DIR}/ru-non-ru-domains.lst" > "${RELEASE_DIR}/shadowrocket-ru-non-ru-domains.txt"
 
 # ========================================
 # SING-BOX (JSON через Python)
@@ -206,133 +158,123 @@ awk '
 echo "  Sing-box (Python)..."
 
 # Antifilter домены
-python3 - "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/singbox-antifilter-domains.json" << 'PY'
-import json
-import pathlib
-import sys
+cat "${TEMP_DIR}/domains.lst" | python3 -c "
+import sys, json
 
-domains = [line.strip() for line in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines() if line.strip()]
+domains = [line.strip() for line in sys.stdin if line.strip()]
+
 result = {
-    "version": 1,
-    "rules": [{"domain_suffix": d} for d in domains]
+    'version': 1,
+    'rules': [{'domain_suffix': d} for d in domains]
 }
-print(json.dumps(result, indent=2, ensure_ascii=False))
-PY
+
+print(json.dumps(result, indent=2))
+" > "${RELEASE_DIR}/singbox-antifilter-domains.json"
 
 # Antifilter IP
-python3 - "${TEMP_DIR}/merged-antifilter-ip.lst" > "${RELEASE_DIR}/singbox-antifilter-ip.json" << 'PY'
-import json
-import pathlib
-import sys
+cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | python3 -c "
+import sys, json
 
-ips = [line.strip() for line in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines() if line.strip()]
+ips = [line.strip() for line in sys.stdin if line.strip()]
+
 result = {
-    "version": 1,
-    "rules": [{"ip_cidr": ip} for ip in ips]
+    'version': 1,
+    'rules': [{'ip_cidr': ip} for ip in ips]
 }
-print(json.dumps(result, indent=2, ensure_ascii=False))
-PY
+
+print(json.dumps(result, indent=2))
+" > "${RELEASE_DIR}/singbox-antifilter-ip.json"
 
 # AdGuard reject
-python3 - "${TEMP_DIR}/reject.txt" > "${RELEASE_DIR}/singbox-adguard-domains.json" << 'PY'
-import json
-import pathlib
-import sys
+cat "${TEMP_DIR}/reject.txt" | sed -e 's/^DOMAIN-SUFFIX,//' | sort -u | python3 -c "
+import sys, json
 
-rules = []
-for line in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines():
-    line = line.strip()
-    if not line:
-        continue
-    if line.startswith("DOMAIN-SUFFIX,"):
-        rules.append({"domain_suffix": line.split(",", 1)[1]})
-    elif line.startswith("DOMAIN,"):
-        rules.append({"domain": line.split(",", 1)[1]})
+domains = [line.strip() for line in sys.stdin if line.strip()]
 
 result = {
-    "version": 1,
-    "rules": rules
+    'version': 1,
+    'rules': [{'domain_suffix': d} for d in domains]
 }
-print(json.dumps(result, indent=2, ensure_ascii=False))
-PY
+
+print(json.dumps(result, indent=2))
+" > "${RELEASE_DIR}/singbox-adguard-domains.json"
 
 # Loyalsoldier GeoIP - Россия
-python3 - "${TEMP_DIR}/ru.txt" > "${RELEASE_DIR}/singbox-ru-ip.json" << 'PY'
-import json
-import pathlib
-import sys
+cat "${TEMP_DIR}/ru.txt" | python3 -c "
+import sys, json
 
-ips = [line.strip() for line in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines() if line.strip()]
+ips = [line.strip() for line in sys.stdin if line.strip()]
+
 result = {
-    "version": 1,
-    "rules": [{"ip_cidr": ip} for ip in ips]
+    'version': 1,
+    'rules': [{'ip_cidr': ip} for ip in ips]
 }
-print(json.dumps(result, indent=2, ensure_ascii=False))
-PY
+
+print(json.dumps(result, indent=2))
+" > "${RELEASE_DIR}/singbox-ru-ip.json"
 
 # Loyalsoldier GeoIP - Private
-python3 - "${TEMP_DIR}/private.txt" > "${RELEASE_DIR}/singbox-private-ip.json" << 'PY'
-import json
-import pathlib
-import sys
+cat "${TEMP_DIR}/private.txt" | python3 -c "
+import sys, json
 
-ips = [line.strip() for line in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines() if line.strip()]
+ips = [line.strip() for line in sys.stdin if line.strip()]
+
 result = {
-    "version": 1,
-    "rules": [{"ip_cidr": ip} for ip in ips]
+    'version': 1,
+    'rules': [{'ip_cidr': ip} for ip in ips]
 }
-print(json.dumps(result, indent=2, ensure_ascii=False))
-PY
+
+print(json.dumps(result, indent=2))
+" > "${RELEASE_DIR}/singbox-private-ip.json"
 
 # RU non-RU domains
-python3 - "${RU_NON_RU_NORMALIZED}" > "${RELEASE_DIR}/singbox-ru-non-ru-domains.json" << 'PY'
-import json
-import pathlib
-import sys
+cat "${TEMP_DIR}/ru-non-ru-domains.lst" | python3 -c "
+import sys, json
 
 rules = []
-for line in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines():
+for line in sys.stdin:
     line = line.strip()
     if not line:
         continue
-    if line.startswith("suffix:"):
-        rules.append({"domain_suffix": line.split(":", 1)[1]})
-    elif line.startswith("full:"):
-        rules.append({"domain": line.split(":", 1)[1]})
+    if line.startswith('full:'):
+        rules.append({'domain': line[5:]})
+    else:
+        rules.append({'domain_suffix': line})
 
 result = {
-    "version": 1,
-    "rules": rules
+    'version': 1,
+    'rules': rules
 }
-print(json.dumps(result, indent=2, ensure_ascii=False))
-PY
+
+print(json.dumps(result, indent=2))
+" > "${RELEASE_DIR}/singbox-ru-non-ru-domains.json"
 
 # ========================================
 # CLASH (YAML формат для Clash Verge/ClashX/Clash for Windows)
 # ========================================
 echo "  Clash (YAML)..."
 
-# Antifilter домены
-awk 'BEGIN{print "payload:"} {print "  - DOMAIN-SUFFIX,"$0}' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/clash-antifilter-domains.yaml"
+# Antifilter домены (с префиксом)
+cat "${TEMP_DIR}/domains.lst" | awk 'BEGIN{print "payload:"} {print "  - DOMAIN-SUFFIX,"$0}' > "${RELEASE_DIR}/clash-antifilter-domains.yaml"
 
-# Antifilter IP
-awk 'BEGIN{print "payload:"} {print "  - "$0}' "${TEMP_DIR}/merged-antifilter-ip.lst" > "${RELEASE_DIR}/clash-antifilter-ip.yaml"
+# Antifilter IP (БЕЗ префикса!)
+cat "${TEMP_DIR}/community-ip.lst" "${TEMP_DIR}/allyouneed-ip.lst" | sort -u | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-antifilter-ip.yaml"
 
-# AdGuard reject
-awk 'BEGIN{print "payload:"} {print "  - "$0}' "${TEMP_DIR}/reject.txt" > "${RELEASE_DIR}/clash-adguard-domains.yaml"
+# AdGuard reject (с префиксом)
+cat "${TEMP_DIR}/reject.txt" | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-adguard-domains.yaml"
 
-# Loyalsoldier GeoIP - Россия
-awk 'BEGIN{print "payload:"} {print "  - "$0}' "${TEMP_DIR}/ru.txt" > "${RELEASE_DIR}/clash-ru-ip.yaml"
+# Loyalsoldier GeoIP - Россия (БЕЗ префикса!)
+cat "${TEMP_DIR}/ru.txt" | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-ru-ip.yaml"
 
-# Loyalsoldier GeoIP - Private
-awk 'BEGIN{print "payload:"} {print "  - "$0}' "${TEMP_DIR}/private.txt" > "${RELEASE_DIR}/clash-private-ip.yaml"
+# Loyalsoldier GeoIP - Private (БЕЗ префикса!)
+cat "${TEMP_DIR}/private.txt" | awk 'BEGIN{print "payload:"} {print "  - "$0}' > "${RELEASE_DIR}/clash-private-ip.yaml"
 
 # RU non-RU domains
 awk '
   BEGIN { print "payload:" }
-  /^suffix:/ { sub(/^suffix:/, "", $0); print "  - DOMAIN-SUFFIX," $0; next }
-  /^full:/   { sub(/^full:/,   "", $0); print "  - DOMAIN," $0; next }
-' "${RU_NON_RU_NORMALIZED}" > "${RELEASE_DIR}/clash-ru-non-ru-domains.yaml"
+  /^full:/ { sub(/^full:/, "", $0); print "  - DOMAIN," $0; next }
+          { print "  - DOMAIN-SUFFIX," $0 }
+' "${TEMP_DIR}/ru-non-ru-domains.lst" > "${RELEASE_DIR}/clash-ru-non-ru-domains.yaml"
 
 # ========================================
 # DNSMASQ формат
@@ -345,53 +287,45 @@ sed -e 's/^/server=\//g' -e 's/$/\/127.0.0.1#5353/g' "${TEMP_DIR}/domains.lst" >
 # ========================================
 echo "  AdGuard Home..."
 
-# AdGuard reject
+# AdGuard reject (блокировка рекламы)
 sed -e 's/DOMAIN-SUFFIX,/||/' -e 's/$/\^/' "${TEMP_DIR}/reject.txt" | sort -u > "${RELEASE_DIR}/adguard-home-adguard-domains.txt"
 
-# Antifilter домены
+# Antifilter домены (антифильтр через прокси)
 sed -e 's/^/||/' -e 's/$/\^/' "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/adguard-home-antifilter-domains.txt"
 
-# Antifilter IP (merged)
-cp "${TEMP_DIR}/merged-antifilter-ip.lst" "${RELEASE_DIR}/adguard-home-antifilter-ip.txt"
+# Antifilter IP
+cp "${TEMP_DIR}/community-ip.lst" "${RELEASE_DIR}/adguard-home-antifilter-ip.txt"
 
 # ========================================
 # PI-HOLE формат
 # ========================================
 echo "  Pi-Hole..."
 
-# AdGuard reject
+# AdGuard reject (блокировка рекламы)
 sed -e 's/DOMAIN-SUFFIX,//' "${TEMP_DIR}/reject.txt" | sort -u > "${RELEASE_DIR}/pihole-adguard-domains.txt"
 
-# Antifilter домены
-sort -u "${TEMP_DIR}/domains.lst" > "${RELEASE_DIR}/pihole-antifilter-domains.txt"
+# Antifilter домены (антифильтр через прокси)
+sed -e 's/DOMAIN-SUFFIX,//' "${TEMP_DIR}/domains.lst" | sort -u > "${RELEASE_DIR}/pihole-antifilter-domains.txt"
 
 # ========================================
 # HOSTS формат
 # ========================================
 echo "  HOSTS..."
 
-# AdGuard reject
-awk '
-  /^DOMAIN-SUFFIX,/ {
-    sub(/^DOMAIN-SUFFIX,/, "", $0)
-    print "0.0.0.0 " $0
-    print "::1 " $0
-  }
-' "${TEMP_DIR}/reject.txt" | sort -u > "${RELEASE_DIR}/hosts-adguard-hosts.txt"
+# AdGuard reject (блокировка рекламы)
+awk '{if ($0 ~ /^DOMAIN-SUFFIX,/) {sub(/DOMAIN-SUFFIX,/, "", $0); print "0.0.0.0 " $0 "\n::1 " $0}}' "${TEMP_DIR}/reject.txt" | sort -u > "${RELEASE_DIR}/hosts-adguard-hosts.txt"
 
-# Antifilter домены
-awk '
-  {
-    print "0.0.0.0 " $0
-    print "::1 " $0
-  }
-' "${TEMP_DIR}/domains.lst" | sort -u > "${RELEASE_DIR}/hosts-antifilter-hosts.txt"
+# Antifilter домены (антифильтр через прокси)
+awk '{print "0.0.0.0 " $0 "\n::1 " $0}' "${TEMP_DIR}/domains.lst" | sort -u > "${RELEASE_DIR}/hosts-antifilter-hosts.txt"
 
 # ========================================
-# PLAIN (для отладки/ручного использования)
+# PLAIN
 # ========================================
 echo "  Plain..."
-cp "${RU_NON_RU_NORMALIZED}" "${RELEASE_DIR}/plain-ru-non-ru-domains.txt"
+cp "${TEMP_DIR}/ru-non-ru-domains.lst" "${RELEASE_DIR}/plain-ru-non-ru-domains.txt"
+
+# Очистка
+rm -rf "${TEMP_DIR}"
 
 echo ""
 echo "✅ Готово! Созданные файлы:"
@@ -400,69 +334,82 @@ echo "=== ИСТОЧНИКИ ==="
 echo "  domains.lst                ← community.antifilter.download/list/domains.lst"
 echo "  community-ip.lst           ← community.antifilter.download/list/community.lst"
 echo "  allyouneed-ip.lst          ← antifilter.download/list/allyouneed.lst"
-echo "  reject.txt                 ← Loyalsoldier/surge-rules/refs/heads/release/ruleset/reject.txt"
-echo "  ru.txt                     ← Loyalsoldier/geoip/release/text/ru.txt"
-echo "  private.txt                ← Loyalsoldier/geoip/release/text/private.txt"
-echo "  ru-non-ru-domains.txt      ← local source file"
+echo "  reject.txt                ← Loyalsoldier/surge-rules/refs/heads/release/ruleset/reject.txt"
+echo "  ru.txt                    ← Loyalsoldier/geoip/release/text/ru.txt"
+echo "  private.txt               ← Loyalsoldier/geoip/release/text/private.txt"
+echo "  ru-non-ru-domains.txt     ← local source file"
 echo ""
 echo "=== MIHOMO/CLASH/SURGE (Surge формат) ==="
-echo "  mihomo-antifilter-domains.txt"
-echo "  mihomo-antifilter-ip.txt"
-echo "  mihomo-adguard-domains.txt"
-echo "  mihomo-ru-ip.txt"
-echo "  mihomo-private-ip.txt"
-echo "  mihomo-ru-non-ru-domains.txt"
+echo "  mihomo-antifilter-domains.txt (antifilter домены)"
+echo "  mihomo-antifilter-ip.txt (antifilter IP)"
+echo "  mihomo-adguard-domains.txt (adguard reject)"
+echo "  mihomo-ru-ip.txt (российские IP - Loyalsoldier geoip)"
+echo "  mihomo-private-ip.txt (private IP - Loyalsoldier geoip)"
+echo "  mihomo-ru-non-ru-domains.txt (российские non-.ru домены)"
 echo ""
-echo "=== SHADOWROCKET ==="
-echo "  shadowrocket-antifilter-domains.txt"
-echo "  shadowrocket-antifilter-ip.txt"
-echo "  shadowrocket-adguard-domains.txt"
-echo "  shadowrocket-ru-ip.txt"
-echo "  shadowrocket-private-ip.txt"
-echo "  shadowrocket-ru-non-ru-domains.txt"
+echo "=== SHADOWROCKET (Surge формат без ACTION) ==="
+echo "  shadowrocket-antifilter-domains.txt (antifilter домены)"
+echo "  shadowrocket-antifilter-ip.txt (antifilter IP)"
+echo "  shadowrocket-adguard-domains.txt (adguard reject)"
+echo "  shadowrocket-ru-ip.txt (российские IP - Loyalsoldier geoip)"
+echo "  shadowrocket-private-ip.txt (private IP - Loyalsoldier geoip)"
+echo "  shadowrocket-category-ru-domains.txt (geosite category-ru)"
+echo "  shadowrocket-category-gov-ru-domains.txt (geosite category-gov-ru)"
+echo "  shadowrocket-ru-non-ru-domains.txt (российские non-.ru домены)"
 echo ""
-echo "=== SING-BOX ==="
-echo "  singbox-antifilter-domains.json"
-echo "  singbox-antifilter-ip.json"
-echo "  singbox-adguard-domains.json"
-echo "  singbox-ru-ip.json"
-echo "  singbox-private-ip.json"
-echo "  singbox-ru-non-ru-domains.json"
+echo "=== SING-BOX (JSON формат) ==="
+echo "  singbox-antifilter-domains.json (antifilter домены)"
+echo "  singbox-antifilter-ip.json (antifilter IP)"
+echo "  singbox-adguard-domains.json (adguard reject)"
+echo "  singbox-ru-ip.json (российские IP - Loyalsoldier geoip)"
+echo "  singbox-private-ip.json (private IP - Loyalsoldier geoip)"
+echo "  singbox-ru-non-ru-domains.json (российские non-.ru домены)"
 echo ""
-echo "=== CLASH YAML ==="
-echo "  clash-antifilter-domains.yaml"
-echo "  clash-antifilter-ip.yaml"
-echo "  clash-adguard-domains.yaml"
-echo "  clash-ru-ip.yaml"
-echo "  clash-private-ip.yaml"
-echo "  clash-ru-non-ru-domains.yaml"
+echo "=== CLASH (YAML формат для Clash Verge/ClashX/Clash for Windows) ==="
+echo "  clash-antifilter-domains.yaml (antifilter домены)"
+echo "  clash-antifilter-ip.yaml (antifilter IP)"
+echo "  clash-adguard-domains.yaml (adguard reject)"
+echo "  clash-ru-ip.yaml (российские IP - Loyalsoldier geoip)"
+echo "  clash-private-ip.yaml (private IP - Loyalsoldier geoip)"
+echo "  clash-ru-non-ru-domains.yaml (российские non-.ru домены)"
 echo ""
-echo "=== OTHER ==="
+echo "=== DNSMASQ ==="
 echo "  dnsmasq-antifilter-domains.conf"
-echo "  adguard-home-adguard-domains.txt"
-echo "  adguard-home-antifilter-domains.txt"
-echo "  adguard-home-antifilter-ip.txt"
-echo "  pihole-adguard-domains.txt"
-echo "  pihole-antifilter-domains.txt"
-echo "  hosts-adguard-hosts.txt"
-echo "  hosts-antifilter-hosts.txt"
+echo ""
+echo "=== ADGUARD HOME ==="
+echo "  adguard-home-adguard-domains.txt (adguard reject)"
+echo "  adguard-home-antifilter-domains.txt (antifilter домены)"
+echo "  adguard-home-antifilter-ip.txt (antifilter IP)"
+echo ""
+echo "=== PI-HOLE ==="
+echo "  pihole-adguard-domains.txt (adguard reject)"
+echo "  pihole-antifilter-domains.txt (antifilter домены)"
+echo ""
+echo "=== HOSTS ==="
+echo "  hosts-adguard-hosts.txt (adguard reject)"
+echo "  hosts-antifilter-hosts.txt (antifilter домены)"
+echo ""
+echo "=== PLAIN ==="
 echo "  plain-ru-non-ru-domains.txt"
 echo ""
 echo "Статистика:"
-echo "  Antifilter доменов: $(wc -l < "${RELEASE_DIR}/mihomo-antifilter-domains.txt")"
-echo "  Antifilter IP: $(wc -l < "${RELEASE_DIR}/mihomo-antifilter-ip.txt")"
-echo "  AdGuard reject: $(wc -l < "${RELEASE_DIR}/mihomo-adguard-domains.txt")"
-echo "  Shadowrocket RU IP: $(wc -l < "${RELEASE_DIR}/shadowrocket-ru-ip.txt")"
-echo "  Shadowrocket Private IP: $(wc -l < "${RELEASE_DIR}/shadowrocket-private-ip.txt")"
-echo "  Mihomo RU IP: $(wc -l < "${RELEASE_DIR}/mihomo-ru-ip.txt")"
-echo "  Mihomo Private IP: $(wc -l < "${RELEASE_DIR}/mihomo-private-ip.txt")"
-echo "  Clash RU IP: $(grep -c '^  -' "${RELEASE_DIR}/clash-ru-ip.yaml")"
-echo "  Clash Private IP: $(grep -c '^  -' "${RELEASE_DIR}/clash-private-ip.yaml")"
-echo "  Sing-box RU IP: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-ru-ip.json', encoding='utf-8'))['rules']))")"
-echo "  Sing-box Private IP: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-private-ip.json', encoding='utf-8'))['rules']))")"
-echo "  Sing-box Antifilter: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-antifilter-domains.json', encoding='utf-8'))['rules']))")"
-echo "  Sing-box AdGuard: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-adguard-domains.json', encoding='utf-8'))['rules']))")"
-echo "  RU non-RU domains total: $(python3 -c "import json; print(json.load(open('${TEMP_DIR}/ru-non-ru-domains.stats.json', encoding='utf-8'))['total'])")"
-echo "  RU non-RU suffix domains: $(python3 -c "import json; print(json.load(open('${TEMP_DIR}/ru-non-ru-domains.stats.json', encoding='utf-8'))['suffix'])")"
-echo "  RU non-RU exact hosts: $(python3 -c "import json; print(json.load(open('${TEMP_DIR}/ru-non-ru-domains.stats.json', encoding='utf-8'))['full'])")"
-echo "  Clash YAML files: $(find "${RELEASE_DIR}" -name "clash-*.yaml" | wc -l)"
+echo "  Antifilter доменов: $(cat "${RELEASE_DIR}/mihomo-antifilter-domains.txt" | wc -l)"
+echo "  Antifilter IP: $(cat "${RELEASE_DIR}/mihomo-antifilter-ip.txt" | wc -l)"
+echo "  AdGuard reject: $(cat "${RELEASE_DIR}/mihomo-adguard-domains.txt" | wc -l)"
+echo "  Shadowrocket RU IP: $(cat "${RELEASE_DIR}/shadowrocket-ru-ip.txt" | wc -l)"
+echo "  Shadowrocket Private IP: $(cat "${RELEASE_DIR}/shadowrocket-private-ip.txt" | wc -l)"
+echo "  Shadowrocket category-ru: $(cat "${RELEASE_DIR}/shadowrocket-category-ru-domains.txt" | wc -l)"
+echo "  Shadowrocket category-gov-ru: $(cat "${RELEASE_DIR}/shadowrocket-category-gov-ru-domains.txt" | wc -l)"
+echo "  Shadowrocket RU non-RU: $(cat "${RELEASE_DIR}/shadowrocket-ru-non-ru-domains.txt" | wc -l)"
+echo "  Mihomo RU IP: $(cat "${RELEASE_DIR}/mihomo-ru-ip.txt" | wc -l)"
+echo "  Mihomo Private IP: $(cat "${RELEASE_DIR}/mihomo-private-ip.txt" | wc -l)"
+echo "  Mihomo RU non-RU: $(cat "${RELEASE_DIR}/mihomo-ru-non-ru-domains.txt" | wc -l)"
+echo "  Clash RU IP: $(cat "${RELEASE_DIR}/clash-ru-ip.yaml" | grep -c "^  -")"
+echo "  Clash Private IP: $(cat "${RELEASE_DIR}/clash-private-ip.yaml" | grep -c "^  -")"
+echo "  Clash RU non-RU: $(cat "${RELEASE_DIR}/clash-ru-non-ru-domains.yaml" | grep -c "^  -")"
+echo "  Sing-box RU IP: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-ru-ip.json'))['rules']))")"
+echo "  Sing-box Private IP: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-private-ip.json'))['rules']))")"
+echo "  Sing-box Antifilter: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-antifilter-domains.json'))['rules']))")"
+echo "  Sing-box AdGuard: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-adguard-domains.json'))['rules']))")"
+echo "  Sing-box RU non-RU: $(python3 -c "import json; print(len(json.load(open('${RELEASE_DIR}/singbox-ru-non-ru-domains.json'))['rules']))")"
+echo "  Clash YAML файлы: $(find "${RELEASE_DIR}" -name "clash-*.yaml" | wc -l)"

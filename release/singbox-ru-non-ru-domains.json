@@ -1,0 +1,251 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": "naydex.net"
+    },
+    {
+      "domain_suffix": "rostaxi.org"
+    },
+    {
+      "domain_suffix": "turbopages.org"
+    },
+    {
+      "domain_suffix": "webvisor.com"
+    },
+    {
+      "domain_suffix": "webvisor.org"
+    },
+    {
+      "domain_suffix": "yads.tech"
+    },
+    {
+      "domain_suffix": "yandex-bank.net"
+    },
+    {
+      "domain_suffix": "yandex-images.clstorage.net"
+    },
+    {
+      "domain_suffix": "yandex.aero"
+    },
+    {
+      "domain_suffix": "yandex.az"
+    },
+    {
+      "domain_suffix": "yandex.by"
+    },
+    {
+      "domain_suffix": "yandex.cloud"
+    },
+    {
+      "domain_suffix": "yandex.co.il"
+    },
+    {
+      "domain_suffix": "yandex.com"
+    },
+    {
+      "domain_suffix": "yandex.com.am"
+    },
+    {
+      "domain_suffix": "yandex.com.ge"
+    },
+    {
+      "domain_suffix": "yandex.com.tr"
+    },
+    {
+      "domain_suffix": "yandex.com.ua"
+    },
+    {
+      "domain_suffix": "yandex.de"
+    },
+    {
+      "domain_suffix": "yandex.ee"
+    },
+    {
+      "domain_suffix": "yandex.eu"
+    },
+    {
+      "domain_suffix": "yandex.fi"
+    },
+    {
+      "domain_suffix": "yandex.fr"
+    },
+    {
+      "domain_suffix": "yandex.jobs"
+    },
+    {
+      "domain_suffix": "yandex.kg"
+    },
+    {
+      "domain_suffix": "yandex.kz"
+    },
+    {
+      "domain_suffix": "yandex.lt"
+    },
+    {
+      "domain_suffix": "yandex.lv"
+    },
+    {
+      "domain_suffix": "yandex.md"
+    },
+    {
+      "domain_suffix": "yandex.net"
+    },
+    {
+      "domain_suffix": "yandex.org"
+    },
+    {
+      "domain_suffix": "yandex.pl"
+    },
+    {
+      "domain_suffix": "yandex.st"
+    },
+    {
+      "domain_suffix": "yandex.sx"
+    },
+    {
+      "domain_suffix": "yandex.tj"
+    },
+    {
+      "domain_suffix": "yandex.tm"
+    },
+    {
+      "domain_suffix": "yandex.tr"
+    },
+    {
+      "domain_suffix": "yandex.ua"
+    },
+    {
+      "domain_suffix": "yandex.uz"
+    },
+    {
+      "domain_suffix": "yandexadexchange.net"
+    },
+    {
+      "domain_suffix": "yandexcloud.net"
+    },
+    {
+      "domain_suffix": "yandexcom.net"
+    },
+    {
+      "domain_suffix": "yandexmetrica.com"
+    },
+    {
+      "domain_suffix": "yandexwebcache.net"
+    },
+    {
+      "domain_suffix": "yandexwebcache.org"
+    },
+    {
+      "domain_suffix": "yastat.net"
+    },
+    {
+      "domain_suffix": "yastatic.net"
+    },
+    {
+      "domain": "yandex-pogoda.static-storage.net"
+    },
+    {
+      "domain_suffix": "mradx.net"
+    },
+    {
+      "domain_suffix": "mvk.com"
+    },
+    {
+      "domain_suffix": "userapi.com"
+    },
+    {
+      "domain_suffix": "vk-apps.com"
+    },
+    {
+      "domain_suffix": "vk-cdn.me"
+    },
+    {
+      "domain_suffix": "vk-cdn.net"
+    },
+    {
+      "domain_suffix": "vk-portal.net"
+    },
+    {
+      "domain_suffix": "vk.cc"
+    },
+    {
+      "domain_suffix": "vk.com"
+    },
+    {
+      "domain_suffix": "vk.company"
+    },
+    {
+      "domain_suffix": "vk.design"
+    },
+    {
+      "domain_suffix": "vk.link"
+    },
+    {
+      "domain_suffix": "vk.me"
+    },
+    {
+      "domain_suffix": "vk.team"
+    },
+    {
+      "domain_suffix": "vkcache.com"
+    },
+    {
+      "domain_suffix": "vkgo.app"
+    },
+    {
+      "domain_suffix": "vklive.app"
+    },
+    {
+      "domain_suffix": "vkmessenger.app"
+    },
+    {
+      "domain_suffix": "vkmessenger.com"
+    },
+    {
+      "domain_suffix": "vkuser.net"
+    },
+    {
+      "domain_suffix": "vkuseraudio.com"
+    },
+    {
+      "domain_suffix": "vkuseraudio.net"
+    },
+    {
+      "domain_suffix": "vkuserlive.net"
+    },
+    {
+      "domain_suffix": "vkuservideo.com"
+    },
+    {
+      "domain_suffix": "vkuservideo.net"
+    },
+    {
+      "domain_suffix": "2gis.com"
+    },
+    {
+      "domain_suffix": "okko.tv"
+    },
+    {
+      "domain_suffix": "premier.one"
+    },
+    {
+      "domain_suffix": "giga.chat"
+    },
+    {
+      "domain_suffix": "salute.ai"
+    },
+    {
+      "domain_suffix": "kaspersky.com"
+    },
+    {
+      "domain_suffix": "kaspersky-labs.com"
+    },
+    {
+      "domain_suffix": "kaspersky-labs.net"
+    },
+    {
+      "domain_suffix": "drweb.com"
+    }
+  ]
+}

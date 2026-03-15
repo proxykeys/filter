@@ -1,48 +1,66 @@
-name: Update Antifilter Lists
+name: Update Filter Lists
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'convert.sh'
+      - 'ru-non-ru-domains.txt'
+      - '.github/workflows/update.yml'
   schedule:
     # Каждые 6 часов (UTC)
     - cron: '0 */6 * * *'
 
+permissions:
+  contents: write
+
+concurrency:
+  group: proxykeys-filter-update
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
-          
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
       - name: Setup Git config
         run: |
           git config --global user.name "ProxyKeys Bot"
           git config --global user.email "bot@proxykeys.com"
-          
+
       - name: Run conversion script
         run: |
           chmod +x convert.sh
           ./convert.sh
-          
+
       - name: Check for changes
         id: check_changes
         run: |
-          # Добавляем release/ в staging ПЕРЕД проверкой изменений
-          git add release/
-          
-          # Проверяем staged изменения
-          if git diff --staged --quiet; then
+          git add -A release/
+
+          if git diff --cached --quiet; then
             echo "No changes detected"
-            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "Changes detected"
-            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
-          
+
       - name: Commit and push changes
         if: steps.check_changes.outputs.changed == 'true'
         run: |
-          git commit -m "Update antifilter lists - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "Update generated filter lists - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push

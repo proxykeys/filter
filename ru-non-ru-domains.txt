@@ -85,3 +85,8 @@ kaspersky.com
 kaspersky-labs.com
 kaspersky-labs.net
 drweb.com
+
+# MAX AntiSpy
+ifconfig.me
+api.ipify.org
+checkip.amazonaws.com

@@ -80,3 +80,6 @@ kaspersky.com
 kaspersky-labs.com
 kaspersky-labs.net
 drweb.com
+ifconfig.me
+api.ipify.org
+checkip.amazonaws.com

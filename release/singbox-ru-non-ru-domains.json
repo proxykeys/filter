@@ -246,6 +246,15 @@
     },
     {
       "domain_suffix": "drweb.com"
+    },
+    {
+      "domain_suffix": "ifconfig.me"
+    },
+    {
+      "domain_suffix": "api.ipify.org"
+    },
+    {
+      "domain_suffix": "checkip.amazonaws.com"
     }
   ]
 }

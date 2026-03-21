@@ -1,0 +1,4406 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": "02ip.ru"
+    },
+    {
+      "domain_suffix": "0816bvh.ru"
+    },
+    {
+      "domain_suffix": "08ro35delw.ru"
+    },
+    {
+      "domain_suffix": "0916video.ru"
+    },
+    {
+      "domain_suffix": "0pn.ru"
+    },
+    {
+      "domain_suffix": "1.xcfaprb0325.ru"
+    },
+    {
+      "domain_suffix": "1astrjasr.ru"
+    },
+    {
+      "domain_suffix": "1cpbac.ru"
+    },
+    {
+      "domain_suffix": "1l-hit.mail.ru"
+    },
+    {
+      "domain_suffix": "1l-hit.vkplay.ru"
+    },
+    {
+      "domain_suffix": "1l-view.mail.ru"
+    },
+    {
+      "domain_suffix": "1p3opxwwet.ru"
+    },
+    {
+      "domain_suffix": "1sputnik.ru"
+    },
+    {
+      "domain_suffix": "1traf.ru"
+    },
+    {
+      "domain_suffix": "24log.ru"
+    },
+    {
+      "domain_suffix": "24new.ru"
+    },
+    {
+      "domain_suffix": "2gwzdkjrtb.ru"
+    },
+    {
+      "domain_suffix": "2xclick.ru"
+    },
+    {
+      "domain_suffix": "34bogatirya.ru"
+    },
+    {
+      "domain_suffix": "3ez1ja1uq3.ru"
+    },
+    {
+      "domain_suffix": "3mtr.ru"
+    },
+    {
+      "domain_suffix": "468.vologdainfo.ru"
+    },
+    {
+      "domain_suffix": "5d0rac.ru"
+    },
+    {
+      "domain_suffix": "5dhnv8.ru"
+    },
+    {
+      "domain_suffix": "5moxhf6z8c.ru"
+    },
+    {
+      "domain_suffix": "6i7y3i.ru"
+    },
+    {
+      "domain_suffix": "6leaofqkh9.ru"
+    },
+    {
+      "domain_suffix": "6rn05mmbct.ru"
+    },
+    {
+      "domain_suffix": "76236osm1.ru"
+    },
+    {
+      "domain_suffix": "7nkbwdf1uq.ru"
+    },
+    {
+      "domain_suffix": "7offers.ru"
+    },
+    {
+      "domain_suffix": "7porn.ru"
+    },
+    {
+      "domain_suffix": "a.jurnalu.ru"
+    },
+    {
+      "domain_suffix": "a.kakoysegodnyaprazdnik.ru"
+    },
+    {
+      "domain_suffix": "a.kubik3.ru"
+    },
+    {
+      "domain_suffix": "a.kupibilet.ru"
+    },
+    {
+      "domain_suffix": "a.mt.ru"
+    },
+    {
+      "domain_suffix": "a.mts.ru"
+    },
+    {
+      "domain_suffix": "a.pinoymoviepedia.ru"
+    },
+    {
+      "domain_suffix": "a.rb-ya.ru"
+    },
+    {
+      "domain_suffix": "a.resr.ru"
+    },
+    {
+      "domain_suffix": "a.ria.ru"
+    },
+    {
+      "domain_suffix": "a.ridd.ru"
+    },
+    {
+      "domain_suffix": "a.sdska.ru"
+    },
+    {
+      "domain_suffix": "a.ucoz.ru"
+    },
+    {
+      "domain_suffix": "a.wb.ru"
+    },
+    {
+      "domain_suffix": "a24help.ru"
+    },
+    {
+      "domain_suffix": "abeets.ru"
+    },
+    {
+      "domain_suffix": "abs.firstvds.ru"
+    },
+    {
+      "domain_suffix": "abt.s3.yandex.net"
+    },
+    {
+      "domain_suffix": "acollector.wb.ru"
+    },
+    {
+      "domain_suffix": "action.evrikak.ru"
+    },
+    {
+      "domain_suffix": "actionpay.ru"
+    },
+    {
+      "domain_suffix": "ad-tech.ru"
+    },
+    {
+      "domain_suffix": "ad.3dnews.ru"
+    },
+    {
+      "domain_suffix": "ad.allboxing.ru"
+    },
+    {
+      "domain_suffix": "ad.hutor.ru"
+    },
+    {
+      "domain_suffix": "ad.ir.ru"
+    },
+    {
+      "domain_suffix": "ad.kissanime.com.ru"
+    },
+    {
+      "domain_suffix": "ad.kissanime.org.ru"
+    },
+    {
+      "domain_suffix": "ad.kisstvshow.ru"
+    },
+    {
+      "domain_suffix": "ad.krutilka.ru"
+    },
+    {
+      "domain_suffix": "ad.liveinternet.ru"
+    },
+    {
+      "domain_suffix": "ad.mail.ru"
+    },
+    {
+      "domain_suffix": "ad.mastermedia.ru"
+    },
+    {
+      "domain_suffix": "ad.megapeer.ru"
+    },
+    {
+      "domain_suffix": "ad.moscowtimes.ru"
+    },
+    {
+      "domain_suffix": "ad.oyy.ru"
+    },
+    {
+      "domain_suffix": "ad.pravda.ru"
+    },
+    {
+      "domain_suffix": "ad.tehno-rating.ru"
+    },
+    {
+      "domain_suffix": "ad.topwar.ru"
+    },
+    {
+      "domain_suffix": "ad.velomania.ru"
+    },
+    {
+      "domain_suffix": "ad.video-mech.ru"
+    },
+    {
+      "domain_suffix": "ad.vo-media.ru"
+    },
+    {
+      "domain_suffix": "ad1game.ru"
+    },
+    {
+      "domain_suffix": "ad2.bannerhost.ru"
+    },
+    {
+      "domain_suffix": "ad2.rambler.ru"
+    },
+    {
+      "domain_suffix": "ad3.rambler.ru"
+    },
+    {
+      "domain_suffix": "adbean.ru"
+    },
+    {
+      "domain_suffix": "adblocksosal.ru"
+    },
+    {
+      "domain_suffix": "adbn.ru"
+    },
+    {
+      "domain_suffix": "adbomb.ru"
+    },
+    {
+      "domain_suffix": "adcamp.ru"
+    },
+    {
+      "domain_suffix": "addweb.ru"
+    },
+    {
+      "domain_suffix": "adeeply.ru"
+    },
+    {
+      "domain_suffix": "adengine.rt.ru"
+    },
+    {
+      "domain_suffix": "adforce.ru"
+    },
+    {
+      "domain_suffix": "adfox.yandex.ru"
+    },
+    {
+      "domain_suffix": "adfstat.yandex.ru"
+    },
+    {
+      "domain_suffix": "adfun.ru"
+    },
+    {
+      "domain_suffix": "adghndou0sdh.ru"
+    },
+    {
+      "domain_suffix": "adhands.ru"
+    },
+    {
+      "domain_suffix": "adhub.ru"
+    },
+    {
+      "domain_suffix": "adinfo.ru"
+    },
+    {
+      "domain_suffix": "adipex.hut1.ru"
+    },
+    {
+      "domain_suffix": "adipex.shengen.ru"
+    },
+    {
+      "domain_suffix": "adlabs.ru"
+    },
+    {
+      "domain_suffix": "adland.ru"
+    },
+    {
+      "domain_suffix": "adlift.ru"
+    },
+    {
+      "domain_suffix": "admediator.ru"
+    },
+    {
+      "domain_suffix": "admile.ru"
+    },
+    {
+      "domain_suffix": "admilk.ru"
+    },
+    {
+      "domain_suffix": "adnet.ru"
+    },
+    {
+      "domain_suffix": "adnova.ru"
+    },
+    {
+      "domain_suffix": "adobe.autoscout24.ru"
+    },
+    {
+      "domain_suffix": "adone.ru"
+    },
+    {
+      "domain_suffix": "adoneast.ru"
+    },
+    {
+      "domain_suffix": "adonweb.ru"
+    },
+    {
+      "domain_suffix": "adplay.ru"
+    },
+    {
+      "domain_suffix": "adpremium.ru"
+    },
+    {
+      "domain_suffix": "adprofits.ru"
+    },
+    {
+      "domain_suffix": "adregain.ru"
+    },
+    {
+      "domain_suffix": "adriver.ru"
+    },
+    {
+      "domain_suffix": "adriverm.narod2.ru"
+    },
+    {
+      "domain_suffix": "adrock.ru"
+    },
+    {
+      "domain_suffix": "adrun.ru"
+    },
+    {
+      "domain_suffix": "ads-gdl.imovideo.ru"
+    },
+    {
+      "domain_suffix": "ads-lot.ru"
+    },
+    {
+      "domain_suffix": "ads-t.ru"
+    },
+    {
+      "domain_suffix": "ads.211.ru"
+    },
+    {
+      "domain_suffix": "ads.adfox.ru"
+    },
+    {
+      "domain_suffix": "ads.bb59.ru"
+    },
+    {
+      "domain_suffix": "ads.dfiles.ru"
+    },
+    {
+      "domain_suffix": "ads.edadeal.ru"
+    },
+    {
+      "domain_suffix": "ads.imovideo.ru"
+    },
+    {
+      "domain_suffix": "ads.interfax.ru"
+    },
+    {
+      "domain_suffix": "ads.wattpadru.ru"
+    },
+    {
+      "domain_suffix": "ads2.pbxware.ru"
+    },
+    {
+      "domain_suffix": "adsdk.yandex.ru"
+    },
+    {
+      "domain_suffix": "adshow.sc2tv.ru"
+    },
+    {
+      "domain_suffix": "adskape.ru"
+    },
+    {
+      "domain_suffix": "adsmo.ru"
+    },
+    {
+      "domain_suffix": "adsniper.ru"
+    },
+    {
+      "domain_suffix": "adsparking.inzhener-info.ru"
+    },
+    {
+      "domain_suffix": "adspyglass.8qw.ru"
+    },
+    {
+      "domain_suffix": "adstock.ru"
+    },
+    {
+      "domain_suffix": "adstreamer.ru"
+    },
+    {
+      "domain_suffix": "adsyst.ru"
+    },
+    {
+      "domain_suffix": "adtec.ru"
+    },
+    {
+      "domain_suffix": "adtech-digital.ru"
+    },
+    {
+      "domain_suffix": "adult.shengen.ru"
+    },
+    {
+      "domain_suffix": "adulttraffic.ru"
+    },
+    {
+      "domain_suffix": "adv.vz.ru"
+    },
+    {
+      "domain_suffix": "advaction.ru"
+    },
+    {
+      "domain_suffix": "advast.sibnet.ru"
+    },
+    {
+      "domain_suffix": "advbroker.ru"
+    },
+    {
+      "domain_suffix": "adveasy.ru"
+    },
+    {
+      "domain_suffix": "advert.polonsil.ru"
+    },
+    {
+      "domain_suffix": "advertise.ru"
+    },
+    {
+      "domain_suffix": "advertlink.ru"
+    },
+    {
+      "domain_suffix": "advertone.ru"
+    },
+    {
+      "domain_suffix": "advertshot.ru"
+    },
+    {
+      "domain_suffix": "advertstar.ru"
+    },
+    {
+      "domain_suffix": "advertur.ru"
+    },
+    {
+      "domain_suffix": "advideo.ru"
+    },
+    {
+      "domain_suffix": "advkino.ru"
+    },
+    {
+      "domain_suffix": "advmaker.ru"
+    },
+    {
+      "domain_suffix": "advmaker.su"
+    },
+    {
+      "domain_suffix": "advombat.ru"
+    },
+    {
+      "domain_suffix": "adwidgets.ru"
+    },
+    {
+      "domain_suffix": "adwist.ru"
+    },
+    {
+      "domain_suffix": "adwolf.ru"
+    },
+    {
+      "domain_suffix": "adx.com.ru"
+    },
+    {
+      "domain_suffix": "adxwxw.kp.ru"
+    },
+    {
+      "domain_suffix": "adylalahb.ru"
+    },
+    {
+      "domain_suffix": "af.click.ru"
+    },
+    {
+      "domain_suffix": "agency2.ru"
+    },
+    {
+      "domain_suffix": "agro.net.ru"
+    },
+    {
+      "domain_suffix": "ahaclub.ru"
+    },
+    {
+      "domain_suffix": "airlead.ru"
+    },
+    {
+      "domain_suffix": "airlogs.ru"
+    },
+    {
+      "domain_suffix": "ajlnty.vipavenue.ru"
+    },
+    {
+      "domain_suffix": "akabo.ru"
+    },
+    {
+      "domain_suffix": "alfainternet.su"
+    },
+    {
+      "domain_suffix": "alfatarget.ru"
+    },
+    {
+      "domain_suffix": "aliadvert.ru"
+    },
+    {
+      "domain_suffix": "all-sex.shengen.ru"
+    },
+    {
+      "domain_suffix": "allstat-pp.ru"
+    },
+    {
+      "domain_suffix": "alltizer.ru"
+    },
+    {
+      "domain_suffix": "alpari.ru"
+    },
+    {
+      "domain_suffix": "alt-ad.mail.ru"
+    },
+    {
+      "domain_suffix": "amazingcl.ru"
+    },
+    {
+      "domain_suffix": "amazy.ru"
+    },
+    {
+      "domain_suffix": "amc.yandex.ru"
+    },
+    {
+      "domain_suffix": "amnsreiuojy.ru"
+    },
+    {
+      "domain_suffix": "an.avast.ru"
+    },
+    {
+      "domain_suffix": "an.mail.ru"
+    },
+    {
+      "domain_suffix": "an.webvisor.org"
+    },
+    {
+      "domain_suffix": "an.yandex.ru"
+    },
+    {
+      "domain_suffix": "analytics.74.ru"
+    },
+    {
+      "domain_suffix": "analytics.cn.ru"
+    },
+    {
+      "domain_suffix": "analytics.dns-shop.ru"
+    },
+    {
+      "domain_suffix": "analytics.e1.ru"
+    },
+    {
+      "domain_suffix": "analytics.electro-com.ru"
+    },
+    {
+      "domain_suffix": "analytics.fontanka.ru"
+    },
+    {
+      "domain_suffix": "analytics.marquiz.ru"
+    },
+    {
+      "domain_suffix": "analytics.metro-cc.ru"
+    },
+    {
+      "domain_suffix": "analytics.mobile.yandex.net"
+    },
+    {
+      "domain_suffix": "analytics.move.ru"
+    },
+    {
+      "domain_suffix": "analytics.msk1.ru"
+    },
+    {
+      "domain_suffix": "analytics.ngs55.ru"
+    },
+    {
+      "domain_suffix": "analytics.rotapost.ru"
+    },
+    {
+      "domain_suffix": "analytics.sports.ru"
+    },
+    {
+      "domain_suffix": "anklets.shengen.ru"
+    },
+    {
+      "domain_suffix": "announcement.ru"
+    },
+    {
+      "domain_suffix": "answers.teradata.ru"
+    },
+    {
+      "domain_suffix": "anyfiles.ru"
+    },
+    {
+      "domain_suffix": "aol.spb.su"
+    },
+    {
+      "domain_suffix": "aolsvc.snowqueen.ru"
+    },
+    {
+      "domain_suffix": "api.appmetrica.yandex.ru"
+    },
+    {
+      "domain_suffix": "apistats.rg.ru"
+    },
+    {
+      "domain_suffix": "apkonline.ru"
+    },
+    {
+      "domain_suffix": "appmetrica.yandex.com"
+    },
+    {
+      "domain_suffix": "appmetrica.yandex.net"
+    },
+    {
+      "domain_suffix": "apptracer.ru"
+    },
+    {
+      "domain_suffix": "apteka-money.ru"
+    },
+    {
+      "domain_suffix": "aqouep.aquaphor.ru"
+    },
+    {
+      "domain_suffix": "asing.ru"
+    },
+    {
+      "domain_suffix": "ask-gps.ru"
+    },
+    {
+      "domain_suffix": "ateveq.street-beat.ru"
+    },
+    {
+      "domain_suffix": "atomictrivia.ru"
+    },
+    {
+      "domain_suffix": "atxslk.galamart.ru"
+    },
+    {
+      "domain_suffix": "aurabom.ru"
+    },
+    {
+      "domain_suffix": "autoteaser.ru"
+    },
+    {
+      "domain_suffix": "autous.ru"
+    },
+    {
+      "domain_suffix": "avazone.ru"
+    },
+    {
+      "domain_suffix": "awaps.yandex.net"
+    },
+    {
+      "domain_suffix": "awaps.yandex.ru"
+    },
+    {
+      "domain_suffix": "awsync.yandex.ru"
+    },
+    {
+      "domain_suffix": "axacqy.henderson.ru"
+    },
+    {
+      "domain_suffix": "axkcmb.mosigra.ru"
+    },
+    {
+      "domain_suffix": "aydtkb.pikabu.ru"
+    },
+    {
+      "domain_suffix": "aztwwe.satom.ru"
+    },
+    {
+      "domain_suffix": "azxaxh.eleven.ru"
+    },
+    {
+      "domain_suffix": "b.1istochnik.ru"
+    },
+    {
+      "domain_suffix": "b.ddestiny.ru"
+    },
+    {
+      "domain_suffix": "b.doloaqywbvq.ru"
+    },
+    {
+      "domain_suffix": "b.dotbrataev.ru"
+    },
+    {
+      "domain_suffix": "b.kakoysegodnyaprazdnik.ru"
+    },
+    {
+      "domain_suffix": "b.povarenok.ru"
+    },
+    {
+      "domain_suffix": "b13.penzainform.ru"
+    },
+    {
+      "domain_suffix": "b2bcontext.ru"
+    },
+    {
+      "domain_suffix": "bakteso.ru"
+    },
+    {
+      "domain_suffix": "ban-host.ru"
+    },
+    {
+      "domain_suffix": "ban.mirorgazma.ru"
+    },
+    {
+      "domain_suffix": "ban.su"
+    },
+    {
+      "domain_suffix": "ban.zab.ru"
+    },
+    {
+      "domain_suffix": "banner-media.ru"
+    },
+    {
+      "domain_suffix": "banner.aismo.ru"
+    },
+    {
+      "domain_suffix": "banner.hpmdnetwork.ru"
+    },
+    {
+      "domain_suffix": "banner.lbs.km.ru"
+    },
+    {
+      "domain_suffix": "banner.profile.ru"
+    },
+    {
+      "domain_suffix": "banner.rbc.ru"
+    },
+    {
+      "domain_suffix": "banner.relcom.ru"
+    },
+    {
+      "domain_suffix": "banner.zol.ru"
+    },
+    {
+      "domain_suffix": "bannerbank.ru"
+    },
+    {
+      "domain_suffix": "bannerbook.ru"
+    },
+    {
+      "domain_suffix": "banners-slb.mobile.yandex.net"
+    },
+    {
+      "domain_suffix": "banners.mobile.yandex.net"
+    },
+    {
+      "domain_suffix": "banners.prikol.ru"
+    },
+    {
+      "domain_suffix": "banners.zbs.ru"
+    },
+    {
+      "domain_suffix": "bans.bride.ru"
+    },
+    {
+      "domain_suffix": "banshop.gruntovik.ru"
+    },
+    {
+      "domain_suffix": "bantex.ru"
+    },
+    {
+      "domain_suffix": "bardatm.ru"
+    },
+    {
+      "domain_suffix": "barddfvgkhctch11.ru"
+    },
+    {
+      "domain_suffix": "bazamodov.ru"
+    },
+    {
+      "domain_suffix": "bcdwku.eg.ru"
+    },
+    {
+      "domain_suffix": "beetraf.ru"
+    },
+    {
+      "domain_suffix": "begun.ru"
+    },
+    {
+      "domain_suffix": "beroll.ru"
+    },
+    {
+      "domain_suffix": "best-cargo.ru"
+    },
+    {
+      "domain_suffix": "bestdoska.ru"
+    },
+    {
+      "domain_suffix": "beta.mediafort.ru"
+    },
+    {
+      "domain_suffix": "betsonsport.ru"
+    },
+    {
+      "domain_suffix": "bextra-store.shengen.ru"
+    },
+    {
+      "domain_suffix": "bfzikn.l-wine.ru"
+    },
+    {
+      "domain_suffix": "big6q4y2oy.ru"
+    },
+    {
+      "domain_suffix": "bigleads.ru"
+    },
+    {
+      "domain_suffix": "bigsauron.ru"
+    },
+    {
+      "domain_suffix": "bin-layer.ru"
+    },
+    {
+      "domain_suffix": "blogan.ru"
+    },
+    {
+      "domain_suffix": "blogun.ru"
+    },
+    {
+      "domain_suffix": "bn.ohah.ru"
+    },
+    {
+      "domain_suffix": "bn.orthodoxy.ru"
+    },
+    {
+      "domain_suffix": "bolshoykush.ru"
+    },
+    {
+      "domain_suffix": "boostcpm.su"
+    },
+    {
+      "domain_suffix": "borzjournal.ru"
+    },
+    {
+      "domain_suffix": "botdetector.ru"
+    },
+    {
+      "domain_suffix": "botfaqtor.ru"
+    },
+    {
+      "domain_suffix": "bravo.israelinfo.ru"
+    },
+    {
+      "domain_suffix": "browser-updater.yandex.net"
+    },
+    {
+      "domain_suffix": "bs-dante.ru"
+    },
+    {
+      "domain_suffix": "bs.orsk.ru"
+    },
+    {
+      "domain_suffix": "bs.yandex.ru"
+    },
+    {
+      "domain_suffix": "bstias.avilon.ru"
+    },
+    {
+      "domain_suffix": "bubblesmedia.ru"
+    },
+    {
+      "domain_suffix": "buy-adipex.aca.ru"
+    },
+    {
+      "domain_suffix": "buy-adipex.hut1.ru"
+    },
+    {
+      "domain_suffix": "buy-fioricet.hut1.ru"
+    },
+    {
+      "domain_suffix": "buy-hydrocodone.aca.ru"
+    },
+    {
+      "domain_suffix": "buy-hydrocodone.este.ru"
+    },
+    {
+      "domain_suffix": "buy-lortab.hut1.ru"
+    },
+    {
+      "domain_suffix": "buy-valium.este.ru"
+    },
+    {
+      "domain_suffix": "buy-valium.hut1.ru"
+    },
+    {
+      "domain_suffix": "buy-viagra.aca.ru"
+    },
+    {
+      "domain_suffix": "buy-vicodin.hut1.ru"
+    },
+    {
+      "domain_suffix": "buy-xanax.hut1.ru"
+    },
+    {
+      "domain_suffix": "buytraf.ru"
+    },
+    {
+      "domain_suffix": "bvexmf.bigtv.ru"
+    },
+    {
+      "domain_suffix": "bvl5bziz9d.ru"
+    },
+    {
+      "domain_suffix": "bw95vpjda.ru"
+    },
+    {
+      "domain_suffix": "c.grimuar.ru"
+    },
+    {
+      "domain_suffix": "c.pravo.ru"
+    },
+    {
+      "domain_suffix": "c.sibnet.ru"
+    },
+    {
+      "domain_suffix": "c.wen.ru"
+    },
+    {
+      "domain_suffix": "c1.politexpert.ru"
+    },
+    {
+      "domain_suffix": "c1.prmonline.ru"
+    },
+    {
+      "domain_suffix": "c153yb4hps.ru"
+    },
+    {
+      "domain_suffix": "c1i.su"
+    },
+    {
+      "domain_suffix": "camadmin.ru"
+    },
+    {
+      "domain_suffix": "car-donation.shengen.ru"
+    },
+    {
+      "domain_suffix": "car-loan.shengen.ru"
+    },
+    {
+      "domain_suffix": "carisoprodol.hut1.ru"
+    },
+    {
+      "domain_suffix": "carisoprodol.shengen.ru"
+    },
+    {
+      "domain_suffix": "cashprom.ru"
+    },
+    {
+      "domain_suffix": "catsnetwork.ru"
+    },
+    {
+      "domain_suffix": "cc.calltracking.ru"
+    },
+    {
+      "domain_suffix": "cdn-rum.ngenix.net"
+    },
+    {
+      "domain_suffix": "cdn.ddmanager.ru"
+    },
+    {
+      "domain_suffix": "cdn.gpmdata.ru"
+    },
+    {
+      "domain_suffix": "cdn.movieads.ru"
+    },
+    {
+      "domain_suffix": "cdn.zamunda.ru"
+    },
+    {
+      "domain_suffix": "cerohj.loccitane.ru"
+    },
+    {
+      "domain_suffix": "cheap-adipex.hut1.ru"
+    },
+    {
+      "domain_suffix": "cheaptop.ru"
+    },
+    {
+      "domain_suffix": "cheapxanax.hut1.ru"
+    },
+    {
+      "domain_suffix": "cialis-store.shengen.ru"
+    },
+    {
+      "domain_suffix": "cityads.ru"
+    },
+    {
+      "domain_suffix": "clck.edadeal.ru"
+    },
+    {
+      "domain_suffix": "clck.ru"
+    },
+    {
+      "domain_suffix": "clck.yandex.com"
+    },
+    {
+      "domain_suffix": "clckdm.domclick.ru"
+    },
+    {
+      "domain_suffix": "cleen.ru"
+    },
+    {
+      "domain_suffix": "click.ad1.ru"
+    },
+    {
+      "domain_suffix": "click.rypr.ru"
+    },
+    {
+      "domain_suffix": "clickbux.ru"
+    },
+    {
+      "domain_suffix": "clickhere.ru"
+    },
+    {
+      "domain_suffix": "clickstream.sberbank.ru"
+    },
+    {
+      "domain_suffix": "client-analytics.mts.ru"
+    },
+    {
+      "domain_suffix": "clshkv.labirint.ru"
+    },
+    {
+      "domain_suffix": "clx.ru"
+    },
+    {
+      "domain_suffix": "cnb.cnews.ru"
+    },
+    {
+      "domain_suffix": "cnstats.ru"
+    },
+    {
+      "domain_suffix": "cnt.logoslovo.ru"
+    },
+    {
+      "domain_suffix": "cnt.nov.ru"
+    },
+    {
+      "domain_suffix": "cnt.rambler.ru"
+    },
+    {
+      "domain_suffix": "cnt.ramlife.ru"
+    },
+    {
+      "domain_suffix": "codata.ru"
+    },
+    {
+      "domain_suffix": "code.r5hsid.ru"
+    },
+    {
+      "domain_suffix": "code.vihub.ru"
+    },
+    {
+      "domain_suffix": "com495.ru"
+    },
+    {
+      "domain_suffix": "compare.meteoservice.ru"
+    },
+    {
+      "domain_suffix": "contema.ru"
+    },
+    {
+      "domain_suffix": "contemo.ru"
+    },
+    {
+      "domain_suffix": "content.printdirect.ru"
+    },
+    {
+      "domain_suffix": "contextbar.ru"
+    },
+    {
+      "domain_suffix": "cookies.jll.ru"
+    },
+    {
+      "domain_suffix": "coronafly.ru"
+    },
+    {
+      "domain_suffix": "count.livetv.ru"
+    },
+    {
+      "domain_suffix": "count.rin.ru"
+    },
+    {
+      "domain_suffix": "count.yandeg.ru"
+    },
+    {
+      "domain_suffix": "counter.1gb.ru"
+    },
+    {
+      "domain_suffix": "counter.aport.ru"
+    },
+    {
+      "domain_suffix": "counter.insales.ru"
+    },
+    {
+      "domain_suffix": "counter.kaspersky.com"
+    },
+    {
+      "domain_suffix": "counter.log24.ru"
+    },
+    {
+      "domain_suffix": "counter.megagroup.ru"
+    },
+    {
+      "domain_suffix": "counter.megaindex.ru"
+    },
+    {
+      "domain_suffix": "counter.mojgorod.ru"
+    },
+    {
+      "domain_suffix": "counter.nn.ru"
+    },
+    {
+      "domain_suffix": "counter.photopulse.ru"
+    },
+    {
+      "domain_suffix": "counter.pr-cy.ru"
+    },
+    {
+      "domain_suffix": "counter.rambler.ru"
+    },
+    {
+      "domain_suffix": "counter.reddigital.ru"
+    },
+    {
+      "domain_suffix": "counter.sberbank.ru"
+    },
+    {
+      "domain_suffix": "counter.sibnet.ru"
+    },
+    {
+      "domain_suffix": "counter.smotrim.ru"
+    },
+    {
+      "domain_suffix": "cpaevent.ru"
+    },
+    {
+      "domain_suffix": "cpatext.ru"
+    },
+    {
+      "domain_suffix": "cpazilla.ru"
+    },
+    {
+      "domain_suffix": "creara-media.ru"
+    },
+    {
+      "domain_suffix": "credit-cards.shengen.ru"
+    },
+    {
+      "domain_suffix": "crm-analytics.imweb.ru"
+    },
+    {
+      "domain_suffix": "cs.avito.ru"
+    },
+    {
+      "domain_suffix": "cs44.pikabu.ru"
+    },
+    {
+      "domain_suffix": "cshi.ru"
+    },
+    {
+      "domain_suffix": "csp.yandex.net"
+    },
+    {
+      "domain_suffix": "cszz.ru"
+    },
+    {
+      "domain_suffix": "culturaltracking.ru"
+    },
+    {
+      "domain_suffix": "cures.ru.com"
+    },
+    {
+      "domain_suffix": "cusok.ru"
+    },
+    {
+      "domain_suffix": "cvt1.sibnet.ru"
+    },
+    {
+      "domain_suffix": "d.wi-fi.ru"
+    },
+    {
+      "domain_suffix": "d0main.ru"
+    },
+    {
+      "domain_suffix": "d1tracker.ru"
+    },
+    {
+      "domain_suffix": "da.rosrabota.ru"
+    },
+    {
+      "domain_suffix": "da.zilovaro.ru"
+    },
+    {
+      "domain_suffix": "daast.digitalbox.ru"
+    },
+    {
+      "domain_suffix": "dab.rus-km.ru"
+    },
+    {
+      "domain_suffix": "danilidi.ru"
+    },
+    {
+      "domain_suffix": "darkandlight.ru"
+    },
+    {
+      "domain_suffix": "dashboard.boostads.ru"
+    },
+    {
+      "domain_suffix": "data-84a0f3455d.transfermarkt.ru"
+    },
+    {
+      "domain_suffix": "data-aae7bdcec6.autoscout24.ru"
+    },
+    {
+      "domain_suffix": "data-b7d0b4217b.autoscout24.ru"
+    },
+    {
+      "domain_suffix": "data.neosmi.ru"
+    },
+    {
+      "domain_suffix": "datacollector-drru.dt.dbankcloud.ru"
+    },
+    {
+      "domain_suffix": "datamind.ru"
+    },
+    {
+      "domain_suffix": "dbex-tracker-v2.driveback.ru"
+    },
+    {
+      "domain_suffix": "dct.mango-office.ru"
+    },
+    {
+      "domain_suffix": "debt.shengen.ru"
+    },
+    {
+      "domain_suffix": "deeppquiz.ru"
+    },
+    {
+      "domain_suffix": "delta.mediafort.ru"
+    },
+    {
+      "domain_suffix": "dessly.ru"
+    },
+    {
+      "domain_suffix": "detmir-stats.ru"
+    },
+    {
+      "domain_suffix": "detox.shengen.ru"
+    },
+    {
+      "domain_suffix": "dev.turbologo.ru"
+    },
+    {
+      "domain_suffix": "devtizer.ru"
+    },
+    {
+      "domain_suffix": "diazepam.shengen.ru"
+    },
+    {
+      "domain_suffix": "diet-pills.hut1.ru"
+    },
+    {
+      "domain_suffix": "differentia.ru"
+    },
+    {
+      "domain_suffix": "digitaltarget.ru"
+    },
+    {
+      "domain_suffix": "dii1.zoochic-eu.ru"
+    },
+    {
+      "domain_suffix": "dii2.zoochic-eu.ru"
+    },
+    {
+      "domain_suffix": "dii3.zoochic-eu.ru"
+    },
+    {
+      "domain_suffix": "dii4.zoochic-eu.ru"
+    },
+    {
+      "domain_suffix": "directadvert.ru"
+    },
+    {
+      "domain_suffix": "directcrm.ru"
+    },
+    {
+      "domain_suffix": "directrix.ru"
+    },
+    {
+      "domain_suffix": "disorderstatus.ru"
+    },
+    {
+      "domain_suffix": "dmp-ai.ru"
+    },
+    {
+      "domain_suffix": "dmp-one.ru"
+    },
+    {
+      "domain_suffix": "dmp.vihub.ru"
+    },
+    {
+      "domain_suffix": "doortrade.ru"
+    },
+    {
+      "domain_suffix": "doprodavec.ru"
+    },
+    {
+      "domain_suffix": "doptik.ru"
+    },
+    {
+      "domain_suffix": "download.mediaplay.ru"
+    },
+    {
+      "domain_suffix": "drivenetwork.ru"
+    },
+    {
+      "domain_suffix": "drtraff.ru"
+    },
+    {
+      "domain_suffix": "drug-testing.shengen.ru"
+    },
+    {
+      "domain_suffix": "drugdetox.shengen.ru"
+    },
+    {
+      "domain_suffix": "drvive.lamoda.ru"
+    },
+    {
+      "domain_suffix": "dsp.groupminteraction.ru"
+    },
+    {
+      "domain_suffix": "dumedia.ru"
+    },
+    {
+      "domain_suffix": "duyxvw.finntrail.ru"
+    },
+    {
+      "domain_suffix": "dxizep.liniilubvi.ru"
+    },
+    {
+      "domain_suffix": "e-dot.hut1.ru"
+    },
+    {
+      "domain_suffix": "e-hosting.hut1.ru"
+    },
+    {
+      "domain_suffix": "e-kuzbass.ru"
+    },
+    {
+      "domain_suffix": "e-partner.ru"
+    },
+    {
+      "domain_suffix": "e.60sk.ru"
+    },
+    {
+      "domain_suffix": "easy-monetization.s3.yandex.net"
+    },
+    {
+      "domain_suffix": "easy.au.ru"
+    },
+    {
+      "domain_suffix": "easytarget.ru"
+    },
+    {
+      "domain_suffix": "ece8c2alhz.ru"
+    },
+    {
+      "domain_suffix": "econrus.ru"
+    },
+    {
+      "domain_suffix": "edfyqv.x-moda.ru"
+    },
+    {
+      "domain_suffix": "edirect.efind.ru"
+    },
+    {
+      "domain_suffix": "effad.ru"
+    },
+    {
+      "domain_suffix": "egg.afisha.ru"
+    },
+    {
+      "domain_suffix": "eiydgc.12storeez.ru"
+    },
+    {
+      "domain_suffix": "ekgmca.gipfel.ru"
+    },
+    {
+      "domain_suffix": "elephant.fotostrana.ru"
+    },
+    {
+      "domain_suffix": "email-cm.jll.ru"
+    },
+    {
+      "domain_suffix": "emfgcm.gretta.ru"
+    },
+    {
+      "domain_suffix": "en.ultrex.ru"
+    },
+    {
+      "domain_suffix": "engine-pmbk.ligastavok.ru"
+    },
+    {
+      "domain_suffix": "enot.k-yroky.ru"
+    },
+    {
+      "domain_suffix": "eoiqpm.gloria-jeans.ru"
+    },
+    {
+      "domain_suffix": "epnredirect.ru"
+    },
+    {
+      "domain_suffix": "eqmx04n5s0.ru"
+    },
+    {
+      "domain_suffix": "eroksen.ru"
+    },
+    {
+      "domain_suffix": "error.videonow.ru"
+    },
+    {
+      "domain_suffix": "esofco.gsmbutik.ru"
+    },
+    {
+      "domain_suffix": "et-code.ru"
+    },
+    {
+      "domain_suffix": "etarg.ru"
+    },
+    {
+      "domain_suffix": "etgsdg.ogogo.ru"
+    },
+    {
+      "domain_suffix": "ethhbl.dom-rafinad.ru"
+    },
+    {
+      "domain_suffix": "eu.market-place.su"
+    },
+    {
+      "domain_suffix": "event-storage.netmonet.co"
+    },
+    {
+      "domain_suffix": "event.chitai-gorod.ru"
+    },
+    {
+      "domain_suffix": "event.playground.ru"
+    },
+    {
+      "domain_suffix": "event.tradedealer.ru"
+    },
+    {
+      "domain_suffix": "events-collector-dataplatform.action-media.ru"
+    },
+    {
+      "domain_suffix": "events.auth.gid.ru"
+    },
+    {
+      "domain_suffix": "events.cardsmobile.ru"
+    },
+    {
+      "domain_suffix": "events.plus.yandex.net"
+    },
+    {
+      "domain_suffix": "eventstream.dodopizza.com"
+    },
+    {
+      "domain_suffix": "evroteplo.ru"
+    },
+    {
+      "domain_suffix": "ewfrnd.stockmann.ru"
+    },
+    {
+      "domain_suffix": "exaccess.ru"
+    },
+    {
+      "domain_suffix": "exad.smi2.ru"
+    },
+    {
+      "domain_suffix": "exnsar.raiton.ru"
+    },
+    {
+      "domain_suffix": "external-promo-metrics.yandex.net"
+    },
+    {
+      "domain_suffix": "extmaps-api.yandex.net"
+    },
+    {
+      "domain_suffix": "extrablocks.ru"
+    },
+    {
+      "domain_suffix": "ezstat.ru"
+    },
+    {
+      "domain_suffix": "fairlink.ru"
+    },
+    {
+      "domain_suffix": "faptdsway.ru"
+    },
+    {
+      "domain_suffix": "fast-down.ru"
+    },
+    {
+      "domain_suffix": "fast2load.ru"
+    },
+    {
+      "domain_suffix": "fastsex.ru"
+    },
+    {
+      "domain_suffix": "faststart.ru"
+    },
+    {
+      "domain_suffix": "ff.astv.ru"
+    },
+    {
+      "domain_suffix": "fft.delovoemesto.ru"
+    },
+    {
+      "domain_suffix": "ffzffn.satra.ru"
+    },
+    {
+      "domain_suffix": "filmplus.ru"
+    },
+    {
+      "domain_suffix": "firelove.ru"
+    },
+    {
+      "domain_suffix": "firsttrack.ru"
+    },
+    {
+      "domain_suffix": "fjqtyu.bethowen.ru"
+    },
+    {
+      "domain_suffix": "fkmdky.lifehacker.ru"
+    },
+    {
+      "domain_suffix": "flapoint.ru"
+    },
+    {
+      "domain_suffix": "flowers.moex.com"
+    },
+    {
+      "domain_suffix": "flygo.ru"
+    },
+    {
+      "domain_suffix": "flyroll.ru"
+    },
+    {
+      "domain_suffix": "forex-broker.hut1.ru"
+    },
+    {
+      "domain_suffix": "forex-chart.hut1.ru"
+    },
+    {
+      "domain_suffix": "forex-market.hut1.ru"
+    },
+    {
+      "domain_suffix": "forex-news.hut1.ru"
+    },
+    {
+      "domain_suffix": "forex-online.hut1.ru"
+    },
+    {
+      "domain_suffix": "forex-signal.hut1.ru"
+    },
+    {
+      "domain_suffix": "forex-trade.hut1.ru"
+    },
+    {
+      "domain_suffix": "forexclub.ru"
+    },
+    {
+      "domain_suffix": "forextrading.hut1.ru"
+    },
+    {
+      "domain_suffix": "fpadga.mcruises.ru"
+    },
+    {
+      "domain_suffix": "freeavalanche.ru"
+    },
+    {
+      "domain_suffix": "freeexchange.ru"
+    },
+    {
+      "domain_suffix": "fromru.su"
+    },
+    {
+      "domain_suffix": "fufoir.aif.ru"
+    },
+    {
+      "domain_suffix": "futureup.ru"
+    },
+    {
+      "domain_suffix": "galaxymeet.ru"
+    },
+    {
+      "domain_suffix": "gamelights.ru"
+    },
+    {
+      "domain_suffix": "gamesims.ru"
+    },
+    {
+      "domain_suffix": "gameteaser.ru"
+    },
+    {
+      "domain_suffix": "garant.bos.ru"
+    },
+    {
+      "domain_suffix": "gdeslon.ru"
+    },
+    {
+      "domain_suffix": "gdl.i9dhjx.ru"
+    },
+    {
+      "domain_suffix": "gdudh473-chersfeye483.landmarksfeed.su"
+    },
+    {
+      "domain_suffix": "geofamily.ru"
+    },
+    {
+      "domain_suffix": "get-ads.ru"
+    },
+    {
+      "domain_suffix": "get-click.ru"
+    },
+    {
+      "domain_suffix": "get4click.ru"
+    },
+    {
+      "domain_suffix": "getb.7ya.ru"
+    },
+    {
+      "domain_suffix": "getfon.ru"
+    },
+    {
+      "domain_suffix": "gethit.ru"
+    },
+    {
+      "domain_suffix": "getyoursoft.ru"
+    },
+    {
+      "domain_suffix": "gigamega.ru"
+    },
+    {
+      "domain_suffix": "gjhkyh.4fresh.ru"
+    },
+    {
+      "domain_suffix": "globalstars.ru"
+    },
+    {
+      "domain_suffix": "globaltizer.ru"
+    },
+    {
+      "domain_suffix": "glzsji.nordman.ru"
+    },
+    {
+      "domain_suffix": "gmdcft.vsemayki.ru"
+    },
+    {
+      "domain_suffix": "gmufag.e1.ru"
+    },
+    {
+      "domain_suffix": "gmufag.fontanka.ru"
+    },
+    {
+      "domain_suffix": "gmufag.marieclaire.ru"
+    },
+    {
+      "domain_suffix": "gmufag.ngs.ru"
+    },
+    {
+      "domain_suffix": "gmufag.nn.ru"
+    },
+    {
+      "domain_suffix": "gmufag.starhit.ru"
+    },
+    {
+      "domain_suffix": "gmufag.wday.ru"
+    },
+    {
+      "domain_suffix": "gmufag.woman.ru"
+    },
+    {
+      "domain_suffix": "gnezdo.ru"
+    },
+    {
+      "domain_suffix": "gnshwf.room-park.ru"
+    },
+    {
+      "domain_suffix": "go.media-x.ru"
+    },
+    {
+      "domain_suffix": "go.zdos.ru"
+    },
+    {
+      "domain_suffix": "goatse.ru"
+    },
+    {
+      "domain_suffix": "gobf.ru"
+    },
+    {
+      "domain_suffix": "goodadvert.ru"
+    },
+    {
+      "domain_suffix": "goon.ru"
+    },
+    {
+      "domain_suffix": "gostats.ru"
+    },
+    {
+      "domain_suffix": "gotraff.ru"
+    },
+    {
+      "domain_suffix": "gowoman.ru"
+    },
+    {
+      "domain_suffix": "greeentea.ru"
+    },
+    {
+      "domain_suffix": "gsmonitor.ru"
+    },
+    {
+      "domain_suffix": "gss.skatepro.ru"
+    },
+    {
+      "domain_suffix": "gvapp.ru"
+    },
+    {
+      "domain_suffix": "gvdmkf.major-expert.ru"
+    },
+    {
+      "domain_suffix": "gvyyri.major-auto.ru"
+    },
+    {
+      "domain_suffix": "gyh1lh20owj.ru"
+    },
+    {
+      "domain_suffix": "handred.ru"
+    },
+    {
+      "domain_suffix": "hatrecord.ru"
+    },
+    {
+      "domain_suffix": "hc.uralweb.ru"
+    },
+    {
+      "domain_suffix": "hdtracker.ru"
+    },
+    {
+      "domain_suffix": "he.zymorico.ru"
+    },
+    {
+      "domain_suffix": "hffttk.sandro-paris.ru"
+    },
+    {
+      "domain_suffix": "hhulzh.tapada.ru"
+    },
+    {
+      "domain_suffix": "hikvar.ru"
+    },
+    {
+      "domain_suffix": "hit-star.ru"
+    },
+    {
+      "domain_suffix": "hitlist.ru"
+    },
+    {
+      "domain_suffix": "hitmeter.ru"
+    },
+    {
+      "domain_suffix": "hitmir.ru"
+    },
+    {
+      "domain_suffix": "hitter.ru"
+    },
+    {
+      "domain_suffix": "hochu-deneg.ru"
+    },
+    {
+      "domain_suffix": "holm.ru"
+    },
+    {
+      "domain_suffix": "honey.briefly.ru"
+    },
+    {
+      "domain_suffix": "horny.su"
+    },
+    {
+      "domain_suffix": "hotlog.ru"
+    },
+    {
+      "domain_suffix": "hqjuww.kolesa-darom.ru"
+    },
+    {
+      "domain_suffix": "huminfakt.ru"
+    },
+    {
+      "domain_suffix": "hvlglf.ochkarik.ru"
+    },
+    {
+      "domain_suffix": "hwmonitor-ru.ru"
+    },
+    {
+      "domain_suffix": "hydrocodone.shengen.ru"
+    },
+    {
+      "domain_suffix": "hydrocodone.visa-usa.ru"
+    },
+    {
+      "domain_suffix": "hzmksreiuojy.ru"
+    },
+    {
+      "domain_suffix": "i.j2j.ru"
+    },
+    {
+      "domain_suffix": "iaalxo.vans.ru"
+    },
+    {
+      "domain_suffix": "ice-media.ru"
+    },
+    {
+      "domain_suffix": "iceprogs.ru"
+    },
+    {
+      "domain_suffix": "idntfy.ru"
+    },
+    {
+      "domain_suffix": "idvd.su"
+    },
+    {
+      "domain_suffix": "ijtazz.boscooutlet.ru"
+    },
+    {
+      "domain_suffix": "iljdyu.orteka.ru"
+    },
+    {
+      "domain_suffix": "imarker.ru"
+    },
+    {
+      "domain_suffix": "imho.ru"
+    },
+    {
+      "domain_suffix": "index.ru"
+    },
+    {
+      "domain_suffix": "inetlog.ru"
+    },
+    {
+      "domain_suffix": "inf.wqa.ru"
+    },
+    {
+      "domain_suffix": "info.kinoclub77.ru"
+    },
+    {
+      "domain_suffix": "infocentro.ru"
+    },
+    {
+      "domain_suffix": "informer.yandex.ru"
+    },
+    {
+      "domain_suffix": "infostroy.nnov.ru"
+    },
+    {
+      "domain_suffix": "inheart.ru"
+    },
+    {
+      "domain_suffix": "inkoleasing.ru"
+    },
+    {
+      "domain_suffix": "inmmyp.lenspecsmu.ru"
+    },
+    {
+      "domain_suffix": "innovation-lab.ru"
+    },
+    {
+      "domain_suffix": "inoprosport.su"
+    },
+    {
+      "domain_suffix": "inrd.ru"
+    },
+    {
+      "domain_suffix": "instantcash.ru"
+    },
+    {
+      "domain_suffix": "instreamvideo.ru"
+    },
+    {
+      "domain_suffix": "intarget.ru"
+    },
+    {
+      "domain_suffix": "intelliworker.kupivip.ru"
+    },
+    {
+      "domain_suffix": "interakt.ru"
+    },
+    {
+      "domain_suffix": "intergid.ru"
+    },
+    {
+      "domain_suffix": "intimmag.ru"
+    },
+    {
+      "domain_suffix": "intimznaki.tomsk.ru"
+    },
+    {
+      "domain_suffix": "invest-pool.ru"
+    },
+    {
+      "domain_suffix": "ip.up66.ru"
+    },
+    {
+      "domain_suffix": "ipgold.ru"
+    },
+    {
+      "domain_suffix": "ipgrabber.ru"
+    },
+    {
+      "domain_suffix": "ipgraber.ru"
+    },
+    {
+      "domain_suffix": "iplis.ru"
+    },
+    {
+      "domain_suffix": "iplogger.ru"
+    },
+    {
+      "domain_suffix": "iqok.ru"
+    },
+    {
+      "domain_suffix": "iryazan.ru"
+    },
+    {
+      "domain_suffix": "islamclick.ru"
+    },
+    {
+      "domain_suffix": "iso100.ru"
+    },
+    {
+      "domain_suffix": "ispeakvideo.ru"
+    },
+    {
+      "domain_suffix": "itrigra.ru"
+    },
+    {
+      "domain_suffix": "ivz7x63ymy.ru"
+    },
+    {
+      "domain_suffix": "iwpkhm.re-store.ru"
+    },
+    {
+      "domain_suffix": "j.uralweb.ru"
+    },
+    {
+      "domain_suffix": "j1oxqq05ry.ru"
+    },
+    {
+      "domain_suffix": "jaeger.netmonet.co"
+    },
+    {
+      "domain_suffix": "jet.zbp.ru"
+    },
+    {
+      "domain_suffix": "jordan.qunis.ru"
+    },
+    {
+      "domain_suffix": "journal-bt.wildberries.ru"
+    },
+    {
+      "domain_suffix": "jqk2me2mzf.ru"
+    },
+    {
+      "domain_suffix": "jrs2igoimq.ru"
+    },
+    {
+      "domain_suffix": "js.smi2.ru"
+    },
+    {
+      "domain_suffix": "juste.ru"
+    },
+    {
+      "domain_suffix": "jux9ms4vc7.ru"
+    },
+    {
+      "domain_suffix": "jvs.price.ru"
+    },
+    {
+      "domain_suffix": "jwmhqs.fsk.ru"
+    },
+    {
+      "domain_suffix": "k.laredoute.ru"
+    },
+    {
+      "domain_suffix": "k50.ru"
+    },
+    {
+      "domain_suffix": "kadam.ru"
+    },
+    {
+      "domain_suffix": "kapitalrus.ru"
+    },
+    {
+      "domain_suffix": "kavanga.ru"
+    },
+    {
+      "domain_suffix": "kazmedia.su"
+    },
+    {
+      "domain_suffix": "keyti.ru"
+    },
+    {
+      "domain_suffix": "kiks.yandex.ru"
+    },
+    {
+      "domain_suffix": "kinoaction.ru"
+    },
+    {
+      "domain_suffix": "kinotraff.ru"
+    },
+    {
+      "domain_suffix": "kjrrpn.taxcom.ru"
+    },
+    {
+      "domain_suffix": "kmindex.ru"
+    },
+    {
+      "domain_suffix": "kplusd.far.ru"
+    },
+    {
+      "domain_suffix": "kq6lwk3m9g.ru"
+    },
+    {
+      "domain_suffix": "kqkydl.postel-deluxe.ru"
+    },
+    {
+      "domain_suffix": "kqmhog.tbmmarket.ru"
+    },
+    {
+      "domain_suffix": "kraken.rambler.ru"
+    },
+    {
+      "domain_suffix": "krolikplatit.ru"
+    },
+    {
+      "domain_suffix": "krytilka.ru"
+    },
+    {
+      "domain_suffix": "kvcd7w375h.ru"
+    },
+    {
+      "domain_suffix": "kwveum.cosmasi.ru"
+    },
+    {
+      "domain_suffix": "kxauzv.mrdoors.ru"
+    },
+    {
+      "domain_suffix": "ladycash.ru"
+    },
+    {
+      "domain_suffix": "ladyclicks.ru"
+    },
+    {
+      "domain_suffix": "ladyshopping.ru"
+    },
+    {
+      "domain_suffix": "laimroll.ru"
+    },
+    {
+      "domain_suffix": "lank.ru"
+    },
+    {
+      "domain_suffix": "lbn.ru"
+    },
+    {
+      "domain_suffix": "lc2ads.ru"
+    },
+    {
+      "domain_suffix": "lcads.ru"
+    },
+    {
+      "domain_suffix": "lcefua.timberland.ru"
+    },
+    {
+      "domain_suffix": "ldqbuy.sport-express.ru"
+    },
+    {
+      "domain_suffix": "leadgidads.ru"
+    },
+    {
+      "domain_suffix": "leadhit.ru"
+    },
+    {
+      "domain_suffix": "leads.su"
+    },
+    {
+      "domain_suffix": "leadsleader.ru"
+    },
+    {
+      "domain_suffix": "league-of-legends.ru"
+    },
+    {
+      "domain_suffix": "ledinika.ru"
+    },
+    {
+      "domain_suffix": "lenta.sparrow.ru"
+    },
+    {
+      "domain_suffix": "lenty.ru"
+    },
+    {
+      "domain_suffix": "letimsnami.ru"
+    },
+    {
+      "domain_suffix": "letysheeps.ru"
+    },
+    {
+      "domain_suffix": "levelpay.ru"
+    },
+    {
+      "domain_suffix": "lgylib.dg-home.ru"
+    },
+    {
+      "domain_suffix": "liex.ru"
+    },
+    {
+      "domain_suffix": "lifchnger.ru.com"
+    },
+    {
+      "domain_suffix": "lineoflife.ru"
+    },
+    {
+      "domain_suffix": "link.ru"
+    },
+    {
+      "domain_suffix": "link2me.ru"
+    },
+    {
+      "domain_suffix": "linkfeed.ru"
+    },
+    {
+      "domain_suffix": "linkslot.ru"
+    },
+    {
+      "domain_suffix": "linktraff.ru"
+    },
+    {
+      "domain_suffix": "linkunder.ru"
+    },
+    {
+      "domain_suffix": "linkwmr.ru"
+    },
+    {
+      "domain_suffix": "livesurf.ru"
+    },
+    {
+      "domain_suffix": "lk.vectoranalytics.ru"
+    },
+    {
+      "domain_suffix": "load.gtm.koleso.ru"
+    },
+    {
+      "domain_suffix": "load.soloqmyl.tefcold.ru"
+    },
+    {
+      "domain_suffix": "loadmoney.ru"
+    },
+    {
+      "domain_suffix": "loan.aol.msk.su"
+    },
+    {
+      "domain_suffix": "log.dzen.ru"
+    },
+    {
+      "domain_suffix": "log.krs-ix.ru"
+    },
+    {
+      "domain_suffix": "log.reformal.ru"
+    },
+    {
+      "domain_suffix": "log.rutube.ru"
+    },
+    {
+      "domain_suffix": "log.strm.yandex.ru"
+    },
+    {
+      "domain_suffix": "logxp.ru"
+    },
+    {
+      "domain_suffix": "logz.ru"
+    },
+    {
+      "domain_suffix": "loki.maximonline.ru"
+    },
+    {
+      "domain_suffix": "lookszone.ru"
+    },
+    {
+      "domain_suffix": "lortab-cod.hut1.ru"
+    },
+    {
+      "domain_suffix": "lortab.hut1.ru"
+    },
+    {
+      "domain_suffix": "loveadvert.ru"
+    },
+    {
+      "domain_suffix": "lovn.ru"
+    },
+    {
+      "domain_suffix": "lqopyc.beermachines.ru"
+    },
+    {
+      "domain_suffix": "ltcraft.ru"
+    },
+    {
+      "domain_suffix": "lugansk-info.ru"
+    },
+    {
+      "domain_suffix": "luxcash.ru"
+    },
+    {
+      "domain_suffix": "luxup.ru"
+    },
+    {
+      "domain_suffix": "luxup2.ru"
+    },
+    {
+      "domain_suffix": "luzynka.ru"
+    },
+    {
+      "domain_suffix": "m81jmqmn.ru"
+    },
+    {
+      "domain_suffix": "ma-code.ru"
+    },
+    {
+      "domain_suffix": "ma-static.ru"
+    },
+    {
+      "domain_suffix": "madnet.ru"
+    },
+    {
+      "domain_suffix": "magicintim.ru"
+    },
+    {
+      "domain_suffix": "magna.ru"
+    },
+    {
+      "domain_suffix": "mail.banklife.ru"
+    },
+    {
+      "domain_suffix": "mail.dolce-gusto.ru"
+    },
+    {
+      "domain_suffix": "mail.ioc.ac.ru"
+    },
+    {
+      "domain_suffix": "mail.radar.imgsmail.ru"
+    },
+    {
+      "domain_suffix": "major.dvanadva.ru"
+    },
+    {
+      "domain_suffix": "make-money.shengen.ru"
+    },
+    {
+      "domain_suffix": "mamka.aviasales.ru"
+    },
+    {
+      "domain_suffix": "market-click-baobab.yandex.ru"
+    },
+    {
+      "domain_suffix": "mastertarget.ru"
+    },
+    {
+      "domain_suffix": "matomo.datago.ru"
+    },
+    {
+      "domain_suffix": "maxesads.ru"
+    },
+    {
+      "domain_suffix": "maxtrust.ru"
+    },
+    {
+      "domain_suffix": "mc.admetrica.ru"
+    },
+    {
+      "domain_suffix": "mc.webvisor.org"
+    },
+    {
+      "domain_suffix": "mc.yandex.com"
+    },
+    {
+      "domain_suffix": "mc.yandex.md"
+    },
+    {
+      "domain_suffix": "mc.yandex.ru"
+    },
+    {
+      "domain_suffix": "mdiyay.vseinstrumenti.ru"
+    },
+    {
+      "domain_suffix": "mecash.ru"
+    },
+    {
+      "domain_suffix": "media-active.ru"
+    },
+    {
+      "domain_suffix": "media-advcycle.imgsmail.ru"
+    },
+    {
+      "domain_suffix": "media-click.ru"
+    },
+    {
+      "domain_suffix": "media-stat.mail.ru"
+    },
+    {
+      "domain_suffix": "media.kahoxa.ru"
+    },
+    {
+      "domain_suffix": "medialand.relax.ru"
+    },
+    {
+      "domain_suffix": "medialand.ru"
+    },
+    {
+      "domain_suffix": "medianaft.ru"
+    },
+    {
+      "domain_suffix": "medianetworks.ru"
+    },
+    {
+      "domain_suffix": "mediaplan.ru"
+    },
+    {
+      "domain_suffix": "mediaportal.ru"
+    },
+    {
+      "domain_suffix": "mediatoday.ru"
+    },
+    {
+      "domain_suffix": "mediator.imgsmail.ru"
+    },
+    {
+      "domain_suffix": "medrol.ru"
+    },
+    {
+      "domain_suffix": "meendo.ru"
+    },
+    {
+      "domain_suffix": "megaopen.ru"
+    },
+    {
+      "domain_suffix": "mesotherapy.jino-net.ru"
+    },
+    {
+      "domain_suffix": "mestkom.ru"
+    },
+    {
+      "domain_suffix": "metrics.animagazin.ru"
+    },
+    {
+      "domain_suffix": "metrics.aviasales.ru"
+    },
+    {
+      "domain_suffix": "metricus.artlebedev.ru"
+    },
+    {
+      "domain_suffix": "metrika.kontur.ru"
+    },
+    {
+      "domain_suffix": "minidoc.ru"
+    },
+    {
+      "domain_suffix": "mjoyvn.oldi.ru"
+    },
+    {
+      "domain_suffix": "mmfmes.rukodelov.ru"
+    },
+    {
+      "domain_suffix": "mnogodiva.ru"
+    },
+    {
+      "domain_suffix": "mnxlyo.kinoteatr.ru"
+    },
+    {
+      "domain_suffix": "mobiads.ru"
+    },
+    {
+      "domain_suffix": "mobileadx.ru"
+    },
+    {
+      "domain_suffix": "mobilebanner.ru"
+    },
+    {
+      "domain_suffix": "mobiletracking.ru"
+    },
+    {
+      "domain_suffix": "mobioffers.ru"
+    },
+    {
+      "domain_suffix": "mobtop.ru"
+    },
+    {
+      "domain_suffix": "mokuz.ru"
+    },
+    {
+      "domain_suffix": "momijoy.ru"
+    },
+    {
+      "domain_suffix": "moneytrap.ru"
+    },
+    {
+      "domain_suffix": "moogle.ru"
+    },
+    {
+      "domain_suffix": "more-data.ru"
+    },
+    {
+      "domain_suffix": "moviead55.ru"
+    },
+    {
+      "domain_suffix": "mpsuadv.ru"
+    },
+    {
+      "domain_suffix": "mpuls.ru"
+    },
+    {
+      "domain_suffix": "mqldrm.lgcity.ru"
+    },
+    {
+      "domain_suffix": "ms-shopguide.su"
+    },
+    {
+      "domain_suffix": "ms-shopplus.su"
+    },
+    {
+      "domain_suffix": "ms-shopzone.su"
+    },
+    {
+      "domain_suffix": "ms.dzen.ru"
+    },
+    {
+      "domain_suffix": "ms.yandex.ru"
+    },
+    {
+      "domain_suffix": "msr.shalom-center.ru"
+    },
+    {
+      "domain_suffix": "mtbflj.elementaree.ru"
+    },
+    {
+      "domain_suffix": "multimedia-projector.katrina.ru"
+    },
+    {
+      "domain_suffix": "multonly.ru"
+    },
+    {
+      "domain_suffix": "musiccounter.ru"
+    },
+    {
+      "domain_suffix": "my-adv.ru"
+    },
+    {
+      "domain_suffix": "my-img.ru"
+    },
+    {
+      "domain_suffix": "my.rb2psh.ru"
+    },
+    {
+      "domain_suffix": "myads.ru"
+    },
+    {
+      "domain_suffix": "myatpe.mebelaero.ru"
+    },
+    {
+      "domain_suffix": "mycdn4.ru"
+    },
+    {
+      "domain_suffix": "mycpm.ru"
+    },
+    {
+      "domain_suffix": "mytop.live.vkvideo.ru"
+    },
+    {
+      "domain_suffix": "mytraf.ru"
+    },
+    {
+      "domain_suffix": "myxuak.mir-kubikov.ru"
+    },
+    {
+      "domain_suffix": "nanofantiki.edigest.ru"
+    },
+    {
+      "domain_suffix": "nasimke.ru"
+    },
+    {
+      "domain_suffix": "nativ.podruzke.ru"
+    },
+    {
+      "domain_suffix": "nativerent.ru"
+    },
+    {
+      "domain_suffix": "natprb.ru"
+    },
+    {
+      "domain_suffix": "nbohze.thenorthface.ru"
+    },
+    {
+      "domain_suffix": "neobasnet.timeout.ru"
+    },
+    {
+      "domain_suffix": "neosap.ru"
+    },
+    {
+      "domain_suffix": "netlog.ru"
+    },
+    {
+      "domain_suffix": "neviju.netmonet.co"
+    },
+    {
+      "domain_suffix": "newms-shop.su"
+    },
+    {
+      "domain_suffix": "news.mirtesen.ru"
+    },
+    {
+      "domain_suffix": "news.unsere-news.ru"
+    },
+    {
+      "domain_suffix": "newton1.ru"
+    },
+    {
+      "domain_suffix": "nextel-ringtone.spb.su"
+    },
+    {
+      "domain_suffix": "ngazee.novostroy-m.ru"
+    },
+    {
+      "domain_suffix": "ningme.ru"
+    },
+    {
+      "domain_suffix": "node.market-place.su"
+    },
+    {
+      "domain_suffix": "nostalgia.onego.ru"
+    },
+    {
+      "domain_suffix": "nov.evmenov37.ru"
+    },
+    {
+      "domain_suffix": "ntvk1.ru"
+    },
+    {
+      "domain_suffix": "num-link.ru"
+    },
+    {
+      "domain_suffix": "nxjnsb.station-l.ru"
+    },
+    {
+      "domain_suffix": "nytva-nmz.ru"
+    },
+    {
+      "domain_suffix": "o.60sk.ru"
+    },
+    {
+      "domain_suffix": "oba.rus-km.ru"
+    },
+    {
+      "domain_suffix": "obhxvb.tmktools.ru"
+    },
+    {
+      "domain_suffix": "obigre.ru"
+    },
+    {
+      "domain_suffix": "obosnovano.su"
+    },
+    {
+      "domain_suffix": "obs.nnm2.ru"
+    },
+    {
+      "domain_suffix": "odnaknopka.ru"
+    },
+    {
+      "domain_suffix": "oessbi.yves-rocher.ru"
+    },
+    {
+      "domain_suffix": "offerwall.yandex.net"
+    },
+    {
+      "domain_suffix": "office.ad1.ru"
+    },
+    {
+      "domain_suffix": "ogeri.ru"
+    },
+    {
+      "domain_suffix": "ognyvo.ru"
+    },
+    {
+      "domain_suffix": "ogtz5yn2u1.ru"
+    },
+    {
+      "domain_suffix": "oiya.ru"
+    },
+    {
+      "domain_suffix": "onelead.ru"
+    },
+    {
+      "domain_suffix": "onemontay.ru"
+    },
+    {
+      "domain_suffix": "online-casino.shengen.ru"
+    },
+    {
+      "domain_suffix": "online-forex.hut1.ru"
+    },
+    {
+      "domain_suffix": "online-poker.shengen.ru"
+    },
+    {
+      "domain_suffix": "only-valium.shengen.ru"
+    },
+    {
+      "domain_suffix": "only4men.ru"
+    },
+    {
+      "domain_suffix": "openlinks.ru"
+    },
+    {
+      "domain_suffix": "openssp.ru"
+    },
+    {
+      "domain_suffix": "opentracking.ru"
+    },
+    {
+      "domain_suffix": "oqbimz.aviasales.ru"
+    },
+    {
+      "domain_suffix": "oriondigital.ru"
+    },
+    {
+      "domain_suffix": "otclick-adv.ru"
+    },
+    {
+      "domain_suffix": "oufuqh.kant.ru"
+    },
+    {
+      "domain_suffix": "out.pladform.ru"
+    },
+    {
+      "domain_suffix": "owebmoney.ru"
+    },
+    {
+      "domain_suffix": "p.altergeo.ru"
+    },
+    {
+      "domain_suffix": "p.netork.ru"
+    },
+    {
+      "domain_suffix": "par.moyslovar.ru"
+    },
+    {
+      "domain_suffix": "parabit.ru"
+    },
+    {
+      "domain_suffix": "paradocs.ru"
+    },
+    {
+      "domain_suffix": "pardompus.ru"
+    },
+    {
+      "domain_suffix": "paripartners.ru"
+    },
+    {
+      "domain_suffix": "partner.gde.ru"
+    },
+    {
+      "domain_suffix": "partner.loveplanet.ru"
+    },
+    {
+      "domain_suffix": "partner.mediametrics.ru"
+    },
+    {
+      "domain_suffix": "partner.pladform.ru"
+    },
+    {
+      "domain_suffix": "partners.vsemayki.ru"
+    },
+    {
+      "domain_suffix": "pay-click.ru"
+    },
+    {
+      "domain_suffix": "pbecrm.aquanet.ru"
+    },
+    {
+      "domain_suffix": "pbnet.ru"
+    },
+    {
+      "domain_suffix": "pcads.ru"
+    },
+    {
+      "domain_suffix": "people-group.su"
+    },
+    {
+      "domain_suffix": "pfconm.koleso.ru"
+    },
+    {
+      "domain_suffix": "pharmacy.hut1.ru"
+    },
+    {
+      "domain_suffix": "phentermine.shengen.ru"
+    },
+    {
+      "domain_suffix": "phone-calling-card.exnet.su"
+    },
+    {
+      "domain_suffix": "phpteaser.ru"
+    },
+    {
+      "domain_suffix": "piar-m.ru"
+    },
+    {
+      "domain_suffix": "piper.amocrm.ru"
+    },
+    {
+      "domain_suffix": "pir.zspb.ru"
+    },
+    {
+      "domain_suffix": "pixel-storage.konnektu.ru"
+    },
+    {
+      "domain_suffix": "pixel.embed.su"
+    },
+    {
+      "domain_suffix": "pixel.kodixauto.ru"
+    },
+    {
+      "domain_suffix": "pixel.scoring.ru"
+    },
+    {
+      "domain_suffix": "pixel.udpauto.ru"
+    },
+    {
+      "domain_suffix": "pjkyxrd15e.ru"
+    },
+    {
+      "domain_suffix": "pjtxmd.epool.ru"
+    },
+    {
+      "domain_suffix": "pkeeper3.ru"
+    },
+    {
+      "domain_suffix": "placeoff.ru"
+    },
+    {
+      "domain_suffix": "planetapozitiva.ru"
+    },
+    {
+      "domain_suffix": "plavix.shengen.ru"
+    },
+    {
+      "domain_suffix": "plyfoni.ru"
+    },
+    {
+      "domain_suffix": "pngme.ru"
+    },
+    {
+      "domain_suffix": "po.zolivexo.ru"
+    },
+    {
+      "domain_suffix": "pokrutim.ru"
+    },
+    {
+      "domain_suffix": "popunder.ru"
+    },
+    {
+      "domain_suffix": "popupclick.ru"
+    },
+    {
+      "domain_suffix": "pornorunet.ru"
+    },
+    {
+      "domain_suffix": "postbox.mos.ru"
+    },
+    {
+      "domain_suffix": "pozzitiv.ru"
+    },
+    {
+      "domain_suffix": "pr.ikovrov.ru"
+    },
+    {
+      "domain_suffix": "pr.rusmed.ru"
+    },
+    {
+      "domain_suffix": "prbn.ru"
+    },
+    {
+      "domain_suffix": "prescription-drugs.shengen.ru"
+    },
+    {
+      "domain_suffix": "prhhqo.vintagevoyage.ru"
+    },
+    {
+      "domain_suffix": "primechoice.ru"
+    },
+    {
+      "domain_suffix": "pro100news.ru"
+    },
+    {
+      "domain_suffix": "prod.html5-ads.vk-apps.com"
+    },
+    {
+      "domain_suffix": "prodalet.ru"
+    },
+    {
+      "domain_suffix": "prodmp.ru"
+    },
+    {
+      "domain_suffix": "profit-partner.ru"
+    },
+    {
+      "domain_suffix": "promo-reklama.ru"
+    },
+    {
+      "domain_suffix": "promo.partner.alawar.ru"
+    },
+    {
+      "domain_suffix": "promo.rzonline.ru"
+    },
+    {
+      "domain_suffix": "promoggaqjkd.ru"
+    },
+    {
+      "domain_suffix": "proppellerads.ru"
+    },
+    {
+      "domain_suffix": "prostoimya.kino-o-voine.ru"
+    },
+    {
+      "domain_suffix": "protizer.ru"
+    },
+    {
+      "domain_suffix": "protonix.shengen.ru"
+    },
+    {
+      "domain_suffix": "prre.ru"
+    },
+    {
+      "domain_suffix": "pt0zhwhc26.ru"
+    },
+    {
+      "domain_suffix": "ptoriq.kristall-shop.ru"
+    },
+    {
+      "domain_suffix": "punchmedia.ru"
+    },
+    {
+      "domain_suffix": "purchase.hut1.ru"
+    },
+    {
+      "domain_suffix": "pwrmar.2-berega.ru"
+    },
+    {
+      "domain_suffix": "q0mn5t187u.ru"
+    },
+    {
+      "domain_suffix": "q1ilb0enze.ru"
+    },
+    {
+      "domain_suffix": "qayenl.amberholl.ru"
+    },
+    {
+      "domain_suffix": "qblkeu.vamvelosiped.ru"
+    },
+    {
+      "domain_suffix": "qdb6gd3nth.ru"
+    },
+    {
+      "domain_suffix": "qitdsl.ralf.ru"
+    },
+    {
+      "domain_suffix": "qjxiyt.respect-shoes.ru"
+    },
+    {
+      "domain_suffix": "qkyspzfxnc.ru"
+    },
+    {
+      "domain_suffix": "qoopler.ru"
+    },
+    {
+      "domain_suffix": "qowfuv.virbacavto.ru"
+    },
+    {
+      "domain_suffix": "qq86tbqodk.ru"
+    },
+    {
+      "domain_suffix": "qshare.ru"
+    },
+    {
+      "domain_suffix": "quber.ru"
+    },
+    {
+      "domain_suffix": "quicksaledeal.su"
+    },
+    {
+      "domain_suffix": "qvnpxc.technopark.ru"
+    },
+    {
+      "domain_suffix": "qxplus.ru"
+    },
+    {
+      "domain_suffix": "r.ad1.ru"
+    },
+    {
+      "domain_suffix": "r.dimkriju.bget.ru"
+    },
+    {
+      "domain_suffix": "r.partner.badoo.ru"
+    },
+    {
+      "domain_suffix": "r.qip.ru"
+    },
+    {
+      "domain_suffix": "r.rbc.ru"
+    },
+    {
+      "domain_suffix": "r.topdent.ru"
+    },
+    {
+      "domain_suffix": "r.toplaygame.ru"
+    },
+    {
+      "domain_suffix": "r0.mail.ru"
+    },
+    {
+      "domain_suffix": "r0.mradx.net"
+    },
+    {
+      "domain_suffix": "r1.ati.su"
+    },
+    {
+      "domain_suffix": "r6.galya.ru"
+    },
+    {
+      "domain_suffix": "r9ljguu1k4.ru"
+    },
+    {
+      "domain_suffix": "rareru.ru"
+    },
+    {
+      "domain_suffix": "rasskaju.ru"
+    },
+    {
+      "domain_suffix": "rate.ru"
+    },
+    {
+      "domain_suffix": "rb.rfn.ru"
+    },
+    {
+      "domain_suffix": "rb.slova-accordy.ru"
+    },
+    {
+      "domain_suffix": "rb.sport-express.ru"
+    },
+    {
+      "domain_suffix": "rb.umspecrek.ru"
+    },
+    {
+      "domain_suffix": "rbig.pcyk.ru"
+    },
+    {
+      "domain_suffix": "rbm.tbmods.ru"
+    },
+    {
+      "domain_suffix": "rbparks.sskarta.ru"
+    },
+    {
+      "domain_suffix": "rcmjs.rambler.ru"
+    },
+    {
+      "domain_suffix": "rcounter.rambler.ru"
+    },
+    {
+      "domain_suffix": "readme.ru"
+    },
+    {
+      "domain_suffix": "readto.ru"
+    },
+    {
+      "domain_suffix": "real.delovoemesto.ru"
+    },
+    {
+      "domain_suffix": "real.dvanadva.ru"
+    },
+    {
+      "domain_suffix": "redclick.ru"
+    },
+    {
+      "domain_suffix": "redflu.ru"
+    },
+    {
+      "domain_suffix": "redsquare.rambler.ru"
+    },
+    {
+      "domain_suffix": "redsurf.ru"
+    },
+    {
+      "domain_suffix": "refer.ru"
+    },
+    {
+      "domain_suffix": "refinance.shengen.ru"
+    },
+    {
+      "domain_suffix": "regionads.ru"
+    },
+    {
+      "domain_suffix": "reklamaizer.ru"
+    },
+    {
+      "domain_suffix": "relap.mail.ru"
+    },
+    {
+      "domain_suffix": "release-me.ru"
+    },
+    {
+      "domain_suffix": "report.ap.yandex-net.ru"
+    },
+    {
+      "domain_suffix": "restless.su"
+    },
+    {
+      "domain_suffix": "restlesz.su"
+    },
+    {
+      "domain_suffix": "rezhiv.ru"
+    },
+    {
+      "domain_suffix": "rg-be.ru"
+    },
+    {
+      "domain_suffix": "richlifeads.ru"
+    },
+    {
+      "domain_suffix": "risale.ru"
+    },
+    {
+      "domain_suffix": "riverlead.ru"
+    },
+    {
+      "domain_suffix": "rkft2sdl8b.ru"
+    },
+    {
+      "domain_suffix": "rle.ru"
+    },
+    {
+      "domain_suffix": "rmbn.ru"
+    },
+    {
+      "domain_suffix": "rollad.ru"
+    },
+    {
+      "domain_suffix": "rorer.ru"
+    },
+    {
+      "domain_suffix": "rot.rusoul.ru"
+    },
+    {
+      "domain_suffix": "rot.spotsniper.ru"
+    },
+    {
+      "domain_suffix": "rotaban.ru"
+    },
+    {
+      "domain_suffix": "rotateme.ru"
+    },
+    {
+      "domain_suffix": "rott.mazlspqnn.ru"
+    },
+    {
+      "domain_suffix": "rtb-media.ru"
+    },
+    {
+      "domain_suffix": "rtb.com.ru"
+    },
+    {
+      "domain_suffix": "rtb.mts.ru"
+    },
+    {
+      "domain_suffix": "rtb.videonow.ru"
+    },
+    {
+      "domain_suffix": "rtb.wedeo.ru"
+    },
+    {
+      "domain_suffix": "rtrsda.intermodann.ru"
+    },
+    {
+      "domain_suffix": "rubird.ru"
+    },
+    {
+      "domain_suffix": "rucounter.ru"
+    },
+    {
+      "domain_suffix": "rumstat.cdnvideo.ru"
+    },
+    {
+      "domain_suffix": "rup5.destinia.ru"
+    },
+    {
+      "domain_suffix": "rushkolnik.ru"
+    },
+    {
+      "domain_suffix": "rustrackers.ru"
+    },
+    {
+      "domain_suffix": "rutarget.ru"
+    },
+    {
+      "domain_suffix": "rvvpbf.xcom-shop.ru"
+    },
+    {
+      "domain_suffix": "rymhet.posudamart.ru"
+    },
+    {
+      "domain_suffix": "s.agava.ru"
+    },
+    {
+      "domain_suffix": "s.bunkr.ru"
+    },
+    {
+      "domain_suffix": "s.clicktex.ru"
+    },
+    {
+      "domain_suffix": "s.frida.vse42.ru"
+    },
+    {
+      "domain_suffix": "s.sdx.ru"
+    },
+    {
+      "domain_suffix": "s1.intimshop.ru"
+    },
+    {
+      "domain_suffix": "sa.adidas.ru"
+    },
+    {
+      "domain_suffix": "salebestever.su"
+    },
+    {
+      "domain_suffix": "saletrybest.su"
+    },
+    {
+      "domain_suffix": "sape.ru"
+    },
+    {
+      "domain_suffix": "sasisa.ru"
+    },
+    {
+      "domain_suffix": "sb-money.ru"
+    },
+    {
+      "domain_suffix": "sbermarketing.ru"
+    },
+    {
+      "domain_suffix": "sc.mtv.ru"
+    },
+    {
+      "domain_suffix": "sc.nickelodeon.ru"
+    },
+    {
+      "domain_suffix": "scafer.ru"
+    },
+    {
+      "domain_suffix": "sceno.ru"
+    },
+    {
+      "domain_suffix": "scnt.rambler.ru"
+    },
+    {
+      "domain_suffix": "scounter.rambler.ru"
+    },
+    {
+      "domain_suffix": "searchtds.ru"
+    },
+    {
+      "domain_suffix": "seedr.ru"
+    },
+    {
+      "domain_suffix": "sentry01.zerg.rambler.ru"
+    },
+    {
+      "domain_suffix": "seo-service.domclick.ru"
+    },
+    {
+      "domain_suffix": "seo-sport.ru"
+    },
+    {
+      "domain_suffix": "seobloger.ru"
+    },
+    {
+      "domain_suffix": "seogift.ru"
+    },
+    {
+      "domain_suffix": "seopult.ru"
+    },
+    {
+      "domain_suffix": "seorate.ru"
+    },
+    {
+      "domain_suffix": "serialinfo.ru"
+    },
+    {
+      "domain_suffix": "services.bionika-digital.ru"
+    },
+    {
+      "domain_suffix": "sexgramm.ru"
+    },
+    {
+      "domain_suffix": "sgood.ru"
+    },
+    {
+      "domain_suffix": "sgtm.dubai-investments.ru"
+    },
+    {
+      "domain_suffix": "sgtm.stihl.ru"
+    },
+    {
+      "domain_suffix": "shakeson.ru"
+    },
+    {
+      "domain_suffix": "sharemefiles.ru"
+    },
+    {
+      "domain_suffix": "sharp.ondu.ru"
+    },
+    {
+      "domain_suffix": "showbiz.mail.ru"
+    },
+    {
+      "domain_suffix": "sjyskm.litres.ru"
+    },
+    {
+      "domain_suffix": "skwstat.ru"
+    },
+    {
+      "domain_suffix": "skypromotion.ru"
+    },
+    {
+      "domain_suffix": "sl-h-statistics-ch-1.storeland.ru"
+    },
+    {
+      "domain_suffix": "slefle.tvoydom.ru"
+    },
+    {
+      "domain_suffix": "sm-ini.ru"
+    },
+    {
+      "domain_suffix": "smartbn.ru"
+    },
+    {
+      "domain_suffix": "smetric.volkswagen-commercial.ru"
+    },
+    {
+      "domain_suffix": "smetric.volkswagen.ru"
+    },
+    {
+      "domain_suffix": "smetrics.americanairlines.com.ru"
+    },
+    {
+      "domain_suffix": "smetrics.babycenter.ru"
+    },
+    {
+      "domain_suffix": "smetrics.marketing.lighting.philips.ru"
+    },
+    {
+      "domain_suffix": "smetrics.nexgard.ru"
+    },
+    {
+      "domain_suffix": "smetrics.sony.ru"
+    },
+    {
+      "domain_suffix": "smetrics.tiffany.ru"
+    },
+    {
+      "domain_suffix": "smigid.ru"
+    },
+    {
+      "domain_suffix": "sminewsnet.ru"
+    },
+    {
+      "domain_suffix": "smmmkl.hoff.ru"
+    },
+    {
+      "domain_suffix": "sniperlog.ru"
+    },
+    {
+      "domain_suffix": "snljxd.tdarsenal.ru"
+    },
+    {
+      "domain_suffix": "snsv.ru"
+    },
+    {
+      "domain_suffix": "sobolev.net.ru"
+    },
+    {
+      "domain_suffix": "socgate.ru"
+    },
+    {
+      "domain_suffix": "solodar.ru"
+    },
+    {
+      "domain_suffix": "soma-store.visa-usa.ru"
+    },
+    {
+      "domain_suffix": "sopr-api.cian.ru"
+    },
+    {
+      "domain_suffix": "sp.aviasales.com"
+    },
+    {
+      "domain_suffix": "sp.aviasales.ru"
+    },
+    {
+      "domain_suffix": "sp9hb5jy81iw.ru"
+    },
+    {
+      "domain_suffix": "spitter.pauk.ru"
+    },
+    {
+      "domain_suffix": "splachujeme.sanela.ru"
+    },
+    {
+      "domain_suffix": "spmyma.moscowfresh.ru"
+    },
+    {
+      "domain_suffix": "sportbets.su"
+    },
+    {
+      "domain_suffix": "spots.ru"
+    },
+    {
+      "domain_suffix": "sputnik1.ru"
+    },
+    {
+      "domain_suffix": "spylog.ru"
+    },
+    {
+      "domain_suffix": "spytrack.tic.ru"
+    },
+    {
+      "domain_suffix": "spyware-removers.shengen.ru"
+    },
+    {
+      "domain_suffix": "sqcmgr.nils.ru"
+    },
+    {
+      "domain_suffix": "ss.samolet.ru"
+    },
+    {
+      "domain_suffix": "ssc.mtv.ru"
+    },
+    {
+      "domain_suffix": "ssp.rutube.ru"
+    },
+    {
+      "domain_suffix": "sstats.seat.ru"
+    },
+    {
+      "domain_suffix": "st.film.ru"
+    },
+    {
+      "domain_suffix": "st.top100.ru"
+    },
+    {
+      "domain_suffix": "start.fotostrana.ru"
+    },
+    {
+      "domain_suffix": "startmarket.su"
+    },
+    {
+      "domain_suffix": "startscript.ru"
+    },
+    {
+      "domain_suffix": "startup-mobile.ap.yandex-net.ru"
+    },
+    {
+      "domain_suffix": "startup.mobile.yandex.net"
+    },
+    {
+      "domain_suffix": "stat-analytics.mediavitrina.ru"
+    },
+    {
+      "domain_suffix": "stat-feedot.ru"
+    },
+    {
+      "domain_suffix": "stat.5-tv.ru"
+    },
+    {
+      "domain_suffix": "stat.clickfrog.ru"
+    },
+    {
+      "domain_suffix": "stat.ntv.ru"
+    },
+    {
+      "domain_suffix": "stat.okko.tv"
+    },
+    {
+      "domain_suffix": "stat.radar.imgsmail.ru"
+    },
+    {
+      "domain_suffix": "stat.rare.ru"
+    },
+    {
+      "domain_suffix": "stat.rum.cdnvideo.ru"
+    },
+    {
+      "domain_suffix": "stat.ruvr.ru"
+    },
+    {
+      "domain_suffix": "stat.sputnik.ru"
+    },
+    {
+      "domain_suffix": "stat.tvigle.ru"
+    },
+    {
+      "domain_suffix": "stat.videonow.ru"
+    },
+    {
+      "domain_suffix": "stat1.clickfraud.ru"
+    },
+    {
+      "domain_suffix": "stat24.ru"
+    },
+    {
+      "domain_suffix": "statad.ru"
+    },
+    {
+      "domain_suffix": "statafun.ru"
+    },
+    {
+      "domain_suffix": "static-mon.yandex.net"
+    },
+    {
+      "domain_suffix": "static.terrhq.ru"
+    },
+    {
+      "domain_suffix": "statistics.fppressa.ru"
+    },
+    {
+      "domain_suffix": "statpipe.ru"
+    },
+    {
+      "domain_suffix": "stats.astrr.ru"
+    },
+    {
+      "domain_suffix": "stats.avito.ru"
+    },
+    {
+      "domain_suffix": "stats.bunkr.ru"
+    },
+    {
+      "domain_suffix": "stats.gastronom.ru"
+    },
+    {
+      "domain_suffix": "stats.kod.ru"
+    },
+    {
+      "domain_suffix": "stats.lptracker.ru"
+    },
+    {
+      "domain_suffix": "stats.mos.ru"
+    },
+    {
+      "domain_suffix": "stats.otbivnoe.ru"
+    },
+    {
+      "domain_suffix": "stats.rustore.ru"
+    },
+    {
+      "domain_suffix": "stats.tiffany.com.ru"
+    },
+    {
+      "domain_suffix": "stats.travelask.ru"
+    },
+    {
+      "domain_suffix": "stats.vdsnow.ru"
+    },
+    {
+      "domain_suffix": "stats.vk-portal.net"
+    },
+    {
+      "domain_suffix": "stats2.videonow.ru"
+    },
+    {
+      "domain_suffix": "stbid.ru"
+    },
+    {
+      "domain_suffix": "stghyx.citilink.ru"
+    },
+    {
+      "domain_suffix": "stracker.rmg.ru"
+    },
+    {
+      "domain_suffix": "stream.datago.ru"
+    },
+    {
+      "domain_suffix": "sunhe.jinr.ru"
+    },
+    {
+      "domain_suffix": "super-traf.ru"
+    },
+    {
+      "domain_suffix": "superstyle.ru"
+    },
+    {
+      "domain_suffix": "supertop.ru"
+    },
+    {
+      "domain_suffix": "suprion.ru"
+    },
+    {
+      "domain_suffix": "sv-pr.ru"
+    },
+    {
+      "domain_suffix": "svi.online.sberbank.ru"
+    },
+    {
+      "domain_suffix": "svk-native.ru"
+    },
+    {
+      "domain_suffix": "sw88.disney.ru"
+    },
+    {
+      "domain_suffix": "swkism.moon-trade.ru"
+    },
+    {
+      "domain_suffix": "swqleb.adidas.ru"
+    },
+    {
+      "domain_suffix": "sync.morgdm.ru"
+    },
+    {
+      "domain_suffix": "sync.opendsp.ru"
+    },
+    {
+      "domain_suffix": "sys.refocus.ru"
+    },
+    {
+      "domain_suffix": "t.antalis.ru"
+    },
+    {
+      "domain_suffix": "t.sports.ru"
+    },
+    {
+      "domain_suffix": "t.sur.new.gorodkirov.ru"
+    },
+    {
+      "domain_suffix": "tag.datariver.ru"
+    },
+    {
+      "domain_suffix": "tag.perx.ru"
+    },
+    {
+      "domain_suffix": "tagcommander.laredoute.ru"
+    },
+    {
+      "domain_suffix": "tags.soloway.ru"
+    },
+    {
+      "domain_suffix": "takeallsoft.ru"
+    },
+    {
+      "domain_suffix": "tapstat.ru"
+    },
+    {
+      "domain_suffix": "tapulsads.ru"
+    },
+    {
+      "domain_suffix": "target.mirtesen.ru"
+    },
+    {
+      "domain_suffix": "target.smi2.ru"
+    },
+    {
+      "domain_suffix": "targetman.ru"
+    },
+    {
+      "domain_suffix": "targetseek.ru"
+    },
+    {
+      "domain_suffix": "tbe.tom.ru"
+    },
+    {
+      "domain_suffix": "tbex.ru"
+    },
+    {
+      "domain_suffix": "tccjxk.123.ru"
+    },
+    {
+      "domain_suffix": "tds.vrcteam.ru"
+    },
+    {
+      "domain_suffix": "teaser-goods.ru"
+    },
+    {
+      "domain_suffix": "teasergold.ru"
+    },
+    {
+      "domain_suffix": "teasernet.ru"
+    },
+    {
+      "domain_suffix": "teasers.ru"
+    },
+    {
+      "domain_suffix": "teasers.ucoz.ru"
+    },
+    {
+      "domain_suffix": "techms-shop.su"
+    },
+    {
+      "domain_suffix": "teeser.ru"
+    },
+    {
+      "domain_suffix": "telecid.ru"
+    },
+    {
+      "domain_suffix": "telemetry.dzen.ru"
+    },
+    {
+      "domain_suffix": "teletarget.ru"
+    },
+    {
+      "domain_suffix": "test-studio.ru"
+    },
+    {
+      "domain_suffix": "test.besstidniki.ru"
+    },
+    {
+      "domain_suffix": "testingmetriksbre.ru"
+    },
+    {
+      "domain_suffix": "testsbox.ru"
+    },
+    {
+      "domain_suffix": "texas-holdem.shengen.ru"
+    },
+    {
+      "domain_suffix": "textun.ru"
+    },
+    {
+      "domain_suffix": "tg.mybb.ru"
+    },
+    {
+      "domain_suffix": "tgb.hsmedia.ru"
+    },
+    {
+      "domain_suffix": "tgel2ebtx.ru"
+    },
+    {
+      "domain_suffix": "thj.astrakhan.ru"
+    },
+    {
+      "domain_suffix": "tizer.passion.ru"
+    },
+    {
+      "domain_suffix": "tizer24.ru"
+    },
+    {
+      "domain_suffix": "tizerbox.ru"
+    },
+    {
+      "domain_suffix": "tizernaya-reklama.ru"
+    },
+    {
+      "domain_suffix": "tizeroff.ru"
+    },
+    {
+      "domain_suffix": "tizy.ru"
+    },
+    {
+      "domain_suffix": "tk.airfrance.ru"
+    },
+    {
+      "domain_suffix": "tk.promit.ru"
+    },
+    {
+      "domain_suffix": "tle.ru"
+    },
+    {
+      "domain_suffix": "tms.dmp.wi-fi.ru"
+    },
+    {
+      "domain_suffix": "tnative.ru"
+    },
+    {
+      "domain_suffix": "tns-counter.ru"
+    },
+    {
+      "domain_suffix": "todaymix.ru"
+    },
+    {
+      "domain_suffix": "top-fwz1.mail.ru"
+    },
+    {
+      "domain_suffix": "top-staging.mail.ru"
+    },
+    {
+      "domain_suffix": "top.elec.ru"
+    },
+    {
+      "domain_suffix": "top.list.ru"
+    },
+    {
+      "domain_suffix": "top.mail.ru"
+    },
+    {
+      "domain_suffix": "top.t-sk.ru"
+    },
+    {
+      "domain_suffix": "top100-images.rambler.ru"
+    },
+    {
+      "domain_suffix": "top100.ezar.ru"
+    },
+    {
+      "domain_suffix": "top100.mafia.ru"
+    },
+    {
+      "domain_suffix": "top100.rambler.ru"
+    },
+    {
+      "domain_suffix": "top100.vkirove.ru"
+    },
+    {
+      "domain_suffix": "top5.mail.ru"
+    },
+    {
+      "domain_suffix": "topadvert.ru"
+    },
+    {
+      "domain_suffix": "topcpa.ru"
+    },
+    {
+      "domain_suffix": "topcto.ru"
+    },
+    {
+      "domain_suffix": "topiz.ru"
+    },
+    {
+      "domain_suffix": "torgnn.ru"
+    },
+    {
+      "domain_suffix": "tr.samoresim.ru"
+    },
+    {
+      "domain_suffix": "tr1.kaspersky.ru"
+    },
+    {
+      "domain_suffix": "tr2.kaspersky.ru"
+    },
+    {
+      "domain_suffix": "track-mixer.ru"
+    },
+    {
+      "domain_suffix": "track.ddmanager.ru"
+    },
+    {
+      "domain_suffix": "track.price.ru"
+    },
+    {
+      "domain_suffix": "track.tproger.ru"
+    },
+    {
+      "domain_suffix": "track2.tprg.ru"
+    },
+    {
+      "domain_suffix": "tracking.gpm-rtv.ru"
+    },
+    {
+      "domain_suffix": "tracking.m.mercedes-benz.ru"
+    },
+    {
+      "domain_suffix": "tracking.omron.ru"
+    },
+    {
+      "domain_suffix": "tradedealvip.su"
+    },
+    {
+      "domain_suffix": "tradeleads.su"
+    },
+    {
+      "domain_suffix": "traff.ru"
+    },
+    {
+      "domain_suffix": "traffbiz.ru"
+    },
+    {
+      "domain_suffix": "traffic.ru"
+    },
+    {
+      "domain_suffix": "trafficcost.ru"
+    },
+    {
+      "domain_suffix": "trafka.ru"
+    },
+    {
+      "domain_suffix": "trigub.ru"
+    },
+    {
+      "domain_suffix": "trkleads.ru"
+    },
+    {
+      "domain_suffix": "tsr.zlatoff.ru"
+    },
+    {
+      "domain_suffix": "ttarget.ru"
+    },
+    {
+      "domain_suffix": "ttnet.yandex.com.tr"
+    },
+    {
+      "domain_suffix": "ttrace.ru"
+    },
+    {
+      "domain_suffix": "tubedot.ru"
+    },
+    {
+      "domain_suffix": "twinzo.ru"
+    },
+    {
+      "domain_suffix": "tx2.ru"
+    },
+    {
+      "domain_suffix": "u7kgr54jr7.ru"
+    },
+    {
+      "domain_suffix": "uaas.yandex.ru"
+    },
+    {
+      "domain_suffix": "ubar-pro4.ru"
+    },
+    {
+      "domain_suffix": "uc.xddi.ru"
+    },
+    {
+      "domain_suffix": "ukrashulya.ru"
+    },
+    {
+      "domain_suffix": "ukxefa.bonkids.ru"
+    },
+    {
+      "domain_suffix": "ulclick.ru"
+    },
+    {
+      "domain_suffix": "ulogin-stats.ru"
+    },
+    {
+      "domain_suffix": "ulogix.ru"
+    },
+    {
+      "domain_suffix": "umekana.ru"
+    },
+    {
+      "domain_suffix": "umgpjdlllhl.ru"
+    },
+    {
+      "domain_suffix": "umyugu88.ru"
+    },
+    {
+      "domain_suffix": "underclick.ru"
+    },
+    {
+      "domain_suffix": "underdone.ru"
+    },
+    {
+      "domain_suffix": "unisound.cdnvideo.ru"
+    },
+    {
+      "domain_suffix": "upclick.ru"
+    },
+    {
+      "domain_suffix": "uppro.ru"
+    },
+    {
+      "domain_suffix": "upstats.ru"
+    },
+    {
+      "domain_suffix": "uptime.monitorus.ru"
+    },
+    {
+      "domain_suffix": "userdata.ati.su"
+    },
+    {
+      "domain_suffix": "usnvuj.skillfactory.ru"
+    },
+    {
+      "domain_suffix": "utarget.ru"
+    },
+    {
+      "domain_suffix": "valium.este.ru"
+    },
+    {
+      "domain_suffix": "valium.hut1.ru"
+    },
+    {
+      "domain_suffix": "vastroll.ru"
+    },
+    {
+      "domain_suffix": "vdrfga.deagoshop.ru"
+    },
+    {
+      "domain_suffix": "vertelka.ru"
+    },
+    {
+      "domain_suffix": "veutax.atlasformen.ru"
+    },
+    {
+      "domain_suffix": "vezetmne.ru"
+    },
+    {
+      "domain_suffix": "vhodzh.pdonna.ru"
+    },
+    {
+      "domain_suffix": "viagra-store.shengen.ru"
+    },
+    {
+      "domain_suffix": "viboom.ru"
+    },
+    {
+      "domain_suffix": "vicepiter.ru"
+    },
+    {
+      "domain_suffix": "vicodin-store.shengen.ru"
+    },
+    {
+      "domain_suffix": "video-play.ru"
+    },
+    {
+      "domain_suffix": "video.market-place.su"
+    },
+    {
+      "domain_suffix": "video.videonow.ru"
+    },
+    {
+      "domain_suffix": "videofan.ru"
+    },
+    {
+      "domain_suffix": "videoklass.ru"
+    },
+    {
+      "domain_suffix": "videoprodavec.ru"
+    },
+    {
+      "domain_suffix": "vidigital.ru"
+    },
+    {
+      "domain_suffix": "vidroll.ru"
+    },
+    {
+      "domain_suffix": "vidtok.ru"
+    },
+    {
+      "domain_suffix": "vimgs.ru"
+    },
+    {
+      "domain_suffix": "vira.ru"
+    },
+    {
+      "domain_suffix": "viral-cdn.ru"
+    },
+    {
+      "domain_suffix": "visor.sberbank.ru"
+    },
+    {
+      "domain_suffix": "vjmqdx.nozhikov.ru"
+    },
+    {
+      "domain_suffix": "vk-ads.ru"
+    },
+    {
+      "domain_suffix": "vk-analytics.ru"
+    },
+    {
+      "domain_suffix": "vmkxcsss.ru"
+    },
+    {
+      "domain_suffix": "vogozae.ru"
+    },
+    {
+      "domain_suffix": "vogozara.ru"
+    },
+    {
+      "domain_suffix": "volgograd-info.ru"
+    },
+    {
+      "domain_suffix": "vologda-info.ru"
+    },
+    {
+      "domain_suffix": "voob.ru"
+    },
+    {
+      "domain_suffix": "voronezh136.ru"
+    },
+    {
+      "domain_suffix": "vst.sibnet.ru"
+    },
+    {
+      "domain_suffix": "vtdoska.ru"
+    },
+    {
+      "domain_suffix": "vuryua.ru"
+    },
+    {
+      "domain_suffix": "vybbem.mk.ru"
+    },
+    {
+      "domain_suffix": "vybbem.womanhit.ru"
+    },
+    {
+      "domain_suffix": "vyborexperta.ru"
+    },
+    {
+      "domain_suffix": "vzarabotke.ru"
+    },
+    {
+      "domain_suffix": "w.rulive.ru"
+    },
+    {
+      "domain_suffix": "w4h5ae.ru"
+    },
+    {
+      "domain_suffix": "w716eb02n9.ru"
+    },
+    {
+      "domain_suffix": "w88.disney.ru"
+    },
+    {
+      "domain_suffix": "wapstart.ru"
+    },
+    {
+      "domain_suffix": "warlog.ru"
+    },
+    {
+      "domain_suffix": "wct.softonic.ru"
+    },
+    {
+      "domain_suffix": "webgringo.ru"
+    },
+    {
+      "domain_suffix": "webhosting.hut1.ru"
+    },
+    {
+      "domain_suffix": "webkurchatov.ru"
+    },
+    {
+      "domain_suffix": "weborama-tech.ru"
+    },
+    {
+      "domain_suffix": "weborg.hut1.ru"
+    },
+    {
+      "domain_suffix": "webserv.mos.ru"
+    },
+    {
+      "domain_suffix": "websharks.ru"
+    },
+    {
+      "domain_suffix": "webtalking.ru"
+    },
+    {
+      "domain_suffix": "webteaser.ru"
+    },
+    {
+      "domain_suffix": "webtrafic.ru"
+    },
+    {
+      "domain_suffix": "webturn.ru"
+    },
+    {
+      "domain_suffix": "webunder.ru"
+    },
+    {
+      "domain_suffix": "webvisor.com"
+    },
+    {
+      "domain_suffix": "webvisor.ru"
+    },
+    {
+      "domain_suffix": "weight-loss.hut1.ru"
+    },
+    {
+      "domain_suffix": "wfkemc.dmsky.ru"
+    },
+    {
+      "domain_suffix": "whiteboxdigital.ru"
+    },
+    {
+      "domain_suffix": "widget.market-place.su"
+    },
+    {
+      "domain_suffix": "widget.socialmart.ru"
+    },
+    {
+      "domain_suffix": "widget.sparrow.ru"
+    },
+    {
+      "domain_suffix": "widget.utinet.ru"
+    },
+    {
+      "domain_suffix": "widgets.planeta.ru"
+    },
+    {
+      "domain_suffix": "wkndiu.profi.ru"
+    },
+    {
+      "domain_suffix": "wmcasher.ru"
+    },
+    {
+      "domain_suffix": "wmclickz.ru"
+    },
+    {
+      "domain_suffix": "wmip.ru"
+    },
+    {
+      "domain_suffix": "wmirk.ru"
+    },
+    {
+      "domain_suffix": "wmlink.ru"
+    },
+    {
+      "domain_suffix": "wolist.ru"
+    },
+    {
+      "domain_suffix": "womenclick.ru"
+    },
+    {
+      "domain_suffix": "woqcfy.sony.ru"
+    },
+    {
+      "domain_suffix": "workon.ru"
+    },
+    {
+      "domain_suffix": "wowlink.ru"
+    },
+    {
+      "domain_suffix": "wowmoscow.ru"
+    },
+    {
+      "domain_suffix": "wstat.ozon.ru"
+    },
+    {
+      "domain_suffix": "wsytyz.tts.ru"
+    },
+    {
+      "domain_suffix": "wwgate.ru"
+    },
+    {
+      "domain_suffix": "wwokkf.laredoute.ru"
+    },
+    {
+      "domain_suffix": "wwpon365.ru"
+    },
+    {
+      "domain_suffix": "www-banner.chat.ru"
+    },
+    {
+      "domain_suffix": "www.5738.ru"
+    },
+    {
+      "domain_suffix": "www.ad-words.ru"
+    },
+    {
+      "domain_suffix": "www.allworldinfo5.ru"
+    },
+    {
+      "domain_suffix": "www.androidstores.ru"
+    },
+    {
+      "domain_suffix": "www.armolipid.com.ru"
+    },
+    {
+      "domain_suffix": "www.be4life.ru"
+    },
+    {
+      "domain_suffix": "www.fasder12.ru"
+    },
+    {
+      "domain_suffix": "www.iskustvenny-intellekt.ru"
+    },
+    {
+      "domain_suffix": "www.mir-stalkera.ru"
+    },
+    {
+      "domain_suffix": "www.mkpzmq.crocs.ru"
+    },
+    {
+      "domain_suffix": "www.qatro.ru"
+    },
+    {
+      "domain_suffix": "www.rbdomain.ru"
+    },
+    {
+      "domain_suffix": "www.rbp1.ru"
+    },
+    {
+      "domain_suffix": "www.rbp2.ru"
+    },
+    {
+      "domain_suffix": "www.rbp3.ru"
+    },
+    {
+      "domain_suffix": "www.rbp63841.ru"
+    },
+    {
+      "domain_suffix": "www.rbpark2.ru"
+    },
+    {
+      "domain_suffix": "www.rbpark3.ru"
+    },
+    {
+      "domain_suffix": "www.rbprk91645.ru"
+    },
+    {
+      "domain_suffix": "www.realbi5.ru"
+    },
+    {
+      "domain_suffix": "www.rlrt.ru"
+    },
+    {
+      "domain_suffix": "www.step555.ru"
+    },
+    {
+      "domain_suffix": "www.videostan.ru"
+    },
+    {
+      "domain_suffix": "www.xbn.ru"
+    },
+    {
+      "domain_suffix": "www.xz8.ru"
+    },
+    {
+      "domain_suffix": "wwwomen.ru"
+    },
+    {
+      "domain_suffix": "xanax-store.shengen.ru"
+    },
+    {
+      "domain_suffix": "xcec.ru"
+    },
+    {
+      "domain_suffix": "xjpakmdcfuqe.ru"
+    },
+    {
+      "domain_suffix": "xjsefd.materik-m.ru"
+    },
+    {
+      "domain_suffix": "xmemory.ru"
+    },
+    {
+      "domain_suffix": "xmwiyb.maje.ru"
+    },
+    {
+      "domain_suffix": "xn--80afden1bnch4a.xn--p1ai"
+    },
+    {
+      "domain_suffix": "xoor.ru"
+    },
+    {
+      "domain_suffix": "xray.mail.ru"
+    },
+    {
+      "domain_suffix": "xrxybn.kotofey-shop.ru"
+    },
+    {
+      "domain_suffix": "xtgfujmknprb.ru"
+    },
+    {
+      "domain_suffix": "xuawdz.xn--b1aedqiqb.xn--p1ai"
+    },
+    {
+      "domain_suffix": "xuddeg.rukzakoff.ru"
+    },
+    {
+      "domain_suffix": "xvjnwf.deagostini.ru"
+    },
+    {
+      "domain_suffix": "xycgec.theoutlet.ru"
+    },
+    {
+      "domain_suffix": "y8lsyibocd.ru"
+    },
+    {
+      "domain_suffix": "yadro.ru"
+    },
+    {
+      "domain_suffix": "yandexadexchange.net"
+    },
+    {
+      "domain_suffix": "yandexmetrica.com"
+    },
+    {
+      "domain_suffix": "yatr.ru"
+    },
+    {
+      "domain_suffix": "ybej5ohp0x.ru"
+    },
+    {
+      "domain_suffix": "yefktd.avito.ru"
+    },
+    {
+      "domain_suffix": "yijrqx.rybalka4you.ru"
+    },
+    {
+      "domain_suffix": "yip.su"
+    },
+    {
+      "domain_suffix": "ynyy83za4i.ru"
+    },
+    {
+      "domain_suffix": "yourhlth.ru.com"
+    },
+    {
+      "domain_suffix": "ypcdbw.drive2.ru"
+    },
+    {
+      "domain_suffix": "ywfycv.baby-products.ru"
+    },
+    {
+      "domain_suffix": "z3.skdfoiqwjelmdkfser.ru"
+    },
+    {
+      "domain_suffix": "zapbox.ru"
+    },
+    {
+      "domain_suffix": "zarabotki.ru"
+    },
+    {
+      "domain_suffix": "zbs.etodomendlyareklamy.ru"
+    },
+    {
+      "domain_suffix": "zbyynuew9g.ru"
+    },
+    {
+      "domain_suffix": "zgqgig.skillbox.ru"
+    },
+    {
+      "domain_suffix": "zlolhl.3dnews.ru"
+    },
+    {
+      "domain_suffix": "zlolhl.mediametrics.ru"
+    },
+    {
+      "domain_suffix": "zmqdez.ru"
+    },
+    {
+      "domain_suffix": "zoda.ru"
+    },
+    {
+      "domain_suffix": "zorkabiz.ru"
+    },
+    {
+      "domain_suffix": "zqwe.ru"
+    },
+    {
+      "domain_suffix": "zszhfffyd.ru"
+    },
+    {
+      "domain_suffix": "zyban-store.shengen.ru"
+    },
+    {
+      "domain_suffix": "zzfsli.tom-tailor.ru"
+    }
+  ]
+}

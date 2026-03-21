@@ -2,13 +2,124 @@
   "version": 1,
   "rules": [
     {
+      "domain_suffix": "2gis.com"
+    },
+    {
+      "domain_suffix": "api.ipify.org"
+    },
+    {
+      "domain_suffix": "checkip.amazonaws.com"
+    },
+    {
+      "domain_suffix": "drweb.com"
+    },
+    {
+      "domain_suffix": "giga.chat"
+    },
+    {
+      "domain_suffix": "ifconfig.me"
+    },
+    {
+      "domain_suffix": "kaspersky-labs.com"
+    },
+    {
+      "domain_suffix": "kaspersky-labs.net"
+    },
+    {
+      "domain_suffix": "kaspersky.com"
+    },
+    {
+      "domain_suffix": "mradx.net"
+    },
+    {
+      "domain_suffix": "mvk.com"
+    },
+    {
       "domain_suffix": "naydex.net"
+    },
+    {
+      "domain_suffix": "okko.tv"
+    },
+    {
+      "domain_suffix": "premier.one"
     },
     {
       "domain_suffix": "rostaxi.org"
     },
     {
+      "domain_suffix": "salute.ai"
+    },
+    {
       "domain_suffix": "turbopages.org"
+    },
+    {
+      "domain_suffix": "userapi.com"
+    },
+    {
+      "domain_suffix": "vk-apps.com"
+    },
+    {
+      "domain_suffix": "vk-cdn.me"
+    },
+    {
+      "domain_suffix": "vk-cdn.net"
+    },
+    {
+      "domain_suffix": "vk-portal.net"
+    },
+    {
+      "domain_suffix": "vk.cc"
+    },
+    {
+      "domain_suffix": "vk.com"
+    },
+    {
+      "domain_suffix": "vk.company"
+    },
+    {
+      "domain_suffix": "vk.design"
+    },
+    {
+      "domain_suffix": "vk.link"
+    },
+    {
+      "domain_suffix": "vk.me"
+    },
+    {
+      "domain_suffix": "vk.team"
+    },
+    {
+      "domain_suffix": "vkcache.com"
+    },
+    {
+      "domain_suffix": "vkgo.app"
+    },
+    {
+      "domain_suffix": "vklive.app"
+    },
+    {
+      "domain_suffix": "vkmessenger.app"
+    },
+    {
+      "domain_suffix": "vkmessenger.com"
+    },
+    {
+      "domain_suffix": "vkuser.net"
+    },
+    {
+      "domain_suffix": "vkuseraudio.com"
+    },
+    {
+      "domain_suffix": "vkuseraudio.net"
+    },
+    {
+      "domain_suffix": "vkuserlive.net"
+    },
+    {
+      "domain_suffix": "vkuservideo.com"
+    },
+    {
+      "domain_suffix": "vkuservideo.net"
     },
     {
       "domain_suffix": "webvisor.com"
@@ -144,117 +255,6 @@
     },
     {
       "domain": "yandex-pogoda.static-storage.net"
-    },
-    {
-      "domain_suffix": "mradx.net"
-    },
-    {
-      "domain_suffix": "mvk.com"
-    },
-    {
-      "domain_suffix": "userapi.com"
-    },
-    {
-      "domain_suffix": "vk-apps.com"
-    },
-    {
-      "domain_suffix": "vk-cdn.me"
-    },
-    {
-      "domain_suffix": "vk-cdn.net"
-    },
-    {
-      "domain_suffix": "vk-portal.net"
-    },
-    {
-      "domain_suffix": "vk.cc"
-    },
-    {
-      "domain_suffix": "vk.com"
-    },
-    {
-      "domain_suffix": "vk.company"
-    },
-    {
-      "domain_suffix": "vk.design"
-    },
-    {
-      "domain_suffix": "vk.link"
-    },
-    {
-      "domain_suffix": "vk.me"
-    },
-    {
-      "domain_suffix": "vk.team"
-    },
-    {
-      "domain_suffix": "vkcache.com"
-    },
-    {
-      "domain_suffix": "vkgo.app"
-    },
-    {
-      "domain_suffix": "vklive.app"
-    },
-    {
-      "domain_suffix": "vkmessenger.app"
-    },
-    {
-      "domain_suffix": "vkmessenger.com"
-    },
-    {
-      "domain_suffix": "vkuser.net"
-    },
-    {
-      "domain_suffix": "vkuseraudio.com"
-    },
-    {
-      "domain_suffix": "vkuseraudio.net"
-    },
-    {
-      "domain_suffix": "vkuserlive.net"
-    },
-    {
-      "domain_suffix": "vkuservideo.com"
-    },
-    {
-      "domain_suffix": "vkuservideo.net"
-    },
-    {
-      "domain_suffix": "2gis.com"
-    },
-    {
-      "domain_suffix": "okko.tv"
-    },
-    {
-      "domain_suffix": "premier.one"
-    },
-    {
-      "domain_suffix": "giga.chat"
-    },
-    {
-      "domain_suffix": "salute.ai"
-    },
-    {
-      "domain_suffix": "kaspersky.com"
-    },
-    {
-      "domain_suffix": "kaspersky-labs.com"
-    },
-    {
-      "domain_suffix": "kaspersky-labs.net"
-    },
-    {
-      "domain_suffix": "drweb.com"
-    },
-    {
-      "domain_suffix": "ifconfig.me"
-    },
-    {
-      "domain_suffix": "api.ipify.org"
-    },
-    {
-      "domain_suffix": "checkip.amazonaws.com"
     }
   ]
 }

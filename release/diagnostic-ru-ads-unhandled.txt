@@ -1,0 +1,9 @@
+# Ignored direct-universe keywords (not included into canonical direct universe matching)
+
+# Ignored direct-universe regexp
+
+# Ignored ad keywords for canonical ru-ads
+
+# Manual add keywords/regexp (ignored in canonical v1)
+
+# Manual allow keywords/regexp (ignored in canonical v1)

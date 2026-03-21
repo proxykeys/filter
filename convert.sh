@@ -43,6 +43,18 @@ RU_ADS_ALLOW_SOURCE="${ROOT_DIR}/ru-ads-allow.txt"
 
 mkdir -p "${RELEASE_DIR}"
 
+# Удаляем старые legacy-имена ru-ads файлов
+rm -f \
+  "${RELEASE_DIR}/mihomo-ru-ads.txt" \
+  "${RELEASE_DIR}/shadowrocket-ru-ads.txt" \
+  "${RELEASE_DIR}/clash-ru-ads.yaml" \
+  "${RELEASE_DIR}/singbox-ru-ads.json" \
+  "${RELEASE_DIR}/adguard-home-ru-ads.txt" \
+  "${RELEASE_DIR}/pihole-ru-ads.txt" \
+  "${RELEASE_DIR}/hosts-ru-ads.txt" \
+  "${RELEASE_DIR}/dnsmasq-ru-ads.conf" \
+  "${RELEASE_DIR}/plain-ru-ads.txt"
+
 # URLs
 ANTIFILTER_DOMAINS_URL="https://community.antifilter.download/list/domains.lst"
 ANTIFILTER_COMMUNITY_IP_URL="https://community.antifilter.download/list/community.lst"
@@ -488,18 +500,18 @@ ru_ads_domains = compress_domains(ru_ads_domains)
 ru_ads_fulls = remove_fulls_covered_by_domains(ru_ads_fulls, ru_ads_domains)
 
 render_canonical(release / "canonical-ru-ads.txt", ru_ads_domains, ru_ads_fulls)
-render_pihole(release / "plain-ru-ads.txt", ru_ads_domains, ru_ads_fulls)
+render_pihole(release / "plain-ru-ads-domains.txt", ru_ads_domains, ru_ads_fulls)
 
 # ===== RU ads client formats =====
 
-render_surge(release / "mihomo-ru-ads.txt", ru_ads_domains, ru_ads_fulls)
-render_surge(release / "shadowrocket-ru-ads.txt", ru_ads_domains, ru_ads_fulls)
-render_clash_yaml_domains(release / "clash-ru-ads.yaml", ru_ads_domains, ru_ads_fulls)
-render_singbox_domains(release / "singbox-ru-ads.json", ru_ads_domains, ru_ads_fulls)
-render_adguard_home(release / "adguard-home-ru-ads.txt", ru_ads_domains, ru_ads_fulls)
-render_pihole(release / "pihole-ru-ads.txt", ru_ads_domains, ru_ads_fulls)
-render_hosts(release / "hosts-ru-ads.txt", ru_ads_domains, ru_ads_fulls)
-render_dnsmasq_block(release / "dnsmasq-ru-ads.conf", ru_ads_domains, ru_ads_fulls)
+render_surge(release / "mihomo-ru-ads-domains.txt", ru_ads_domains, ru_ads_fulls)
+render_surge(release / "shadowrocket-ru-ads-domains.txt", ru_ads_domains, ru_ads_fulls)
+render_clash_yaml_domains(release / "clash-ru-ads-domains.yaml", ru_ads_domains, ru_ads_fulls)
+render_singbox_domains(release / "singbox-ru-ads-domains.json", ru_ads_domains, ru_ads_fulls)
+render_adguard_home(release / "adguard-home-ru-ads-domains.txt", ru_ads_domains, ru_ads_fulls)
+render_pihole(release / "pihole-ru-ads-domains.txt", ru_ads_domains, ru_ads_fulls)
+render_hosts(release / "hosts-ru-ads-domains.txt", ru_ads_domains, ru_ads_fulls)
+render_dnsmasq_block(release / "dnsmasq-ru-ads-domains.conf", ru_ads_domains, ru_ads_fulls)
 
 # ===== Diagnostics =====
 
@@ -557,7 +569,9 @@ log "✅ Готово"
 log "Основные новые файлы:"
 log "  release/canonical-client-direct-universe.txt"
 log "  release/canonical-ru-ads.txt"
+log "  release/plain-ru-ads-domains.txt"
 log "  release/diagnostic-ru-ads-unhandled.txt"
-log "  release/shadowrocket-ru-ads.txt"
-log "  release/clash-ru-ads.yaml"
-log "  release/singbox-ru-ads.json"
+log "  release/mihomo-ru-ads-domains.txt"
+log "  release/shadowrocket-ru-ads-domains.txt"
+log "  release/clash-ru-ads-domains.yaml"
+log "  release/singbox-ru-ads-domains.json"

@@ -1,0 +1,7 @@
+# Дополнительные домены, которые надо принудительно добавить в ru-ads
+# plain строка = domain:
+# full:host = точное совпадение
+
+# пример
+# yandexmetrica.com
+# full:mc.yandex.ru

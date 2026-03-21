@@ -1,0 +1,6 @@
+# Исключения из ru-ads
+# domain:example.com убирает и сам suffix, и всё под ним
+# full:host убирает только точный хост
+
+# пример
+# full:mc.yandex.ru

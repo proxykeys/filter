@@ -8,52 +8,59 @@ on:
     paths:
       - 'convert.sh'
       - 'ru-non-ru-domains.txt'
+      - 'ru-ads-add.txt'
+      - 'ru-ads-allow.txt'
       - '.github/workflows/update.yml'
   schedule:
-    # Каждые 6 часов (UTC)
     - cron: '0 */6 * * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: proxykeys-filter-update
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 20
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
           go-version: '1.23'
+          cache: true
 
       - name: Setup Git config
         run: |
-          git config --global user.name "ProxyKeys Bot"
-          git config --global user.email "bot@proxykeys.com"
-          
+          git config user.name "ProxyKeys Bot"
+          git config user.email "bot@proxykeys.com"
+
       - name: Run conversion script
         run: |
           chmod +x convert.sh
           ./convert.sh
-          
+
       - name: Check for changes
         id: check_changes
         run: |
           git add release/
-          
-          if git diff --staged --quiet; then
+
+          if git diff --cached --quiet; then
             echo "No changes detected"
-            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "Changes detected"
-            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
-          
+
       - name: Commit and push changes
         if: steps.check_changes.outputs.changed == 'true'
         run: |

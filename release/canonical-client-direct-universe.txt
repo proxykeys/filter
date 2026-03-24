@@ -41,6 +41,13 @@ domain:ngenix.net
 domain:okko.sport
 domain:okko.tv
 domain:okolo.app
+domain:ozon.by
+domain:ozon.com
+domain:ozon.com.by
+domain:ozon.com.kz
+domain:ozon.kz
+domain:ozon.tm
+domain:ozonru.me
 domain:ozonusercontent.com
 domain:paywb.com
 domain:perekrestok.com

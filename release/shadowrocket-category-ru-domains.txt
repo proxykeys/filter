@@ -58,6 +58,8 @@ DOMAIN-SUFFIX,tamtam.chat
 DOMAIN-SUFFIX,tatar
 DOMAIN-SUFFIX,taxsee.com
 DOMAIN-SUFFIX,tbank-online.com
+DOMAIN-SUFFIX,telega.info
+DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,tips.tips
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com

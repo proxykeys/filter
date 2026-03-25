@@ -68,6 +68,8 @@ domain:tamtam.chat
 domain:tatar
 domain:taxsee.com
 domain:tbank-online.com
+domain:telega.info
+domain:telega.me
 domain:tips.tips
 domain:tochka-tech.com
 domain:tochka.com

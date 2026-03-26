@@ -1412,8 +1412,6 @@
 ::1 leadgidads.ru
 0.0.0.0 leadhit.ru
 ::1 leadhit.ru
-0.0.0.0 leads.su
-::1 leads.su
 0.0.0.0 leadsleader.ru
 ::1 leadsleader.ru
 0.0.0.0 league-of-legends.ru

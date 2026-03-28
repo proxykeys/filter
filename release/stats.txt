@@ -1,5 +1,5 @@
 antifilter_domains=480
-antifilter_ips=15157
+antifilter_ips=15099
 global_ads_domain_rules=171031
 global_ads_full_rules=0
 global_ads_keyword_rules=0

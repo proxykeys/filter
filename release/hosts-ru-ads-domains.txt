@@ -1116,6 +1116,8 @@
 ::1 gigamega.ru
 0.0.0.0 gjhkyh.4fresh.ru
 ::1 gjhkyh.4fresh.ru
+0.0.0.0 gjv7fg.ru
+::1 gjv7fg.ru
 0.0.0.0 globalstars.ru
 ::1 globalstars.ru
 0.0.0.0 globaltizer.ru

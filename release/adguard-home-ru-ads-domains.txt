@@ -124,7 +124,6 @@
 ||ads.edadeal.ru^
 ||ads.imovideo.ru^
 ||ads.interfax.ru^
-||ads.wattpadru.ru^
 ||ads2.pbxware.ru^
 ||adsdk.yandex.ru^
 ||adshow.sc2tv.ru^
@@ -183,7 +182,6 @@
 ||amazy.ru^
 ||amc.yandex.ru^
 ||amnsreiuojy.ru^
-||an.avast.ru^
 ||an.mail.ru^
 ||an.webvisor.org^
 ||an.yandex.ru^
@@ -1406,7 +1404,6 @@
 ||www.iskustvenny-intellekt.ru^
 ||www.mir-stalkera.ru^
 ||www.mkpzmq.crocs.ru^
-||www.qatro.ru^
 ||www.rbdomain.ru^
 ||www.rbp1.ru^
 ||www.rbp2.ru^
@@ -1417,7 +1414,6 @@
 ||www.rbprk91645.ru^
 ||www.realbi5.ru^
 ||www.rlrt.ru^
-||www.step555.ru^
 ||www.videostan.ru^
 ||www.xbn.ru^
 ||www.xz8.ru^

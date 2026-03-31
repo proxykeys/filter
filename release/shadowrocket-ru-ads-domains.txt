@@ -124,7 +124,6 @@ DOMAIN-SUFFIX,ads.dfiles.ru
 DOMAIN-SUFFIX,ads.edadeal.ru
 DOMAIN-SUFFIX,ads.imovideo.ru
 DOMAIN-SUFFIX,ads.interfax.ru
-DOMAIN-SUFFIX,ads.wattpadru.ru
 DOMAIN-SUFFIX,ads2.pbxware.ru
 DOMAIN-SUFFIX,adsdk.yandex.ru
 DOMAIN-SUFFIX,adshow.sc2tv.ru
@@ -183,7 +182,6 @@ DOMAIN-SUFFIX,amazingcl.ru
 DOMAIN-SUFFIX,amazy.ru
 DOMAIN-SUFFIX,amc.yandex.ru
 DOMAIN-SUFFIX,amnsreiuojy.ru
-DOMAIN-SUFFIX,an.avast.ru
 DOMAIN-SUFFIX,an.mail.ru
 DOMAIN-SUFFIX,an.webvisor.org
 DOMAIN-SUFFIX,an.yandex.ru
@@ -1406,7 +1404,6 @@ DOMAIN-SUFFIX,www.fasder12.ru
 DOMAIN-SUFFIX,www.iskustvenny-intellekt.ru
 DOMAIN-SUFFIX,www.mir-stalkera.ru
 DOMAIN-SUFFIX,www.mkpzmq.crocs.ru
-DOMAIN-SUFFIX,www.qatro.ru
 DOMAIN-SUFFIX,www.rbdomain.ru
 DOMAIN-SUFFIX,www.rbp1.ru
 DOMAIN-SUFFIX,www.rbp2.ru
@@ -1417,7 +1414,6 @@ DOMAIN-SUFFIX,www.rbpark3.ru
 DOMAIN-SUFFIX,www.rbprk91645.ru
 DOMAIN-SUFFIX,www.realbi5.ru
 DOMAIN-SUFFIX,www.rlrt.ru
-DOMAIN-SUFFIX,www.step555.ru
 DOMAIN-SUFFIX,www.videostan.ru
 DOMAIN-SUFFIX,www.xbn.ru
 DOMAIN-SUFFIX,www.xz8.ru

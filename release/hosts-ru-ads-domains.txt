@@ -250,8 +250,6 @@
 ::1 ads.imovideo.ru
 0.0.0.0 ads.interfax.ru
 ::1 ads.interfax.ru
-0.0.0.0 ads.wattpadru.ru
-::1 ads.wattpadru.ru
 0.0.0.0 ads2.pbxware.ru
 ::1 ads2.pbxware.ru
 0.0.0.0 adsdk.yandex.ru
@@ -368,8 +366,6 @@
 ::1 amc.yandex.ru
 0.0.0.0 amnsreiuojy.ru
 ::1 amnsreiuojy.ru
-0.0.0.0 an.avast.ru
-::1 an.avast.ru
 0.0.0.0 an.mail.ru
 ::1 an.mail.ru
 0.0.0.0 an.webvisor.org
@@ -2814,8 +2810,6 @@
 ::1 www.mir-stalkera.ru
 0.0.0.0 www.mkpzmq.crocs.ru
 ::1 www.mkpzmq.crocs.ru
-0.0.0.0 www.qatro.ru
-::1 www.qatro.ru
 0.0.0.0 www.rbdomain.ru
 ::1 www.rbdomain.ru
 0.0.0.0 www.rbp1.ru
@@ -2836,8 +2830,6 @@
 ::1 www.realbi5.ru
 0.0.0.0 www.rlrt.ru
 ::1 www.rlrt.ru
-0.0.0.0 www.step555.ru
-::1 www.step555.ru
 0.0.0.0 www.videostan.ru
 ::1 www.videostan.ru
 0.0.0.0 www.xbn.ru

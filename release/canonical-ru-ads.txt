@@ -124,7 +124,6 @@ domain:ads.dfiles.ru
 domain:ads.edadeal.ru
 domain:ads.imovideo.ru
 domain:ads.interfax.ru
-domain:ads.wattpadru.ru
 domain:ads2.pbxware.ru
 domain:adsdk.yandex.ru
 domain:adshow.sc2tv.ru
@@ -183,7 +182,6 @@ domain:amazingcl.ru
 domain:amazy.ru
 domain:amc.yandex.ru
 domain:amnsreiuojy.ru
-domain:an.avast.ru
 domain:an.mail.ru
 domain:an.webvisor.org
 domain:an.yandex.ru
@@ -1406,7 +1404,6 @@ domain:www.fasder12.ru
 domain:www.iskustvenny-intellekt.ru
 domain:www.mir-stalkera.ru
 domain:www.mkpzmq.crocs.ru
-domain:www.qatro.ru
 domain:www.rbdomain.ru
 domain:www.rbp1.ru
 domain:www.rbp2.ru
@@ -1417,7 +1414,6 @@ domain:www.rbpark3.ru
 domain:www.rbprk91645.ru
 domain:www.realbi5.ru
 domain:www.rlrt.ru
-domain:www.step555.ru
 domain:www.videostan.ru
 domain:www.xbn.ru
 domain:www.xz8.ru

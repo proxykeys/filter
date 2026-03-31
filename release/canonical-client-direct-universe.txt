@@ -28,6 +28,8 @@ domain:kinopoisk-ru.clstorage.net
 domain:kinorium.com
 domain:lenta.com
 domain:lenta.tech
+domain:medsi.com
+domain:medsi.pro
 domain:memealerts.com
 domain:moex.com
 domain:moscow
@@ -61,6 +63,7 @@ domain:ru.net
 domain:salute.ai
 domain:sberbank.com
 domain:sistema-capital.com
+domain:smartmed.pro
 domain:smotreshka.tv
 domain:su
 domain:t1.cloud

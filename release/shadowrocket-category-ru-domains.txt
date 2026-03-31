@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,kinorium.com
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
+DOMAIN-SUFFIX,medsi.com
+DOMAIN-SUFFIX,medsi.pro
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,moex.com
 DOMAIN-SUFFIX,moscow
@@ -51,6 +53,7 @@ DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
 DOMAIN-SUFFIX,sberbank.com
 DOMAIN-SUFFIX,sistema-capital.com
+DOMAIN-SUFFIX,smartmed.pro
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,t1.cloud

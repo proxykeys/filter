@@ -1470,6 +1470,8 @@
 ::1 log.rutube.ru
 0.0.0.0 log.strm.yandex.ru
 ::1 log.strm.yandex.ru
+0.0.0.0 logs.tourister.ru
+::1 logs.tourister.ru
 0.0.0.0 logxp.ru
 ::1 logxp.ru
 0.0.0.0 logz.ru

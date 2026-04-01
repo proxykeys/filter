@@ -734,6 +734,7 @@ domain:log.krs-ix.ru
 domain:log.reformal.ru
 domain:log.rutube.ru
 domain:log.strm.yandex.ru
+domain:logs.tourister.ru
 domain:logxp.ru
 domain:logz.ru
 domain:loki.maximonline.ru

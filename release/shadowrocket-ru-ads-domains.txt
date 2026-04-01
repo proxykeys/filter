@@ -734,6 +734,7 @@ DOMAIN-SUFFIX,log.krs-ix.ru
 DOMAIN-SUFFIX,log.reformal.ru
 DOMAIN-SUFFIX,log.rutube.ru
 DOMAIN-SUFFIX,log.strm.yandex.ru
+DOMAIN-SUFFIX,logs.tourister.ru
 DOMAIN-SUFFIX,logxp.ru
 DOMAIN-SUFFIX,logz.ru
 DOMAIN-SUFFIX,loki.maximonline.ru

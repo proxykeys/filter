@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,avs.io
 DOMAIN-SUFFIX,beeline.tv
 DOMAIN-SUFFIX,boosty.to
+DOMAIN-SUFFIX,cdnvideohub.com
 DOMAIN-SUFFIX,chizhik.club
 DOMAIN-SUFFIX,dbo-dengi.online
 DOMAIN-SUFFIX,dodois.com

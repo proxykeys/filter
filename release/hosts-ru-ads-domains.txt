@@ -350,6 +350,8 @@
 ::1 aliadvert.ru
 0.0.0.0 all-sex.shengen.ru
 ::1 all-sex.shengen.ru
+0.0.0.0 alloy-web.zvuk.com
+::1 alloy-web.zvuk.com
 0.0.0.0 allstat-pp.ru
 ::1 allstat-pp.ru
 0.0.0.0 alltizer.ru

@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,08ro35delw.ru
   - DOMAIN-SUFFIX,0916video.ru
   - DOMAIN-SUFFIX,0pn.ru
-  - DOMAIN-SUFFIX,1.xcfaprb0325.ru
   - DOMAIN-SUFFIX,1astrjasr.ru
   - DOMAIN-SUFFIX,1cpbac.ru
   - DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -728,7 +727,6 @@ payload:
   - DOMAIN-SUFFIX,livesurf.ru
   - DOMAIN-SUFFIX,lk.vectoranalytics.ru
   - DOMAIN-SUFFIX,load.gtm.koleso.ru
-  - DOMAIN-SUFFIX,load.soloqmyl.tefcold.ru
   - DOMAIN-SUFFIX,loadmoney.ru
   - DOMAIN-SUFFIX,loan.aol.msk.su
   - DOMAIN-SUFFIX,log.dzen.ru
@@ -1112,6 +1110,7 @@ payload:
   - DOMAIN-SUFFIX,sobolev.net.ru
   - DOMAIN-SUFFIX,socgate.ru
   - DOMAIN-SUFFIX,solodar.ru
+  - DOMAIN-SUFFIX,soloqmyl.tefcold.ru
   - DOMAIN-SUFFIX,soma-store.visa-usa.ru
   - DOMAIN-SUFFIX,sopr-api.cian.ru
   - DOMAIN-SUFFIX,sp.aviasales.com

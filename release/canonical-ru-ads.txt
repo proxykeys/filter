@@ -3,7 +3,6 @@ domain:0816bvh.ru
 domain:08ro35delw.ru
 domain:0916video.ru
 domain:0pn.ru
-domain:1.xcfaprb0325.ru
 domain:1astrjasr.ru
 domain:1cpbac.ru
 domain:1l-hit.mail.ru
@@ -727,7 +726,6 @@ domain:linkwmr.ru
 domain:livesurf.ru
 domain:lk.vectoranalytics.ru
 domain:load.gtm.koleso.ru
-domain:load.soloqmyl.tefcold.ru
 domain:loadmoney.ru
 domain:loan.aol.msk.su
 domain:log.dzen.ru
@@ -1111,6 +1109,7 @@ domain:snsv.ru
 domain:sobolev.net.ru
 domain:socgate.ru
 domain:solodar.ru
+domain:soloqmyl.tefcold.ru
 domain:soma-store.visa-usa.ru
 domain:sopr-api.cian.ru
 domain:sp.aviasales.com

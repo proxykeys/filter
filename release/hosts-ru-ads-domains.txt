@@ -8,8 +8,6 @@
 ::1 0916video.ru
 0.0.0.0 0pn.ru
 ::1 0pn.ru
-0.0.0.0 1.xcfaprb0325.ru
-::1 1.xcfaprb0325.ru
 0.0.0.0 1astrjasr.ru
 ::1 1astrjasr.ru
 0.0.0.0 1cpbac.ru
@@ -1456,8 +1454,6 @@
 ::1 lk.vectoranalytics.ru
 0.0.0.0 load.gtm.koleso.ru
 ::1 load.gtm.koleso.ru
-0.0.0.0 load.soloqmyl.tefcold.ru
-::1 load.soloqmyl.tefcold.ru
 0.0.0.0 loadmoney.ru
 ::1 loadmoney.ru
 0.0.0.0 loan.aol.msk.su
@@ -2224,6 +2220,8 @@
 ::1 socgate.ru
 0.0.0.0 solodar.ru
 ::1 solodar.ru
+0.0.0.0 soloqmyl.tefcold.ru
+::1 soloqmyl.tefcold.ru
 0.0.0.0 soma-store.visa-usa.ru
 ::1 soma-store.visa-usa.ru
 0.0.0.0 sopr-api.cian.ru

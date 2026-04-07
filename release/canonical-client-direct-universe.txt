@@ -42,6 +42,7 @@ domain:fix-price.com
 domain:gazprombank.com
 domain:gazprombank.investments
 domain:giga.chat
+domain:ideco.dev
 domain:ifconfig.me
 domain:kaspersky-labs.com
 domain:kaspersky-labs.net

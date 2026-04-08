@@ -198,6 +198,7 @@ domain:analytics.move.ru
 domain:analytics.msk1.ru
 domain:analytics.ngs55.ru
 domain:analytics.rotapost.ru
+domain:analytics.sberhealth.ru
 domain:analytics.sports.ru
 domain:anklets.shengen.ru
 domain:announcement.ru
@@ -556,6 +557,7 @@ domain:getyoursoft.ru
 domain:gigamega.ru
 domain:gjhkyh.4fresh.ru
 domain:gjv7fg.ru
+domain:gk7qlc.ru
 domain:globalstars.ru
 domain:globaltizer.ru
 domain:glzsji.nordman.ru
@@ -915,6 +917,7 @@ domain:phpteaser.ru
 domain:piar-m.ru
 domain:piper.amocrm.ru
 domain:pir.zspb.ru
+domain:pixel-cdp.sberhealth.ru
 domain:pixel-storage.konnektu.ru
 domain:pixel.embed.su
 domain:pixel.kodixauto.ru

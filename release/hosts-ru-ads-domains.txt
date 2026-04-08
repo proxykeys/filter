@@ -398,6 +398,8 @@
 ::1 analytics.ngs55.ru
 0.0.0.0 analytics.rotapost.ru
 ::1 analytics.rotapost.ru
+0.0.0.0 analytics.sberhealth.ru
+::1 analytics.sberhealth.ru
 0.0.0.0 analytics.sports.ru
 ::1 analytics.sports.ru
 0.0.0.0 anklets.shengen.ru
@@ -1114,6 +1116,8 @@
 ::1 gjhkyh.4fresh.ru
 0.0.0.0 gjv7fg.ru
 ::1 gjv7fg.ru
+0.0.0.0 gk7qlc.ru
+::1 gk7qlc.ru
 0.0.0.0 globalstars.ru
 ::1 globalstars.ru
 0.0.0.0 globaltizer.ru
@@ -1832,6 +1836,8 @@
 ::1 piper.amocrm.ru
 0.0.0.0 pir.zspb.ru
 ::1 pir.zspb.ru
+0.0.0.0 pixel-cdp.sberhealth.ru
+::1 pixel-cdp.sberhealth.ru
 0.0.0.0 pixel-storage.konnektu.ru
 ::1 pixel-storage.konnektu.ru
 0.0.0.0 pixel.embed.su

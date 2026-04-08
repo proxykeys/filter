@@ -199,6 +199,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.msk1.ru
   - DOMAIN-SUFFIX,analytics.ngs55.ru
   - DOMAIN-SUFFIX,analytics.rotapost.ru
+  - DOMAIN-SUFFIX,analytics.sberhealth.ru
   - DOMAIN-SUFFIX,analytics.sports.ru
   - DOMAIN-SUFFIX,anklets.shengen.ru
   - DOMAIN-SUFFIX,announcement.ru
@@ -557,6 +558,7 @@ payload:
   - DOMAIN-SUFFIX,gigamega.ru
   - DOMAIN-SUFFIX,gjhkyh.4fresh.ru
   - DOMAIN-SUFFIX,gjv7fg.ru
+  - DOMAIN-SUFFIX,gk7qlc.ru
   - DOMAIN-SUFFIX,globalstars.ru
   - DOMAIN-SUFFIX,globaltizer.ru
   - DOMAIN-SUFFIX,glzsji.nordman.ru
@@ -916,6 +918,7 @@ payload:
   - DOMAIN-SUFFIX,piar-m.ru
   - DOMAIN-SUFFIX,piper.amocrm.ru
   - DOMAIN-SUFFIX,pir.zspb.ru
+  - DOMAIN-SUFFIX,pixel-cdp.sberhealth.ru
   - DOMAIN-SUFFIX,pixel-storage.konnektu.ru
   - DOMAIN-SUFFIX,pixel.embed.su
   - DOMAIN-SUFFIX,pixel.kodixauto.ru

@@ -774,6 +774,7 @@ domain:mc.webvisor.org
 domain:mc.yandex.com
 domain:mc.yandex.md
 domain:mc.yandex.ru
+domain:mc.yango.com
 domain:mdiyay.vseinstrumenti.ru
 domain:mecash.ru
 domain:media-active.ru

@@ -774,6 +774,7 @@ DOMAIN-SUFFIX,mc.webvisor.org
 DOMAIN-SUFFIX,mc.yandex.com
 DOMAIN-SUFFIX,mc.yandex.md
 DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,mc.yango.com
 DOMAIN-SUFFIX,mdiyay.vseinstrumenti.ru
 DOMAIN-SUFFIX,mecash.ru
 DOMAIN-SUFFIX,media-active.ru

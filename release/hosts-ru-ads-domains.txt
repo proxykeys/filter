@@ -1550,6 +1550,8 @@
 ::1 mc.yandex.md
 0.0.0.0 mc.yandex.ru
 ::1 mc.yandex.ru
+0.0.0.0 mc.yango.com
+::1 mc.yango.com
 0.0.0.0 mdiyay.vseinstrumenti.ru
 ::1 mdiyay.vseinstrumenti.ru
 0.0.0.0 mecash.ru

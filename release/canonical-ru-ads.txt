@@ -1219,6 +1219,7 @@ domain:techms-shop.su
 domain:teeser.ru
 domain:telecid.ru
 domain:telemetry.dzen.ru
+domain:telemetry.jivosite.com
 domain:teletarget.ru
 domain:test-studio.ru
 domain:test.besstidniki.ru

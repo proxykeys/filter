@@ -1219,6 +1219,7 @@ DOMAIN-SUFFIX,techms-shop.su
 DOMAIN-SUFFIX,teeser.ru
 DOMAIN-SUFFIX,telecid.ru
 DOMAIN-SUFFIX,telemetry.dzen.ru
+DOMAIN-SUFFIX,telemetry.jivosite.com
 DOMAIN-SUFFIX,teletarget.ru
 DOMAIN-SUFFIX,test-studio.ru
 DOMAIN-SUFFIX,test.besstidniki.ru

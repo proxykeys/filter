@@ -2440,6 +2440,8 @@
 ::1 telecid.ru
 0.0.0.0 telemetry.dzen.ru
 ::1 telemetry.dzen.ru
+0.0.0.0 telemetry.jivosite.com
+::1 telemetry.jivosite.com
 0.0.0.0 teletarget.ru
 ::1 teletarget.ru
 0.0.0.0 test-studio.ru

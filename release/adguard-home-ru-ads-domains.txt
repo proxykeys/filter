@@ -330,6 +330,7 @@
 ||cdn.ddmanager.ru^
 ||cdn.gpmdata.ru^
 ||cdn.movieads.ru^
+||cdn.neon.click^
 ||cdn.zamunda.ru^
 ||cerohj.loccitane.ru^
 ||cheap-adipex.hut1.ru^
@@ -1088,6 +1089,7 @@
 ||sexgramm.ru^
 ||sgood.ru^
 ||sgtm.dubai-investments.ru^
+||sgtm.kaspersky.de^
 ||sgtm.stihl.ru^
 ||shakeson.ru^
 ||sharemefiles.ru^
@@ -1267,6 +1269,8 @@
 ||topiz.ru^
 ||torgnn.ru^
 ||tr.samoresim.ru^
+||tr1.kaspersky.ca^
+||tr1.kaspersky.com.tr^
 ||tr1.kaspersky.ru^
 ||tr2.kaspersky.ru^
 ||track-mixer.ru^

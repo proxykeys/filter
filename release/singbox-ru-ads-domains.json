@@ -998,6 +998,9 @@
       "domain_suffix": "cdn.movieads.ru"
     },
     {
+      "domain_suffix": "cdn.neon.click"
+    },
+    {
       "domain_suffix": "cdn.zamunda.ru"
     },
     {
@@ -3272,6 +3275,9 @@
       "domain_suffix": "sgtm.dubai-investments.ru"
     },
     {
+      "domain_suffix": "sgtm.kaspersky.de"
+    },
+    {
       "domain_suffix": "sgtm.stihl.ru"
     },
     {
@@ -3807,6 +3813,12 @@
     },
     {
       "domain_suffix": "tr.samoresim.ru"
+    },
+    {
+      "domain_suffix": "tr1.kaspersky.ca"
+    },
+    {
+      "domain_suffix": "tr1.kaspersky.com.tr"
     },
     {
       "domain_suffix": "tr1.kaspersky.ru"

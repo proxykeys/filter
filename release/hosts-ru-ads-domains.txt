@@ -662,6 +662,8 @@
 ::1 cdn.gpmdata.ru
 0.0.0.0 cdn.movieads.ru
 ::1 cdn.movieads.ru
+0.0.0.0 cdn.neon.click
+::1 cdn.neon.click
 0.0.0.0 cdn.zamunda.ru
 ::1 cdn.zamunda.ru
 0.0.0.0 cerohj.loccitane.ru
@@ -2178,6 +2180,8 @@
 ::1 sgood.ru
 0.0.0.0 sgtm.dubai-investments.ru
 ::1 sgtm.dubai-investments.ru
+0.0.0.0 sgtm.kaspersky.de
+::1 sgtm.kaspersky.de
 0.0.0.0 sgtm.stihl.ru
 ::1 sgtm.stihl.ru
 0.0.0.0 shakeson.ru
@@ -2536,6 +2540,10 @@
 ::1 torgnn.ru
 0.0.0.0 tr.samoresim.ru
 ::1 tr.samoresim.ru
+0.0.0.0 tr1.kaspersky.ca
+::1 tr1.kaspersky.ca
+0.0.0.0 tr1.kaspersky.com.tr
+::1 tr1.kaspersky.com.tr
 0.0.0.0 tr1.kaspersky.ru
 ::1 tr1.kaspersky.ru
 0.0.0.0 tr2.kaspersky.ru

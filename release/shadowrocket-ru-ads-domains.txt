@@ -330,6 +330,7 @@ DOMAIN-SUFFIX,cdn-rum.ngenix.net
 DOMAIN-SUFFIX,cdn.ddmanager.ru
 DOMAIN-SUFFIX,cdn.gpmdata.ru
 DOMAIN-SUFFIX,cdn.movieads.ru
+DOMAIN-SUFFIX,cdn.neon.click
 DOMAIN-SUFFIX,cdn.zamunda.ru
 DOMAIN-SUFFIX,cerohj.loccitane.ru
 DOMAIN-SUFFIX,cheap-adipex.hut1.ru
@@ -1088,6 +1089,7 @@ DOMAIN-SUFFIX,services.bionika-digital.ru
 DOMAIN-SUFFIX,sexgramm.ru
 DOMAIN-SUFFIX,sgood.ru
 DOMAIN-SUFFIX,sgtm.dubai-investments.ru
+DOMAIN-SUFFIX,sgtm.kaspersky.de
 DOMAIN-SUFFIX,sgtm.stihl.ru
 DOMAIN-SUFFIX,shakeson.ru
 DOMAIN-SUFFIX,sharemefiles.ru
@@ -1267,6 +1269,8 @@ DOMAIN-SUFFIX,topcto.ru
 DOMAIN-SUFFIX,topiz.ru
 DOMAIN-SUFFIX,torgnn.ru
 DOMAIN-SUFFIX,tr.samoresim.ru
+DOMAIN-SUFFIX,tr1.kaspersky.ca
+DOMAIN-SUFFIX,tr1.kaspersky.com.tr
 DOMAIN-SUFFIX,tr1.kaspersky.ru
 DOMAIN-SUFFIX,tr2.kaspersky.ru
 DOMAIN-SUFFIX,track-mixer.ru

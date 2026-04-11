@@ -330,6 +330,7 @@ domain:cdn-rum.ngenix.net
 domain:cdn.ddmanager.ru
 domain:cdn.gpmdata.ru
 domain:cdn.movieads.ru
+domain:cdn.neon.click
 domain:cdn.zamunda.ru
 domain:cerohj.loccitane.ru
 domain:cheap-adipex.hut1.ru
@@ -1088,6 +1089,7 @@ domain:services.bionika-digital.ru
 domain:sexgramm.ru
 domain:sgood.ru
 domain:sgtm.dubai-investments.ru
+domain:sgtm.kaspersky.de
 domain:sgtm.stihl.ru
 domain:shakeson.ru
 domain:sharemefiles.ru
@@ -1267,6 +1269,8 @@ domain:topcto.ru
 domain:topiz.ru
 domain:torgnn.ru
 domain:tr.samoresim.ru
+domain:tr1.kaspersky.ca
+domain:tr1.kaspersky.com.tr
 domain:tr1.kaspersky.ru
 domain:tr2.kaspersky.ru
 domain:track-mixer.ru

@@ -629,6 +629,9 @@
       "domain_suffix": "api.appmetrica.yandex.ru"
     },
     {
+      "domain_suffix": "api.eye.sbdv.ru"
+    },
+    {
       "domain_suffix": "apistats.rg.ru"
     },
     {
@@ -1035,6 +1038,9 @@
     },
     {
       "domain_suffix": "click.rypr.ru"
+    },
+    {
+      "domain_suffix": "clickbeat.sberdevices.ru"
     },
     {
       "domain_suffix": "clickbux.ru"
@@ -2399,6 +2405,9 @@
       "domain_suffix": "metrics.aviasales.ru"
     },
     {
+      "domain_suffix": "metrics.prom.third-party-app.sberdevices.ru"
+    },
+    {
       "domain_suffix": "metricus.artlebedev.ru"
     },
     {
@@ -2637,6 +2646,9 @@
     },
     {
       "domain_suffix": "oiya.ru"
+    },
+    {
+      "domain_suffix": "okr.sbdv.ru"
     },
     {
       "domain_suffix": "onelead.ru"

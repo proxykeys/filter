@@ -416,6 +416,8 @@
 ::1 aolsvc.snowqueen.ru
 0.0.0.0 api.appmetrica.yandex.ru
 ::1 api.appmetrica.yandex.ru
+0.0.0.0 api.eye.sbdv.ru
+::1 api.eye.sbdv.ru
 0.0.0.0 apistats.rg.ru
 ::1 apistats.rg.ru
 0.0.0.0 apkonline.ru
@@ -688,6 +690,8 @@
 ::1 click.ad1.ru
 0.0.0.0 click.rypr.ru
 ::1 click.rypr.ru
+0.0.0.0 clickbeat.sberdevices.ru
+::1 clickbeat.sberdevices.ru
 0.0.0.0 clickbux.ru
 ::1 clickbux.ru
 0.0.0.0 clickhere.ru
@@ -1596,6 +1600,8 @@
 ::1 metrics.animagazin.ru
 0.0.0.0 metrics.aviasales.ru
 ::1 metrics.aviasales.ru
+0.0.0.0 metrics.prom.third-party-app.sberdevices.ru
+::1 metrics.prom.third-party-app.sberdevices.ru
 0.0.0.0 metricus.artlebedev.ru
 ::1 metricus.artlebedev.ru
 0.0.0.0 metrika.kontur.ru
@@ -1756,6 +1762,8 @@
 ::1 ogtz5yn2u1.ru
 0.0.0.0 oiya.ru
 ::1 oiya.ru
+0.0.0.0 okr.sbdv.ru
+::1 okr.sbdv.ru
 0.0.0.0 onelead.ru
 ::1 onelead.ru
 0.0.0.0 onemontay.ru

@@ -208,6 +208,7 @@ payload:
   - DOMAIN-SUFFIX,aol.spb.su
   - DOMAIN-SUFFIX,aolsvc.snowqueen.ru
   - DOMAIN-SUFFIX,api.appmetrica.yandex.ru
+  - DOMAIN-SUFFIX,api.eye.sbdv.ru
   - DOMAIN-SUFFIX,apistats.rg.ru
   - DOMAIN-SUFFIX,apkonline.ru
   - DOMAIN-SUFFIX,appmetrica.yandex.com
@@ -344,6 +345,7 @@ payload:
   - DOMAIN-SUFFIX,cleen.ru
   - DOMAIN-SUFFIX,click.ad1.ru
   - DOMAIN-SUFFIX,click.rypr.ru
+  - DOMAIN-SUFFIX,clickbeat.sberdevices.ru
   - DOMAIN-SUFFIX,clickbux.ru
   - DOMAIN-SUFFIX,clickhere.ru
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
@@ -798,6 +800,7 @@ payload:
   - DOMAIN-SUFFIX,mestkom.ru
   - DOMAIN-SUFFIX,metrics.animagazin.ru
   - DOMAIN-SUFFIX,metrics.aviasales.ru
+  - DOMAIN-SUFFIX,metrics.prom.third-party-app.sberdevices.ru
   - DOMAIN-SUFFIX,metricus.artlebedev.ru
   - DOMAIN-SUFFIX,metrika.kontur.ru
   - DOMAIN-SUFFIX,minidoc.ru
@@ -878,6 +881,7 @@ payload:
   - DOMAIN-SUFFIX,ognyvo.ru
   - DOMAIN-SUFFIX,ogtz5yn2u1.ru
   - DOMAIN-SUFFIX,oiya.ru
+  - DOMAIN-SUFFIX,okr.sbdv.ru
   - DOMAIN-SUFFIX,onelead.ru
   - DOMAIN-SUFFIX,onemontay.ru
   - DOMAIN-SUFFIX,online-casino.shengen.ru

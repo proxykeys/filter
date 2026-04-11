@@ -207,6 +207,7 @@ domain:anyfiles.ru
 domain:aol.spb.su
 domain:aolsvc.snowqueen.ru
 domain:api.appmetrica.yandex.ru
+domain:api.eye.sbdv.ru
 domain:apistats.rg.ru
 domain:apkonline.ru
 domain:appmetrica.yandex.com
@@ -343,6 +344,7 @@ domain:clckdm.domclick.ru
 domain:cleen.ru
 domain:click.ad1.ru
 domain:click.rypr.ru
+domain:clickbeat.sberdevices.ru
 domain:clickbux.ru
 domain:clickhere.ru
 domain:clickstream.sberbank.ru
@@ -797,6 +799,7 @@ domain:mesotherapy.jino-net.ru
 domain:mestkom.ru
 domain:metrics.animagazin.ru
 domain:metrics.aviasales.ru
+domain:metrics.prom.third-party-app.sberdevices.ru
 domain:metricus.artlebedev.ru
 domain:metrika.kontur.ru
 domain:minidoc.ru
@@ -877,6 +880,7 @@ domain:ogeri.ru
 domain:ognyvo.ru
 domain:ogtz5yn2u1.ru
 domain:oiya.ru
+domain:okr.sbdv.ru
 domain:onelead.ru
 domain:onemontay.ru
 domain:online-casino.shengen.ru

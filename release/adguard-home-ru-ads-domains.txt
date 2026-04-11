@@ -207,6 +207,7 @@
 ||aol.spb.su^
 ||aolsvc.snowqueen.ru^
 ||api.appmetrica.yandex.ru^
+||api.eye.sbdv.ru^
 ||apistats.rg.ru^
 ||apkonline.ru^
 ||appmetrica.yandex.com^
@@ -343,6 +344,7 @@
 ||cleen.ru^
 ||click.ad1.ru^
 ||click.rypr.ru^
+||clickbeat.sberdevices.ru^
 ||clickbux.ru^
 ||clickhere.ru^
 ||clickstream.sberbank.ru^
@@ -797,6 +799,7 @@
 ||mestkom.ru^
 ||metrics.animagazin.ru^
 ||metrics.aviasales.ru^
+||metrics.prom.third-party-app.sberdevices.ru^
 ||metricus.artlebedev.ru^
 ||metrika.kontur.ru^
 ||minidoc.ru^
@@ -877,6 +880,7 @@
 ||ognyvo.ru^
 ||ogtz5yn2u1.ru^
 ||oiya.ru^
+||okr.sbdv.ru^
 ||onelead.ru^
 ||onemontay.ru^
 ||online-casino.shengen.ru^

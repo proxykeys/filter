@@ -662,8 +662,6 @@
 ::1 cdn.gpmdata.ru
 0.0.0.0 cdn.movieads.ru
 ::1 cdn.movieads.ru
-0.0.0.0 cdn.neon.click
-::1 cdn.neon.click
 0.0.0.0 cdn.zamunda.ru
 ::1 cdn.zamunda.ru
 0.0.0.0 cerohj.loccitane.ru

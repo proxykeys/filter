@@ -330,7 +330,6 @@ domain:cdn-rum.ngenix.net
 domain:cdn.ddmanager.ru
 domain:cdn.gpmdata.ru
 domain:cdn.movieads.ru
-domain:cdn.neon.click
 domain:cdn.zamunda.ru
 domain:cerohj.loccitane.ru
 domain:cheap-adipex.hut1.ru

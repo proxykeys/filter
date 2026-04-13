@@ -8,6 +8,7 @@
 1l-hit.mail.ru
 1l-hit.vkplay.ru
 1l-view.mail.ru
+1l-view.my.games
 1p3opxwwet.ru
 1sputnik.ru
 1traf.ru
@@ -121,6 +122,7 @@ ads.adfox.ru
 ads.bb59.ru
 ads.dfiles.ru
 ads.edadeal.ru
+ads.icq.com
 ads.imovideo.ru
 ads.interfax.ru
 ads2.pbxware.ru
@@ -178,6 +180,7 @@ allstat-pp.ru
 alltizer.ru
 alpari.ru
 alt-ad.mail.ru
+alt-r.my.com
 amazingcl.ru
 amazy.ru
 amc.yandex.ru
@@ -800,6 +803,7 @@ mestkom.ru
 metrics.animagazin.ru
 metrics.aviasales.ru
 metrics.prom.third-party-app.sberdevices.ru
+metrics.viqeo.tv
 metricus.artlebedev.ru
 metrika.kontur.ru
 minidoc.ru
@@ -840,6 +844,7 @@ myatpe.mebelaero.ru
 mycdn4.ru
 mycpm.ru
 mytop.live.vkvideo.ru
+mytopf.com
 mytraf.ru
 myxuak.mir-kubikov.ru
 nanofantiki.edigest.ru
@@ -986,6 +991,7 @@ qvnpxc.technopark.ru
 qxplus.ru
 r.ad1.ru
 r.dimkriju.bget.ru
+r.my.com
 r.partner.badoo.ru
 r.qip.ru
 r.rbc.ru
@@ -1149,6 +1155,7 @@ stat-analytics.mediavitrina.ru
 stat-feedot.ru
 stat.5-tv.ru
 stat.clickfrog.ru
+stat.gc.my.games
 stat.ntv.ru
 stat.okko.tv
 stat.radar.imgsmail.ru
@@ -1277,6 +1284,7 @@ track.ddmanager.ru
 track.price.ru
 track.tproger.ru
 track2.tprg.ru
+tracker-api.my.com
 tracking.gpm-rtv.ru
 tracking.m.mercedes-benz.ru
 tracking.omron.ru
@@ -1346,6 +1354,7 @@ visor.sberbank.ru
 vjmqdx.nozhikov.ru
 vk-ads.ru
 vk-analytics.ru
+vkcdnservice.com
 vmkxcsss.ru
 vogozae.ru
 vogozara.ru

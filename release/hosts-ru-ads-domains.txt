@@ -18,6 +18,8 @@
 ::1 1l-hit.vkplay.ru
 0.0.0.0 1l-view.mail.ru
 ::1 1l-view.mail.ru
+0.0.0.0 1l-view.my.games
+::1 1l-view.my.games
 0.0.0.0 1p3opxwwet.ru
 ::1 1p3opxwwet.ru
 0.0.0.0 1sputnik.ru
@@ -244,6 +246,8 @@
 ::1 ads.dfiles.ru
 0.0.0.0 ads.edadeal.ru
 ::1 ads.edadeal.ru
+0.0.0.0 ads.icq.com
+::1 ads.icq.com
 0.0.0.0 ads.imovideo.ru
 ::1 ads.imovideo.ru
 0.0.0.0 ads.interfax.ru
@@ -358,6 +362,8 @@
 ::1 alpari.ru
 0.0.0.0 alt-ad.mail.ru
 ::1 alt-ad.mail.ru
+0.0.0.0 alt-r.my.com
+::1 alt-r.my.com
 0.0.0.0 amazingcl.ru
 ::1 amazingcl.ru
 0.0.0.0 amazy.ru
@@ -1602,6 +1608,8 @@
 ::1 metrics.aviasales.ru
 0.0.0.0 metrics.prom.third-party-app.sberdevices.ru
 ::1 metrics.prom.third-party-app.sberdevices.ru
+0.0.0.0 metrics.viqeo.tv
+::1 metrics.viqeo.tv
 0.0.0.0 metricus.artlebedev.ru
 ::1 metricus.artlebedev.ru
 0.0.0.0 metrika.kontur.ru
@@ -1682,6 +1690,8 @@
 ::1 mycpm.ru
 0.0.0.0 mytop.live.vkvideo.ru
 ::1 mytop.live.vkvideo.ru
+0.0.0.0 mytopf.com
+::1 mytopf.com
 0.0.0.0 mytraf.ru
 ::1 mytraf.ru
 0.0.0.0 myxuak.mir-kubikov.ru
@@ -1974,6 +1984,8 @@
 ::1 r.ad1.ru
 0.0.0.0 r.dimkriju.bget.ru
 ::1 r.dimkriju.bget.ru
+0.0.0.0 r.my.com
+::1 r.my.com
 0.0.0.0 r.partner.badoo.ru
 ::1 r.partner.badoo.ru
 0.0.0.0 r.qip.ru
@@ -2300,6 +2312,8 @@
 ::1 stat.5-tv.ru
 0.0.0.0 stat.clickfrog.ru
 ::1 stat.clickfrog.ru
+0.0.0.0 stat.gc.my.games
+::1 stat.gc.my.games
 0.0.0.0 stat.ntv.ru
 ::1 stat.ntv.ru
 0.0.0.0 stat.okko.tv
@@ -2556,6 +2570,8 @@
 ::1 track.tproger.ru
 0.0.0.0 track2.tprg.ru
 ::1 track2.tprg.ru
+0.0.0.0 tracker-api.my.com
+::1 tracker-api.my.com
 0.0.0.0 tracking.gpm-rtv.ru
 ::1 tracking.gpm-rtv.ru
 0.0.0.0 tracking.m.mercedes-benz.ru
@@ -2694,6 +2710,8 @@
 ::1 vk-ads.ru
 0.0.0.0 vk-analytics.ru
 ::1 vk-analytics.ru
+0.0.0.0 vkcdnservice.com
+::1 vkcdnservice.com
 0.0.0.0 vmkxcsss.ru
 ::1 vmkxcsss.ru
 0.0.0.0 vogozae.ru

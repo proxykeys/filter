@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,1cpbac.ru
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
 DOMAIN-SUFFIX,1l-view.mail.ru
+DOMAIN-SUFFIX,1l-view.my.games
 DOMAIN-SUFFIX,1p3opxwwet.ru
 DOMAIN-SUFFIX,1sputnik.ru
 DOMAIN-SUFFIX,1traf.ru
@@ -121,6 +122,7 @@ DOMAIN-SUFFIX,ads.adfox.ru
 DOMAIN-SUFFIX,ads.bb59.ru
 DOMAIN-SUFFIX,ads.dfiles.ru
 DOMAIN-SUFFIX,ads.edadeal.ru
+DOMAIN-SUFFIX,ads.icq.com
 DOMAIN-SUFFIX,ads.imovideo.ru
 DOMAIN-SUFFIX,ads.interfax.ru
 DOMAIN-SUFFIX,ads2.pbxware.ru
@@ -178,6 +180,7 @@ DOMAIN-SUFFIX,allstat-pp.ru
 DOMAIN-SUFFIX,alltizer.ru
 DOMAIN-SUFFIX,alpari.ru
 DOMAIN-SUFFIX,alt-ad.mail.ru
+DOMAIN-SUFFIX,alt-r.my.com
 DOMAIN-SUFFIX,amazingcl.ru
 DOMAIN-SUFFIX,amazy.ru
 DOMAIN-SUFFIX,amc.yandex.ru
@@ -800,6 +803,7 @@ DOMAIN-SUFFIX,mestkom.ru
 DOMAIN-SUFFIX,metrics.animagazin.ru
 DOMAIN-SUFFIX,metrics.aviasales.ru
 DOMAIN-SUFFIX,metrics.prom.third-party-app.sberdevices.ru
+DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN-SUFFIX,metricus.artlebedev.ru
 DOMAIN-SUFFIX,metrika.kontur.ru
 DOMAIN-SUFFIX,minidoc.ru
@@ -840,6 +844,7 @@ DOMAIN-SUFFIX,myatpe.mebelaero.ru
 DOMAIN-SUFFIX,mycdn4.ru
 DOMAIN-SUFFIX,mycpm.ru
 DOMAIN-SUFFIX,mytop.live.vkvideo.ru
+DOMAIN-SUFFIX,mytopf.com
 DOMAIN-SUFFIX,mytraf.ru
 DOMAIN-SUFFIX,myxuak.mir-kubikov.ru
 DOMAIN-SUFFIX,nanofantiki.edigest.ru
@@ -986,6 +991,7 @@ DOMAIN-SUFFIX,qvnpxc.technopark.ru
 DOMAIN-SUFFIX,qxplus.ru
 DOMAIN-SUFFIX,r.ad1.ru
 DOMAIN-SUFFIX,r.dimkriju.bget.ru
+DOMAIN-SUFFIX,r.my.com
 DOMAIN-SUFFIX,r.partner.badoo.ru
 DOMAIN-SUFFIX,r.qip.ru
 DOMAIN-SUFFIX,r.rbc.ru
@@ -1149,6 +1155,7 @@ DOMAIN-SUFFIX,stat-analytics.mediavitrina.ru
 DOMAIN-SUFFIX,stat-feedot.ru
 DOMAIN-SUFFIX,stat.5-tv.ru
 DOMAIN-SUFFIX,stat.clickfrog.ru
+DOMAIN-SUFFIX,stat.gc.my.games
 DOMAIN-SUFFIX,stat.ntv.ru
 DOMAIN-SUFFIX,stat.okko.tv
 DOMAIN-SUFFIX,stat.radar.imgsmail.ru
@@ -1277,6 +1284,7 @@ DOMAIN-SUFFIX,track.ddmanager.ru
 DOMAIN-SUFFIX,track.price.ru
 DOMAIN-SUFFIX,track.tproger.ru
 DOMAIN-SUFFIX,track2.tprg.ru
+DOMAIN-SUFFIX,tracker-api.my.com
 DOMAIN-SUFFIX,tracking.gpm-rtv.ru
 DOMAIN-SUFFIX,tracking.m.mercedes-benz.ru
 DOMAIN-SUFFIX,tracking.omron.ru
@@ -1346,6 +1354,7 @@ DOMAIN-SUFFIX,visor.sberbank.ru
 DOMAIN-SUFFIX,vjmqdx.nozhikov.ru
 DOMAIN-SUFFIX,vk-ads.ru
 DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,vkcdnservice.com
 DOMAIN-SUFFIX,vmkxcsss.ru
 DOMAIN-SUFFIX,vogozae.ru
 DOMAIN-SUFFIX,vogozara.ru

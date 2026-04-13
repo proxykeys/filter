@@ -8,6 +8,7 @@ domain:1cpbac.ru
 domain:1l-hit.mail.ru
 domain:1l-hit.vkplay.ru
 domain:1l-view.mail.ru
+domain:1l-view.my.games
 domain:1p3opxwwet.ru
 domain:1sputnik.ru
 domain:1traf.ru
@@ -121,6 +122,7 @@ domain:ads.adfox.ru
 domain:ads.bb59.ru
 domain:ads.dfiles.ru
 domain:ads.edadeal.ru
+domain:ads.icq.com
 domain:ads.imovideo.ru
 domain:ads.interfax.ru
 domain:ads2.pbxware.ru
@@ -178,6 +180,7 @@ domain:allstat-pp.ru
 domain:alltizer.ru
 domain:alpari.ru
 domain:alt-ad.mail.ru
+domain:alt-r.my.com
 domain:amazingcl.ru
 domain:amazy.ru
 domain:amc.yandex.ru
@@ -800,6 +803,7 @@ domain:mestkom.ru
 domain:metrics.animagazin.ru
 domain:metrics.aviasales.ru
 domain:metrics.prom.third-party-app.sberdevices.ru
+domain:metrics.viqeo.tv
 domain:metricus.artlebedev.ru
 domain:metrika.kontur.ru
 domain:minidoc.ru
@@ -840,6 +844,7 @@ domain:myatpe.mebelaero.ru
 domain:mycdn4.ru
 domain:mycpm.ru
 domain:mytop.live.vkvideo.ru
+domain:mytopf.com
 domain:mytraf.ru
 domain:myxuak.mir-kubikov.ru
 domain:nanofantiki.edigest.ru
@@ -986,6 +991,7 @@ domain:qvnpxc.technopark.ru
 domain:qxplus.ru
 domain:r.ad1.ru
 domain:r.dimkriju.bget.ru
+domain:r.my.com
 domain:r.partner.badoo.ru
 domain:r.qip.ru
 domain:r.rbc.ru
@@ -1149,6 +1155,7 @@ domain:stat-analytics.mediavitrina.ru
 domain:stat-feedot.ru
 domain:stat.5-tv.ru
 domain:stat.clickfrog.ru
+domain:stat.gc.my.games
 domain:stat.ntv.ru
 domain:stat.okko.tv
 domain:stat.radar.imgsmail.ru
@@ -1277,6 +1284,7 @@ domain:track.ddmanager.ru
 domain:track.price.ru
 domain:track.tproger.ru
 domain:track2.tprg.ru
+domain:tracker-api.my.com
 domain:tracking.gpm-rtv.ru
 domain:tracking.m.mercedes-benz.ru
 domain:tracking.omron.ru
@@ -1346,6 +1354,7 @@ domain:visor.sberbank.ru
 domain:vjmqdx.nozhikov.ru
 domain:vk-ads.ru
 domain:vk-analytics.ru
+domain:vkcdnservice.com
 domain:vmkxcsss.ru
 domain:vogozae.ru
 domain:vogozara.ru

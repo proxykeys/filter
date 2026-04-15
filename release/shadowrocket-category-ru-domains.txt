@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,agency-adv.ozon.ru:@ads
 DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,algoritmika.org
+DOMAIN-SUFFIX,alt-ad.mail.ru:@ads
 DOMAIN-SUFFIX,amc.yandex.ru:@ads
 DOMAIN-SUFFIX,an.yandex.ru:@ads
 DOMAIN-SUFFIX,analytics-adv.ozon.ru:@ads

@@ -47,6 +47,7 @@ domain:agency-adv.ozon.ru:@ads
 domain:alfabank.oavdo.amc
 domain:alfabank.st
 domain:algoritmika.org
+domain:alt-ad.mail.ru:@ads
 domain:amc.yandex.ru:@ads
 domain:an.yandex.ru:@ads
 domain:analytics-adv.ozon.ru:@ads

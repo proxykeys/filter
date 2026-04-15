@@ -733,7 +733,6 @@ payload:
   - DOMAIN-SUFFIX,linkwmr.ru
   - DOMAIN-SUFFIX,livesurf.ru
   - DOMAIN-SUFFIX,lk.vectoranalytics.ru
-  - DOMAIN-SUFFIX,load.gtm.koleso.ru
   - DOMAIN-SUFFIX,loadmoney.ru
   - DOMAIN-SUFFIX,loan.aol.msk.su
   - DOMAIN-SUFFIX,log.dzen.ru
@@ -801,6 +800,7 @@ payload:
   - DOMAIN-SUFFIX,megaopen.ru
   - DOMAIN-SUFFIX,mesotherapy.jino-net.ru
   - DOMAIN-SUFFIX,mestkom.ru
+  - DOMAIN-SUFFIX,metrics.americanairlines.com.ru
   - DOMAIN-SUFFIX,metrics.animagazin.ru
   - DOMAIN-SUFFIX,metrics.aviasales.ru
   - DOMAIN-SUFFIX,metrics.prom.third-party-app.sberdevices.ru
@@ -871,6 +871,7 @@ payload:
   - DOMAIN-SUFFIX,ntvk1.ru
   - DOMAIN-SUFFIX,num-link.ru
   - DOMAIN-SUFFIX,nxjnsb.station-l.ru
+  - DOMAIN-SUFFIX,nyceov.life.ru
   - DOMAIN-SUFFIX,nytva-nmz.ru
   - DOMAIN-SUFFIX,o.60sk.ru
   - DOMAIN-SUFFIX,oba.rus-km.ru
@@ -1018,7 +1019,6 @@ payload:
   - DOMAIN-SUFFIX,readme.ru
   - DOMAIN-SUFFIX,readto.ru
   - DOMAIN-SUFFIX,real.delovoemesto.ru
-  - DOMAIN-SUFFIX,real.dvanadva.ru
   - DOMAIN-SUFFIX,redclick.ru
   - DOMAIN-SUFFIX,redflu.ru
   - DOMAIN-SUFFIX,redsquare.rambler.ru
@@ -1040,6 +1040,7 @@ payload:
   - DOMAIN-SUFFIX,rkft2sdl8b.ru
   - DOMAIN-SUFFIX,rle.ru
   - DOMAIN-SUFFIX,rmbn.ru
+  - DOMAIN-SUFFIX,rnybul.gismeteo.ru
   - DOMAIN-SUFFIX,rollad.ru
   - DOMAIN-SUFFIX,rorer.ru
   - DOMAIN-SUFFIX,rot.rusoul.ru
@@ -1278,12 +1279,12 @@ payload:
   - DOMAIN-SUFFIX,tr.samoresim.ru
   - DOMAIN-SUFFIX,tr1.kaspersky.ca
   - DOMAIN-SUFFIX,tr1.kaspersky.com.tr
-  - DOMAIN-SUFFIX,tr1.kaspersky.ru
   - DOMAIN-SUFFIX,tr2.kaspersky.ru
   - DOMAIN-SUFFIX,track-mixer.ru
   - DOMAIN-SUFFIX,track.ddmanager.ru
   - DOMAIN-SUFFIX,track.price.ru
   - DOMAIN-SUFFIX,track.tproger.ru
+  - DOMAIN-SUFFIX,track.zeleks.ru
   - DOMAIN-SUFFIX,track2.tprg.ru
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracking.gpm-rtv.ru

@@ -507,6 +507,7 @@ domain:webvisor.com
 domain:webvisor.com:@ads
 domain:webvisor.org
 domain:webvisor.org:@ads
+domain:whoosh.bike
 domain:wibes.com
 domain:wildberries.am
 domain:wildberries.by

@@ -732,7 +732,6 @@ domain:linkunder.ru
 domain:linkwmr.ru
 domain:livesurf.ru
 domain:lk.vectoranalytics.ru
-domain:load.gtm.koleso.ru
 domain:loadmoney.ru
 domain:loan.aol.msk.su
 domain:log.dzen.ru
@@ -800,6 +799,7 @@ domain:meendo.ru
 domain:megaopen.ru
 domain:mesotherapy.jino-net.ru
 domain:mestkom.ru
+domain:metrics.americanairlines.com.ru
 domain:metrics.animagazin.ru
 domain:metrics.aviasales.ru
 domain:metrics.prom.third-party-app.sberdevices.ru
@@ -870,6 +870,7 @@ domain:nov.evmenov37.ru
 domain:ntvk1.ru
 domain:num-link.ru
 domain:nxjnsb.station-l.ru
+domain:nyceov.life.ru
 domain:nytva-nmz.ru
 domain:o.60sk.ru
 domain:oba.rus-km.ru
@@ -1017,7 +1018,6 @@ domain:rcounter.rambler.ru
 domain:readme.ru
 domain:readto.ru
 domain:real.delovoemesto.ru
-domain:real.dvanadva.ru
 domain:redclick.ru
 domain:redflu.ru
 domain:redsquare.rambler.ru
@@ -1039,6 +1039,7 @@ domain:riverlead.ru
 domain:rkft2sdl8b.ru
 domain:rle.ru
 domain:rmbn.ru
+domain:rnybul.gismeteo.ru
 domain:rollad.ru
 domain:rorer.ru
 domain:rot.rusoul.ru
@@ -1277,12 +1278,12 @@ domain:torgnn.ru
 domain:tr.samoresim.ru
 domain:tr1.kaspersky.ca
 domain:tr1.kaspersky.com.tr
-domain:tr1.kaspersky.ru
 domain:tr2.kaspersky.ru
 domain:track-mixer.ru
 domain:track.ddmanager.ru
 domain:track.price.ru
 domain:track.tproger.ru
+domain:track.zeleks.ru
 domain:track2.tprg.ru
 domain:tracker-api.my.com
 domain:tracking.gpm-rtv.ru

@@ -499,6 +499,7 @@ DOMAIN-SUFFIX,wbwh.tech
 DOMAIN-SUFFIX,web-analytics.wildberries.ru:@ads
 DOMAIN-SUFFIX,webvisor.com:@ads
 DOMAIN-SUFFIX,webvisor.org:@ads
+DOMAIN-SUFFIX,whoosh.bike
 DOMAIN-SUFFIX,wibes.com
 DOMAIN-SUFFIX,wildberries.am
 DOMAIN-SUFFIX,wildberries.by

@@ -358,6 +358,7 @@ domain:cnb.cnews.ru
 domain:cnstats.ru
 domain:cnt.logoslovo.ru
 domain:cnt.nov.ru
+domain:cnt.promodj.com
 domain:cnt.rambler.ru
 domain:cnt.ramlife.ru
 domain:codata.ru

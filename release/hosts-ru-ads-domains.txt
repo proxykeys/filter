@@ -718,6 +718,8 @@
 ::1 cnt.logoslovo.ru
 0.0.0.0 cnt.nov.ru
 ::1 cnt.nov.ru
+0.0.0.0 cnt.promodj.com
+::1 cnt.promodj.com
 0.0.0.0 cnt.rambler.ru
 ::1 cnt.rambler.ru
 0.0.0.0 cnt.ramlife.ru

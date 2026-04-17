@@ -407,6 +407,10 @@ domain:tdev.by
 domain:tehnodom.com
 domain:telega.info
 domain:telega.me
+domain:tilda.cc
+domain:tilda.ws
+domain:tildaapi.com
+domain:tildacdn.com
 domain:timeweb.cloud
 domain:timeweb.com
 domain:tinkoff-group.com

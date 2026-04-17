@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,a.sdska.ru
 DOMAIN-SUFFIX,a.ucoz.ru
 DOMAIN-SUFFIX,a.wb.ru
 DOMAIN-SUFFIX,a24help.ru
+DOMAIN-SUFFIX,aan8bq.ru
 DOMAIN-SUFFIX,abeets.ru
 DOMAIN-SUFFIX,abs.firstvds.ru
 DOMAIN-SUFFIX,abt.s3.yandex.net
@@ -287,6 +288,7 @@ DOMAIN-SUFFIX,blogun.ru
 DOMAIN-SUFFIX,bn.ohah.ru
 DOMAIN-SUFFIX,bn.orthodoxy.ru
 DOMAIN-SUFFIX,bolshoykush.ru
+DOMAIN-SUFFIX,bonuscake.ru
 DOMAIN-SUFFIX,boostcpm.su
 DOMAIN-SUFFIX,borzjournal.ru
 DOMAIN-SUFFIX,botdetector.ru
@@ -1165,6 +1167,7 @@ DOMAIN-SUFFIX,stat.rare.ru
 DOMAIN-SUFFIX,stat.rum.cdnvideo.ru
 DOMAIN-SUFFIX,stat.ruvr.ru
 DOMAIN-SUFFIX,stat.sputnik.ru
+DOMAIN-SUFFIX,stat.tildacdn.com
 DOMAIN-SUFFIX,stat.tvigle.ru
 DOMAIN-SUFFIX,stat.videonow.ru
 DOMAIN-SUFFIX,stat1.clickfraud.ru

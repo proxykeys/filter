@@ -92,6 +92,8 @@
 ::1 a.wb.ru
 0.0.0.0 a24help.ru
 ::1 a24help.ru
+0.0.0.0 aan8bq.ru
+::1 aan8bq.ru
 0.0.0.0 abeets.ru
 ::1 abeets.ru
 0.0.0.0 abs.firstvds.ru
@@ -576,6 +578,8 @@
 ::1 bn.orthodoxy.ru
 0.0.0.0 bolshoykush.ru
 ::1 bolshoykush.ru
+0.0.0.0 bonuscake.ru
+::1 bonuscake.ru
 0.0.0.0 boostcpm.su
 ::1 boostcpm.su
 0.0.0.0 borzjournal.ru
@@ -2332,6 +2336,8 @@
 ::1 stat.ruvr.ru
 0.0.0.0 stat.sputnik.ru
 ::1 stat.sputnik.ru
+0.0.0.0 stat.tildacdn.com
+::1 stat.tildacdn.com
 0.0.0.0 stat.tvigle.ru
 ::1 stat.tvigle.ru
 0.0.0.0 stat.videonow.ru

@@ -45,6 +45,7 @@ domain:a.sdska.ru
 domain:a.ucoz.ru
 domain:a.wb.ru
 domain:a24help.ru
+domain:aan8bq.ru
 domain:abeets.ru
 domain:abs.firstvds.ru
 domain:abt.s3.yandex.net
@@ -287,6 +288,7 @@ domain:blogun.ru
 domain:bn.ohah.ru
 domain:bn.orthodoxy.ru
 domain:bolshoykush.ru
+domain:bonuscake.ru
 domain:boostcpm.su
 domain:borzjournal.ru
 domain:botdetector.ru
@@ -1165,6 +1167,7 @@ domain:stat.rare.ru
 domain:stat.rum.cdnvideo.ru
 domain:stat.ruvr.ru
 domain:stat.sputnik.ru
+domain:stat.tildacdn.com
 domain:stat.tvigle.ru
 domain:stat.videonow.ru
 domain:stat1.clickfraud.ru

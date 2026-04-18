@@ -612,7 +612,6 @@ DOMAIN-SUFFIX,hitter.ru
 DOMAIN-SUFFIX,hochu-deneg.ru
 DOMAIN-SUFFIX,holm.ru
 DOMAIN-SUFFIX,honey.briefly.ru
-DOMAIN-SUFFIX,horny.su
 DOMAIN-SUFFIX,hotlog.ru
 DOMAIN-SUFFIX,hqjuww.kolesa-darom.ru
 DOMAIN-SUFFIX,huminfakt.ru

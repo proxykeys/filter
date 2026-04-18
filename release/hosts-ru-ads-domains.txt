@@ -1226,8 +1226,6 @@
 ::1 holm.ru
 0.0.0.0 honey.briefly.ru
 ::1 honey.briefly.ru
-0.0.0.0 horny.su
-::1 horny.su
 0.0.0.0 hotlog.ru
 ::1 hotlog.ru
 0.0.0.0 hqjuww.kolesa-darom.ru

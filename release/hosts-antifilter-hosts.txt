@@ -400,6 +400,8 @@
 ::1 island-of-pleasure.site
 0.0.0.0 istories.media
 ::1 istories.media
+0.0.0.0 it-tools.tech
+::1 it-tools.tech
 0.0.0.0 jut.su
 ::1 jut.su
 0.0.0.0 kasparov.ru

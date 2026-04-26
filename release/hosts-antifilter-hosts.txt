@@ -176,6 +176,8 @@
 ::1 cloud.mongodb.com
 0.0.0.0 cloudflare-dns.com
 ::1 cloudflare-dns.com
+0.0.0.0 cloudflare-ech.com
+::1 cloudflare-ech.com
 0.0.0.0 codeium.com
 ::1 codeium.com
 0.0.0.0 colta.ru

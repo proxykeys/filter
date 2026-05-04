@@ -1948,6 +1948,8 @@
 ::1 pt0zhwhc26.ru
 0.0.0.0 ptoriq.kristall-shop.ru
 ::1 ptoriq.kristall-shop.ru
+0.0.0.0 pudalz.gismeteo.by
+::1 pudalz.gismeteo.by
 0.0.0.0 punchmedia.ru
 ::1 punchmedia.ru
 0.0.0.0 purchase.hut1.ru

@@ -504,6 +504,7 @@ domain:events.auth.gid.ru
 domain:events.cardsmobile.ru
 domain:events.plus.yandex.net
 domain:eventstream.dodopizza.com
+domain:eventtrace.ru
 domain:evroteplo.ru
 domain:ewfrnd.stockmann.ru
 domain:exaccess.ru
@@ -698,6 +699,7 @@ domain:kqmhog.tbmmarket.ru
 domain:kraken.rambler.ru
 domain:krolikplatit.ru
 domain:krytilka.ru
+domain:kujsc5.ru
 domain:kvcd7w375h.ru
 domain:kwveum.cosmasi.ru
 domain:kxauzv.mrdoors.ru

@@ -1010,6 +1010,8 @@
 ::1 events.plus.yandex.net
 0.0.0.0 eventstream.dodopizza.com
 ::1 eventstream.dodopizza.com
+0.0.0.0 eventtrace.ru
+::1 eventtrace.ru
 0.0.0.0 evroteplo.ru
 ::1 evroteplo.ru
 0.0.0.0 ewfrnd.stockmann.ru
@@ -1398,6 +1400,8 @@
 ::1 krolikplatit.ru
 0.0.0.0 krytilka.ru
 ::1 krytilka.ru
+0.0.0.0 kujsc5.ru
+::1 kujsc5.ru
 0.0.0.0 kvcd7w375h.ru
 ::1 kvcd7w375h.ru
 0.0.0.0 kwveum.cosmasi.ru

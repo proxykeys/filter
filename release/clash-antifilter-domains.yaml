@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,builds.parsec.app
   - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,cdn.id.supercell.com
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.oaistatic.com
   - DOMAIN-SUFFIX,cdn2site.com
   - DOMAIN-SUFFIX,cdninstagram.com

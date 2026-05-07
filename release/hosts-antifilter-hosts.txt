@@ -146,6 +146,8 @@
 ::1 canva.com
 0.0.0.0 cdn.id.supercell.com
 ::1 cdn.id.supercell.com
+0.0.0.0 cdn.jsdelivr.net
+::1 cdn.jsdelivr.net
 0.0.0.0 cdn.oaistatic.com
 ::1 cdn.oaistatic.com
 0.0.0.0 cdn2site.com

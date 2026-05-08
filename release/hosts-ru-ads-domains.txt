@@ -602,6 +602,8 @@
 ::1 bstias.avilon.ru
 0.0.0.0 bubblesmedia.ru
 ::1 bubblesmedia.ru
+0.0.0.0 bugpuk.ru
+::1 bugpuk.ru
 0.0.0.0 buy-adipex.aca.ru
 ::1 buy-adipex.aca.ru
 0.0.0.0 buy-adipex.hut1.ru

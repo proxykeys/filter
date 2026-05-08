@@ -300,6 +300,7 @@ domain:bs.orsk.ru
 domain:bs.yandex.ru
 domain:bstias.avilon.ru
 domain:bubblesmedia.ru
+domain:bugpuk.ru
 domain:buy-adipex.aca.ru
 domain:buy-adipex.hut1.ru
 domain:buy-fioricet.hut1.ru

@@ -2022,6 +2022,8 @@
 ::1 r6.galya.ru
 0.0.0.0 r9ljguu1k4.ru
 ::1 r9ljguu1k4.ru
+0.0.0.0 rabbitcounter.com
+::1 rabbitcounter.com
 0.0.0.0 rareru.ru
 ::1 rareru.ru
 0.0.0.0 rasskaju.ru

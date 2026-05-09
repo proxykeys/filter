@@ -1010,6 +1010,7 @@ DOMAIN-SUFFIX,r0.mradx.net
 DOMAIN-SUFFIX,r1.ati.su
 DOMAIN-SUFFIX,r6.galya.ru
 DOMAIN-SUFFIX,r9ljguu1k4.ru
+DOMAIN-SUFFIX,rabbitcounter.com
 DOMAIN-SUFFIX,rareru.ru
 DOMAIN-SUFFIX,rasskaju.ru
 DOMAIN-SUFFIX,rate.ru

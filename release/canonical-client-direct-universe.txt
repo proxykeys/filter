@@ -22,6 +22,7 @@ domain:ad.mail.ru:@ads
 domain:adfox.ru:@ads
 domain:adfox.yandex.ru:@ads
 domain:admetrica.ru:@ads
+domain:adriver.ru:@ads
 domain:ads.sber.ru:@ads
 domain:ads.viqeo.tv:@ads
 domain:ads.yandex.ru:@ads
@@ -228,6 +229,7 @@ domain:jivochat.es
 domain:jivochat.ng
 domain:jivosite.com
 domain:jump.taxi
+domain:justveryok.com
 domain:kaspersky-labs.com
 domain:kaspersky-labs.net
 domain:kaspersky.be
@@ -264,6 +266,7 @@ domain:kaspersky.pt
 domain:kaspersky.ro
 domain:kaspersky.rs
 domain:kaspersky.se
+domain:keyboardmen.com
 domain:kinescopecdn.net
 domain:kinorium.com
 domain:knightspeak.com
@@ -325,6 +328,14 @@ domain:neon.click:@ads
 domain:netmonet.co
 domain:ngenix.net
 domain:obs.mts.ru:@ads
+domain:odnoklasniki.by
+domain:odnoklasniki.ua
+domain:odnoklassniki.am
+domain:odnoklassniki.by
+domain:odnoklassniki.co.ee
+domain:odnoklassniki.eu
+domain:odnoklassniki.lv
+domain:odnoklassniki.tj
 domain:ognihome.com
 domain:ok.me
 domain:okko.sport
@@ -365,7 +376,9 @@ domain:prodcontest.com
 domain:promodj.com
 domain:psk
 domain:pushgrow.io
+domain:pz.help
 domain:r.mail.ru:@ads
+domain:rabbitcounter.com
 domain:rabota.by
 domain:radar.imgsmail.ru:@ads
 domain:relap.mail.ru:@ads
@@ -388,6 +401,7 @@ domain:saas-support.com
 domain:safeliner.tech
 domain:sage-observability.tech
 domain:salute.ai
+domain:sayeasy.eu
 domain:sber-bank.by
 domain:sber.pro
 domain:sberauto.com

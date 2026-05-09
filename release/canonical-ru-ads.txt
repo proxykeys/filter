@@ -332,6 +332,7 @@ domain:carisoprodol.shengen.ru
 domain:cashprom.ru
 domain:catsnetwork.ru
 domain:cc.calltracking.ru
+domain:ccs.north-kazakhstan.su
 domain:cdn-rum.ngenix.net
 domain:cdn.ddmanager.ru
 domain:cdn.gpmdata.ru

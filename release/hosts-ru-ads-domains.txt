@@ -666,6 +666,8 @@
 ::1 catsnetwork.ru
 0.0.0.0 cc.calltracking.ru
 ::1 cc.calltracking.ru
+0.0.0.0 ccs.north-kazakhstan.su
+::1 ccs.north-kazakhstan.su
 0.0.0.0 cdn-rum.ngenix.net
 ::1 cdn-rum.ngenix.net
 0.0.0.0 cdn.ddmanager.ru

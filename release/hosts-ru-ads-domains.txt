@@ -86,6 +86,8 @@
 ::1 a.ridd.ru
 0.0.0.0 a.sdska.ru
 ::1 a.sdska.ru
+0.0.0.0 a.ucoz.net
+::1 a.ucoz.net
 0.0.0.0 a.ucoz.ru
 ::1 a.ucoz.ru
 0.0.0.0 a.wb.ru
@@ -410,6 +412,8 @@
 ::1 analytics.sberhealth.ru
 0.0.0.0 analytics.sports.ru
 ::1 analytics.sports.ru
+0.0.0.0 analytics.ubs.com
+::1 analytics.ubs.com
 0.0.0.0 anklets.shengen.ru
 ::1 anklets.shengen.ru
 0.0.0.0 announcement.ru
@@ -1098,6 +1102,8 @@
 ::1 fromru.su
 0.0.0.0 fufoir.aif.ru
 ::1 fufoir.aif.ru
+0.0.0.0 fuse.ubs.com
+::1 fuse.ubs.com
 0.0.0.0 futureup.ru
 ::1 futureup.ru
 0.0.0.0 galaxymeet.ru
@@ -1390,6 +1396,8 @@
 ::1 kjrrpn.taxcom.ru
 0.0.0.0 kmindex.ru
 ::1 kmindex.ru
+0.0.0.0 kosibablo.ucoz.ua
+::1 kosibablo.ucoz.ua
 0.0.0.0 kplusd.far.ru
 ::1 kplusd.far.ru
 0.0.0.0 kq6lwk3m9g.ru
@@ -2054,6 +2062,8 @@
 ::1 readto.ru
 0.0.0.0 real.delovoemesto.ru
 ::1 real.delovoemesto.ru
+0.0.0.0 rec2000.at.ua
+::1 rec2000.at.ua
 0.0.0.0 redclick.ru
 ::1 redclick.ru
 0.0.0.0 redflu.ru
@@ -2618,6 +2628,8 @@
 ::1 trkleads.ru
 0.0.0.0 tsr.zlatoff.ru
 ::1 tsr.zlatoff.ru
+0.0.0.0 tt.ubs.com
+::1 tt.ubs.com
 0.0.0.0 ttarget.ru
 ::1 ttarget.ru
 0.0.0.0 ttnet.yandex.com.tr
@@ -2638,6 +2650,8 @@
 ::1 ubar-pro4.ru
 0.0.0.0 uc.xddi.ru
 ::1 uc.xddi.ru
+0.0.0.0 ucounter.ucoz.net
+::1 ucounter.ucoz.net
 0.0.0.0 ukrashulya.ru
 ::1 ukrashulya.ru
 0.0.0.0 ukxefa.bonkids.ru
@@ -2978,6 +2992,8 @@
 ::1 zmqdez.ru
 0.0.0.0 zoda.ru
 ::1 zoda.ru
+0.0.0.0 zona1.at.ua
+::1 zona1.at.ua
 0.0.0.0 zorkabiz.ru
 ::1 zorkabiz.ru
 0.0.0.0 zqwe.ru

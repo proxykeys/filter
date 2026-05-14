@@ -1560,6 +1560,8 @@
 ::1 mamka.aviasales.ru
 0.0.0.0 market-click-baobab.yandex.ru
 ::1 market-click-baobab.yandex.ru
+0.0.0.0 marketing.trvl.yandex.net
+::1 marketing.trvl.yandex.net
 0.0.0.0 mastertarget.ru
 ::1 mastertarget.ru
 0.0.0.0 matomo.datago.ru

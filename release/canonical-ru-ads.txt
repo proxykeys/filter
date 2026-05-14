@@ -779,6 +779,7 @@ domain:major.dvanadva.ru
 domain:make-money.shengen.ru
 domain:mamka.aviasales.ru
 domain:market-click-baobab.yandex.ru
+domain:marketing.trvl.yandex.net
 domain:mastertarget.ru
 domain:matomo.datago.ru
 domain:maxesads.ru

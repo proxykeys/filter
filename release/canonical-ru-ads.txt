@@ -937,6 +937,7 @@ domain:phentermine.shengen.ru
 domain:phone-calling-card.exnet.su
 domain:phpteaser.ru
 domain:piar-m.ru
+domain:pic.rutube.ru
 domain:piper.amocrm.ru
 domain:pir.zspb.ru
 domain:pixel-cdp.sberhealth.ru

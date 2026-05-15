@@ -1876,6 +1876,8 @@
 ::1 phpteaser.ru
 0.0.0.0 piar-m.ru
 ::1 piar-m.ru
+0.0.0.0 pic.rutube.ru
+::1 pic.rutube.ru
 0.0.0.0 piper.amocrm.ru
 ::1 piper.amocrm.ru
 0.0.0.0 pir.zspb.ru

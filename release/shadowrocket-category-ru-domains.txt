@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,adv.vk.com:@ads
 DOMAIN-SUFFIX,adv.yandex.com:@ads
 DOMAIN-SUFFIX,adv.yandex.ru:@ads
 DOMAIN-SUFFIX,alefbank.com
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,algoritmika.org

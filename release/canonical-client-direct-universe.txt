@@ -32,6 +32,7 @@ domain:adv.vk.com:@ads
 domain:adv.yandex.com:@ads
 domain:adv.yandex.ru:@ads
 domain:alefbank.com
+domain:alfa.me
 domain:alfabank.oavdo.amc
 domain:alfabank.st
 domain:algoritmika.org

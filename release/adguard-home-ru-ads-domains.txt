@@ -1295,6 +1295,7 @@
 ||tr1.kaspersky.ca^
 ||tr1.kaspersky.com.tr^
 ||tr2.kaspersky.ru^
+||trace-flow.ru^
 ||track-mixer.ru^
 ||track.ddmanager.ru^
 ||track.price.ru^

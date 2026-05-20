@@ -1295,6 +1295,7 @@ domain:tr.samoresim.ru
 domain:tr1.kaspersky.ca
 domain:tr1.kaspersky.com.tr
 domain:tr2.kaspersky.ru
+domain:trace-flow.ru
 domain:track-mixer.ru
 domain:track.ddmanager.ru
 domain:track.price.ru

@@ -2592,6 +2592,8 @@
 ::1 tr1.kaspersky.com.tr
 0.0.0.0 tr2.kaspersky.ru
 ::1 tr2.kaspersky.ru
+0.0.0.0 trace-flow.ru
+::1 trace-flow.ru
 0.0.0.0 track-mixer.ru
 ::1 track-mixer.ru
 0.0.0.0 track.ddmanager.ru

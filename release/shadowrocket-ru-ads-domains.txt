@@ -1295,6 +1295,7 @@ DOMAIN-SUFFIX,tr.samoresim.ru
 DOMAIN-SUFFIX,tr1.kaspersky.ca
 DOMAIN-SUFFIX,tr1.kaspersky.com.tr
 DOMAIN-SUFFIX,tr2.kaspersky.ru
+DOMAIN-SUFFIX,trace-flow.ru
 DOMAIN-SUFFIX,track-mixer.ru
 DOMAIN-SUFFIX,track.ddmanager.ru
 DOMAIN-SUFFIX,track.price.ru

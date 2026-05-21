@@ -1,6 +1,6 @@
 antifilter_domains=483
-antifilter_ips=16322
-global_ads_domain_rules=171471
+antifilter_ips=16255
+global_ads_domain_rules=171610
 global_ads_full_rules=0
 global_ads_keyword_rules=0
 direct_universe_domains=691

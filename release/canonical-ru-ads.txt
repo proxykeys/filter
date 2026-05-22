@@ -1228,6 +1228,7 @@ domain:t.sur.new.gorodkirov.ru
 domain:tag.datariver.ru
 domain:tag.perx.ru
 domain:tagcommander.laredoute.ru
+domain:tagmanager.andata.ru
 domain:tags.soloway.ru
 domain:takeallsoft.ru
 domain:tapstat.ru

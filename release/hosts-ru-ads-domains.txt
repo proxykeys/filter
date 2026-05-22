@@ -2458,6 +2458,8 @@
 ::1 tag.perx.ru
 0.0.0.0 tagcommander.laredoute.ru
 ::1 tagcommander.laredoute.ru
+0.0.0.0 tagmanager.andata.ru
+::1 tagmanager.andata.ru
 0.0.0.0 tags.soloway.ru
 ::1 tags.soloway.ru
 0.0.0.0 takeallsoft.ru

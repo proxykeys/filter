@@ -1228,6 +1228,7 @@
 ||tag.datariver.ru^
 ||tag.perx.ru^
 ||tagcommander.laredoute.ru^
+||tagmanager.andata.ru^
 ||tags.soloway.ru^
 ||takeallsoft.ru^
 ||tapstat.ru^

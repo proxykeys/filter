@@ -1228,6 +1228,7 @@ DOMAIN-SUFFIX,t.sur.new.gorodkirov.ru
 DOMAIN-SUFFIX,tag.datariver.ru
 DOMAIN-SUFFIX,tag.perx.ru
 DOMAIN-SUFFIX,tagcommander.laredoute.ru
+DOMAIN-SUFFIX,tagmanager.andata.ru
 DOMAIN-SUFFIX,tags.soloway.ru
 DOMAIN-SUFFIX,takeallsoft.ru
 DOMAIN-SUFFIX,tapstat.ru

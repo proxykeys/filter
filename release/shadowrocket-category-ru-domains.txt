@@ -474,6 +474,7 @@ DOMAIN-SUFFIX,tips.tips
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
 DOMAIN-SUFFIX,top-fwz1.mail.ru:@ads
+DOMAIN-SUFFIX,trace-flow.ru:@ads
 DOMAIN-SUFFIX,tracker-api.my.com:@ads
 DOMAIN-SUFFIX,tracker.my.com:@ads
 DOMAIN-SUFFIX,trbcdn.net

@@ -480,6 +480,7 @@ domain:tips.tips
 domain:tochka-tech.com
 domain:tochka.com
 domain:top-fwz1.mail.ru:@ads
+domain:trace-flow.ru:@ads
 domain:tracker-api.my.com:@ads
 domain:tracker.my.com:@ads
 domain:trbcdn.net

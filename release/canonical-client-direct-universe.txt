@@ -389,6 +389,7 @@ domain:rabbitcounter.com
 domain:rabota.by
 domain:radar.imgsmail.ru:@ads
 domain:relap.mail.ru:@ads
+domain:reso-med.com
 domain:restream-media.net
 domain:rocketozon.by
 domain:roistat.com:@ads

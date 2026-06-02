@@ -722,6 +722,8 @@
 ::1 clshkv.labirint.ru
 0.0.0.0 clx.ru
 ::1 clx.ru
+0.0.0.0 cm076410.tw1.ru
+::1 cm076410.tw1.ru
 0.0.0.0 cnb.cnews.ru
 ::1 cnb.cnews.ru
 0.0.0.0 cnstats.ru
@@ -2584,6 +2586,8 @@
 ::1 topcto.ru
 0.0.0.0 topiz.ru
 ::1 topiz.ru
+0.0.0.0 topshoponline.ru
+::1 topshoponline.ru
 0.0.0.0 torgnn.ru
 ::1 torgnn.ru
 0.0.0.0 tr.samoresim.ru

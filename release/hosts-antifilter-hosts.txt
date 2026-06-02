@@ -364,6 +364,8 @@
 ::1 hdkinoteatr.com
 0.0.0.0 hdrezka.fm
 ::1 hdrezka.fm
+0.0.0.0 helioadditive.com
+::1 helioadditive.com
 0.0.0.0 helm.releases.hashicorp.com
 ::1 helm.releases.hashicorp.com
 0.0.0.0 holod.global.ssl.fastly.net

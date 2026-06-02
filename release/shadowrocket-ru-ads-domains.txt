@@ -360,6 +360,7 @@ DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,client-analytics.mts.ru
 DOMAIN-SUFFIX,clshkv.labirint.ru
 DOMAIN-SUFFIX,clx.ru
+DOMAIN-SUFFIX,cm076410.tw1.ru
 DOMAIN-SUFFIX,cnb.cnews.ru
 DOMAIN-SUFFIX,cnstats.ru
 DOMAIN-SUFFIX,cnt.logoslovo.ru
@@ -1291,6 +1292,7 @@ DOMAIN-SUFFIX,topadvert.ru
 DOMAIN-SUFFIX,topcpa.ru
 DOMAIN-SUFFIX,topcto.ru
 DOMAIN-SUFFIX,topiz.ru
+DOMAIN-SUFFIX,topshoponline.ru
 DOMAIN-SUFFIX,torgnn.ru
 DOMAIN-SUFFIX,tr.samoresim.ru
 DOMAIN-SUFFIX,tr1.kaspersky.ca

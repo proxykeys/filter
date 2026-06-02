@@ -360,6 +360,7 @@ domain:clickstream.sberbank.ru
 domain:client-analytics.mts.ru
 domain:clshkv.labirint.ru
 domain:clx.ru
+domain:cm076410.tw1.ru
 domain:cnb.cnews.ru
 domain:cnstats.ru
 domain:cnt.logoslovo.ru
@@ -1291,6 +1292,7 @@ domain:topadvert.ru
 domain:topcpa.ru
 domain:topcto.ru
 domain:topiz.ru
+domain:topshoponline.ru
 domain:torgnn.ru
 domain:tr.samoresim.ru
 domain:tr1.kaspersky.ca

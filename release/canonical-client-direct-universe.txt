@@ -31,6 +31,7 @@ domain:adsadvisor.io:@ads
 domain:adv.vk.com:@ads
 domain:adv.yandex.com:@ads
 domain:adv.yandex.ru:@ads
+domain:adygtelecom.com
 domain:alefbank.com
 domain:alfa.me
 domain:alfabank.oavdo.amc

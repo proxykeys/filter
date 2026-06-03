@@ -758,8 +758,6 @@
 ::1 contextbar.ru
 0.0.0.0 cookies.jll.ru
 ::1 cookies.jll.ru
-0.0.0.0 coronafly.ru
-::1 coronafly.ru
 0.0.0.0 count.livetv.ru
 ::1 count.livetv.ru
 0.0.0.0 count.rin.ru
@@ -1554,8 +1552,6 @@
 ::1 mail.ioc.ac.ru
 0.0.0.0 mail.radar.imgsmail.ru
 ::1 mail.radar.imgsmail.ru
-0.0.0.0 major.dvanadva.ru
-::1 major.dvanadva.ru
 0.0.0.0 make-money.shengen.ru
 ::1 make-money.shengen.ru
 0.0.0.0 mamka.aviasales.ru

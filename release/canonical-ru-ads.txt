@@ -378,7 +378,6 @@ domain:contemo.ru
 domain:content.printdirect.ru
 domain:contextbar.ru
 domain:cookies.jll.ru
-domain:coronafly.ru
 domain:count.livetv.ru
 domain:count.rin.ru
 domain:count.yandeg.ru
@@ -776,7 +775,6 @@ domain:mail.banklife.ru
 domain:mail.dolce-gusto.ru
 domain:mail.ioc.ac.ru
 domain:mail.radar.imgsmail.ru
-domain:major.dvanadva.ru
 domain:make-money.shengen.ru
 domain:mamka.aviasales.ru
 domain:market-click-baobab.yandex.ru

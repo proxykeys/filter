@@ -378,7 +378,6 @@ DOMAIN-SUFFIX,contemo.ru
 DOMAIN-SUFFIX,content.printdirect.ru
 DOMAIN-SUFFIX,contextbar.ru
 DOMAIN-SUFFIX,cookies.jll.ru
-DOMAIN-SUFFIX,coronafly.ru
 DOMAIN-SUFFIX,count.livetv.ru
 DOMAIN-SUFFIX,count.rin.ru
 DOMAIN-SUFFIX,count.yandeg.ru
@@ -776,7 +775,6 @@ DOMAIN-SUFFIX,mail.banklife.ru
 DOMAIN-SUFFIX,mail.dolce-gusto.ru
 DOMAIN-SUFFIX,mail.ioc.ac.ru
 DOMAIN-SUFFIX,mail.radar.imgsmail.ru
-DOMAIN-SUFFIX,major.dvanadva.ru
 DOMAIN-SUFFIX,make-money.shengen.ru
 DOMAIN-SUFFIX,mamka.aviasales.ru
 DOMAIN-SUFFIX,market-click-baobab.yandex.ru

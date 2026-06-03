@@ -1262,6 +1262,8 @@
 ::1 ice-media.ru
 0.0.0.0 iceprogs.ru
 ::1 iceprogs.ru
+0.0.0.0 id.sputniknews.com
+::1 id.sputniknews.com
 0.0.0.0 idntfy.ru
 ::1 idntfy.ru
 0.0.0.0 idvd.su
@@ -1728,6 +1730,8 @@
 ::1 natprb.ru
 0.0.0.0 nbohze.thenorthface.ru
 ::1 nbohze.thenorthface.ru
+0.0.0.0 ncs.eadaily.com
+::1 ncs.eadaily.com
 0.0.0.0 neobasnet.timeout.ru
 ::1 neobasnet.timeout.ru
 0.0.0.0 neosap.ru

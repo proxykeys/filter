@@ -630,6 +630,7 @@ DOMAIN-SUFFIX,i.j2j.ru
 DOMAIN-SUFFIX,iaalxo.vans.ru
 DOMAIN-SUFFIX,ice-media.ru
 DOMAIN-SUFFIX,iceprogs.ru
+DOMAIN-SUFFIX,id.sputniknews.com
 DOMAIN-SUFFIX,idntfy.ru
 DOMAIN-SUFFIX,idvd.su
 DOMAIN-SUFFIX,ijtazz.boscooutlet.ru
@@ -863,6 +864,7 @@ DOMAIN-SUFFIX,nativ.podruzke.ru
 DOMAIN-SUFFIX,nativerent.ru
 DOMAIN-SUFFIX,natprb.ru
 DOMAIN-SUFFIX,nbohze.thenorthface.ru
+DOMAIN-SUFFIX,ncs.eadaily.com
 DOMAIN-SUFFIX,neobasnet.timeout.ru
 DOMAIN-SUFFIX,neosap.ru
 DOMAIN-SUFFIX,netlog.ru

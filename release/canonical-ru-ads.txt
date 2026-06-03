@@ -630,6 +630,7 @@ domain:i.j2j.ru
 domain:iaalxo.vans.ru
 domain:ice-media.ru
 domain:iceprogs.ru
+domain:id.sputniknews.com
 domain:idntfy.ru
 domain:idvd.su
 domain:ijtazz.boscooutlet.ru
@@ -863,6 +864,7 @@ domain:nativ.podruzke.ru
 domain:nativerent.ru
 domain:natprb.ru
 domain:nbohze.thenorthface.ru
+domain:ncs.eadaily.com
 domain:neobasnet.timeout.ru
 domain:neosap.ru
 domain:netlog.ru

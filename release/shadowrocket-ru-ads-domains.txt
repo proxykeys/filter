@@ -1399,6 +1399,7 @@ DOMAIN-SUFFIX,w88.disney.ru
 DOMAIN-SUFFIX,wapstart.ru
 DOMAIN-SUFFIX,warlog.ru
 DOMAIN-SUFFIX,wct.softonic.ru
+DOMAIN-SUFFIX,web.almestin.ru
 DOMAIN-SUFFIX,webgringo.ru
 DOMAIN-SUFFIX,webhosting.hut1.ru
 DOMAIN-SUFFIX,webkurchatov.ru

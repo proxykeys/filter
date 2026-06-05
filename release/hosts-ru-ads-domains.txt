@@ -2800,6 +2800,8 @@
 ::1 warlog.ru
 0.0.0.0 wct.softonic.ru
 ::1 wct.softonic.ru
+0.0.0.0 web.almestin.ru
+::1 web.almestin.ru
 0.0.0.0 webgringo.ru
 ::1 webgringo.ru
 0.0.0.0 webhosting.hut1.ru

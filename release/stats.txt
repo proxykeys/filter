@@ -4,6 +4,6 @@ global_ads_domain_rules=169669
 global_ads_full_rules=0
 global_ads_keyword_rules=0
 direct_universe_domains=804
-direct_universe_fulls=220
+direct_universe_fulls=222
 ru_ads_domains=1510
 ru_ads_fulls=0

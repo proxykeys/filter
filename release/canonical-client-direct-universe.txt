@@ -925,6 +925,7 @@ full:ksn-url-geo.kaspersky-labs.com:@cn
 full:ksn-url.geoksn.kaspersky.com:@cn
 full:ksn-verdict-geo.kaspersky-labs.com:@cn
 full:ksn-verdict.geoksn.kaspersky.com:@cn
+full:log.strm.yandex.ru:@ads
 full:loyalnost-adv.ozon.ru:@ads
 full:marketing-info.wildberries.ru:@ads
 full:marketplace-sentry.wb.ru:@ads
@@ -1002,6 +1003,7 @@ full:sentry.wb.ru:@ads
 full:sentry.x5.ru:@ads
 full:srch-telemeter10.g.smailru.net:@ads
 full:stacks.vk-portal.net:@ads
+full:stats.avito.ru:@ads
 full:stats.dahlmessenger.com:@ads
 full:stats.dev.telega.info:@ads
 full:stats.rustore.ru:@ads

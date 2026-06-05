@@ -919,6 +919,7 @@ DOMAIN,ksn-url-geo.kaspersky-labs.com:@cn
 DOMAIN,ksn-url.geoksn.kaspersky.com:@cn
 DOMAIN,ksn-verdict-geo.kaspersky-labs.com:@cn
 DOMAIN,ksn-verdict.geoksn.kaspersky.com:@cn
+DOMAIN,log.strm.yandex.ru:@ads
 DOMAIN,loyalnost-adv.ozon.ru:@ads
 DOMAIN,marketing-info.wildberries.ru:@ads
 DOMAIN,marketplace-sentry.wb.ru:@ads
@@ -1002,6 +1003,7 @@ DOMAIN,srch-telemeter10.g.smailru.net:@ads
 DOMAIN,st-ok-pts.cdn-vk.ru
 DOMAIN,st-ok.cdn-vk.ru
 DOMAIN,stacks.vk-portal.net:@ads
+DOMAIN,stats.avito.ru:@ads
 DOMAIN,stats.dahlmessenger.com:@ads
 DOMAIN,stats.dev.telega.info:@ads
 DOMAIN,stats.rustore.ru:@ads

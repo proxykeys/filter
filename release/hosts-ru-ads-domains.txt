@@ -2172,6 +2172,8 @@
 ::1 s1.intimshop.ru
 0.0.0.0 sa.adidas.ru
 ::1 sa.adidas.ru
+0.0.0.0 safes.ru.com
+::1 safes.ru.com
 0.0.0.0 salebestever.su
 ::1 salebestever.su
 0.0.0.0 saletrybest.su

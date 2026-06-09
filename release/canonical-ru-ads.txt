@@ -1085,6 +1085,7 @@ domain:s.frida.vse42.ru
 domain:s.sdx.ru
 domain:s1.intimshop.ru
 domain:sa.adidas.ru
+domain:safes.ru.com
 domain:salebestever.su
 domain:saletrybest.su
 domain:sape.ru

@@ -330,6 +330,8 @@ domain:koshelek.app
 domain:ktech.team
 domain:lenta.com
 domain:lenta.tech
+domain:livejournal.com
+domain:livejournal.net
 domain:log.dzen.ru:@ads
 domain:lovina.app
 domain:magnit.com

@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,ads.imovideo.ru
 DOMAIN-SUFFIX,ads.interfax.ru
 DOMAIN-SUFFIX,ads2.pbxware.ru
 DOMAIN-SUFFIX,adsdk.yandex.ru
+DOMAIN-SUFFIX,adserver.livejournal.com
 DOMAIN-SUFFIX,adshow.sc2tv.ru
 DOMAIN-SUFFIX,adskape.ru
 DOMAIN-SUFFIX,adsmo.ru

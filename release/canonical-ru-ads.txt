@@ -129,6 +129,7 @@ domain:ads.imovideo.ru
 domain:ads.interfax.ru
 domain:ads2.pbxware.ru
 domain:adsdk.yandex.ru
+domain:adserver.livejournal.com
 domain:adshow.sc2tv.ru
 domain:adskape.ru
 domain:adsmo.ru

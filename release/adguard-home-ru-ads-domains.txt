@@ -129,6 +129,7 @@
 ||ads.interfax.ru^
 ||ads2.pbxware.ru^
 ||adsdk.yandex.ru^
+||adserver.livejournal.com^
 ||adshow.sc2tv.ru^
 ||adskape.ru^
 ||adsmo.ru^

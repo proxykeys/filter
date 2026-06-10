@@ -1310,6 +1310,7 @@ domain:tracker-api.my.com
 domain:tracking.gpm-rtv.ru
 domain:tracking.m.mercedes-benz.ru
 domain:tracking.omron.ru
+domain:tracking.vbr.ru
 domain:tradedealvip.su
 domain:tradeleads.su
 domain:traff.ru

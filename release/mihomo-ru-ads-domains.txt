@@ -129,7 +129,6 @@ DOMAIN-SUFFIX,ads.imovideo.ru
 DOMAIN-SUFFIX,ads.interfax.ru
 DOMAIN-SUFFIX,ads2.pbxware.ru
 DOMAIN-SUFFIX,adsdk.yandex.ru
-DOMAIN-SUFFIX,adserver.livejournal.com
 DOMAIN-SUFFIX,adshow.sc2tv.ru
 DOMAIN-SUFFIX,adskape.ru
 DOMAIN-SUFFIX,adsmo.ru
@@ -1257,6 +1256,7 @@ DOMAIN-SUFFIX,telemetry.jivosite.com
 DOMAIN-SUFFIX,teletarget.ru
 DOMAIN-SUFFIX,test-studio.ru
 DOMAIN-SUFFIX,test.besstidniki.ru
+DOMAIN-SUFFIX,test.gutir.ru
 DOMAIN-SUFFIX,testingmetriksbre.ru
 DOMAIN-SUFFIX,testsbox.ru
 DOMAIN-SUFFIX,texas-holdem.shengen.ru

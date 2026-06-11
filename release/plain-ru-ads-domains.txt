@@ -129,7 +129,6 @@ ads.imovideo.ru
 ads.interfax.ru
 ads2.pbxware.ru
 adsdk.yandex.ru
-adserver.livejournal.com
 adshow.sc2tv.ru
 adskape.ru
 adsmo.ru
@@ -1257,6 +1256,7 @@ telemetry.jivosite.com
 teletarget.ru
 test-studio.ru
 test.besstidniki.ru
+test.gutir.ru
 testingmetriksbre.ru
 testsbox.ru
 texas-holdem.shengen.ru

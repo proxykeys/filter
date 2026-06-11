@@ -260,8 +260,6 @@
 ::1 ads2.pbxware.ru
 0.0.0.0 adsdk.yandex.ru
 ::1 adsdk.yandex.ru
-0.0.0.0 adserver.livejournal.com
-::1 adserver.livejournal.com
 0.0.0.0 adshow.sc2tv.ru
 ::1 adshow.sc2tv.ru
 0.0.0.0 adskape.ru
@@ -2516,6 +2514,8 @@
 ::1 test-studio.ru
 0.0.0.0 test.besstidniki.ru
 ::1 test.besstidniki.ru
+0.0.0.0 test.gutir.ru
+::1 test.gutir.ru
 0.0.0.0 testingmetriksbre.ru
 ::1 testingmetriksbre.ru
 0.0.0.0 testsbox.ru

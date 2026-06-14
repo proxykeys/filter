@@ -443,6 +443,8 @@ domain:rabbitcounter.com
 domain:rabota.by
 domain:radar.imgsmail.ru:@ads
 domain:rbth.com
+domain:reg.cloud
+domain:reg.com
 domain:relap.mail.ru:@ads
 domain:reso-med.com
 domain:restream-media.net

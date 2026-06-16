@@ -84,6 +84,8 @@
 ::1 a.ria.ru
 0.0.0.0 a.ridd.ru
 ::1 a.ridd.ru
+0.0.0.0 a.rutube.ru
+::1 a.rutube.ru
 0.0.0.0 a.sdska.ru
 ::1 a.sdska.ru
 0.0.0.0 a.ucoz.net
@@ -342,8 +344,6 @@
 ::1 ahaclub.ru
 0.0.0.0 airlead.ru
 ::1 airlead.ru
-0.0.0.0 airlogs.ru
-::1 airlogs.ru
 0.0.0.0 ajlnty.vipavenue.ru
 ::1 ajlnty.vipavenue.ru
 0.0.0.0 akabo.ru
@@ -416,8 +416,6 @@
 ::1 analytics.ubs.com
 0.0.0.0 anklets.shengen.ru
 ::1 anklets.shengen.ru
-0.0.0.0 announcement.ru
-::1 announcement.ru
 0.0.0.0 answers.teradata.ru
 ::1 answers.teradata.ru
 0.0.0.0 anyfiles.ru
@@ -1818,8 +1816,6 @@
 ::1 openlinks.ru
 0.0.0.0 openssp.ru
 ::1 openssp.ru
-0.0.0.0 opentracking.ru
-::1 opentracking.ru
 0.0.0.0 oqbimz.aviasales.ru
 ::1 oqbimz.aviasales.ru
 0.0.0.0 oriondigital.ru
@@ -1878,8 +1874,6 @@
 ::1 phpteaser.ru
 0.0.0.0 piar-m.ru
 ::1 piar-m.ru
-0.0.0.0 pic.rutube.ru
-::1 pic.rutube.ru
 0.0.0.0 piper.amocrm.ru
 ::1 piper.amocrm.ru
 0.0.0.0 pir.zspb.ru
@@ -2652,8 +2646,6 @@
 ::1 ttarget.ru
 0.0.0.0 ttnet.yandex.com.tr
 ::1 ttnet.yandex.com.tr
-0.0.0.0 ttrace.ru
-::1 ttrace.ru
 0.0.0.0 tubedot.ru
 ::1 tubedot.ru
 0.0.0.0 twinzo.ru

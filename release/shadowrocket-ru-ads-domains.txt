@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,a.rb-ya.ru
 DOMAIN-SUFFIX,a.resr.ru
 DOMAIN-SUFFIX,a.ria.ru
 DOMAIN-SUFFIX,a.ridd.ru
+DOMAIN-SUFFIX,a.rutube.ru
 DOMAIN-SUFFIX,a.sdska.ru
 DOMAIN-SUFFIX,a.ucoz.net
 DOMAIN-SUFFIX,a.ucoz.ru
@@ -170,7 +171,6 @@ DOMAIN-SUFFIX,agency2.ru
 DOMAIN-SUFFIX,agro.net.ru
 DOMAIN-SUFFIX,ahaclub.ru
 DOMAIN-SUFFIX,airlead.ru
-DOMAIN-SUFFIX,airlogs.ru
 DOMAIN-SUFFIX,ajlnty.vipavenue.ru
 DOMAIN-SUFFIX,akabo.ru
 DOMAIN-SUFFIX,alfainternet.su
@@ -207,7 +207,6 @@ DOMAIN-SUFFIX,analytics.sberhealth.ru
 DOMAIN-SUFFIX,analytics.sports.ru
 DOMAIN-SUFFIX,analytics.ubs.com
 DOMAIN-SUFFIX,anklets.shengen.ru
-DOMAIN-SUFFIX,announcement.ru
 DOMAIN-SUFFIX,answers.teradata.ru
 DOMAIN-SUFFIX,anyfiles.ru
 DOMAIN-SUFFIX,aol.spb.su
@@ -908,7 +907,6 @@ DOMAIN-SUFFIX,only-valium.shengen.ru
 DOMAIN-SUFFIX,only4men.ru
 DOMAIN-SUFFIX,openlinks.ru
 DOMAIN-SUFFIX,openssp.ru
-DOMAIN-SUFFIX,opentracking.ru
 DOMAIN-SUFFIX,oqbimz.aviasales.ru
 DOMAIN-SUFFIX,oriondigital.ru
 DOMAIN-SUFFIX,otclick-adv.ru
@@ -938,7 +936,6 @@ DOMAIN-SUFFIX,phentermine.shengen.ru
 DOMAIN-SUFFIX,phone-calling-card.exnet.su
 DOMAIN-SUFFIX,phpteaser.ru
 DOMAIN-SUFFIX,piar-m.ru
-DOMAIN-SUFFIX,pic.rutube.ru
 DOMAIN-SUFFIX,piper.amocrm.ru
 DOMAIN-SUFFIX,pir.zspb.ru
 DOMAIN-SUFFIX,pixel-cdp.sberhealth.ru
@@ -1325,7 +1322,6 @@ DOMAIN-SUFFIX,tsr.zlatoff.ru
 DOMAIN-SUFFIX,tt.ubs.com
 DOMAIN-SUFFIX,ttarget.ru
 DOMAIN-SUFFIX,ttnet.yandex.com.tr
-DOMAIN-SUFFIX,ttrace.ru
 DOMAIN-SUFFIX,tubedot.ru
 DOMAIN-SUFFIX,twinzo.ru
 DOMAIN-SUFFIX,tx2.ru

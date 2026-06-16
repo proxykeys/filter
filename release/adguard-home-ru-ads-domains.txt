@@ -41,6 +41,7 @@
 ||a.resr.ru^
 ||a.ria.ru^
 ||a.ridd.ru^
+||a.rutube.ru^
 ||a.sdska.ru^
 ||a.ucoz.net^
 ||a.ucoz.ru^
@@ -170,7 +171,6 @@
 ||agro.net.ru^
 ||ahaclub.ru^
 ||airlead.ru^
-||airlogs.ru^
 ||ajlnty.vipavenue.ru^
 ||akabo.ru^
 ||alfainternet.su^
@@ -207,7 +207,6 @@
 ||analytics.sports.ru^
 ||analytics.ubs.com^
 ||anklets.shengen.ru^
-||announcement.ru^
 ||answers.teradata.ru^
 ||anyfiles.ru^
 ||aol.spb.su^
@@ -908,7 +907,6 @@
 ||only4men.ru^
 ||openlinks.ru^
 ||openssp.ru^
-||opentracking.ru^
 ||oqbimz.aviasales.ru^
 ||oriondigital.ru^
 ||otclick-adv.ru^
@@ -938,7 +936,6 @@
 ||phone-calling-card.exnet.su^
 ||phpteaser.ru^
 ||piar-m.ru^
-||pic.rutube.ru^
 ||piper.amocrm.ru^
 ||pir.zspb.ru^
 ||pixel-cdp.sberhealth.ru^
@@ -1325,7 +1322,6 @@
 ||tt.ubs.com^
 ||ttarget.ru^
 ||ttnet.yandex.com.tr^
-||ttrace.ru^
 ||tubedot.ru^
 ||twinzo.ru^
 ||tx2.ru^

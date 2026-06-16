@@ -41,6 +41,7 @@ domain:a.rb-ya.ru
 domain:a.resr.ru
 domain:a.ria.ru
 domain:a.ridd.ru
+domain:a.rutube.ru
 domain:a.sdska.ru
 domain:a.ucoz.net
 domain:a.ucoz.ru
@@ -170,7 +171,6 @@ domain:agency2.ru
 domain:agro.net.ru
 domain:ahaclub.ru
 domain:airlead.ru
-domain:airlogs.ru
 domain:ajlnty.vipavenue.ru
 domain:akabo.ru
 domain:alfainternet.su
@@ -207,7 +207,6 @@ domain:analytics.sberhealth.ru
 domain:analytics.sports.ru
 domain:analytics.ubs.com
 domain:anklets.shengen.ru
-domain:announcement.ru
 domain:answers.teradata.ru
 domain:anyfiles.ru
 domain:aol.spb.su
@@ -908,7 +907,6 @@ domain:only-valium.shengen.ru
 domain:only4men.ru
 domain:openlinks.ru
 domain:openssp.ru
-domain:opentracking.ru
 domain:oqbimz.aviasales.ru
 domain:oriondigital.ru
 domain:otclick-adv.ru
@@ -938,7 +936,6 @@ domain:phentermine.shengen.ru
 domain:phone-calling-card.exnet.su
 domain:phpteaser.ru
 domain:piar-m.ru
-domain:pic.rutube.ru
 domain:piper.amocrm.ru
 domain:pir.zspb.ru
 domain:pixel-cdp.sberhealth.ru
@@ -1325,7 +1322,6 @@ domain:tsr.zlatoff.ru
 domain:tt.ubs.com
 domain:ttarget.ru
 domain:ttnet.yandex.com.tr
-domain:ttrace.ru
 domain:tubedot.ru
 domain:twinzo.ru
 domain:tx2.ru

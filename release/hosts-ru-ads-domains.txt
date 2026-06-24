@@ -1928,6 +1928,8 @@
 ::1 prbn.ru
 0.0.0.0 prescription-drugs.shengen.ru
 ::1 prescription-drugs.shengen.ru
+0.0.0.0 pressms.ru
+::1 pressms.ru
 0.0.0.0 prhhqo.vintagevoyage.ru
 ::1 prhhqo.vintagevoyage.ru
 0.0.0.0 primechoice.ru

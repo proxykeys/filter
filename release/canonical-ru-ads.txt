@@ -963,6 +963,7 @@ domain:pr.ikovrov.ru
 domain:pr.rusmed.ru
 domain:prbn.ru
 domain:prescription-drugs.shengen.ru
+domain:pressms.ru
 domain:prhhqo.vintagevoyage.ru
 domain:primechoice.ru
 domain:pro100news.ru

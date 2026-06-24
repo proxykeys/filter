@@ -963,6 +963,7 @@ DOMAIN-SUFFIX,pr.ikovrov.ru
 DOMAIN-SUFFIX,pr.rusmed.ru
 DOMAIN-SUFFIX,prbn.ru
 DOMAIN-SUFFIX,prescription-drugs.shengen.ru
+DOMAIN-SUFFIX,pressms.ru
 DOMAIN-SUFFIX,prhhqo.vintagevoyage.ru
 DOMAIN-SUFFIX,primechoice.ru
 DOMAIN-SUFFIX,pro100news.ru

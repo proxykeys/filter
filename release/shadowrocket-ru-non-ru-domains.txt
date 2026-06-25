@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,kaspersky-labs.net
 DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,kinorium.com
 DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,naydex.net

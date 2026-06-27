@@ -85,8 +85,6 @@ kaspersky.com
 kaspersky-labs.com
 kaspersky-labs.net
 drweb.com
-kinorium.com
-ru.kinorium.com
 
 # MAX AntiSpy
 ifconfig.me

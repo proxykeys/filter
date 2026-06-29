@@ -1,7 +1,7 @@
 {
   "Name": "ProxyKeys",
   "GlobalProxy": "true",
-  "LastUpdated": "1760000000",
+  "LastUpdated": "1782777600",
   "RemoteDNSType": "DoH",
   "RemoteDNSDomain": "https://cloudflare-dns.com/dns-query",
   "RemoteDNSIP": "1.1.1.1",

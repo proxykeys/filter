@@ -2,8 +2,6 @@
   "Name": "ProxyKeys",
   "GlobalProxy": "true",
   "LastUpdated": "1760000000",
-  "sourceURL": "https://github.com/proxykeys/filter/blob/main/incy-routing.json",
-  "updateInterval": 43200,
 
   "RemoteDNSType": "DoH",
   "RemoteDNSDomain": "https://cloudflare-dns.com/dns-query",

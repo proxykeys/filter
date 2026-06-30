@@ -1,7 +1,9 @@
 {
-  "Name": "ProxyKeys-Incy",
+  "Name": "ProxyKeys",
   "GlobalProxy": "true",
-  "LastUpdated": "1782780000",
+  "LastUpdated": "1760000000",
+  "sourceURL": "https://cdn.jsdelivr.net/gh/proxykeys/filter@main/incy-routing.json",
+  "updateInterval": 43200,
 
   "RemoteDNSType": "DoH",
   "RemoteDNSDomain": "https://cloudflare-dns.com/dns-query",
@@ -34,6 +36,8 @@
   ],
 
   "DirectSites": [
+    "geosite:private",
+    "regexp:.*\\.(ru|su|рф|xn--p1ai)$",
     "geosite:category-ru",
     "geosite:category-gov-ru",
     "geosite:category-ru-non-ru"

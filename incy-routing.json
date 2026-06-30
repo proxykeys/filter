@@ -1,8 +1,58 @@
 {
-  "Name": "ProxyKeys-DIAG-DIRECT",
-  "GlobalProxy": "false",
-  "LastUpdated": "1782779000",
-  "DomainStrategy": "AsIs",
+  "Name": "ProxyKeys-Incy",
+  "GlobalProxy": "true",
+  "LastUpdated": "1782780000",
+
+  "RemoteDNSType": "DoH",
+  "RemoteDNSDomain": "https://cloudflare-dns.com/dns-query",
+  "RemoteDNSIP": "1.1.1.1",
+
+  "DomesticDNSType": "DoH",
+  "DomesticDNSDomain": "https://dns.quad9.net/dns-query",
+  "DomesticDNSIP": "9.9.9.9",
+
+  "Geoipurl": "https://github.com/proxykeys/datfilter/releases/download/latest/geoip.dat",
+  "Geositeurl": "https://github.com/proxykeys/datfilter/releases/download/latest/geosite.dat",
+
+  "DnsHosts": {
+    "cloudflare-dns.com": "1.1.1.1",
+    "dns.quad9.net": "9.9.9.9"
+  },
+
+  "BlockSites": [
+    "geosite:category-ads-ru"
+  ],
+
+  "BlockIp": [],
+
+  "ProxySites": [
+    "geosite:ru-blocked"
+  ],
+
+  "ProxyIp": [
+    "geoip:re-filter"
+  ],
+
+  "DirectSites": [
+    "geosite:category-ru",
+    "geosite:category-gov-ru",
+    "geosite:category-ru-non-ru"
+  ],
+
+  "DirectIp": [
+    "geoip:private",
+    "geoip:ru",
+    "10.0.0.0/8",
+    "172.16.0.0/12",
+    "192.168.0.0/16",
+    "127.0.0.0/8",
+    "169.254.0.0/16",
+    "100.64.0.0/10",
+    "224.0.0.0/4",
+    "255.255.255.255"
+  ],
+
+  "DomainStrategy": "IPIfNonMatch",
   "FakeDNS": "false",
   "useChunkFiles": false
 }

@@ -56,5 +56,5 @@
 
   "DomainStrategy": "IPIfNonMatch",
   "FakeDNS": "false",
-  "useChunkFiles": False
+  "useChunkFiles": false
 }

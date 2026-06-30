@@ -2,7 +2,7 @@
   "Name": "ProxyKeys",
   "GlobalProxy": "true",
   "LastUpdated": "1760000000",
-  "sourceURL": "https://cdn.jsdelivr.net/gh/proxykeys/filter@main/incy-routing.json",
+  "sourceURL": "https://raw.githubusercontent.com/proxykeys/filter/refs/heads/main/incy-routing.json",
   "updateInterval": 43200,
 
   "RemoteDNSType": "DoH",

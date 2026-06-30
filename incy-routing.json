@@ -1,10 +1,8 @@
 {
-  "Name": "ProxyKeys-Test-1",
-  "GlobalProxy": "true",
-  "LastUpdated": "1782777600",
-  "Geoipurl": "https://github.com/proxykeys/datfilter/releases/download/latest/geoip.dat",
-  "Geositeurl": "https://github.com/proxykeys/datfilter/releases/download/latest/geosite.dat",
-  "DomainStrategy": "IPIfNonMatch",
+  "Name": "ProxyKeys-DIAG-DIRECT",
+  "GlobalProxy": "false",
+  "LastUpdated": "1782779000",
+  "DomainStrategy": "AsIs",
   "FakeDNS": "false",
   "useChunkFiles": false
 }

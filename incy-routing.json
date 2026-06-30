@@ -2,7 +2,7 @@
   "Name": "ProxyKeys",
   "GlobalProxy": "true",
   "LastUpdated": "1760000000",
-  "sourceURL": "https://raw.githubusercontent.com/proxykeys/filter/refs/heads/main/incy-routing.json",
+  "sourceURL": "https://github.com/proxykeys/filter/blob/main/incy-routing.json",
   "updateInterval": 43200,
 
   "RemoteDNSType": "DoH",

@@ -317,21 +317,21 @@ def render_clash_yaml_ips(path: Path, ips):
 
 def render_singbox_domains(path: Path, domains: set, fulls: set, keywords: set = None):
     keywords = keywords or set()
-    rules = []
-    for d in sorted(domains):
-        rules.append({"domain_suffix": d})
-    for f in sorted(fulls):
-        rules.append({"domain": f})
-    for k in sorted(keywords):
-        rules.append({"domain_keyword": k})
-
+    rule = {}
+    if domains:
+        rule["domain_suffix"] = sorted(domains)
+    if fulls:
+        rule["domain"] = sorted(fulls)
+    if keywords:
+        rule["domain_keyword"] = sorted(keywords)
+    rules = [rule] if rule else []
     path.write_text(
         json.dumps({"version": 1, "rules": rules}, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8"
     )
 
 def render_singbox_ips(path: Path, ips):
-    rules = [{"ip_cidr": ip} for ip in ips]
+    rules = [{"ip_cidr": sorted(ips)}] if ips else []
     path.write_text(
         json.dumps({"version": 1, "rules": rules}, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8"
@@ -423,6 +423,9 @@ render_singbox_domains(release / "singbox-adguard-domains.json", global_ads["dom
 render_singbox_ips(release / "singbox-ru-ip.json", ru_ips)
 render_singbox_ips(release / "singbox-private-ip.json", private_ips)
 render_singbox_domains(release / "singbox-ru-non-ru-domains.json", ru_non_ru["domain"], ru_non_ru["full"])
+render_singbox_domains(release / "singbox-category-ru.json", category_ru["domain"], category_ru["full"], category_ru["keyword"])
+render_singbox_domains(release / "singbox-category-gov-ru.json", category_gov_ru["domain"], category_gov_ru["full"], category_gov_ru["keyword"])
+
 
 # Clash
 render_clash_yaml_domains(release / "clash-antifilter-domains.yaml", set(antifilter_domains), set())

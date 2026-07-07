@@ -298,6 +298,7 @@ domain:bravo.israelinfo.ru
 domain:browser-updater.yandex.net
 domain:bs-dante.ru
 domain:bs.orsk.ru
+domain:bs.serving-sys.ru
 domain:bs.yandex.ru
 domain:bstias.avilon.ru
 domain:bubblesmedia.ru
@@ -563,6 +564,7 @@ domain:geofamily.ru
 domain:get-ads.ru
 domain:get-click.ru
 domain:get4click.ru
+domain:getandgo.ru
 domain:getb.7ya.ru
 domain:getfon.ru
 domain:gethit.ru
@@ -900,6 +902,7 @@ domain:oiya.ru
 domain:okr.sbdv.ru
 domain:onelead.ru
 domain:onemontay.ru
+domain:onfeed.ru
 domain:online-casino.shengen.ru
 domain:online-forex.hut1.ru
 domain:online-poker.shengen.ru

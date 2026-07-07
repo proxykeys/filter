@@ -298,6 +298,7 @@ DOMAIN-SUFFIX,bravo.israelinfo.ru
 DOMAIN-SUFFIX,browser-updater.yandex.net
 DOMAIN-SUFFIX,bs-dante.ru
 DOMAIN-SUFFIX,bs.orsk.ru
+DOMAIN-SUFFIX,bs.serving-sys.ru
 DOMAIN-SUFFIX,bs.yandex.ru
 DOMAIN-SUFFIX,bstias.avilon.ru
 DOMAIN-SUFFIX,bubblesmedia.ru
@@ -563,6 +564,7 @@ DOMAIN-SUFFIX,geofamily.ru
 DOMAIN-SUFFIX,get-ads.ru
 DOMAIN-SUFFIX,get-click.ru
 DOMAIN-SUFFIX,get4click.ru
+DOMAIN-SUFFIX,getandgo.ru
 DOMAIN-SUFFIX,getb.7ya.ru
 DOMAIN-SUFFIX,getfon.ru
 DOMAIN-SUFFIX,gethit.ru
@@ -900,6 +902,7 @@ DOMAIN-SUFFIX,oiya.ru
 DOMAIN-SUFFIX,okr.sbdv.ru
 DOMAIN-SUFFIX,onelead.ru
 DOMAIN-SUFFIX,onemontay.ru
+DOMAIN-SUFFIX,onfeed.ru
 DOMAIN-SUFFIX,online-casino.shengen.ru
 DOMAIN-SUFFIX,online-forex.hut1.ru
 DOMAIN-SUFFIX,online-poker.shengen.ru

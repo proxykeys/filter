@@ -598,6 +598,8 @@
 ::1 bs-dante.ru
 0.0.0.0 bs.orsk.ru
 ::1 bs.orsk.ru
+0.0.0.0 bs.serving-sys.ru
+::1 bs.serving-sys.ru
 0.0.0.0 bs.yandex.ru
 ::1 bs.yandex.ru
 0.0.0.0 bstias.avilon.ru
@@ -1128,6 +1130,8 @@
 ::1 get-click.ru
 0.0.0.0 get4click.ru
 ::1 get4click.ru
+0.0.0.0 getandgo.ru
+::1 getandgo.ru
 0.0.0.0 getb.7ya.ru
 ::1 getb.7ya.ru
 0.0.0.0 getfon.ru
@@ -1802,6 +1806,8 @@
 ::1 onelead.ru
 0.0.0.0 onemontay.ru
 ::1 onemontay.ru
+0.0.0.0 onfeed.ru
+::1 onfeed.ru
 0.0.0.0 online-casino.shengen.ru
 ::1 online-casino.shengen.ru
 0.0.0.0 online-forex.hut1.ru

@@ -106,6 +106,7 @@ domain:comss.news
 domain:comss.one
 domain:comss.online
 domain:comss.org
+domain:copymonkey.app
 domain:counter.yandex.ru:@ads
 domain:cups.online
 domain:cxhub.ru:@ads
@@ -179,12 +180,15 @@ domain:facct.email
 domain:fix-price.com
 domain:flocktory.com:@ads
 domain:flomni.com
+domain:flowwow-images.com
+domain:flowwow.com
 domain:fon.bet
 domain:fon.promo
 domain:foto-planeta.com
 domain:freeassange.tech
 domain:freede.tech
 domain:freedert.online
+domain:funpay.com
 domain:g-ib.ae
 domain:g-ib.sg
 domain:g-ib.us
@@ -197,6 +201,7 @@ domain:genotek.am
 domain:genotek.es
 domain:genotek.eu
 domain:genotek.health
+domain:gerwin.io
 domain:getsynapse.io
 domain:gib-global.com
 domain:gib.sg
@@ -429,6 +434,7 @@ domain:paywb.com
 domain:perekrestok.com
 domain:pixonic.com
 domain:pobeda.page
+domain:polza.ai
 domain:popmechanic.io
 domain:premier.one
 domain:premiumlive.site
@@ -451,6 +457,7 @@ domain:reg.com
 domain:relap.mail.ru:@ads
 domain:reso-med.com
 domain:restream-media.net
+domain:robotext.io
 domain:rocketozon.by
 domain:roistat.com:@ads
 domain:romanovs100.com
@@ -507,6 +514,7 @@ domain:ru
 domain:ru.ccb.com
 domain:ru.com
 domain:ru.net
+domain:rugpt.io
 domain:ruhub.tv
 domain:runewsrt.com
 domain:ruptly.agency
@@ -545,6 +553,7 @@ domain:selectel.live
 domain:servercore.com
 domain:servercore.live
 domain:servicepipe.tech
+domain:sfunpay.com
 domain:shedevrum.ai
 domain:shop-rt.com
 domain:sistema-capital.com
@@ -597,6 +606,7 @@ domain:tilda.cc
 domain:tilda.ws
 domain:tildaapi.com
 domain:tildacdn.com
+domain:tildacdn.net
 domain:timeweb.cloud
 domain:timeweb.com
 domain:tinkoff-group.com
@@ -606,6 +616,7 @@ domain:tips.tips
 domain:tochka-tech.com
 domain:tochka.com
 domain:tok.media
+domain:tokenator.top
 domain:top-fwz1.mail.ru:@ads
 domain:trace-flow.ru:@ads
 domain:tracker-api.my.com:@ads

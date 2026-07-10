@@ -1358,6 +1358,8 @@
 ::1 jaeger.netmonet.co
 0.0.0.0 jet.zbp.ru
 ::1 jet.zbp.ru
+0.0.0.0 jitsu.www1.ru
+::1 jitsu.www1.ru
 0.0.0.0 jordan.qunis.ru
 ::1 jordan.qunis.ru
 0.0.0.0 journal-bt.wildberries.ru

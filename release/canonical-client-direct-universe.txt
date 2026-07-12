@@ -708,6 +708,7 @@ domain:wb.am
 domain:wb.kg
 domain:wb.kz
 domain:wbautomation.tech
+domain:wbcontent.net
 domain:wbr.by
 domain:wbstatic.net
 domain:wbwh.tech

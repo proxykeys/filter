@@ -37,7 +37,6 @@ domain:adygtelecom.com
 domain:ahilesva.info
 domain:alefbank.com
 domain:alfa.me
-domain:alfabank.oavdo.amc
 domain:alfabank.st
 domain:algoritmika.org
 domain:alt-ad.mail.ru:@ads
@@ -441,7 +440,6 @@ domain:premiumlive.site
 domain:prod-my.games
 domain:prodcontest.com
 domain:promodj.com
-domain:psk
 domain:ptsecurity.com
 domain:pushgrow.io
 domain:pvubank.com

@@ -8,6 +8,8 @@
 ::1 0916video.ru
 0.0.0.0 0pn.ru
 ::1 0pn.ru
+0.0.0.0 1414.hexa.su
+::1 1414.hexa.su
 0.0.0.0 1astrjasr.ru
 ::1 1astrjasr.ru
 0.0.0.0 1cpbac.ru

@@ -1,9 +1,9 @@
 antifilter_domains=484
-antifilter_ips=16553
-global_ads_domain_rules=166369
+antifilter_ips=16636
+global_ads_domain_rules=166614
 global_ads_full_rules=0
 global_ads_keyword_rules=0
 direct_universe_domains=831
 direct_universe_fulls=222
-ru_ads_domains=1515
+ru_ads_domains=1516
 ru_ads_fulls=0

@@ -336,6 +336,8 @@
 ::1 adxwxw.kp.ru
 0.0.0.0 adylalahb.ru
 ::1 adylalahb.ru
+0.0.0.0 adzone.ru
+::1 adzone.ru
 0.0.0.0 af.click.ru
 ::1 af.click.ru
 0.0.0.0 agency2.ru

@@ -167,6 +167,7 @@ DOMAIN-SUFFIX,adwolf.ru
 DOMAIN-SUFFIX,adx.com.ru
 DOMAIN-SUFFIX,adxwxw.kp.ru
 DOMAIN-SUFFIX,adylalahb.ru
+DOMAIN-SUFFIX,adzone.ru
 DOMAIN-SUFFIX,af.click.ru
 DOMAIN-SUFFIX,agency2.ru
 DOMAIN-SUFFIX,agro.net.ru

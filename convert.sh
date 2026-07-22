@@ -128,7 +128,7 @@ def read_lines(path: Path):
     return path.read_text(encoding="utf-8").splitlines()
 
 def clean_host(host: str):
-    host = host.strip().lower().lstrip("\ufeff").rstrip(".")
+    host = host.strip().lower().lstrip("\ufeff").strip(".")
     if host.startswith("*."):
         host = host[2:]
     return host or None

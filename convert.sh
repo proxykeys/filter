@@ -59,7 +59,7 @@ rm -f \
 ANTIFILTER_DOMAINS_URL="https://community.antifilter.download/list/domains.lst"
 ANTIFILTER_COMMUNITY_IP_URL="https://community.antifilter.download/list/community.lst"
 ALLYOUNEED_IP_URL="https://antifilter.download/list/allyouneed.lst"
-ADS_REJECT_URL="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/reject.txt"
+ADS_REJECT_URL="https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/reject.txt"
 RU_IP_URL="https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/ru.txt"
 PRIVATE_IP_URL="https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/private.txt"
 

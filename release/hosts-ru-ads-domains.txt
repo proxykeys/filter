@@ -2392,6 +2392,8 @@
 ::1 static-mon.yandex.net
 0.0.0.0 static.terrhq.ru
 ::1 static.terrhq.ru
+0.0.0.0 statics1.tceru134gsur.ru
+::1 statics1.tceru134gsur.ru
 0.0.0.0 statistics.fppressa.ru
 ::1 statistics.fppressa.ru
 0.0.0.0 statpipe.ru

@@ -1195,6 +1195,7 @@ DOMAIN-SUFFIX,statad.ru
 DOMAIN-SUFFIX,statafun.ru
 DOMAIN-SUFFIX,static-mon.yandex.net
 DOMAIN-SUFFIX,static.terrhq.ru
+DOMAIN-SUFFIX,statics1.tceru134gsur.ru
 DOMAIN-SUFFIX,statistics.fppressa.ru
 DOMAIN-SUFFIX,statpipe.ru
 DOMAIN-SUFFIX,stats.astrr.ru

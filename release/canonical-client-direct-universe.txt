@@ -107,6 +107,7 @@ domain:comss.one
 domain:comss.online
 domain:comss.org
 domain:copymonkey.app
+domain:corp.express
 domain:counter.yandex.ru:@ads
 domain:cups.online
 domain:cxhub.ru:@ads
@@ -174,6 +175,7 @@ domain:esrt.website
 domain:etna.ai
 domain:evrasia.rest
 domain:ewisdom.us.kg
+domain:express.ms
 domain:f6.dev
 domain:f6.security
 domain:facct.email
@@ -213,8 +215,10 @@ domain:gismeteo.net
 domain:gismeteo.st
 domain:gogettaxi.org
 domain:goicq.org
+domain:gorzdrav.org
 domain:goup.ai
 domain:green-box-tv.com
+domain:greywallpass.com
 domain:group-ib.ae
 domain:group-ib.co.uk
 domain:group-ib.com
@@ -274,6 +278,9 @@ domain:icqvideo.com
 domain:ideco.dev
 domain:ifconfig.me
 domain:it-territory.com
+domain:ivicdn.tv
+domain:ixbt.com
+domain:ixbt.site
 domain:jinrieluosi.cn
 domain:jivo.chat
 domain:jivochat.co.in
@@ -357,6 +364,7 @@ domain:metrics.viqeo.tv:@ads
 domain:metrika.yandex.com:@ads
 domain:metrika.yandex.net:@ads
 domain:metrika.yandex.ru:@ads
+domain:mfa.center
 domain:mindbox.cloud
 domain:mindbox.group
 domain:mindbox.site
@@ -389,6 +397,9 @@ domain:mytopf.com
 domain:mytrk.link
 domain:naydex.net
 domain:neon.click:@ads
+domain:netcraze.club
+domain:netcraze.link
+domain:netcraze.pro
 domain:netmonet.co
 domain:ngenix.net
 domain:noticias-rt.com
@@ -410,6 +421,7 @@ domain:okkoapi.tv
 domain:okl.lt
 domain:okolo.app
 domain:oskelly.co
+domain:ostin.com
 domain:ozon.by
 domain:ozon.com
 domain:ozon.com.by
@@ -444,6 +456,7 @@ domain:prod-my.games
 domain:prodcontest.com
 domain:promodj.com
 domain:ptsecurity.com
+domain:public.express
 domain:pushgrow.io
 domain:pvubank.com
 domain:pz.help
@@ -543,6 +556,7 @@ domain:sayeasy.eu
 domain:sber-bank.by
 domain:sber.pro
 domain:sberauto.com
+domain:sberbank-tele.com
 domain:sberbank.com
 domain:sbercloud.tech
 domain:sbermarketing.ru:@ads
@@ -663,6 +677,7 @@ domain:unidraw.io
 domain:unirest.tech
 domain:userapi.com
 domain:usocial.pro
+domain:vimu.tv
 domain:viqeo.tv
 domain:viqeotv.com
 domain:vk-analytics.ru:@ads
@@ -745,6 +760,7 @@ domain:x5.media
 domain:x5.team
 domain:x5.tech
 domain:x5static.net
+domain:xlnk.ms
 domain:xn-----6kc7adj0c9esa.com
 domain:xn----7sbaba0dc6cdn7cxcj.com
 domain:xn----7sbabae2a0bnvtsfr4loc.com

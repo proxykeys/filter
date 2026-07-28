@@ -346,6 +346,8 @@
 ::1 agro.net.ru
 0.0.0.0 ahaclub.ru
 ::1 ahaclub.ru
+0.0.0.0 aidsro.ostin.com
+::1 aidsro.ostin.com
 0.0.0.0 airlead.ru
 ::1 airlead.ru
 0.0.0.0 ajlnty.vipavenue.ru
@@ -830,6 +832,8 @@
 ::1 cures.ru.com
 0.0.0.0 cusok.ru
 ::1 cusok.ru
+0.0.0.0 cvhefd.ixbt.com
+::1 cvhefd.ixbt.com
 0.0.0.0 cvt1.sibnet.ru
 ::1 cvt1.sibnet.ru
 0.0.0.0 d.wi-fi.ru
@@ -1364,6 +1368,10 @@
 ::1 jaeger.netmonet.co
 0.0.0.0 jet.zbp.ru
 ::1 jet.zbp.ru
+0.0.0.0 jitsu.ixbt.com
+::1 jitsu.ixbt.com
+0.0.0.0 jitsu.ixbt.site
+::1 jitsu.ixbt.site
 0.0.0.0 jitsu.www1.ru
 ::1 jitsu.www1.ru
 0.0.0.0 jordan.qunis.ru
@@ -2128,6 +2136,8 @@
 ::1 rollad.ru
 0.0.0.0 rorer.ru
 ::1 rorer.ru
+0.0.0.0 rose.ixbt.com
+::1 rose.ixbt.com
 0.0.0.0 rot.rusoul.ru
 ::1 rot.rusoul.ru
 0.0.0.0 rot.spotsniper.ru
@@ -2238,6 +2248,8 @@
 ::1 sgood.ru
 0.0.0.0 sgtm.dubai-investments.ru
 ::1 sgtm.dubai-investments.ru
+0.0.0.0 sgtm.ixbt.site
+::1 sgtm.ixbt.site
 0.0.0.0 sgtm.kaspersky.de
 ::1 sgtm.kaspersky.de
 0.0.0.0 sgtm.stihl.ru

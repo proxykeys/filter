@@ -172,6 +172,7 @@ domain:af.click.ru
 domain:agency2.ru
 domain:agro.net.ru
 domain:ahaclub.ru
+domain:aidsro.ostin.com
 domain:airlead.ru
 domain:ajlnty.vipavenue.ru
 domain:akabo.ru
@@ -414,6 +415,7 @@ domain:cszz.ru
 domain:culturaltracking.ru
 domain:cures.ru.com
 domain:cusok.ru
+domain:cvhefd.ixbt.com
 domain:cvt1.sibnet.ru
 domain:d.wi-fi.ru
 domain:d0main.ru
@@ -681,6 +683,8 @@ domain:j.uralweb.ru
 domain:j1oxqq05ry.ru
 domain:jaeger.netmonet.co
 domain:jet.zbp.ru
+domain:jitsu.ixbt.com
+domain:jitsu.ixbt.site
 domain:jitsu.www1.ru
 domain:jordan.qunis.ru
 domain:journal-bt.wildberries.ru
@@ -1063,6 +1067,7 @@ domain:rmbn.ru
 domain:rnybul.gismeteo.ru
 domain:rollad.ru
 domain:rorer.ru
+domain:rose.ixbt.com
 domain:rot.rusoul.ru
 domain:rot.spotsniper.ru
 domain:rotaban.ru
@@ -1118,6 +1123,7 @@ domain:services.bionika-digital.ru
 domain:sexgramm.ru
 domain:sgood.ru
 domain:sgtm.dubai-investments.ru
+domain:sgtm.ixbt.site
 domain:sgtm.kaspersky.de
 domain:sgtm.stihl.ru
 domain:shakeson.ru

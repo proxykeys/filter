@@ -207,6 +207,7 @@ domain:analytics.ngs55.ru
 domain:analytics.rotapost.ru
 domain:analytics.sberhealth.ru
 domain:analytics.sports.ru
+domain:analytics.sutochno.ru
 domain:analytics.ubs.com
 domain:anklets.shengen.ru
 domain:answers.teradata.ru

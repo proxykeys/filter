@@ -416,6 +416,8 @@
 ::1 analytics.sberhealth.ru
 0.0.0.0 analytics.sports.ru
 ::1 analytics.sports.ru
+0.0.0.0 analytics.sutochno.ru
+::1 analytics.sutochno.ru
 0.0.0.0 analytics.ubs.com
 ::1 analytics.ubs.com
 0.0.0.0 anklets.shengen.ru

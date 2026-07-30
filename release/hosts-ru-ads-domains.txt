@@ -1370,6 +1370,8 @@
 ::1 jet.zbp.ru
 0.0.0.0 jitsu.ixbt.com
 ::1 jitsu.ixbt.com
+0.0.0.0 jitsu.ixbt.games
+::1 jitsu.ixbt.games
 0.0.0.0 jitsu.ixbt.site
 ::1 jitsu.ixbt.site
 0.0.0.0 jitsu.www1.ru

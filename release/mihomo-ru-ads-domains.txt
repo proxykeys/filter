@@ -684,6 +684,7 @@ DOMAIN-SUFFIX,j1oxqq05ry.ru
 DOMAIN-SUFFIX,jaeger.netmonet.co
 DOMAIN-SUFFIX,jet.zbp.ru
 DOMAIN-SUFFIX,jitsu.ixbt.com
+DOMAIN-SUFFIX,jitsu.ixbt.games
 DOMAIN-SUFFIX,jitsu.ixbt.site
 DOMAIN-SUFFIX,jitsu.www1.ru
 DOMAIN-SUFFIX,jordan.qunis.ru

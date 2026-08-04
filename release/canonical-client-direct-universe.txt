@@ -437,14 +437,17 @@ domain:okolo.app
 domain:opennet.dev
 domain:oskelly.co
 domain:ostin.com
+domain:ozon.app
 domain:ozon.by
 domain:ozon.com
 domain:ozon.com.by
 domain:ozon.com.kz
 domain:ozon.dev
 domain:ozon.express
+domain:ozon.global
 domain:ozon.kz
 domain:ozon.li
+domain:ozon.market
 domain:ozon.tech
 domain:ozon.tm
 domain:ozon.travel
@@ -562,6 +565,7 @@ domain:russiatoday.tv
 domain:russieactuelle.fr
 domain:rustore.team
 domain:rustore.tv
+domain:rutube.sport
 domain:rwbautomation.tech
 domain:s.mindbox.ru:@ads
 domain:saas-support.com

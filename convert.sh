@@ -31,6 +31,7 @@ done
 RU_NON_RU_SOURCE="${ROOT_DIR}/ru-non-ru-domains.txt"
 RU_ADS_ADD_SOURCE="${ROOT_DIR}/ru-ads-add.txt"
 RU_ADS_ALLOW_SOURCE="${ROOT_DIR}/ru-ads-allow.txt"
+CUSTOM_PROXY_SOURCE="${ROOT_DIR}/custom-domains-proxy.txt"
 
 [[ -f "${RU_NON_RU_SOURCE}" ]] || {
   echo "❌ Не найден файл: ${RU_NON_RU_SOURCE}" >&2
@@ -40,6 +41,7 @@ RU_ADS_ALLOW_SOURCE="${ROOT_DIR}/ru-ads-allow.txt"
 # optional override files
 [[ -f "${RU_ADS_ADD_SOURCE}" ]] || : > "${RU_ADS_ADD_SOURCE}"
 [[ -f "${RU_ADS_ALLOW_SOURCE}" ]] || : > "${RU_ADS_ALLOW_SOURCE}"
+[[ -f "${CUSTOM_PROXY_SOURCE}" ]] || : > "${CUSTOM_PROXY_SOURCE}"
 
 mkdir -p "${RELEASE_DIR}"
 
@@ -78,6 +80,7 @@ fetch "${PRIVATE_IP_URL}" "${TEMP_DIR}/private.txt"
 cp "${RU_NON_RU_SOURCE}" "${TEMP_DIR}/ru-non-ru-domains.txt"
 cp "${RU_ADS_ADD_SOURCE}" "${TEMP_DIR}/ru-ads-add.txt"
 cp "${RU_ADS_ALLOW_SOURCE}" "${TEMP_DIR}/ru-ads-allow.txt"
+cp "${CUSTOM_PROXY_SOURCE}" "${TEMP_DIR}/custom-domains-proxy.txt"
 
 log "Подготовка geosite source для category-ru/category-gov-ru..."
 
@@ -378,7 +381,7 @@ def fail_on_regexp(rule_set: dict, source_name: str):
 
 # ===== Parse sources =====
 
-antifilter_domains = sorted(parse_plain_ip_list(temp / "domains.lst"))
+antifilter_domains = sorted(set(parse_plain_ip_list(temp / "domains.lst")) | set(parse_plain_ip_list(temp / "custom-domains-proxy.txt")))
 antifilter_ips = sorted(set(parse_plain_ip_list(temp / "community-ip.lst")) | set(parse_plain_ip_list(temp / "allyouneed-ip.lst")))
 ru_ips = parse_plain_ip_list(temp / "ru.txt")
 private_ips = parse_plain_ip_list(temp / "private.txt")

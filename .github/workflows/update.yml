@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - 'convert.sh'
+      - 'custom-domains-proxy.txt'
       - 'ru-non-ru-domains.txt'
       - 'ru-ads-add.txt'
       - 'ru-ads-allow.txt'

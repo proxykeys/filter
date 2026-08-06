@@ -69,3 +69,11 @@ jobs:
         run: |
           git commit -m "Update filter lists - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push
+          
+      - name: Purge jsDelivr cache
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          sleep 5
+          echo "Purging jsDelivr cache (main + master)..."
+          curl -sS "https://purge.jsdelivr.net/gh/proxykeys/filter@main/release" | python3 -m json.tool || true
+          curl -sS "https://purge.jsdelivr.net/gh/proxykeys/filter@master/release" | python3 -m json.tool || true

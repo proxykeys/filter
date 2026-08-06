@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bedolagam.ru
 DOMAIN-SUFFIX,bestchange.ru
 DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,bitcoin.org

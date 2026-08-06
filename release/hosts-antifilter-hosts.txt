@@ -114,6 +114,8 @@
 ::1 bbc.com
 0.0.0.0 bbci.co.uk
 ::1 bbci.co.uk
+0.0.0.0 bedolagam.ru
+::1 bedolagam.ru
 0.0.0.0 bestchange.ru
 ::1 bestchange.ru
 0.0.0.0 bitbucket.org

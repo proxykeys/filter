@@ -971,6 +971,7 @@ DOMAIN-SUFFIX,popunder.ru
 DOMAIN-SUFFIX,popupclick.ru
 DOMAIN-SUFFIX,pornorunet.ru
 DOMAIN-SUFFIX,postbox.mos.ru
+DOMAIN-SUFFIX,posthog.russpass.ru
 DOMAIN-SUFFIX,pozzitiv.ru
 DOMAIN-SUFFIX,pr.ikovrov.ru
 DOMAIN-SUFFIX,pr.rusmed.ru

@@ -971,6 +971,7 @@ domain:popunder.ru
 domain:popupclick.ru
 domain:pornorunet.ru
 domain:postbox.mos.ru
+domain:posthog.russpass.ru
 domain:pozzitiv.ru
 domain:pr.ikovrov.ru
 domain:pr.rusmed.ru

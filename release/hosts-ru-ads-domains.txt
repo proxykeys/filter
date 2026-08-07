@@ -1944,6 +1944,8 @@
 ::1 pornorunet.ru
 0.0.0.0 postbox.mos.ru
 ::1 postbox.mos.ru
+0.0.0.0 posthog.russpass.ru
+::1 posthog.russpass.ru
 0.0.0.0 pozzitiv.ru
 ::1 pozzitiv.ru
 0.0.0.0 pr.ikovrov.ru

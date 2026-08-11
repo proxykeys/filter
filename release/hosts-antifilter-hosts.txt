@@ -560,6 +560,8 @@
 ::1 onlinesim.ru
 0.0.0.0 open.spotify.com
 ::1 open.spotify.com
+0.0.0.0 openrouter.ai
+::1 openrouter.ai
 0.0.0.0 openwrt.wk.cz
 ::1 openwrt.wk.cz
 0.0.0.0 orbit-games.com

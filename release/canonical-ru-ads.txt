@@ -967,7 +967,6 @@ domain:plyfoni.ru
 domain:pngme.ru
 domain:po.zolivexo.ru
 domain:pokrutim.ru
-domain:popunder.ru
 domain:popupclick.ru
 domain:pornorunet.ru
 domain:postbox.mos.ru
@@ -1121,6 +1120,7 @@ domain:seobloger.ru
 domain:seogift.ru
 domain:seopult.ru
 domain:seorate.ru
+domain:sergarius.popunder.ru
 domain:serialinfo.ru
 domain:services.bionika-digital.ru
 domain:sexgramm.ru
@@ -1156,6 +1156,7 @@ domain:snljxd.tdarsenal.ru
 domain:snsv.ru
 domain:sobolev.net.ru
 domain:socgate.ru
+domain:softlinkers.popunder.ru
 domain:solodar.ru
 domain:soloqmyl.tefcold.ru
 domain:soma-store.visa-usa.ru

@@ -968,7 +968,6 @@ payload:
   - DOMAIN-SUFFIX,pngme.ru
   - DOMAIN-SUFFIX,po.zolivexo.ru
   - DOMAIN-SUFFIX,pokrutim.ru
-  - DOMAIN-SUFFIX,popunder.ru
   - DOMAIN-SUFFIX,popupclick.ru
   - DOMAIN-SUFFIX,pornorunet.ru
   - DOMAIN-SUFFIX,postbox.mos.ru
@@ -1122,6 +1121,7 @@ payload:
   - DOMAIN-SUFFIX,seogift.ru
   - DOMAIN-SUFFIX,seopult.ru
   - DOMAIN-SUFFIX,seorate.ru
+  - DOMAIN-SUFFIX,sergarius.popunder.ru
   - DOMAIN-SUFFIX,serialinfo.ru
   - DOMAIN-SUFFIX,services.bionika-digital.ru
   - DOMAIN-SUFFIX,sexgramm.ru
@@ -1157,6 +1157,7 @@ payload:
   - DOMAIN-SUFFIX,snsv.ru
   - DOMAIN-SUFFIX,sobolev.net.ru
   - DOMAIN-SUFFIX,socgate.ru
+  - DOMAIN-SUFFIX,softlinkers.popunder.ru
   - DOMAIN-SUFFIX,solodar.ru
   - DOMAIN-SUFFIX,soloqmyl.tefcold.ru
   - DOMAIN-SUFFIX,soma-store.visa-usa.ru

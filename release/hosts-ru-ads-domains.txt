@@ -1936,8 +1936,6 @@
 ::1 po.zolivexo.ru
 0.0.0.0 pokrutim.ru
 ::1 pokrutim.ru
-0.0.0.0 popunder.ru
-::1 popunder.ru
 0.0.0.0 popupclick.ru
 ::1 popupclick.ru
 0.0.0.0 pornorunet.ru
@@ -2244,6 +2242,8 @@
 ::1 seopult.ru
 0.0.0.0 seorate.ru
 ::1 seorate.ru
+0.0.0.0 sergarius.popunder.ru
+::1 sergarius.popunder.ru
 0.0.0.0 serialinfo.ru
 ::1 serialinfo.ru
 0.0.0.0 services.bionika-digital.ru
@@ -2314,6 +2314,8 @@
 ::1 sobolev.net.ru
 0.0.0.0 socgate.ru
 ::1 socgate.ru
+0.0.0.0 softlinkers.popunder.ru
+::1 softlinkers.popunder.ru
 0.0.0.0 solodar.ru
 ::1 solodar.ru
 0.0.0.0 soloqmyl.tefcold.ru

@@ -828,6 +828,7 @@ domain:yandex.ee
 domain:yandex.eu
 domain:yandex.fi
 domain:yandex.fr
+domain:yandex.it
 domain:yandex.jobs
 domain:yandex.kg
 domain:yandex.kz

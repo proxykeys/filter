@@ -714,8 +714,6 @@
 ::1 cleen.ru
 0.0.0.0 click.ad1.ru
 ::1 click.ad1.ru
-0.0.0.0 click.rypr.ru
-::1 click.rypr.ru
 0.0.0.0 clickbeat.sberdevices.ru
 ::1 clickbeat.sberdevices.ru
 0.0.0.0 clickbux.ru

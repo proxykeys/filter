@@ -356,7 +356,6 @@ DOMAIN-SUFFIX,clck.yandex.com
 DOMAIN-SUFFIX,clckdm.domclick.ru
 DOMAIN-SUFFIX,cleen.ru
 DOMAIN-SUFFIX,click.ad1.ru
-DOMAIN-SUFFIX,click.rypr.ru
 DOMAIN-SUFFIX,clickbeat.sberdevices.ru
 DOMAIN-SUFFIX,clickbux.ru
 DOMAIN-SUFFIX,clickhere.ru

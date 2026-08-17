@@ -356,7 +356,6 @@ domain:clck.yandex.com
 domain:clckdm.domclick.ru
 domain:cleen.ru
 domain:click.ad1.ru
-domain:click.rypr.ru
 domain:clickbeat.sberdevices.ru
 domain:clickbux.ru
 domain:clickhere.ru

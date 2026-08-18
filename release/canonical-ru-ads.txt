@@ -37,7 +37,6 @@ domain:a.kubik3.ru
 domain:a.kupibilet.ru
 domain:a.mt.ru
 domain:a.mts.ru
-domain:a.pinoymoviepedia.ru
 domain:a.rb-ya.ru
 domain:a.resr.ru
 domain:a.ria.ru
@@ -172,7 +171,6 @@ domain:af.click.ru
 domain:agency2.ru
 domain:agro.net.ru
 domain:ahaclub.ru
-domain:aidsro.ostin.com
 domain:airlead.ru
 domain:ajlnty.vipavenue.ru
 domain:akabo.ru
@@ -190,6 +188,7 @@ domain:amazingcl.ru
 domain:amazy.ru
 domain:amc.yandex.ru
 domain:amnsreiuojy.ru
+domain:an.avast.ru
 domain:an.mail.ru
 domain:an.webvisor.org
 domain:an.yandex.ru
@@ -211,6 +210,7 @@ domain:analytics.sports.ru
 domain:analytics.sutochno.ru
 domain:analytics.ubs.com
 domain:anklets.shengen.ru
+domain:ans.avast.ru
 domain:answers.teradata.ru
 domain:anyfiles.ru
 domain:aol.spb.su
@@ -287,7 +287,6 @@ domain:bfzikn.l-wine.ru
 domain:big6q4y2oy.ru
 domain:bigleads.ru
 domain:bigsauron.ru
-domain:bin-layer.ru
 domain:blogan.ru
 domain:blogun.ru
 domain:bn.ohah.ru
@@ -343,7 +342,6 @@ domain:cdn-rum.ngenix.net
 domain:cdn.ddmanager.ru
 domain:cdn.gpmdata.ru
 domain:cdn.movieads.ru
-domain:cdn.zamunda.ru
 domain:cerohj.loccitane.ru
 domain:cheap-adipex.hut1.ru
 domain:cheaptop.ru
@@ -420,13 +418,11 @@ domain:d.wi-fi.ru
 domain:d0main.ru
 domain:d1tracker.ru
 domain:da.rosrabota.ru
-domain:da.zilovaro.ru
 domain:daast.digitalbox.ru
 domain:dab.rus-km.ru
 domain:danilidi.ru
 domain:darkandlight.ru
 domain:dashboard.boostads.ru
-domain:data-84a0f3455d.transfermarkt.ru
 domain:data-aae7bdcec6.autoscout24.ru
 domain:data-b7d0b4217b.autoscout24.ru
 domain:data.neosmi.ru
@@ -483,6 +479,7 @@ domain:econrus.ru
 domain:edfyqv.x-moda.ru
 domain:edirect.efind.ru
 domain:effad.ru
+domain:efhcel.erborian.ru
 domain:egg.afisha.ru
 domain:eiydgc.12storeez.ru
 domain:ekgmca.gipfel.ru
@@ -523,7 +520,6 @@ domain:extmaps-api.yandex.net
 domain:extrablocks.ru
 domain:ezstat.ru
 domain:fairlink.ru
-domain:faptdsway.ru
 domain:fast-down.ru
 domain:fast2load.ru
 domain:fastsex.ru
@@ -531,6 +527,7 @@ domain:faststart.ru
 domain:ff.astv.ru
 domain:fft.delovoemesto.ru
 domain:ffzffn.satra.ru
+domain:fhhzrq.regnum.ru
 domain:filmplus.ru
 domain:firelove.ru
 domain:firsttrack.ru
@@ -606,12 +603,13 @@ domain:gss.skatepro.ru
 domain:gvapp.ru
 domain:gvdmkf.major-expert.ru
 domain:gvyyri.major-auto.ru
+domain:gwdsyh.toyotacenter.ru
+domain:gxnbfa.homeme.ru
 domain:gyh1lh20owj.ru
 domain:handred.ru
 domain:hatrecord.ru
 domain:hc.uralweb.ru
 domain:hdtracker.ru
-domain:he.zymorico.ru
 domain:hffttk.sandro-paris.ru
 domain:hhulzh.tapada.ru
 domain:hikvar.ru
@@ -625,7 +623,9 @@ domain:holm.ru
 domain:honey.briefly.ru
 domain:hotlog.ru
 domain:hqjuww.kolesa-darom.ru
+domain:hsasqc.randewoo.ru
 domain:huminfakt.ru
+domain:hvjtos.sm-city.ru
 domain:hvlglf.ochkarik.ru
 domain:hwmonitor-ru.ru
 domain:hydrocodone.shengen.ru
@@ -633,6 +633,7 @@ domain:hydrocodone.visa-usa.ru
 domain:hzmksreiuojy.ru
 domain:i.j2j.ru
 domain:iaalxo.vans.ru
+domain:iacjsv.robinzon.ru
 domain:ice-media.ru
 domain:iceprogs.ru
 domain:id.sputniknews.com
@@ -664,6 +665,8 @@ domain:intergid.ru
 domain:intimmag.ru
 domain:intimznaki.tomsk.ru
 domain:invest-pool.ru
+domain:inwtef.hobbygames.ru
+domain:iobpzo.m-r-c.ru
 domain:ip.up66.ru
 domain:ipgold.ru
 domain:ipgrabber.ru
@@ -688,6 +691,7 @@ domain:jitsu.ixbt.site
 domain:jitsu.www1.ru
 domain:jordan.qunis.ru
 domain:journal-bt.wildberries.ru
+domain:jpfvoo.refro.ru
 domain:jqk2me2mzf.ru
 domain:jrs2igoimq.ru
 domain:js.smi2.ru
@@ -707,6 +711,7 @@ domain:kinoaction.ru
 domain:kinotraff.ru
 domain:kjrrpn.taxcom.ru
 domain:kmindex.ru
+domain:knzqjr.pult.ru
 domain:kosibablo.ucoz.ua
 domain:kplusd.far.ru
 domain:kq6lwk3m9g.ru
@@ -752,6 +757,7 @@ domain:linkunder.ru
 domain:linkwmr.ru
 domain:livesurf.ru
 domain:lk.vectoranalytics.ru
+domain:load.gtm.koleso.ru
 domain:loadmoney.ru
 domain:loan.aol.msk.su
 domain:log.dzen.ru
@@ -776,6 +782,7 @@ domain:luxcash.ru
 domain:luxup.ru
 domain:luxup2.ru
 domain:luzynka.ru
+domain:lvohyk.bookingcar.su
 domain:m81jmqmn.ru
 domain:ma-code.ru
 domain:ma-static.ru
@@ -801,6 +808,7 @@ domain:mc.yandex.md
 domain:mc.yandex.ru
 domain:mc.yango.com
 domain:mdiyay.vseinstrumenti.ru
+domain:mdwubz.hyperauto.ru
 domain:mecash.ru
 domain:media-active.ru
 domain:media-advcycle.imgsmail.ru
@@ -827,6 +835,7 @@ domain:metrics.prom.third-party-app.sberdevices.ru
 domain:metrics.viqeo.tv
 domain:metricus.artlebedev.ru
 domain:metrika.kontur.ru
+domain:mhacgp.samolet.ru
 domain:minidoc.ru
 domain:mjoyvn.oldi.ru
 domain:mmfmes.rukodelov.ru
@@ -868,6 +877,7 @@ domain:mytop.live.vkvideo.ru
 domain:mytopf.com
 domain:mytraf.ru
 domain:myxuak.mir-kubikov.ru
+domain:mzenug.z-dama.ru
 domain:nanofantiki.edigest.ru
 domain:nasimke.ru
 domain:nativ.podruzke.ru
@@ -875,13 +885,13 @@ domain:nativerent.ru
 domain:natprb.ru
 domain:nbohze.thenorthface.ru
 domain:ncs.eadaily.com
+domain:ndsiop.sportcourt.ru
 domain:neobasnet.timeout.ru
 domain:neosap.ru
 domain:netlog.ru
 domain:neviju.netmonet.co
 domain:newms-shop.su
 domain:news.mirtesen.ru
-domain:news.unsere-news.ru
 domain:newton1.ru
 domain:nextel-ringtone.spb.su
 domain:ngazee.novostroy-m.ru
@@ -891,8 +901,8 @@ domain:nostalgia.onego.ru
 domain:nov.evmenov37.ru
 domain:ntvk1.ru
 domain:num-link.ru
+domain:nvpbip.picooc.ru
 domain:nxjnsb.station-l.ru
-domain:nyceov.life.ru
 domain:nytva-nmz.ru
 domain:o.60sk.ru
 domain:oba.rus-km.ru
@@ -909,6 +919,7 @@ domain:ognyvo.ru
 domain:ogtz5yn2u1.ru
 domain:oiya.ru
 domain:okr.sbdv.ru
+domain:omieuz.razer.ru
 domain:onelead.ru
 domain:onemontay.ru
 domain:onfeed.ru
@@ -941,8 +952,10 @@ domain:pay-click.ru
 domain:pbecrm.aquanet.ru
 domain:pbnet.ru
 domain:pcads.ru
+domain:peixtn.beautydiscount.ru
 domain:people-group.su
 domain:pfconm.koleso.ru
+domain:pgeaka.istanbulhomes.ru
 domain:pharmacy.hut1.ru
 domain:phentermine.shengen.ru
 domain:phone-calling-card.exnet.su
@@ -964,7 +977,6 @@ domain:planetapozitiva.ru
 domain:plavix.shengen.ru
 domain:plyfoni.ru
 domain:pngme.ru
-domain:po.zolivexo.ru
 domain:pokrutim.ru
 domain:popupclick.ru
 domain:pornorunet.ru
@@ -1006,6 +1018,7 @@ domain:qdb6gd3nth.ru
 domain:qitdsl.ralf.ru
 domain:qjxiyt.respect-shoes.ru
 domain:qkyspzfxnc.ru
+domain:qmlzcm.petshop.ru
 domain:qoopler.ru
 domain:qowfuv.virbacavto.ru
 domain:qq86tbqodk.ru
@@ -1032,12 +1045,10 @@ domain:rareru.ru
 domain:rasskaju.ru
 domain:rate.ru
 domain:rb.rfn.ru
-domain:rb.slova-accordy.ru
 domain:rb.sport-express.ru
 domain:rb.umspecrek.ru
 domain:rbig.pcyk.ru
 domain:rbm.tbmods.ru
-domain:rbparks.sskarta.ru
 domain:rcmjs.rambler.ru
 domain:rcounter.rambler.ru
 domain:readme.ru
@@ -1058,6 +1069,7 @@ domain:report.ap.yandex-net.ru
 domain:restless.su
 domain:restlesz.su
 domain:rezhiv.ru
+domain:rflrlt.divano.ru
 domain:rg-be.ru
 domain:richlifeads.ru
 domain:risale.ru
@@ -1088,7 +1100,6 @@ domain:rushkolnik.ru
 domain:rustrackers.ru
 domain:rutarget.ru
 domain:rvvpbf.xcom-shop.ru
-domain:rymhet.posudamart.ru
 domain:s.agava.ru
 domain:s.bunkr.ru
 domain:s.clicktex.ru
@@ -1098,8 +1109,10 @@ domain:s1.bss.2gis.com
 domain:s1.intimshop.ru
 domain:sa.adidas.ru
 domain:safes.ru.com
+domain:sahbte.tairtd.ru
 domain:salebestever.su
 domain:saletrybest.su
+domain:sanalytics.metro-cc.ru
 domain:sape.ru
 domain:sasisa.ru
 domain:sb-money.ru
@@ -1142,11 +1155,15 @@ domain:smartbn.ru
 domain:smetric.volkswagen-commercial.ru
 domain:smetric.volkswagen.ru
 domain:smetrics.americanairlines.com.ru
-domain:smetrics.babycenter.ru
+domain:smetrics.boehringer-ingelheim.ru
+domain:smetrics.da247.ru
+domain:smetrics.fcbarcelona.com.ru
+domain:smetrics.frontline.ru
 domain:smetrics.marketing.lighting.philips.ru
 domain:smetrics.nexgard.ru
 domain:smetrics.sony.ru
 domain:smetrics.tiffany.ru
+domain:smetrics.vetmedin.ru
 domain:smigid.ru
 domain:sminewsnet.ru
 domain:smmmkl.hoff.ru
@@ -1164,7 +1181,6 @@ domain:sp.aviasales.com
 domain:sp.aviasales.ru
 domain:sp9hb5jy81iw.ru
 domain:spitter.pauk.ru
-domain:splachujeme.sanela.ru
 domain:spmyma.moscowfresh.ru
 domain:sportbets.su
 domain:spots.ru
@@ -1208,7 +1224,6 @@ domain:static.terrhq.ru
 domain:statics1.tceru134gsur.ru
 domain:statistics.fppressa.ru
 domain:statpipe.ru
-domain:stats.astrr.ru
 domain:stats.avito.ru
 domain:stats.bunkr.ru
 domain:stats.gastronom.ru
@@ -1235,6 +1250,8 @@ domain:sv-pr.ru
 domain:svi.online.sberbank.ru
 domain:svk-native.ru
 domain:sw88.disney.ru
+domain:sw88.marvel.com.ru
+domain:sw88.starwars.ru
 domain:swkism.moon-trade.ru
 domain:swqleb.adidas.ru
 domain:sync.morgdm.ru
@@ -1257,6 +1274,7 @@ domain:targetman.ru
 domain:targetseek.ru
 domain:tbe.tom.ru
 domain:tbex.ru
+domain:tbvmlx.funkydunky.ru
 domain:tccjxk.123.ru
 domain:tds.vrcteam.ru
 domain:teaser-goods.ru
@@ -1315,13 +1333,15 @@ domain:torgnn.ru
 domain:tr.samoresim.ru
 domain:tr1.kaspersky.ca
 domain:tr1.kaspersky.com.tr
+domain:tr1.kaspersky.es
+domain:tr1.kaspersky.ru
+domain:tr2.kaspersky.co.uk
 domain:tr2.kaspersky.ru
 domain:trace-flow.ru
 domain:track-mixer.ru
 domain:track.ddmanager.ru
 domain:track.price.ru
 domain:track.tproger.ru
-domain:track.zeleks.ru
 domain:track2.tprg.ru
 domain:tracker-api.my.com
 domain:tracking.gpm-rtv.ru
@@ -1342,8 +1362,10 @@ domain:tt.ubs.com
 domain:ttarget.ru
 domain:ttnet.yandex.com.tr
 domain:tubedot.ru
+domain:turaco.altezzatravel.ru
 domain:twinzo.ru
 domain:tx2.ru
+domain:tyyrcf.ihc.ru
 domain:u7kgr54jr7.ru
 domain:uaas.yandex.ru
 domain:ubar-pro4.ru
@@ -1374,6 +1396,7 @@ domain:vdrfga.deagoshop.ru
 domain:vertelka.ru
 domain:veutax.atlasformen.ru
 domain:vezetmne.ru
+domain:vhasqd.zarina.ru
 domain:vhodzh.pdonna.ru
 domain:viagra-store.shengen.ru
 domain:viboom.ru
@@ -1414,6 +1437,7 @@ domain:w.rulive.ru
 domain:w4h5ae.ru
 domain:w716eb02n9.ru
 domain:w88.disney.ru
+domain:w88.starwars.ru
 domain:wapstart.ru
 domain:warlog.ru
 domain:wct.softonic.ru
@@ -1434,6 +1458,7 @@ domain:webvisor.com
 domain:webvisor.ru
 domain:weight-loss.hut1.ru
 domain:wfkemc.dmsky.ru
+domain:wgczby.foroffice.ru
 domain:whiteboxdigital.ru
 domain:widget.market-place.su
 domain:widget.socialmart.ru
@@ -1461,13 +1486,11 @@ domain:www-banner.chat.ru
 domain:www.5738.ru
 domain:www.ad-words.ru
 domain:www.allworldinfo5.ru
-domain:www.androidstores.ru
 domain:www.armolipid.com.ru
 domain:www.be4life.ru
 domain:www.fasder12.ru
 domain:www.iskustvenny-intellekt.ru
 domain:www.mir-stalkera.ru
-domain:www.mkpzmq.crocs.ru
 domain:www.rbdomain.ru
 domain:www.rbp1.ru
 domain:www.rbp2.ru
@@ -1484,11 +1507,14 @@ domain:www.xz8.ru
 domain:wwwomen.ru
 domain:xanax-store.shengen.ru
 domain:xcec.ru
+domain:xfzcds.netprint.ru
 domain:xjpakmdcfuqe.ru
 domain:xjsefd.materik-m.ru
+domain:xludzt.alfastrah.ru
 domain:xmemory.ru
 domain:xmwiyb.maje.ru
 domain:xn--80afden1bnch4a.xn--p1ai
+domain:xnzqmn.elecity.ru
 domain:xoor.ru
 domain:xray.mail.ru
 domain:xrxybn.kotofey-shop.ru
@@ -1508,7 +1534,7 @@ domain:yijrqx.rybalka4you.ru
 domain:yip.su
 domain:ynyy83za4i.ru
 domain:yourhlth.ru.com
-domain:ypcdbw.drive2.ru
+domain:ytbnfd.fandeco.ru
 domain:ywfycv.baby-products.ru
 domain:z3.skdfoiqwjelmdkfser.ru
 domain:zapbox.ru
@@ -1517,6 +1543,7 @@ domain:zbs.etodomendlyareklamy.ru
 domain:zbyynuew9g.ru
 domain:zgqgig.skillbox.ru
 domain:zlolhl.3dnews.ru
+domain:zlolhl.anekdot.ru
 domain:zlolhl.mediametrics.ru
 domain:zmqdez.ru
 domain:zoda.ru

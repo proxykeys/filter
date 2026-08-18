@@ -76,8 +76,6 @@
 ::1 a.mt.ru
 0.0.0.0 a.mts.ru
 ::1 a.mts.ru
-0.0.0.0 a.pinoymoviepedia.ru
-::1 a.pinoymoviepedia.ru
 0.0.0.0 a.rb-ya.ru
 ::1 a.rb-ya.ru
 0.0.0.0 a.resr.ru
@@ -346,8 +344,6 @@
 ::1 agro.net.ru
 0.0.0.0 ahaclub.ru
 ::1 ahaclub.ru
-0.0.0.0 aidsro.ostin.com
-::1 aidsro.ostin.com
 0.0.0.0 airlead.ru
 ::1 airlead.ru
 0.0.0.0 ajlnty.vipavenue.ru
@@ -382,6 +378,8 @@
 ::1 amc.yandex.ru
 0.0.0.0 amnsreiuojy.ru
 ::1 amnsreiuojy.ru
+0.0.0.0 an.avast.ru
+::1 an.avast.ru
 0.0.0.0 an.mail.ru
 ::1 an.mail.ru
 0.0.0.0 an.webvisor.org
@@ -424,6 +422,8 @@
 ::1 analytics.ubs.com
 0.0.0.0 anklets.shengen.ru
 ::1 anklets.shengen.ru
+0.0.0.0 ans.avast.ru
+::1 ans.avast.ru
 0.0.0.0 answers.teradata.ru
 ::1 answers.teradata.ru
 0.0.0.0 anyfiles.ru
@@ -576,8 +576,6 @@
 ::1 bigleads.ru
 0.0.0.0 bigsauron.ru
 ::1 bigsauron.ru
-0.0.0.0 bin-layer.ru
-::1 bin-layer.ru
 0.0.0.0 blogan.ru
 ::1 blogan.ru
 0.0.0.0 blogun.ru
@@ -688,8 +686,6 @@
 ::1 cdn.gpmdata.ru
 0.0.0.0 cdn.movieads.ru
 ::1 cdn.movieads.ru
-0.0.0.0 cdn.zamunda.ru
-::1 cdn.zamunda.ru
 0.0.0.0 cerohj.loccitane.ru
 ::1 cerohj.loccitane.ru
 0.0.0.0 cheap-adipex.hut1.ru
@@ -842,8 +838,6 @@
 ::1 d1tracker.ru
 0.0.0.0 da.rosrabota.ru
 ::1 da.rosrabota.ru
-0.0.0.0 da.zilovaro.ru
-::1 da.zilovaro.ru
 0.0.0.0 daast.digitalbox.ru
 ::1 daast.digitalbox.ru
 0.0.0.0 dab.rus-km.ru
@@ -854,8 +848,6 @@
 ::1 darkandlight.ru
 0.0.0.0 dashboard.boostads.ru
 ::1 dashboard.boostads.ru
-0.0.0.0 data-84a0f3455d.transfermarkt.ru
-::1 data-84a0f3455d.transfermarkt.ru
 0.0.0.0 data-aae7bdcec6.autoscout24.ru
 ::1 data-aae7bdcec6.autoscout24.ru
 0.0.0.0 data-b7d0b4217b.autoscout24.ru
@@ -968,6 +960,8 @@
 ::1 edirect.efind.ru
 0.0.0.0 effad.ru
 ::1 effad.ru
+0.0.0.0 efhcel.erborian.ru
+::1 efhcel.erborian.ru
 0.0.0.0 egg.afisha.ru
 ::1 egg.afisha.ru
 0.0.0.0 eiydgc.12storeez.ru
@@ -1048,8 +1042,6 @@
 ::1 ezstat.ru
 0.0.0.0 fairlink.ru
 ::1 fairlink.ru
-0.0.0.0 faptdsway.ru
-::1 faptdsway.ru
 0.0.0.0 fast-down.ru
 ::1 fast-down.ru
 0.0.0.0 fast2load.ru
@@ -1064,6 +1056,8 @@
 ::1 fft.delovoemesto.ru
 0.0.0.0 ffzffn.satra.ru
 ::1 ffzffn.satra.ru
+0.0.0.0 fhhzrq.regnum.ru
+::1 fhhzrq.regnum.ru
 0.0.0.0 filmplus.ru
 ::1 filmplus.ru
 0.0.0.0 firelove.ru
@@ -1214,6 +1208,10 @@
 ::1 gvdmkf.major-expert.ru
 0.0.0.0 gvyyri.major-auto.ru
 ::1 gvyyri.major-auto.ru
+0.0.0.0 gwdsyh.toyotacenter.ru
+::1 gwdsyh.toyotacenter.ru
+0.0.0.0 gxnbfa.homeme.ru
+::1 gxnbfa.homeme.ru
 0.0.0.0 gyh1lh20owj.ru
 ::1 gyh1lh20owj.ru
 0.0.0.0 handred.ru
@@ -1224,8 +1222,6 @@
 ::1 hc.uralweb.ru
 0.0.0.0 hdtracker.ru
 ::1 hdtracker.ru
-0.0.0.0 he.zymorico.ru
-::1 he.zymorico.ru
 0.0.0.0 hffttk.sandro-paris.ru
 ::1 hffttk.sandro-paris.ru
 0.0.0.0 hhulzh.tapada.ru
@@ -1252,8 +1248,12 @@
 ::1 hotlog.ru
 0.0.0.0 hqjuww.kolesa-darom.ru
 ::1 hqjuww.kolesa-darom.ru
+0.0.0.0 hsasqc.randewoo.ru
+::1 hsasqc.randewoo.ru
 0.0.0.0 huminfakt.ru
 ::1 huminfakt.ru
+0.0.0.0 hvjtos.sm-city.ru
+::1 hvjtos.sm-city.ru
 0.0.0.0 hvlglf.ochkarik.ru
 ::1 hvlglf.ochkarik.ru
 0.0.0.0 hwmonitor-ru.ru
@@ -1268,6 +1268,8 @@
 ::1 i.j2j.ru
 0.0.0.0 iaalxo.vans.ru
 ::1 iaalxo.vans.ru
+0.0.0.0 iacjsv.robinzon.ru
+::1 iacjsv.robinzon.ru
 0.0.0.0 ice-media.ru
 ::1 ice-media.ru
 0.0.0.0 iceprogs.ru
@@ -1330,6 +1332,10 @@
 ::1 intimznaki.tomsk.ru
 0.0.0.0 invest-pool.ru
 ::1 invest-pool.ru
+0.0.0.0 inwtef.hobbygames.ru
+::1 inwtef.hobbygames.ru
+0.0.0.0 iobpzo.m-r-c.ru
+::1 iobpzo.m-r-c.ru
 0.0.0.0 ip.up66.ru
 ::1 ip.up66.ru
 0.0.0.0 ipgold.ru
@@ -1378,6 +1384,8 @@
 ::1 jordan.qunis.ru
 0.0.0.0 journal-bt.wildberries.ru
 ::1 journal-bt.wildberries.ru
+0.0.0.0 jpfvoo.refro.ru
+::1 jpfvoo.refro.ru
 0.0.0.0 jqk2me2mzf.ru
 ::1 jqk2me2mzf.ru
 0.0.0.0 jrs2igoimq.ru
@@ -1416,6 +1424,8 @@
 ::1 kjrrpn.taxcom.ru
 0.0.0.0 kmindex.ru
 ::1 kmindex.ru
+0.0.0.0 knzqjr.pult.ru
+::1 knzqjr.pult.ru
 0.0.0.0 kosibablo.ucoz.ua
 ::1 kosibablo.ucoz.ua
 0.0.0.0 kplusd.far.ru
@@ -1506,6 +1516,8 @@
 ::1 livesurf.ru
 0.0.0.0 lk.vectoranalytics.ru
 ::1 lk.vectoranalytics.ru
+0.0.0.0 load.gtm.koleso.ru
+::1 load.gtm.koleso.ru
 0.0.0.0 loadmoney.ru
 ::1 loadmoney.ru
 0.0.0.0 loan.aol.msk.su
@@ -1554,6 +1566,8 @@
 ::1 luxup2.ru
 0.0.0.0 luzynka.ru
 ::1 luzynka.ru
+0.0.0.0 lvohyk.bookingcar.su
+::1 lvohyk.bookingcar.su
 0.0.0.0 m81jmqmn.ru
 ::1 m81jmqmn.ru
 0.0.0.0 ma-code.ru
@@ -1604,6 +1618,8 @@
 ::1 mc.yango.com
 0.0.0.0 mdiyay.vseinstrumenti.ru
 ::1 mdiyay.vseinstrumenti.ru
+0.0.0.0 mdwubz.hyperauto.ru
+::1 mdwubz.hyperauto.ru
 0.0.0.0 mecash.ru
 ::1 mecash.ru
 0.0.0.0 media-active.ru
@@ -1656,6 +1672,8 @@
 ::1 metricus.artlebedev.ru
 0.0.0.0 metrika.kontur.ru
 ::1 metrika.kontur.ru
+0.0.0.0 mhacgp.samolet.ru
+::1 mhacgp.samolet.ru
 0.0.0.0 minidoc.ru
 ::1 minidoc.ru
 0.0.0.0 mjoyvn.oldi.ru
@@ -1738,6 +1756,8 @@
 ::1 mytraf.ru
 0.0.0.0 myxuak.mir-kubikov.ru
 ::1 myxuak.mir-kubikov.ru
+0.0.0.0 mzenug.z-dama.ru
+::1 mzenug.z-dama.ru
 0.0.0.0 nanofantiki.edigest.ru
 ::1 nanofantiki.edigest.ru
 0.0.0.0 nasimke.ru
@@ -1752,6 +1772,8 @@
 ::1 nbohze.thenorthface.ru
 0.0.0.0 ncs.eadaily.com
 ::1 ncs.eadaily.com
+0.0.0.0 ndsiop.sportcourt.ru
+::1 ndsiop.sportcourt.ru
 0.0.0.0 neobasnet.timeout.ru
 ::1 neobasnet.timeout.ru
 0.0.0.0 neosap.ru
@@ -1764,8 +1786,6 @@
 ::1 newms-shop.su
 0.0.0.0 news.mirtesen.ru
 ::1 news.mirtesen.ru
-0.0.0.0 news.unsere-news.ru
-::1 news.unsere-news.ru
 0.0.0.0 newton1.ru
 ::1 newton1.ru
 0.0.0.0 nextel-ringtone.spb.su
@@ -1784,10 +1804,10 @@
 ::1 ntvk1.ru
 0.0.0.0 num-link.ru
 ::1 num-link.ru
+0.0.0.0 nvpbip.picooc.ru
+::1 nvpbip.picooc.ru
 0.0.0.0 nxjnsb.station-l.ru
 ::1 nxjnsb.station-l.ru
-0.0.0.0 nyceov.life.ru
-::1 nyceov.life.ru
 0.0.0.0 nytva-nmz.ru
 ::1 nytva-nmz.ru
 0.0.0.0 o.60sk.ru
@@ -1820,6 +1840,8 @@
 ::1 oiya.ru
 0.0.0.0 okr.sbdv.ru
 ::1 okr.sbdv.ru
+0.0.0.0 omieuz.razer.ru
+::1 omieuz.razer.ru
 0.0.0.0 onelead.ru
 ::1 onelead.ru
 0.0.0.0 onemontay.ru
@@ -1884,10 +1906,14 @@
 ::1 pbnet.ru
 0.0.0.0 pcads.ru
 ::1 pcads.ru
+0.0.0.0 peixtn.beautydiscount.ru
+::1 peixtn.beautydiscount.ru
 0.0.0.0 people-group.su
 ::1 people-group.su
 0.0.0.0 pfconm.koleso.ru
 ::1 pfconm.koleso.ru
+0.0.0.0 pgeaka.istanbulhomes.ru
+::1 pgeaka.istanbulhomes.ru
 0.0.0.0 pharmacy.hut1.ru
 ::1 pharmacy.hut1.ru
 0.0.0.0 phentermine.shengen.ru
@@ -1930,8 +1956,6 @@
 ::1 plyfoni.ru
 0.0.0.0 pngme.ru
 ::1 pngme.ru
-0.0.0.0 po.zolivexo.ru
-::1 po.zolivexo.ru
 0.0.0.0 pokrutim.ru
 ::1 pokrutim.ru
 0.0.0.0 popupclick.ru
@@ -2014,6 +2038,8 @@
 ::1 qjxiyt.respect-shoes.ru
 0.0.0.0 qkyspzfxnc.ru
 ::1 qkyspzfxnc.ru
+0.0.0.0 qmlzcm.petshop.ru
+::1 qmlzcm.petshop.ru
 0.0.0.0 qoopler.ru
 ::1 qoopler.ru
 0.0.0.0 qowfuv.virbacavto.ru
@@ -2066,8 +2092,6 @@
 ::1 rate.ru
 0.0.0.0 rb.rfn.ru
 ::1 rb.rfn.ru
-0.0.0.0 rb.slova-accordy.ru
-::1 rb.slova-accordy.ru
 0.0.0.0 rb.sport-express.ru
 ::1 rb.sport-express.ru
 0.0.0.0 rb.umspecrek.ru
@@ -2076,8 +2100,6 @@
 ::1 rbig.pcyk.ru
 0.0.0.0 rbm.tbmods.ru
 ::1 rbm.tbmods.ru
-0.0.0.0 rbparks.sskarta.ru
-::1 rbparks.sskarta.ru
 0.0.0.0 rcmjs.rambler.ru
 ::1 rcmjs.rambler.ru
 0.0.0.0 rcounter.rambler.ru
@@ -2118,6 +2140,8 @@
 ::1 restlesz.su
 0.0.0.0 rezhiv.ru
 ::1 rezhiv.ru
+0.0.0.0 rflrlt.divano.ru
+::1 rflrlt.divano.ru
 0.0.0.0 rg-be.ru
 ::1 rg-be.ru
 0.0.0.0 richlifeads.ru
@@ -2178,8 +2202,6 @@
 ::1 rutarget.ru
 0.0.0.0 rvvpbf.xcom-shop.ru
 ::1 rvvpbf.xcom-shop.ru
-0.0.0.0 rymhet.posudamart.ru
-::1 rymhet.posudamart.ru
 0.0.0.0 s.agava.ru
 ::1 s.agava.ru
 0.0.0.0 s.bunkr.ru
@@ -2198,10 +2220,14 @@
 ::1 sa.adidas.ru
 0.0.0.0 safes.ru.com
 ::1 safes.ru.com
+0.0.0.0 sahbte.tairtd.ru
+::1 sahbte.tairtd.ru
 0.0.0.0 salebestever.su
 ::1 salebestever.su
 0.0.0.0 saletrybest.su
 ::1 saletrybest.su
+0.0.0.0 sanalytics.metro-cc.ru
+::1 sanalytics.metro-cc.ru
 0.0.0.0 sape.ru
 ::1 sape.ru
 0.0.0.0 sasisa.ru
@@ -2286,8 +2312,14 @@
 ::1 smetric.volkswagen.ru
 0.0.0.0 smetrics.americanairlines.com.ru
 ::1 smetrics.americanairlines.com.ru
-0.0.0.0 smetrics.babycenter.ru
-::1 smetrics.babycenter.ru
+0.0.0.0 smetrics.boehringer-ingelheim.ru
+::1 smetrics.boehringer-ingelheim.ru
+0.0.0.0 smetrics.da247.ru
+::1 smetrics.da247.ru
+0.0.0.0 smetrics.fcbarcelona.com.ru
+::1 smetrics.fcbarcelona.com.ru
+0.0.0.0 smetrics.frontline.ru
+::1 smetrics.frontline.ru
 0.0.0.0 smetrics.marketing.lighting.philips.ru
 ::1 smetrics.marketing.lighting.philips.ru
 0.0.0.0 smetrics.nexgard.ru
@@ -2296,6 +2328,8 @@
 ::1 smetrics.sony.ru
 0.0.0.0 smetrics.tiffany.ru
 ::1 smetrics.tiffany.ru
+0.0.0.0 smetrics.vetmedin.ru
+::1 smetrics.vetmedin.ru
 0.0.0.0 smigid.ru
 ::1 smigid.ru
 0.0.0.0 sminewsnet.ru
@@ -2330,8 +2364,6 @@
 ::1 sp9hb5jy81iw.ru
 0.0.0.0 spitter.pauk.ru
 ::1 spitter.pauk.ru
-0.0.0.0 splachujeme.sanela.ru
-::1 splachujeme.sanela.ru
 0.0.0.0 spmyma.moscowfresh.ru
 ::1 spmyma.moscowfresh.ru
 0.0.0.0 sportbets.su
@@ -2418,8 +2450,6 @@
 ::1 statistics.fppressa.ru
 0.0.0.0 statpipe.ru
 ::1 statpipe.ru
-0.0.0.0 stats.astrr.ru
-::1 stats.astrr.ru
 0.0.0.0 stats.avito.ru
 ::1 stats.avito.ru
 0.0.0.0 stats.bunkr.ru
@@ -2472,6 +2502,10 @@
 ::1 svk-native.ru
 0.0.0.0 sw88.disney.ru
 ::1 sw88.disney.ru
+0.0.0.0 sw88.marvel.com.ru
+::1 sw88.marvel.com.ru
+0.0.0.0 sw88.starwars.ru
+::1 sw88.starwars.ru
 0.0.0.0 swkism.moon-trade.ru
 ::1 swkism.moon-trade.ru
 0.0.0.0 swqleb.adidas.ru
@@ -2516,6 +2550,8 @@
 ::1 tbe.tom.ru
 0.0.0.0 tbex.ru
 ::1 tbex.ru
+0.0.0.0 tbvmlx.funkydunky.ru
+::1 tbvmlx.funkydunky.ru
 0.0.0.0 tccjxk.123.ru
 ::1 tccjxk.123.ru
 0.0.0.0 tds.vrcteam.ru
@@ -2632,6 +2668,12 @@
 ::1 tr1.kaspersky.ca
 0.0.0.0 tr1.kaspersky.com.tr
 ::1 tr1.kaspersky.com.tr
+0.0.0.0 tr1.kaspersky.es
+::1 tr1.kaspersky.es
+0.0.0.0 tr1.kaspersky.ru
+::1 tr1.kaspersky.ru
+0.0.0.0 tr2.kaspersky.co.uk
+::1 tr2.kaspersky.co.uk
 0.0.0.0 tr2.kaspersky.ru
 ::1 tr2.kaspersky.ru
 0.0.0.0 trace-flow.ru
@@ -2644,8 +2686,6 @@
 ::1 track.price.ru
 0.0.0.0 track.tproger.ru
 ::1 track.tproger.ru
-0.0.0.0 track.zeleks.ru
-::1 track.zeleks.ru
 0.0.0.0 track2.tprg.ru
 ::1 track2.tprg.ru
 0.0.0.0 tracker-api.my.com
@@ -2686,10 +2726,14 @@
 ::1 ttnet.yandex.com.tr
 0.0.0.0 tubedot.ru
 ::1 tubedot.ru
+0.0.0.0 turaco.altezzatravel.ru
+::1 turaco.altezzatravel.ru
 0.0.0.0 twinzo.ru
 ::1 twinzo.ru
 0.0.0.0 tx2.ru
 ::1 tx2.ru
+0.0.0.0 tyyrcf.ihc.ru
+::1 tyyrcf.ihc.ru
 0.0.0.0 u7kgr54jr7.ru
 ::1 u7kgr54jr7.ru
 0.0.0.0 uaas.yandex.ru
@@ -2750,6 +2794,8 @@
 ::1 veutax.atlasformen.ru
 0.0.0.0 vezetmne.ru
 ::1 vezetmne.ru
+0.0.0.0 vhasqd.zarina.ru
+::1 vhasqd.zarina.ru
 0.0.0.0 vhodzh.pdonna.ru
 ::1 vhodzh.pdonna.ru
 0.0.0.0 viagra-store.shengen.ru
@@ -2830,6 +2876,8 @@
 ::1 w716eb02n9.ru
 0.0.0.0 w88.disney.ru
 ::1 w88.disney.ru
+0.0.0.0 w88.starwars.ru
+::1 w88.starwars.ru
 0.0.0.0 wapstart.ru
 ::1 wapstart.ru
 0.0.0.0 warlog.ru
@@ -2870,6 +2918,8 @@
 ::1 weight-loss.hut1.ru
 0.0.0.0 wfkemc.dmsky.ru
 ::1 wfkemc.dmsky.ru
+0.0.0.0 wgczby.foroffice.ru
+::1 wgczby.foroffice.ru
 0.0.0.0 whiteboxdigital.ru
 ::1 whiteboxdigital.ru
 0.0.0.0 widget.market-place.su
@@ -2924,8 +2974,6 @@
 ::1 www.ad-words.ru
 0.0.0.0 www.allworldinfo5.ru
 ::1 www.allworldinfo5.ru
-0.0.0.0 www.androidstores.ru
-::1 www.androidstores.ru
 0.0.0.0 www.armolipid.com.ru
 ::1 www.armolipid.com.ru
 0.0.0.0 www.be4life.ru
@@ -2936,8 +2984,6 @@
 ::1 www.iskustvenny-intellekt.ru
 0.0.0.0 www.mir-stalkera.ru
 ::1 www.mir-stalkera.ru
-0.0.0.0 www.mkpzmq.crocs.ru
-::1 www.mkpzmq.crocs.ru
 0.0.0.0 www.rbdomain.ru
 ::1 www.rbdomain.ru
 0.0.0.0 www.rbp1.ru
@@ -2970,16 +3016,22 @@
 ::1 xanax-store.shengen.ru
 0.0.0.0 xcec.ru
 ::1 xcec.ru
+0.0.0.0 xfzcds.netprint.ru
+::1 xfzcds.netprint.ru
 0.0.0.0 xjpakmdcfuqe.ru
 ::1 xjpakmdcfuqe.ru
 0.0.0.0 xjsefd.materik-m.ru
 ::1 xjsefd.materik-m.ru
+0.0.0.0 xludzt.alfastrah.ru
+::1 xludzt.alfastrah.ru
 0.0.0.0 xmemory.ru
 ::1 xmemory.ru
 0.0.0.0 xmwiyb.maje.ru
 ::1 xmwiyb.maje.ru
 0.0.0.0 xn--80afden1bnch4a.xn--p1ai
 ::1 xn--80afden1bnch4a.xn--p1ai
+0.0.0.0 xnzqmn.elecity.ru
+::1 xnzqmn.elecity.ru
 0.0.0.0 xoor.ru
 ::1 xoor.ru
 0.0.0.0 xray.mail.ru
@@ -3018,8 +3070,8 @@
 ::1 ynyy83za4i.ru
 0.0.0.0 yourhlth.ru.com
 ::1 yourhlth.ru.com
-0.0.0.0 ypcdbw.drive2.ru
-::1 ypcdbw.drive2.ru
+0.0.0.0 ytbnfd.fandeco.ru
+::1 ytbnfd.fandeco.ru
 0.0.0.0 ywfycv.baby-products.ru
 ::1 ywfycv.baby-products.ru
 0.0.0.0 z3.skdfoiqwjelmdkfser.ru
@@ -3036,6 +3088,8 @@
 ::1 zgqgig.skillbox.ru
 0.0.0.0 zlolhl.3dnews.ru
 ::1 zlolhl.3dnews.ru
+0.0.0.0 zlolhl.anekdot.ru
+::1 zlolhl.anekdot.ru
 0.0.0.0 zlolhl.mediametrics.ru
 ::1 zlolhl.mediametrics.ru
 0.0.0.0 zmqdez.ru

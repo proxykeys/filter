@@ -37,7 +37,6 @@
 ||a.kupibilet.ru^
 ||a.mt.ru^
 ||a.mts.ru^
-||a.pinoymoviepedia.ru^
 ||a.rb-ya.ru^
 ||a.resr.ru^
 ||a.ria.ru^
@@ -172,7 +171,6 @@
 ||agency2.ru^
 ||agro.net.ru^
 ||ahaclub.ru^
-||aidsro.ostin.com^
 ||airlead.ru^
 ||ajlnty.vipavenue.ru^
 ||akabo.ru^
@@ -190,6 +188,7 @@
 ||amazy.ru^
 ||amc.yandex.ru^
 ||amnsreiuojy.ru^
+||an.avast.ru^
 ||an.mail.ru^
 ||an.webvisor.org^
 ||an.yandex.ru^
@@ -211,6 +210,7 @@
 ||analytics.sutochno.ru^
 ||analytics.ubs.com^
 ||anklets.shengen.ru^
+||ans.avast.ru^
 ||answers.teradata.ru^
 ||anyfiles.ru^
 ||aol.spb.su^
@@ -287,7 +287,6 @@
 ||big6q4y2oy.ru^
 ||bigleads.ru^
 ||bigsauron.ru^
-||bin-layer.ru^
 ||blogan.ru^
 ||blogun.ru^
 ||bn.ohah.ru^
@@ -343,7 +342,6 @@
 ||cdn.ddmanager.ru^
 ||cdn.gpmdata.ru^
 ||cdn.movieads.ru^
-||cdn.zamunda.ru^
 ||cerohj.loccitane.ru^
 ||cheap-adipex.hut1.ru^
 ||cheaptop.ru^
@@ -420,13 +418,11 @@
 ||d0main.ru^
 ||d1tracker.ru^
 ||da.rosrabota.ru^
-||da.zilovaro.ru^
 ||daast.digitalbox.ru^
 ||dab.rus-km.ru^
 ||danilidi.ru^
 ||darkandlight.ru^
 ||dashboard.boostads.ru^
-||data-84a0f3455d.transfermarkt.ru^
 ||data-aae7bdcec6.autoscout24.ru^
 ||data-b7d0b4217b.autoscout24.ru^
 ||data.neosmi.ru^
@@ -483,6 +479,7 @@
 ||edfyqv.x-moda.ru^
 ||edirect.efind.ru^
 ||effad.ru^
+||efhcel.erborian.ru^
 ||egg.afisha.ru^
 ||eiydgc.12storeez.ru^
 ||ekgmca.gipfel.ru^
@@ -523,7 +520,6 @@
 ||extrablocks.ru^
 ||ezstat.ru^
 ||fairlink.ru^
-||faptdsway.ru^
 ||fast-down.ru^
 ||fast2load.ru^
 ||fastsex.ru^
@@ -531,6 +527,7 @@
 ||ff.astv.ru^
 ||fft.delovoemesto.ru^
 ||ffzffn.satra.ru^
+||fhhzrq.regnum.ru^
 ||filmplus.ru^
 ||firelove.ru^
 ||firsttrack.ru^
@@ -606,12 +603,13 @@
 ||gvapp.ru^
 ||gvdmkf.major-expert.ru^
 ||gvyyri.major-auto.ru^
+||gwdsyh.toyotacenter.ru^
+||gxnbfa.homeme.ru^
 ||gyh1lh20owj.ru^
 ||handred.ru^
 ||hatrecord.ru^
 ||hc.uralweb.ru^
 ||hdtracker.ru^
-||he.zymorico.ru^
 ||hffttk.sandro-paris.ru^
 ||hhulzh.tapada.ru^
 ||hikvar.ru^
@@ -625,7 +623,9 @@
 ||honey.briefly.ru^
 ||hotlog.ru^
 ||hqjuww.kolesa-darom.ru^
+||hsasqc.randewoo.ru^
 ||huminfakt.ru^
+||hvjtos.sm-city.ru^
 ||hvlglf.ochkarik.ru^
 ||hwmonitor-ru.ru^
 ||hydrocodone.shengen.ru^
@@ -633,6 +633,7 @@
 ||hzmksreiuojy.ru^
 ||i.j2j.ru^
 ||iaalxo.vans.ru^
+||iacjsv.robinzon.ru^
 ||ice-media.ru^
 ||iceprogs.ru^
 ||id.sputniknews.com^
@@ -664,6 +665,8 @@
 ||intimmag.ru^
 ||intimznaki.tomsk.ru^
 ||invest-pool.ru^
+||inwtef.hobbygames.ru^
+||iobpzo.m-r-c.ru^
 ||ip.up66.ru^
 ||ipgold.ru^
 ||ipgrabber.ru^
@@ -688,6 +691,7 @@
 ||jitsu.www1.ru^
 ||jordan.qunis.ru^
 ||journal-bt.wildberries.ru^
+||jpfvoo.refro.ru^
 ||jqk2me2mzf.ru^
 ||jrs2igoimq.ru^
 ||js.smi2.ru^
@@ -707,6 +711,7 @@
 ||kinotraff.ru^
 ||kjrrpn.taxcom.ru^
 ||kmindex.ru^
+||knzqjr.pult.ru^
 ||kosibablo.ucoz.ua^
 ||kplusd.far.ru^
 ||kq6lwk3m9g.ru^
@@ -752,6 +757,7 @@
 ||linkwmr.ru^
 ||livesurf.ru^
 ||lk.vectoranalytics.ru^
+||load.gtm.koleso.ru^
 ||loadmoney.ru^
 ||loan.aol.msk.su^
 ||log.dzen.ru^
@@ -776,6 +782,7 @@
 ||luxup.ru^
 ||luxup2.ru^
 ||luzynka.ru^
+||lvohyk.bookingcar.su^
 ||m81jmqmn.ru^
 ||ma-code.ru^
 ||ma-static.ru^
@@ -801,6 +808,7 @@
 ||mc.yandex.ru^
 ||mc.yango.com^
 ||mdiyay.vseinstrumenti.ru^
+||mdwubz.hyperauto.ru^
 ||mecash.ru^
 ||media-active.ru^
 ||media-advcycle.imgsmail.ru^
@@ -827,6 +835,7 @@
 ||metrics.viqeo.tv^
 ||metricus.artlebedev.ru^
 ||metrika.kontur.ru^
+||mhacgp.samolet.ru^
 ||minidoc.ru^
 ||mjoyvn.oldi.ru^
 ||mmfmes.rukodelov.ru^
@@ -868,6 +877,7 @@
 ||mytopf.com^
 ||mytraf.ru^
 ||myxuak.mir-kubikov.ru^
+||mzenug.z-dama.ru^
 ||nanofantiki.edigest.ru^
 ||nasimke.ru^
 ||nativ.podruzke.ru^
@@ -875,13 +885,13 @@
 ||natprb.ru^
 ||nbohze.thenorthface.ru^
 ||ncs.eadaily.com^
+||ndsiop.sportcourt.ru^
 ||neobasnet.timeout.ru^
 ||neosap.ru^
 ||netlog.ru^
 ||neviju.netmonet.co^
 ||newms-shop.su^
 ||news.mirtesen.ru^
-||news.unsere-news.ru^
 ||newton1.ru^
 ||nextel-ringtone.spb.su^
 ||ngazee.novostroy-m.ru^
@@ -891,8 +901,8 @@
 ||nov.evmenov37.ru^
 ||ntvk1.ru^
 ||num-link.ru^
+||nvpbip.picooc.ru^
 ||nxjnsb.station-l.ru^
-||nyceov.life.ru^
 ||nytva-nmz.ru^
 ||o.60sk.ru^
 ||oba.rus-km.ru^
@@ -909,6 +919,7 @@
 ||ogtz5yn2u1.ru^
 ||oiya.ru^
 ||okr.sbdv.ru^
+||omieuz.razer.ru^
 ||onelead.ru^
 ||onemontay.ru^
 ||onfeed.ru^
@@ -941,8 +952,10 @@
 ||pbecrm.aquanet.ru^
 ||pbnet.ru^
 ||pcads.ru^
+||peixtn.beautydiscount.ru^
 ||people-group.su^
 ||pfconm.koleso.ru^
+||pgeaka.istanbulhomes.ru^
 ||pharmacy.hut1.ru^
 ||phentermine.shengen.ru^
 ||phone-calling-card.exnet.su^
@@ -964,7 +977,6 @@
 ||plavix.shengen.ru^
 ||plyfoni.ru^
 ||pngme.ru^
-||po.zolivexo.ru^
 ||pokrutim.ru^
 ||popupclick.ru^
 ||pornorunet.ru^
@@ -1006,6 +1018,7 @@
 ||qitdsl.ralf.ru^
 ||qjxiyt.respect-shoes.ru^
 ||qkyspzfxnc.ru^
+||qmlzcm.petshop.ru^
 ||qoopler.ru^
 ||qowfuv.virbacavto.ru^
 ||qq86tbqodk.ru^
@@ -1032,12 +1045,10 @@
 ||rasskaju.ru^
 ||rate.ru^
 ||rb.rfn.ru^
-||rb.slova-accordy.ru^
 ||rb.sport-express.ru^
 ||rb.umspecrek.ru^
 ||rbig.pcyk.ru^
 ||rbm.tbmods.ru^
-||rbparks.sskarta.ru^
 ||rcmjs.rambler.ru^
 ||rcounter.rambler.ru^
 ||readme.ru^
@@ -1058,6 +1069,7 @@
 ||restless.su^
 ||restlesz.su^
 ||rezhiv.ru^
+||rflrlt.divano.ru^
 ||rg-be.ru^
 ||richlifeads.ru^
 ||risale.ru^
@@ -1088,7 +1100,6 @@
 ||rustrackers.ru^
 ||rutarget.ru^
 ||rvvpbf.xcom-shop.ru^
-||rymhet.posudamart.ru^
 ||s.agava.ru^
 ||s.bunkr.ru^
 ||s.clicktex.ru^
@@ -1098,8 +1109,10 @@
 ||s1.intimshop.ru^
 ||sa.adidas.ru^
 ||safes.ru.com^
+||sahbte.tairtd.ru^
 ||salebestever.su^
 ||saletrybest.su^
+||sanalytics.metro-cc.ru^
 ||sape.ru^
 ||sasisa.ru^
 ||sb-money.ru^
@@ -1142,11 +1155,15 @@
 ||smetric.volkswagen-commercial.ru^
 ||smetric.volkswagen.ru^
 ||smetrics.americanairlines.com.ru^
-||smetrics.babycenter.ru^
+||smetrics.boehringer-ingelheim.ru^
+||smetrics.da247.ru^
+||smetrics.fcbarcelona.com.ru^
+||smetrics.frontline.ru^
 ||smetrics.marketing.lighting.philips.ru^
 ||smetrics.nexgard.ru^
 ||smetrics.sony.ru^
 ||smetrics.tiffany.ru^
+||smetrics.vetmedin.ru^
 ||smigid.ru^
 ||sminewsnet.ru^
 ||smmmkl.hoff.ru^
@@ -1164,7 +1181,6 @@
 ||sp.aviasales.ru^
 ||sp9hb5jy81iw.ru^
 ||spitter.pauk.ru^
-||splachujeme.sanela.ru^
 ||spmyma.moscowfresh.ru^
 ||sportbets.su^
 ||spots.ru^
@@ -1208,7 +1224,6 @@
 ||statics1.tceru134gsur.ru^
 ||statistics.fppressa.ru^
 ||statpipe.ru^
-||stats.astrr.ru^
 ||stats.avito.ru^
 ||stats.bunkr.ru^
 ||stats.gastronom.ru^
@@ -1235,6 +1250,8 @@
 ||svi.online.sberbank.ru^
 ||svk-native.ru^
 ||sw88.disney.ru^
+||sw88.marvel.com.ru^
+||sw88.starwars.ru^
 ||swkism.moon-trade.ru^
 ||swqleb.adidas.ru^
 ||sync.morgdm.ru^
@@ -1257,6 +1274,7 @@
 ||targetseek.ru^
 ||tbe.tom.ru^
 ||tbex.ru^
+||tbvmlx.funkydunky.ru^
 ||tccjxk.123.ru^
 ||tds.vrcteam.ru^
 ||teaser-goods.ru^
@@ -1315,13 +1333,15 @@
 ||tr.samoresim.ru^
 ||tr1.kaspersky.ca^
 ||tr1.kaspersky.com.tr^
+||tr1.kaspersky.es^
+||tr1.kaspersky.ru^
+||tr2.kaspersky.co.uk^
 ||tr2.kaspersky.ru^
 ||trace-flow.ru^
 ||track-mixer.ru^
 ||track.ddmanager.ru^
 ||track.price.ru^
 ||track.tproger.ru^
-||track.zeleks.ru^
 ||track2.tprg.ru^
 ||tracker-api.my.com^
 ||tracking.gpm-rtv.ru^
@@ -1342,8 +1362,10 @@
 ||ttarget.ru^
 ||ttnet.yandex.com.tr^
 ||tubedot.ru^
+||turaco.altezzatravel.ru^
 ||twinzo.ru^
 ||tx2.ru^
+||tyyrcf.ihc.ru^
 ||u7kgr54jr7.ru^
 ||uaas.yandex.ru^
 ||ubar-pro4.ru^
@@ -1374,6 +1396,7 @@
 ||vertelka.ru^
 ||veutax.atlasformen.ru^
 ||vezetmne.ru^
+||vhasqd.zarina.ru^
 ||vhodzh.pdonna.ru^
 ||viagra-store.shengen.ru^
 ||viboom.ru^
@@ -1414,6 +1437,7 @@
 ||w4h5ae.ru^
 ||w716eb02n9.ru^
 ||w88.disney.ru^
+||w88.starwars.ru^
 ||wapstart.ru^
 ||warlog.ru^
 ||wct.softonic.ru^
@@ -1434,6 +1458,7 @@
 ||webvisor.ru^
 ||weight-loss.hut1.ru^
 ||wfkemc.dmsky.ru^
+||wgczby.foroffice.ru^
 ||whiteboxdigital.ru^
 ||widget.market-place.su^
 ||widget.socialmart.ru^
@@ -1461,13 +1486,11 @@
 ||www.5738.ru^
 ||www.ad-words.ru^
 ||www.allworldinfo5.ru^
-||www.androidstores.ru^
 ||www.armolipid.com.ru^
 ||www.be4life.ru^
 ||www.fasder12.ru^
 ||www.iskustvenny-intellekt.ru^
 ||www.mir-stalkera.ru^
-||www.mkpzmq.crocs.ru^
 ||www.rbdomain.ru^
 ||www.rbp1.ru^
 ||www.rbp2.ru^
@@ -1484,11 +1507,14 @@
 ||wwwomen.ru^
 ||xanax-store.shengen.ru^
 ||xcec.ru^
+||xfzcds.netprint.ru^
 ||xjpakmdcfuqe.ru^
 ||xjsefd.materik-m.ru^
+||xludzt.alfastrah.ru^
 ||xmemory.ru^
 ||xmwiyb.maje.ru^
 ||xn--80afden1bnch4a.xn--p1ai^
+||xnzqmn.elecity.ru^
 ||xoor.ru^
 ||xray.mail.ru^
 ||xrxybn.kotofey-shop.ru^
@@ -1508,7 +1534,7 @@
 ||yip.su^
 ||ynyy83za4i.ru^
 ||yourhlth.ru.com^
-||ypcdbw.drive2.ru^
+||ytbnfd.fandeco.ru^
 ||ywfycv.baby-products.ru^
 ||z3.skdfoiqwjelmdkfser.ru^
 ||zapbox.ru^
@@ -1517,6 +1543,7 @@
 ||zbyynuew9g.ru^
 ||zgqgig.skillbox.ru^
 ||zlolhl.3dnews.ru^
+||zlolhl.anekdot.ru^
 ||zlolhl.mediametrics.ru^
 ||zmqdez.ru^
 ||zoda.ru^

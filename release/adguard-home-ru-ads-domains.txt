@@ -890,6 +890,7 @@
 ||neosap.ru^
 ||netlog.ru^
 ||neviju.netmonet.co^
+||new.traffic.ru^
 ||newms-shop.su^
 ||news.mirtesen.ru^
 ||newton1.ru^
@@ -1001,7 +1002,6 @@
 ||promoggaqjkd.ru^
 ||proppellerads.ru^
 ||prostoimya.kino-o-voine.ru^
-||protizer.ru^
 ||protonix.shengen.ru^
 ||prre.ru^
 ||pt0zhwhc26.ru^
@@ -1352,7 +1352,6 @@
 ||tradeleads.su^
 ||traff.ru^
 ||traffbiz.ru^
-||traffic.ru^
 ||trafficcost.ru^
 ||trafka.ru^
 ||trigub.ru^

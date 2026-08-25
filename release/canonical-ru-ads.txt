@@ -890,6 +890,7 @@ domain:neobasnet.timeout.ru
 domain:neosap.ru
 domain:netlog.ru
 domain:neviju.netmonet.co
+domain:new.traffic.ru
 domain:newms-shop.su
 domain:news.mirtesen.ru
 domain:newton1.ru
@@ -1001,7 +1002,6 @@ domain:promo.rzonline.ru
 domain:promoggaqjkd.ru
 domain:proppellerads.ru
 domain:prostoimya.kino-o-voine.ru
-domain:protizer.ru
 domain:protonix.shengen.ru
 domain:prre.ru
 domain:pt0zhwhc26.ru
@@ -1352,7 +1352,6 @@ domain:tradedealvip.su
 domain:tradeleads.su
 domain:traff.ru
 domain:traffbiz.ru
-domain:traffic.ru
 domain:trafficcost.ru
 domain:trafka.ru
 domain:trigub.ru

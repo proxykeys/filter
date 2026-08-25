@@ -891,6 +891,7 @@ payload:
   - DOMAIN-SUFFIX,neosap.ru
   - DOMAIN-SUFFIX,netlog.ru
   - DOMAIN-SUFFIX,neviju.netmonet.co
+  - DOMAIN-SUFFIX,new.traffic.ru
   - DOMAIN-SUFFIX,newms-shop.su
   - DOMAIN-SUFFIX,news.mirtesen.ru
   - DOMAIN-SUFFIX,newton1.ru
@@ -1002,7 +1003,6 @@ payload:
   - DOMAIN-SUFFIX,promoggaqjkd.ru
   - DOMAIN-SUFFIX,proppellerads.ru
   - DOMAIN-SUFFIX,prostoimya.kino-o-voine.ru
-  - DOMAIN-SUFFIX,protizer.ru
   - DOMAIN-SUFFIX,protonix.shengen.ru
   - DOMAIN-SUFFIX,prre.ru
   - DOMAIN-SUFFIX,pt0zhwhc26.ru
@@ -1353,7 +1353,6 @@ payload:
   - DOMAIN-SUFFIX,tradeleads.su
   - DOMAIN-SUFFIX,traff.ru
   - DOMAIN-SUFFIX,traffbiz.ru
-  - DOMAIN-SUFFIX,traffic.ru
   - DOMAIN-SUFFIX,trafficcost.ru
   - DOMAIN-SUFFIX,trafka.ru
   - DOMAIN-SUFFIX,trigub.ru

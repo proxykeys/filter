@@ -1782,6 +1782,8 @@
 ::1 netlog.ru
 0.0.0.0 neviju.netmonet.co
 ::1 neviju.netmonet.co
+0.0.0.0 new.traffic.ru
+::1 new.traffic.ru
 0.0.0.0 newms-shop.su
 ::1 newms-shop.su
 0.0.0.0 news.mirtesen.ru
@@ -2004,8 +2006,6 @@
 ::1 proppellerads.ru
 0.0.0.0 prostoimya.kino-o-voine.ru
 ::1 prostoimya.kino-o-voine.ru
-0.0.0.0 protizer.ru
-::1 protizer.ru
 0.0.0.0 protonix.shengen.ru
 ::1 protonix.shengen.ru
 0.0.0.0 prre.ru
@@ -2706,8 +2706,6 @@
 ::1 traff.ru
 0.0.0.0 traffbiz.ru
 ::1 traffbiz.ru
-0.0.0.0 traffic.ru
-::1 traffic.ru
 0.0.0.0 trafficcost.ru
 ::1 trafficcost.ru
 0.0.0.0 trafka.ru

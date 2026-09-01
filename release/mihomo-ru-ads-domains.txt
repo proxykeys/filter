@@ -965,6 +965,7 @@ DOMAIN-SUFFIX,piar-m.ru
 DOMAIN-SUFFIX,piper.amocrm.ru
 DOMAIN-SUFFIX,pir.zspb.ru
 DOMAIN-SUFFIX,pixel-cdp.sberhealth.ru
+DOMAIN-SUFFIX,pixel-frontend.avito.ru
 DOMAIN-SUFFIX,pixel-storage.konnektu.ru
 DOMAIN-SUFFIX,pixel.embed.su
 DOMAIN-SUFFIX,pixel.kodixauto.ru

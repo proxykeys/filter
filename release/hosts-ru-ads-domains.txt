@@ -1932,6 +1932,8 @@
 ::1 pir.zspb.ru
 0.0.0.0 pixel-cdp.sberhealth.ru
 ::1 pixel-cdp.sberhealth.ru
+0.0.0.0 pixel-frontend.avito.ru
+::1 pixel-frontend.avito.ru
 0.0.0.0 pixel-storage.konnektu.ru
 ::1 pixel-storage.konnektu.ru
 0.0.0.0 pixel.embed.su

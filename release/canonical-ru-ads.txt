@@ -965,6 +965,7 @@ domain:piar-m.ru
 domain:piper.amocrm.ru
 domain:pir.zspb.ru
 domain:pixel-cdp.sberhealth.ru
+domain:pixel-frontend.avito.ru
 domain:pixel-storage.konnektu.ru
 domain:pixel.embed.su
 domain:pixel.kodixauto.ru

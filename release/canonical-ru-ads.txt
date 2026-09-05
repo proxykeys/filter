@@ -119,6 +119,7 @@ domain:adrock.ru
 domain:adrun.ru
 domain:ads-gdl.imovideo.ru
 domain:ads-lot.ru
+domain:ads-m.rustore.ru
 domain:ads-t.ru
 domain:ads.211.ru
 domain:ads.adfox.ru

@@ -240,6 +240,8 @@
 ::1 ads-gdl.imovideo.ru
 0.0.0.0 ads-lot.ru
 ::1 ads-lot.ru
+0.0.0.0 ads-m.rustore.ru
+::1 ads-m.rustore.ru
 0.0.0.0 ads-t.ru
 ::1 ads-t.ru
 0.0.0.0 ads.211.ru

@@ -1175,6 +1175,7 @@ domain:snsv.ru
 domain:sobolev.net.ru
 domain:socgate.ru
 domain:softlinkers.popunder.ru
+domain:sogu.tripster.ru
 domain:solodar.ru
 domain:soloqmyl.tefcold.ru
 domain:soma-store.visa-usa.ru
@@ -1526,6 +1527,7 @@ domain:xvjnwf.deagostini.ru
 domain:xycgec.theoutlet.ru
 domain:y8lsyibocd.ru
 domain:yadro.ru
+domain:yads.tech
 domain:yandexadexchange.net
 domain:yandexmetrica.com
 domain:yatr.ru

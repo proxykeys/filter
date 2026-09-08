@@ -2352,6 +2352,8 @@
 ::1 socgate.ru
 0.0.0.0 softlinkers.popunder.ru
 ::1 softlinkers.popunder.ru
+0.0.0.0 sogu.tripster.ru
+::1 sogu.tripster.ru
 0.0.0.0 solodar.ru
 ::1 solodar.ru
 0.0.0.0 soloqmyl.tefcold.ru
@@ -3054,6 +3056,8 @@
 ::1 y8lsyibocd.ru
 0.0.0.0 yadro.ru
 ::1 yadro.ru
+0.0.0.0 yads.tech
+::1 yads.tech
 0.0.0.0 yandexadexchange.net
 ::1 yandexadexchange.net
 0.0.0.0 yandexmetrica.com

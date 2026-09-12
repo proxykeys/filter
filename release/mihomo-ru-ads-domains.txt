@@ -566,6 +566,7 @@ DOMAIN-SUFFIX,geofamily.ru
 DOMAIN-SUFFIX,get-ads.ru
 DOMAIN-SUFFIX,get-click.ru
 DOMAIN-SUFFIX,get4click.ru
+DOMAIN-SUFFIX,getads.ru
 DOMAIN-SUFFIX,getandgo.ru
 DOMAIN-SUFFIX,getb.7ya.ru
 DOMAIN-SUFFIX,getfon.ru

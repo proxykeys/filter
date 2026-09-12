@@ -566,6 +566,7 @@ domain:geofamily.ru
 domain:get-ads.ru
 domain:get-click.ru
 domain:get4click.ru
+domain:getads.ru
 domain:getandgo.ru
 domain:getb.7ya.ru
 domain:getfon.ru

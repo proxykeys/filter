@@ -1134,6 +1134,8 @@
 ::1 get-click.ru
 0.0.0.0 get4click.ru
 ::1 get4click.ru
+0.0.0.0 getads.ru
+::1 getads.ru
 0.0.0.0 getandgo.ru
 ::1 getandgo.ru
 0.0.0.0 getb.7ya.ru

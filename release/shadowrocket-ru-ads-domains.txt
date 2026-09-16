@@ -406,6 +406,7 @@ DOMAIN-SUFFIX,creara-media.ru
 DOMAIN-SUFFIX,credit-cards.shengen.ru
 DOMAIN-SUFFIX,crm-analytics.imweb.ru
 DOMAIN-SUFFIX,cs.avito.ru
+DOMAIN-SUFFIX,cs.ifedata.ru
 DOMAIN-SUFFIX,cs44.pikabu.ru
 DOMAIN-SUFFIX,cshi.ru
 DOMAIN-SUFFIX,csp.yandex.net
@@ -925,6 +926,7 @@ DOMAIN-SUFFIX,okr.sbdv.ru
 DOMAIN-SUFFIX,omieuz.razer.ru
 DOMAIN-SUFFIX,onelead.ru
 DOMAIN-SUFFIX,onemontay.ru
+DOMAIN-SUFFIX,onetarget.ru
 DOMAIN-SUFFIX,onfeed.ru
 DOMAIN-SUFFIX,online-casino.shengen.ru
 DOMAIN-SUFFIX,online-forex.hut1.ru
@@ -940,6 +942,7 @@ DOMAIN-SUFFIX,oufuqh.kant.ru
 DOMAIN-SUFFIX,out.pladform.ru
 DOMAIN-SUFFIX,owebmoney.ru
 DOMAIN-SUFFIX,p.altergeo.ru
+DOMAIN-SUFFIX,p.food.ru
 DOMAIN-SUFFIX,p.netork.ru
 DOMAIN-SUFFIX,par.moyslovar.ru
 DOMAIN-SUFFIX,parabit.ru
@@ -1155,6 +1158,7 @@ DOMAIN-SUFFIX,sl-h-statistics-ch-1.storeland.ru
 DOMAIN-SUFFIX,slefle.tvoydom.ru
 DOMAIN-SUFFIX,sm-ini.ru
 DOMAIN-SUFFIX,smartbn.ru
+DOMAIN-SUFFIX,smartcallback.ru
 DOMAIN-SUFFIX,smetric.volkswagen-commercial.ru
 DOMAIN-SUFFIX,smetric.volkswagen.ru
 DOMAIN-SUFFIX,smetrics.americanairlines.com.ru
@@ -1183,6 +1187,7 @@ DOMAIN-SUFFIX,soma-store.visa-usa.ru
 DOMAIN-SUFFIX,sopr-api.cian.ru
 DOMAIN-SUFFIX,sp.aviasales.com
 DOMAIN-SUFFIX,sp.aviasales.ru
+DOMAIN-SUFFIX,sp.linkssp.ru
 DOMAIN-SUFFIX,sp9hb5jy81iw.ru
 DOMAIN-SUFFIX,spitter.pauk.ru
 DOMAIN-SUFFIX,spmyma.moscowfresh.ru

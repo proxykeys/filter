@@ -814,6 +814,8 @@
 ::1 crm-analytics.imweb.ru
 0.0.0.0 cs.avito.ru
 ::1 cs.avito.ru
+0.0.0.0 cs.ifedata.ru
+::1 cs.ifedata.ru
 0.0.0.0 cs44.pikabu.ru
 ::1 cs44.pikabu.ru
 0.0.0.0 cshi.ru
@@ -1852,6 +1854,8 @@
 ::1 onelead.ru
 0.0.0.0 onemontay.ru
 ::1 onemontay.ru
+0.0.0.0 onetarget.ru
+::1 onetarget.ru
 0.0.0.0 onfeed.ru
 ::1 onfeed.ru
 0.0.0.0 online-casino.shengen.ru
@@ -1882,6 +1886,8 @@
 ::1 owebmoney.ru
 0.0.0.0 p.altergeo.ru
 ::1 p.altergeo.ru
+0.0.0.0 p.food.ru
+::1 p.food.ru
 0.0.0.0 p.netork.ru
 ::1 p.netork.ru
 0.0.0.0 par.moyslovar.ru
@@ -2312,6 +2318,8 @@
 ::1 sm-ini.ru
 0.0.0.0 smartbn.ru
 ::1 smartbn.ru
+0.0.0.0 smartcallback.ru
+::1 smartcallback.ru
 0.0.0.0 smetric.volkswagen-commercial.ru
 ::1 smetric.volkswagen-commercial.ru
 0.0.0.0 smetric.volkswagen.ru
@@ -2368,6 +2376,8 @@
 ::1 sp.aviasales.com
 0.0.0.0 sp.aviasales.ru
 ::1 sp.aviasales.ru
+0.0.0.0 sp.linkssp.ru
+::1 sp.linkssp.ru
 0.0.0.0 sp9hb5jy81iw.ru
 ::1 sp9hb5jy81iw.ru
 0.0.0.0 spitter.pauk.ru

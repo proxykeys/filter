@@ -406,6 +406,7 @@
 ||credit-cards.shengen.ru^
 ||crm-analytics.imweb.ru^
 ||cs.avito.ru^
+||cs.ifedata.ru^
 ||cs44.pikabu.ru^
 ||cshi.ru^
 ||csp.yandex.net^
@@ -925,6 +926,7 @@
 ||omieuz.razer.ru^
 ||onelead.ru^
 ||onemontay.ru^
+||onetarget.ru^
 ||onfeed.ru^
 ||online-casino.shengen.ru^
 ||online-forex.hut1.ru^
@@ -940,6 +942,7 @@
 ||out.pladform.ru^
 ||owebmoney.ru^
 ||p.altergeo.ru^
+||p.food.ru^
 ||p.netork.ru^
 ||par.moyslovar.ru^
 ||parabit.ru^
@@ -1155,6 +1158,7 @@
 ||slefle.tvoydom.ru^
 ||sm-ini.ru^
 ||smartbn.ru^
+||smartcallback.ru^
 ||smetric.volkswagen-commercial.ru^
 ||smetric.volkswagen.ru^
 ||smetrics.americanairlines.com.ru^
@@ -1183,6 +1187,7 @@
 ||sopr-api.cian.ru^
 ||sp.aviasales.com^
 ||sp.aviasales.ru^
+||sp.linkssp.ru^
 ||sp9hb5jy81iw.ru^
 ||spitter.pauk.ru^
 ||spmyma.moscowfresh.ru^

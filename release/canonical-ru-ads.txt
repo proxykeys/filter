@@ -406,6 +406,7 @@ domain:creara-media.ru
 domain:credit-cards.shengen.ru
 domain:crm-analytics.imweb.ru
 domain:cs.avito.ru
+domain:cs.ifedata.ru
 domain:cs44.pikabu.ru
 domain:cshi.ru
 domain:csp.yandex.net
@@ -925,6 +926,7 @@ domain:okr.sbdv.ru
 domain:omieuz.razer.ru
 domain:onelead.ru
 domain:onemontay.ru
+domain:onetarget.ru
 domain:onfeed.ru
 domain:online-casino.shengen.ru
 domain:online-forex.hut1.ru
@@ -940,6 +942,7 @@ domain:oufuqh.kant.ru
 domain:out.pladform.ru
 domain:owebmoney.ru
 domain:p.altergeo.ru
+domain:p.food.ru
 domain:p.netork.ru
 domain:par.moyslovar.ru
 domain:parabit.ru
@@ -1155,6 +1158,7 @@ domain:sl-h-statistics-ch-1.storeland.ru
 domain:slefle.tvoydom.ru
 domain:sm-ini.ru
 domain:smartbn.ru
+domain:smartcallback.ru
 domain:smetric.volkswagen-commercial.ru
 domain:smetric.volkswagen.ru
 domain:smetrics.americanairlines.com.ru
@@ -1183,6 +1187,7 @@ domain:soma-store.visa-usa.ru
 domain:sopr-api.cian.ru
 domain:sp.aviasales.com
 domain:sp.aviasales.ru
+domain:sp.linkssp.ru
 domain:sp9hb5jy81iw.ru
 domain:spitter.pauk.ru
 domain:spmyma.moscowfresh.ru

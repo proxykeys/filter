@@ -195,6 +195,7 @@ payload:
   - DOMAIN-SUFFIX,an.webvisor.org
   - DOMAIN-SUFFIX,an.yandex.ru
   - DOMAIN-SUFFIX,analytics.74.ru
+  - DOMAIN-SUFFIX,analytics.click-or-die.ru
   - DOMAIN-SUFFIX,analytics.cn.ru
   - DOMAIN-SUFFIX,analytics.dns-shop.ru
   - DOMAIN-SUFFIX,analytics.e1.ru
@@ -507,6 +508,7 @@ payload:
   - DOMAIN-SUFFIX,event.chitai-gorod.ru
   - DOMAIN-SUFFIX,event.playground.ru
   - DOMAIN-SUFFIX,event.tradedealer.ru
+  - DOMAIN-SUFFIX,eventlog.setka.ru
   - DOMAIN-SUFFIX,events-collector-dataplatform.action-media.ru
   - DOMAIN-SUFFIX,events.auth.gid.ru
   - DOMAIN-SUFFIX,events.cardsmobile.ru

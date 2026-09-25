@@ -194,6 +194,7 @@ domain:an.mail.ru
 domain:an.webvisor.org
 domain:an.yandex.ru
 domain:analytics.74.ru
+domain:analytics.click-or-die.ru
 domain:analytics.cn.ru
 domain:analytics.dns-shop.ru
 domain:analytics.e1.ru
@@ -506,6 +507,7 @@ domain:event-storage.netmonet.co
 domain:event.chitai-gorod.ru
 domain:event.playground.ru
 domain:event.tradedealer.ru
+domain:eventlog.setka.ru
 domain:events-collector-dataplatform.action-media.ru
 domain:events.auth.gid.ru
 domain:events.cardsmobile.ru

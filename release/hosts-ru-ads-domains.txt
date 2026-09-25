@@ -390,6 +390,8 @@
 ::1 an.yandex.ru
 0.0.0.0 analytics.74.ru
 ::1 analytics.74.ru
+0.0.0.0 analytics.click-or-die.ru
+::1 analytics.click-or-die.ru
 0.0.0.0 analytics.cn.ru
 ::1 analytics.cn.ru
 0.0.0.0 analytics.dns-shop.ru
@@ -1014,6 +1016,8 @@
 ::1 event.playground.ru
 0.0.0.0 event.tradedealer.ru
 ::1 event.tradedealer.ru
+0.0.0.0 eventlog.setka.ru
+::1 eventlog.setka.ru
 0.0.0.0 events-collector-dataplatform.action-media.ru
 ::1 events-collector-dataplatform.action-media.ru
 0.0.0.0 events.auth.gid.ru

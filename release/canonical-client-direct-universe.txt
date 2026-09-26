@@ -603,6 +603,7 @@ domain:slavicstar.com
 domain:slc.tl
 domain:smailru.net
 domain:smartmed.pro
+domain:smena.cafe
 domain:smotreshka.tv
 domain:sn-esp.site
 domain:sokolov.io

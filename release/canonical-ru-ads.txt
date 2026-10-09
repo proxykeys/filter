@@ -179,7 +179,6 @@ domain:alfainternet.su
 domain:alfatarget.ru
 domain:aliadvert.ru
 domain:all-sex.shengen.ru
-domain:alloy-web.zvuk.com
 domain:allstat-pp.ru
 domain:alltizer.ru
 domain:alpari.ru
@@ -1297,7 +1296,6 @@ domain:techms-shop.su
 domain:teeser.ru
 domain:telecid.ru
 domain:telemetry.dzen.ru
-domain:telemetry.jivosite.com
 domain:teletarget.ru
 domain:test-studio.ru
 domain:test.besstidniki.ru

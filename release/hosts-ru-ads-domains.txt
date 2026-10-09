@@ -360,8 +360,6 @@
 ::1 aliadvert.ru
 0.0.0.0 all-sex.shengen.ru
 ::1 all-sex.shengen.ru
-0.0.0.0 alloy-web.zvuk.com
-::1 alloy-web.zvuk.com
 0.0.0.0 allstat-pp.ru
 ::1 allstat-pp.ru
 0.0.0.0 alltizer.ru
@@ -2596,8 +2594,6 @@
 ::1 telecid.ru
 0.0.0.0 telemetry.dzen.ru
 ::1 telemetry.dzen.ru
-0.0.0.0 telemetry.jivosite.com
-::1 telemetry.jivosite.com
 0.0.0.0 teletarget.ru
 ::1 teletarget.ru
 0.0.0.0 test-studio.ru

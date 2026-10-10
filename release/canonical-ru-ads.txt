@@ -38,9 +38,7 @@ domain:a.kupibilet.ru
 domain:a.mt.ru
 domain:a.mts.ru
 domain:a.rb-ya.ru
-domain:a.resr.ru
 domain:a.ria.ru
-domain:a.ridd.ru
 domain:a.rutube.ru
 domain:a.sdska.ru
 domain:a.ucoz.net
@@ -424,7 +422,6 @@ domain:daast.digitalbox.ru
 domain:dab.rus-km.ru
 domain:danilidi.ru
 domain:darkandlight.ru
-domain:dashboard.boostads.ru
 domain:data-aae7bdcec6.autoscout24.ru
 domain:data-b7d0b4217b.autoscout24.ru
 domain:data.neosmi.ru
@@ -496,7 +493,6 @@ domain:epnredirect.ru
 domain:eqmx04n5s0.ru
 domain:eroksen.ru
 domain:error.videonow.ru
-domain:esofco.gsmbutik.ru
 domain:et-code.ru
 domain:etarg.ru
 domain:etgsdg.ogogo.ru
@@ -962,7 +958,6 @@ domain:pcads.ru
 domain:peixtn.beautydiscount.ru
 domain:people-group.su
 domain:pfconm.koleso.ru
-domain:pgeaka.istanbulhomes.ru
 domain:pharmacy.hut1.ru
 domain:phentermine.shengen.ru
 domain:phone-calling-card.exnet.su
@@ -1244,7 +1239,6 @@ domain:stats.otbivnoe.ru
 domain:stats.rustore.ru
 domain:stats.tiffany.com.ru
 domain:stats.travelask.ru
-domain:stats.vdsnow.ru
 domain:stats.vk-portal.net
 domain:stats2.videonow.ru
 domain:stbid.ru
@@ -1491,15 +1485,12 @@ domain:wwgate.ru
 domain:wwokkf.laredoute.ru
 domain:wwpon365.ru
 domain:www-banner.chat.ru
-domain:www.5738.ru
 domain:www.ad-words.ru
-domain:www.allworldinfo5.ru
 domain:www.armolipid.com.ru
 domain:www.be4life.ru
 domain:www.fasder12.ru
 domain:www.iskustvenny-intellekt.ru
 domain:www.mir-stalkera.ru
-domain:www.rbdomain.ru
 domain:www.rbp1.ru
 domain:www.rbp2.ru
 domain:www.rbp3.ru

@@ -78,12 +78,8 @@
 ::1 a.mts.ru
 0.0.0.0 a.rb-ya.ru
 ::1 a.rb-ya.ru
-0.0.0.0 a.resr.ru
-::1 a.resr.ru
 0.0.0.0 a.ria.ru
 ::1 a.ria.ru
-0.0.0.0 a.ridd.ru
-::1 a.ridd.ru
 0.0.0.0 a.rutube.ru
 ::1 a.rutube.ru
 0.0.0.0 a.sdska.ru
@@ -850,8 +846,6 @@
 ::1 danilidi.ru
 0.0.0.0 darkandlight.ru
 ::1 darkandlight.ru
-0.0.0.0 dashboard.boostads.ru
-::1 dashboard.boostads.ru
 0.0.0.0 data-aae7bdcec6.autoscout24.ru
 ::1 data-aae7bdcec6.autoscout24.ru
 0.0.0.0 data-b7d0b4217b.autoscout24.ru
@@ -994,8 +988,6 @@
 ::1 eroksen.ru
 0.0.0.0 error.videonow.ru
 ::1 error.videonow.ru
-0.0.0.0 esofco.gsmbutik.ru
-::1 esofco.gsmbutik.ru
 0.0.0.0 et-code.ru
 ::1 et-code.ru
 0.0.0.0 etarg.ru
@@ -1926,8 +1918,6 @@
 ::1 people-group.su
 0.0.0.0 pfconm.koleso.ru
 ::1 pfconm.koleso.ru
-0.0.0.0 pgeaka.istanbulhomes.ru
-::1 pgeaka.istanbulhomes.ru
 0.0.0.0 pharmacy.hut1.ru
 ::1 pharmacy.hut1.ru
 0.0.0.0 phentermine.shengen.ru
@@ -2490,8 +2480,6 @@
 ::1 stats.tiffany.com.ru
 0.0.0.0 stats.travelask.ru
 ::1 stats.travelask.ru
-0.0.0.0 stats.vdsnow.ru
-::1 stats.vdsnow.ru
 0.0.0.0 stats.vk-portal.net
 ::1 stats.vk-portal.net
 0.0.0.0 stats2.videonow.ru
@@ -2984,12 +2972,8 @@
 ::1 wwpon365.ru
 0.0.0.0 www-banner.chat.ru
 ::1 www-banner.chat.ru
-0.0.0.0 www.5738.ru
-::1 www.5738.ru
 0.0.0.0 www.ad-words.ru
 ::1 www.ad-words.ru
-0.0.0.0 www.allworldinfo5.ru
-::1 www.allworldinfo5.ru
 0.0.0.0 www.armolipid.com.ru
 ::1 www.armolipid.com.ru
 0.0.0.0 www.be4life.ru
@@ -3000,8 +2984,6 @@
 ::1 www.iskustvenny-intellekt.ru
 0.0.0.0 www.mir-stalkera.ru
 ::1 www.mir-stalkera.ru
-0.0.0.0 www.rbdomain.ru
-::1 www.rbdomain.ru
 0.0.0.0 www.rbp1.ru
 ::1 www.rbp1.ru
 0.0.0.0 www.rbp2.ru

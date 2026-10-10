@@ -38,9 +38,7 @@
 ||a.mt.ru^
 ||a.mts.ru^
 ||a.rb-ya.ru^
-||a.resr.ru^
 ||a.ria.ru^
-||a.ridd.ru^
 ||a.rutube.ru^
 ||a.sdska.ru^
 ||a.ucoz.net^
@@ -424,7 +422,6 @@
 ||dab.rus-km.ru^
 ||danilidi.ru^
 ||darkandlight.ru^
-||dashboard.boostads.ru^
 ||data-aae7bdcec6.autoscout24.ru^
 ||data-b7d0b4217b.autoscout24.ru^
 ||data.neosmi.ru^
@@ -496,7 +493,6 @@
 ||eqmx04n5s0.ru^
 ||eroksen.ru^
 ||error.videonow.ru^
-||esofco.gsmbutik.ru^
 ||et-code.ru^
 ||etarg.ru^
 ||etgsdg.ogogo.ru^
@@ -962,7 +958,6 @@
 ||peixtn.beautydiscount.ru^
 ||people-group.su^
 ||pfconm.koleso.ru^
-||pgeaka.istanbulhomes.ru^
 ||pharmacy.hut1.ru^
 ||phentermine.shengen.ru^
 ||phone-calling-card.exnet.su^
@@ -1244,7 +1239,6 @@
 ||stats.rustore.ru^
 ||stats.tiffany.com.ru^
 ||stats.travelask.ru^
-||stats.vdsnow.ru^
 ||stats.vk-portal.net^
 ||stats2.videonow.ru^
 ||stbid.ru^
@@ -1491,15 +1485,12 @@
 ||wwokkf.laredoute.ru^
 ||wwpon365.ru^
 ||www-banner.chat.ru^
-||www.5738.ru^
 ||www.ad-words.ru^
-||www.allworldinfo5.ru^
 ||www.armolipid.com.ru^
 ||www.be4life.ru^
 ||www.fasder12.ru^
 ||www.iskustvenny-intellekt.ru^
 ||www.mir-stalkera.ru^
-||www.rbdomain.ru^
 ||www.rbp1.ru^
 ||www.rbp2.ru^
 ||www.rbp3.ru^

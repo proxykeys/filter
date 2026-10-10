@@ -38,9 +38,7 @@ DOMAIN-SUFFIX,a.kupibilet.ru
 DOMAIN-SUFFIX,a.mt.ru
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,a.rb-ya.ru
-DOMAIN-SUFFIX,a.resr.ru
 DOMAIN-SUFFIX,a.ria.ru
-DOMAIN-SUFFIX,a.ridd.ru
 DOMAIN-SUFFIX,a.rutube.ru
 DOMAIN-SUFFIX,a.sdska.ru
 DOMAIN-SUFFIX,a.ucoz.net
@@ -424,7 +422,6 @@ DOMAIN-SUFFIX,daast.digitalbox.ru
 DOMAIN-SUFFIX,dab.rus-km.ru
 DOMAIN-SUFFIX,danilidi.ru
 DOMAIN-SUFFIX,darkandlight.ru
-DOMAIN-SUFFIX,dashboard.boostads.ru
 DOMAIN-SUFFIX,data-aae7bdcec6.autoscout24.ru
 DOMAIN-SUFFIX,data-b7d0b4217b.autoscout24.ru
 DOMAIN-SUFFIX,data.neosmi.ru
@@ -496,7 +493,6 @@ DOMAIN-SUFFIX,epnredirect.ru
 DOMAIN-SUFFIX,eqmx04n5s0.ru
 DOMAIN-SUFFIX,eroksen.ru
 DOMAIN-SUFFIX,error.videonow.ru
-DOMAIN-SUFFIX,esofco.gsmbutik.ru
 DOMAIN-SUFFIX,et-code.ru
 DOMAIN-SUFFIX,etarg.ru
 DOMAIN-SUFFIX,etgsdg.ogogo.ru
@@ -962,7 +958,6 @@ DOMAIN-SUFFIX,pcads.ru
 DOMAIN-SUFFIX,peixtn.beautydiscount.ru
 DOMAIN-SUFFIX,people-group.su
 DOMAIN-SUFFIX,pfconm.koleso.ru
-DOMAIN-SUFFIX,pgeaka.istanbulhomes.ru
 DOMAIN-SUFFIX,pharmacy.hut1.ru
 DOMAIN-SUFFIX,phentermine.shengen.ru
 DOMAIN-SUFFIX,phone-calling-card.exnet.su
@@ -1244,7 +1239,6 @@ DOMAIN-SUFFIX,stats.otbivnoe.ru
 DOMAIN-SUFFIX,stats.rustore.ru
 DOMAIN-SUFFIX,stats.tiffany.com.ru
 DOMAIN-SUFFIX,stats.travelask.ru
-DOMAIN-SUFFIX,stats.vdsnow.ru
 DOMAIN-SUFFIX,stats.vk-portal.net
 DOMAIN-SUFFIX,stats2.videonow.ru
 DOMAIN-SUFFIX,stbid.ru
@@ -1491,15 +1485,12 @@ DOMAIN-SUFFIX,wwgate.ru
 DOMAIN-SUFFIX,wwokkf.laredoute.ru
 DOMAIN-SUFFIX,wwpon365.ru
 DOMAIN-SUFFIX,www-banner.chat.ru
-DOMAIN-SUFFIX,www.5738.ru
 DOMAIN-SUFFIX,www.ad-words.ru
-DOMAIN-SUFFIX,www.allworldinfo5.ru
 DOMAIN-SUFFIX,www.armolipid.com.ru
 DOMAIN-SUFFIX,www.be4life.ru
 DOMAIN-SUFFIX,www.fasder12.ru
 DOMAIN-SUFFIX,www.iskustvenny-intellekt.ru
 DOMAIN-SUFFIX,www.mir-stalkera.ru
-DOMAIN-SUFFIX,www.rbdomain.ru
 DOMAIN-SUFFIX,www.rbp1.ru
 DOMAIN-SUFFIX,www.rbp2.ru
 DOMAIN-SUFFIX,www.rbp3.ru

@@ -1,0 +1,89 @@
+! discogs.com
+discogs.com###release-videos
+discogs.com###audio
+discogs.com##.dismissable_cHxzg.banner_PJv3H
+
+! hh.ru
+hh.ru###bottom-cookies-policy-informer
+
+! 15 дек. 2024 г. https://www.ozon.ru
+www.ozon.ru##.r0
+
+! macosicons.com
+macosicons.com##.Box
+macosicons.com##.coral-card.mobile-hidden.card-hover.card-wrapper.sticky-banner
+
+! 6 янв. 2025 г. https://appstorrent.ru
+appstorrent.ru###cookie_modal
+
+! 8 февр. 2025 г. https://www.perplexity.ai
+www.perplexity.ai##.bg-transparent.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.pb-sm.px-md
+www.perplexity.ai##.items-stretch.h-14
+www.perplexity.ai##.gap-sm.mt-lg.grid-rows-2.grid-cols-6.grid
+
+! 8 февр. 2025 г. https://chat.deepseek.com
+chat.deepseek.com##.a1e75851
+
+! 9 февр. 2025 г. https://chatgpt.com
+chatgpt.com##.dark\:border-white\/20.empty\:hidden.py-2.flex-col.flex
+
+! 9 февр. 2025 г. https://claude.ai
+claude.ai##.md\:overflow-ellipsis.md\:overflow-hidden.max-md\:break-words.max-md\:line-clamp-2.align-middle.max-w-full.inline-block
+claude.ai##.border-border-300.to-bg-500\/5.from-bg-500\/15.sm\:text-sm.sm\:static.text-xs.text-center.pr-3.pl-3\.5.py-2.bg-gradient-to-b.rounded-full.gap-1\.5.items-center.inline-flex.ml-0\.5.top-3\.5.right-2.absolute.border-0\.5.font-tiempos
+
+! 25 нояб. 2024 г. https://fonts.ninja
+fonts.ninja##.css-q424cy
+
+! 11 февр. 2025 г. https://dzen.ru
+dzen.ru##.content--trap-popup__popup-3i
+
+! 3 мая 2025 г. https://openrouter.ai
+openrouter.ai##.fade-in.animate-in.shadow-lg.border.bg-background.py-4.px-6.gap-4.flex-col.flex.sm\:rounded-lg.sm\:max-w-xl.sm\:right-4.sm\:bottom-4.z-50.bottom-0.w-full.fixed.duration-200
+
+! 31 мая 2025 г. https://online.sberbank.ru
+online.sberbank.ru##.a_PdZRTtMeuSPYa3kT24
+
+! 2 июн. 2025 г. https://hostkey.ru
+hostkey.ru##.cookie__block-wrapper.cookie-block
+
+! 4 окт. 2025 г. https://gearspace.com
+gearspace.com##.Campaign__bravoLayer.idalia-c-bravo.brbwAg.StyledBackgroundWrapper__BackgroundWrapper-sc-4136c0-0
+gearspace.com###thread__sidebar
+
+! 23 дек. 2025 г. https://habr.com
+habr.com##.banner-slider > .container
+
+! 16 апр. 2026 г. https://alternativeto.net
+alternativeto.net##.mt-10
+alternativeto.net##h2.Heading-module-scss-module__br2CUG__center.Heading-module-scss-module__br2CUG__h1:nth-of-type(1)
+alternativeto.net##.rounded-2xl.xl\:px-3\.5.px-2.py-3.gap-2\.5.items-center.flex.relative
+
+! 1 июл. 2026 г. https://web.alfabank.ru
+web.alfabank.ru##.jemhN
+web.alfabank.ru##.WYxyk
+web.alfabank.ru##.qV_dn.snKXA
+
+! 27 июл. 2026 г. https://web.alfabank.ru
+web.alfabank.ru##.RzHcR.PJG5K
+web.alfabank.ru##.cGK38
+web.alfabank.ru##.Egacw
+
+! 29 июл. 2026 г. https://web.alfabank.ru
+web.alfabank.ru##.ijZPL.u6t6P.MsGiV.HwUbf
+
+! 6 февр. 2026 г. https://ip.sb
+ip.sb##div:nth-of-type(3)
+
+! 15 апр. 2026 г. https://my.serv.host
+my.serv.host##.isp-layout__block_expand_vertical.isp-layout__block.isp-layout_expand_vertical.isp-layout.isp-grid > div
+
+! 25 мар. 2026 г. https://yandex.com
+yandex.com##.services-y5kpPiA_y4k5EgqeL_yes.services-y5kpPiA
+
+! 1 окт. 2026 г. https://mail.yandex.ru
+mail.yandex.ru##.Orb-Button-Content
+mail.yandex.ru##.NeuroexpertButton-m__betaContainer--ZgGfH
+mail.yandex.ru##.lsXphLGWZ7YCS7EET37WV2xA.liWArN3Ko7YCL5F1swrOG
+
+! 2 окт. 2026 г. https://mail.yandex.ru
+mail.yandex.ru##.orleP6mRkuccRGIK8Uz8IPRM.olk3F8XNVuccIEJ7DTjkb

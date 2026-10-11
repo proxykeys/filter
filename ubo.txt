@@ -2,6 +2,7 @@
 discogs.com###release-videos
 discogs.com###audio
 discogs.com##.dismissable_cHxzg.banner_PJv3H
+www.discogs.com###esi-footer-root
 
 ! hh.ru
 hh.ru###bottom-cookies-policy-informer

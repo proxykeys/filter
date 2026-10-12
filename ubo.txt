@@ -91,3 +91,13 @@ mail.yandex.ru##.htWNgZ6zD4om19g-portal
 
 ! 11 окт. 2026 г. https://www.kinopoisk.ru
 www.kinopoisk.ru##.styles_higher__ZHzqF.styles_corner__24pUk.styles_body__9xukb
+
+! убрать принудительный попап "Get the app"
+www.reddit.com###app-upsell-blocking-bottom-sheet-direct
+www.reddit.com###app-upsell-blocking-bottom-sheet-seo
+www.reddit.com##.rpl-bottom-sheet
+
+! разблокировать прокрутку
+www.reddit.com##+js(rc, rpl-scroll-lock|scroll-is-blocked, html, stay)
+www.reddit.com##+js(rc, rpl-scroll-lock|scroll-is-blocked, body, stay)
+www.reddit.com##+js(aeld, touchmove, preventDefault)

@@ -101,3 +101,19 @@ www.reddit.com##.rpl-bottom-sheet
 www.reddit.com##+js(rc, rpl-scroll-lock|scroll-is-blocked, html, stay)
 www.reddit.com##+js(rc, rpl-scroll-lock|scroll-is-blocked, body, stay)
 www.reddit.com##+js(aeld, touchmove, preventDefault)
+
+! --- Reddit: дополнения к нагу 2026 ---
+! универсальный атрибутный вариант: не зависит от тега хоста,
+! поймает переименования shreddit-async-loader -> что угодно
+reddit.com##[data-module-id^="xpromo"]
+reddit.com##[data-module-id^="flex-app"]
+! топ-баннер "Open in app" в mobile web (старые варианты)
+www.reddit.com##xpromo-top-button
+www.reddit.com##xpromo-bottom-cell
+! затемнение-подложка под шитом (если шит скрыт, а вуаль осталась)
+www.reddit.com##.rpl-overlay
+
+! --- Reddit: old.reddit (если сидишь на нём с телефона) ---
+old.reddit.com##.listingsignupbar
+old.reddit.com##.desktop-onboarding__show
+

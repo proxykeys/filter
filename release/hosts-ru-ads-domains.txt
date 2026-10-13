@@ -658,6 +658,8 @@
 ::1 c153yb4hps.ru
 0.0.0.0 c1i.su
 ::1 c1i.su
+0.0.0.0 caivyt.urgaps.ru
+::1 caivyt.urgaps.ru
 0.0.0.0 camadmin.ru
 ::1 camadmin.ru
 0.0.0.0 car-donation.shengen.ru
@@ -676,6 +678,8 @@
 ::1 cc.calltracking.ru
 0.0.0.0 ccs.north-kazakhstan.su
 ::1 ccs.north-kazakhstan.su
+0.0.0.0 cdgjcg.novostroy-spb.ru
+::1 cdgjcg.novostroy-spb.ru
 0.0.0.0 cdn-rum.ngenix.net
 ::1 cdn-rum.ngenix.net
 0.0.0.0 cdn.ddmanager.ru
@@ -1144,6 +1148,8 @@
 ::1 getyoursoft.ru
 0.0.0.0 gigamega.ru
 ::1 gigamega.ru
+0.0.0.0 girini.ligadivanov.ru
+::1 girini.ligadivanov.ru
 0.0.0.0 gjhkyh.4fresh.ru
 ::1 gjhkyh.4fresh.ru
 0.0.0.0 gjv7fg.ru
@@ -1380,6 +1386,8 @@
 ::1 jitsu.ixbt.site
 0.0.0.0 jitsu.www1.ru
 ::1 jitsu.www1.ru
+0.0.0.0 jluqqr.pechilux.ru
+::1 jluqqr.pechilux.ru
 0.0.0.0 jordan.qunis.ru
 ::1 jordan.qunis.ru
 0.0.0.0 journal-bt.wildberries.ru
@@ -1400,6 +1408,8 @@
 ::1 jvs.price.ru
 0.0.0.0 jwmhqs.fsk.ru
 ::1 jwmhqs.fsk.ru
+0.0.0.0 jxreqj.agentprovocateur.ru
+::1 jxreqj.agentprovocateur.ru
 0.0.0.0 k.laredoute.ru
 ::1 k.laredoute.ru
 0.0.0.0 k50.ru
@@ -1430,12 +1440,16 @@
 ::1 kosibablo.ucoz.ua
 0.0.0.0 kplusd.far.ru
 ::1 kplusd.far.ru
+0.0.0.0 kpoils.igooods.ru
+::1 kpoils.igooods.ru
 0.0.0.0 kq6lwk3m9g.ru
 ::1 kq6lwk3m9g.ru
 0.0.0.0 kqkydl.postel-deluxe.ru
 ::1 kqkydl.postel-deluxe.ru
 0.0.0.0 kqmhog.tbmmarket.ru
 ::1 kqmhog.tbmmarket.ru
+0.0.0.0 kqyyds.redkassa.ru
+::1 kqyyds.redkassa.ru
 0.0.0.0 kraken.rambler.ru
 ::1 kraken.rambler.ru
 0.0.0.0 krolikplatit.ru
@@ -1884,8 +1898,6 @@
 ::1 p.food.ru
 0.0.0.0 p.netork.ru
 ::1 p.netork.ru
-0.0.0.0 par.moyslovar.ru
-::1 par.moyslovar.ru
 0.0.0.0 parabit.ru
 ::1 parabit.ru
 0.0.0.0 paradocs.ru
@@ -1988,6 +2000,8 @@
 ::1 prhhqo.vintagevoyage.ru
 0.0.0.0 primechoice.ru
 ::1 primechoice.ru
+0.0.0.0 prkhda.ezakaz.ru
+::1 prkhda.ezakaz.ru
 0.0.0.0 pro100news.ru
 ::1 pro100news.ru
 0.0.0.0 prod.html5-ads.vk-apps.com
@@ -2124,6 +2138,8 @@
 ::1 redsquare.rambler.ru
 0.0.0.0 redsurf.ru
 ::1 redsurf.ru
+0.0.0.0 redtrack.thecapsula.ru
+::1 redtrack.thecapsula.ru
 0.0.0.0 refer.ru
 ::1 refer.ru
 0.0.0.0 refinance.shengen.ru
@@ -2396,8 +2412,6 @@
 ::1 ssc.mtv.ru
 0.0.0.0 ssp.rutube.ru
 ::1 ssp.rutube.ru
-0.0.0.0 sstats.seat.ru
-::1 sstats.seat.ru
 0.0.0.0 st.film.ru
 ::1 st.film.ru
 0.0.0.0 st.top100.ru

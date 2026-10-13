@@ -329,6 +329,7 @@ payload:
   - DOMAIN-SUFFIX,c1.prmonline.ru
   - DOMAIN-SUFFIX,c153yb4hps.ru
   - DOMAIN-SUFFIX,c1i.su
+  - DOMAIN-SUFFIX,caivyt.urgaps.ru
   - DOMAIN-SUFFIX,camadmin.ru
   - DOMAIN-SUFFIX,car-donation.shengen.ru
   - DOMAIN-SUFFIX,car-loan.shengen.ru
@@ -338,6 +339,7 @@ payload:
   - DOMAIN-SUFFIX,catsnetwork.ru
   - DOMAIN-SUFFIX,cc.calltracking.ru
   - DOMAIN-SUFFIX,ccs.north-kazakhstan.su
+  - DOMAIN-SUFFIX,cdgjcg.novostroy-spb.ru
   - DOMAIN-SUFFIX,cdn-rum.ngenix.net
   - DOMAIN-SUFFIX,cdn.ddmanager.ru
   - DOMAIN-SUFFIX,cdn.gpmdata.ru
@@ -572,6 +574,7 @@ payload:
   - DOMAIN-SUFFIX,gethit.ru
   - DOMAIN-SUFFIX,getyoursoft.ru
   - DOMAIN-SUFFIX,gigamega.ru
+  - DOMAIN-SUFFIX,girini.ligadivanov.ru
   - DOMAIN-SUFFIX,gjhkyh.4fresh.ru
   - DOMAIN-SUFFIX,gjv7fg.ru
   - DOMAIN-SUFFIX,gk7qlc.ru
@@ -690,6 +693,7 @@ payload:
   - DOMAIN-SUFFIX,jitsu.ixbt.games
   - DOMAIN-SUFFIX,jitsu.ixbt.site
   - DOMAIN-SUFFIX,jitsu.www1.ru
+  - DOMAIN-SUFFIX,jluqqr.pechilux.ru
   - DOMAIN-SUFFIX,jordan.qunis.ru
   - DOMAIN-SUFFIX,journal-bt.wildberries.ru
   - DOMAIN-SUFFIX,jpfvoo.refro.ru
@@ -700,6 +704,7 @@ payload:
   - DOMAIN-SUFFIX,jux9ms4vc7.ru
   - DOMAIN-SUFFIX,jvs.price.ru
   - DOMAIN-SUFFIX,jwmhqs.fsk.ru
+  - DOMAIN-SUFFIX,jxreqj.agentprovocateur.ru
   - DOMAIN-SUFFIX,k.laredoute.ru
   - DOMAIN-SUFFIX,k50.ru
   - DOMAIN-SUFFIX,kadam.ru
@@ -715,9 +720,11 @@ payload:
   - DOMAIN-SUFFIX,knzqjr.pult.ru
   - DOMAIN-SUFFIX,kosibablo.ucoz.ua
   - DOMAIN-SUFFIX,kplusd.far.ru
+  - DOMAIN-SUFFIX,kpoils.igooods.ru
   - DOMAIN-SUFFIX,kq6lwk3m9g.ru
   - DOMAIN-SUFFIX,kqkydl.postel-deluxe.ru
   - DOMAIN-SUFFIX,kqmhog.tbmmarket.ru
+  - DOMAIN-SUFFIX,kqyyds.redkassa.ru
   - DOMAIN-SUFFIX,kraken.rambler.ru
   - DOMAIN-SUFFIX,krolikplatit.ru
   - DOMAIN-SUFFIX,krytilka.ru
@@ -942,7 +949,6 @@ payload:
   - DOMAIN-SUFFIX,p.altergeo.ru
   - DOMAIN-SUFFIX,p.food.ru
   - DOMAIN-SUFFIX,p.netork.ru
-  - DOMAIN-SUFFIX,par.moyslovar.ru
   - DOMAIN-SUFFIX,parabit.ru
   - DOMAIN-SUFFIX,paradocs.ru
   - DOMAIN-SUFFIX,pardompus.ru
@@ -994,6 +1000,7 @@ payload:
   - DOMAIN-SUFFIX,pressms.ru
   - DOMAIN-SUFFIX,prhhqo.vintagevoyage.ru
   - DOMAIN-SUFFIX,primechoice.ru
+  - DOMAIN-SUFFIX,prkhda.ezakaz.ru
   - DOMAIN-SUFFIX,pro100news.ru
   - DOMAIN-SUFFIX,prod.html5-ads.vk-apps.com
   - DOMAIN-SUFFIX,prodalet.ru
@@ -1062,6 +1069,7 @@ payload:
   - DOMAIN-SUFFIX,redflu.ru
   - DOMAIN-SUFFIX,redsquare.rambler.ru
   - DOMAIN-SUFFIX,redsurf.ru
+  - DOMAIN-SUFFIX,redtrack.thecapsula.ru
   - DOMAIN-SUFFIX,refer.ru
   - DOMAIN-SUFFIX,refinance.shengen.ru
   - DOMAIN-SUFFIX,regionads.ru
@@ -1198,7 +1206,6 @@ payload:
   - DOMAIN-SUFFIX,ss.samolet.ru
   - DOMAIN-SUFFIX,ssc.mtv.ru
   - DOMAIN-SUFFIX,ssp.rutube.ru
-  - DOMAIN-SUFFIX,sstats.seat.ru
   - DOMAIN-SUFFIX,st.film.ru
   - DOMAIN-SUFFIX,st.top100.ru
   - DOMAIN-SUFFIX,start.fotostrana.ru

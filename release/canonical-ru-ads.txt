@@ -328,6 +328,7 @@ domain:c1.politexpert.ru
 domain:c1.prmonline.ru
 domain:c153yb4hps.ru
 domain:c1i.su
+domain:caivyt.urgaps.ru
 domain:camadmin.ru
 domain:car-donation.shengen.ru
 domain:car-loan.shengen.ru
@@ -337,6 +338,7 @@ domain:cashprom.ru
 domain:catsnetwork.ru
 domain:cc.calltracking.ru
 domain:ccs.north-kazakhstan.su
+domain:cdgjcg.novostroy-spb.ru
 domain:cdn-rum.ngenix.net
 domain:cdn.ddmanager.ru
 domain:cdn.gpmdata.ru
@@ -571,6 +573,7 @@ domain:getfon.ru
 domain:gethit.ru
 domain:getyoursoft.ru
 domain:gigamega.ru
+domain:girini.ligadivanov.ru
 domain:gjhkyh.4fresh.ru
 domain:gjv7fg.ru
 domain:gk7qlc.ru
@@ -689,6 +692,7 @@ domain:jitsu.ixbt.com
 domain:jitsu.ixbt.games
 domain:jitsu.ixbt.site
 domain:jitsu.www1.ru
+domain:jluqqr.pechilux.ru
 domain:jordan.qunis.ru
 domain:journal-bt.wildberries.ru
 domain:jpfvoo.refro.ru
@@ -699,6 +703,7 @@ domain:juste.ru
 domain:jux9ms4vc7.ru
 domain:jvs.price.ru
 domain:jwmhqs.fsk.ru
+domain:jxreqj.agentprovocateur.ru
 domain:k.laredoute.ru
 domain:k50.ru
 domain:kadam.ru
@@ -714,9 +719,11 @@ domain:kmindex.ru
 domain:knzqjr.pult.ru
 domain:kosibablo.ucoz.ua
 domain:kplusd.far.ru
+domain:kpoils.igooods.ru
 domain:kq6lwk3m9g.ru
 domain:kqkydl.postel-deluxe.ru
 domain:kqmhog.tbmmarket.ru
+domain:kqyyds.redkassa.ru
 domain:kraken.rambler.ru
 domain:krolikplatit.ru
 domain:krytilka.ru
@@ -941,7 +948,6 @@ domain:owebmoney.ru
 domain:p.altergeo.ru
 domain:p.food.ru
 domain:p.netork.ru
-domain:par.moyslovar.ru
 domain:parabit.ru
 domain:paradocs.ru
 domain:pardompus.ru
@@ -993,6 +999,7 @@ domain:prescription-drugs.shengen.ru
 domain:pressms.ru
 domain:prhhqo.vintagevoyage.ru
 domain:primechoice.ru
+domain:prkhda.ezakaz.ru
 domain:pro100news.ru
 domain:prod.html5-ads.vk-apps.com
 domain:prodalet.ru
@@ -1061,6 +1068,7 @@ domain:redclick.ru
 domain:redflu.ru
 domain:redsquare.rambler.ru
 domain:redsurf.ru
+domain:redtrack.thecapsula.ru
 domain:refer.ru
 domain:refinance.shengen.ru
 domain:regionads.ru
@@ -1197,7 +1205,6 @@ domain:sqcmgr.nils.ru
 domain:ss.samolet.ru
 domain:ssc.mtv.ru
 domain:ssp.rutube.ru
-domain:sstats.seat.ru
 domain:st.film.ru
 domain:st.top100.ru
 domain:start.fotostrana.ru

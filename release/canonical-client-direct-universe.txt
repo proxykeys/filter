@@ -1,10 +1,23 @@
 domain:1917live.red
 domain:24h.tv
+domain:2gis.ae
+domain:2gis.am
+domain:2gis.az
+domain:2gis.by
 domain:2gis.com
+domain:2gis.com.cy
+domain:2gis.cz
+domain:2gis.ge
+domain:2gis.kg
+domain:2gis.kz
+domain:2gis.tech
+domain:2gis.tj
+domain:2gis.uz
 domain:3ebra.net
 domain:4epenaxa.com
 domain:5post.market
 domain:a.mts.ru:@ads
+domain:accesspoint.uz
 domain:acmvid.com
 domain:actualidad-rt.com
 domain:ad.mail.ru:@ads
@@ -84,6 +97,7 @@ domain:cian.site
 domain:ciciq.net
 domain:clck.yandex.ru:@ads
 domain:clickstream.sberbank.ru:@ads
+domain:cloudru.cn
 domain:clstorage.net
 domain:cm.expert
 domain:codeseason.by
@@ -142,6 +156,7 @@ domain:eadaily.com
 domain:eadaily.info
 domain:eadaily.net
 domain:eadaily.org
+domain:eaptechka.online
 domain:edu22.info
 domain:eligens.cl
 domain:eligens.com.br
@@ -195,6 +210,7 @@ domain:genotek.es
 domain:genotek.eu
 domain:genotek.health
 domain:gerwin.io
+domain:getsynapse.io
 domain:gib-global.com
 domain:gib.sg
 domain:gibdev.net
@@ -280,6 +296,18 @@ domain:ixbt.shop
 domain:ixbt.site
 domain:ixbt.video
 domain:jinrieluosi.cn
+domain:jivo.chat
+domain:jivochat.co.in
+domain:jivochat.co.za
+domain:jivochat.com
+domain:jivochat.com.br
+domain:jivochat.com.co
+domain:jivochat.com.pe
+domain:jivochat.com.tr
+domain:jivochat.de
+domain:jivochat.es
+domain:jivochat.ng
+domain:jivosite.com
 domain:jump.taxi
 domain:justveryok.com
 domain:kaspersky-labs.com
@@ -342,6 +370,7 @@ domain:mcs.st
 domain:medsi.com
 domain:medsi.pro
 domain:megafon.com
+domain:megamarket.tech
 domain:mel.fm
 domain:memealerts.com
 domain:meteofor.com
@@ -383,6 +412,7 @@ domain:myoffice.team
 domain:mytopf.com
 domain:mytrk.link
 domain:naydex.net
+domain:neon.click:@ads
 domain:netcraze.club
 domain:netcraze.link
 domain:netcraze.pro
@@ -549,7 +579,12 @@ domain:sage-observability.tech
 domain:salute.ai
 domain:sayeasy.eu
 domain:sber-bank.by
+domain:sber.pro
+domain:sberauto.com
+domain:sberbank-tele.com
 domain:sberbank.com
+domain:sbercloud.tech
+domain:sbermarketing.ru:@ads
 domain:seclab.lat
 domain:selcdn.net
 domain:selectel.academy
@@ -856,6 +891,8 @@ domain:ydb.tech
 domain:yndx.net
 domain:youla.io
 domain:yourgood.app
+domain:zvuk-b2b.com
+domain:zvuk.com
 full:1l-hit.mail.ru:@ads
 full:1l-hit.vkplay.ru:@ads
 full:activate.activation-v2.kaspersky.com:@cn
@@ -952,6 +989,7 @@ full:dnl-17.geo.kaspersky.com:@cn
 full:dnl-18.geo.kaspersky.com:@cn
 full:dnl-19.geo.kaspersky.com:@cn
 full:edge.geo.kaspersky.com:@cn
+full:error-tracking.megamarket.tech:@ads
 full:google-analytics-suite.ozon.ru:@ads
 full:informer.yandex.ru:@ads
 full:ksn-cinfo-geo.kaspersky-labs.com:@cn
@@ -986,6 +1024,7 @@ full:mc.yandex.com:@ads
 full:mc.yandex.net:@ads
 full:mc.yango.com:@ads
 full:mdr.ksn.kaspersky-labs.com:@cn
+full:metrics.21-school.ru:@ads
 full:metrika.kontur.ru:@ads
 full:mvideo.edna.io
 full:new-adv.ozon.ru:@ads
@@ -1049,6 +1088,7 @@ full:sentry.mindbox.ru:@ads
 full:sentry.ozon.ru:@ads
 full:sentry.popmechanic.ru:@ads
 full:sentry.rustore.ru:@ads
+full:sentry.sberauto.com:@ads
 full:sentry.viqeo.tv:@ads
 full:sentry.wb.ru:@ads
 full:sentry.x5.ru:@ads
@@ -1063,6 +1103,7 @@ full:stats.vk-portal.net:@ads
 full:t.mail.ru:@ads
 full:target.vk.com:@ads
 full:top-staging.mail.ru:@ads
+full:tracing-http.megamarket.tech:@ads
 full:visor.sberbank.ru:@ads
 full:web-analytics.wildberries.ru:@ads
 full:whiteline.mail.ru:@ads

@@ -656,6 +656,8 @@ domain:tildacdn.com
 domain:tildacdn.net
 domain:timeweb.cloud
 domain:timeweb.com
+domain:timeweb.tech
+domain:timewebcloud.kz
 domain:tinkoff-group.com
 domain:tinkoff.ai
 domain:tinkoffmobile.com

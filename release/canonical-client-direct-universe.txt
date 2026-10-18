@@ -69,7 +69,14 @@ domain:bank131.com
 domain:baranky.com
 domain:bargipsy.com
 domain:beeline.tv
+domain:beget.app
+domain:beget.cloud
 domain:beget.com
+domain:beget.de
+domain:beget.hosting
+domain:beget.pro
+domain:beget.tech
+domain:begetcdn.cloud
 domain:best2pay.net
 domain:bizmrg.com
 domain:bk6bba-resources.com
@@ -616,6 +623,7 @@ domain:sokolov.io
 domain:sourcecraft.dev
 domain:spasibo.digital
 domain:spasibo.market
+domain:sprut.io
 domain:sputnikglobe.com
 domain:sputnikimages.com
 domain:sputnikmediabank.com

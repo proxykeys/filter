@@ -40,6 +40,7 @@ domain:alfa.me
 domain:alfabank.st
 domain:algoritmika.org
 domain:alt-ad.mail.ru:@ads
+domain:amt-insurance.com
 domain:an.yandex.ru:@ads
 domain:analytics.vk.com:@ads
 domain:antiphishing.nl
@@ -97,6 +98,7 @@ domain:cdek.shopping
 domain:cdn-vk.net
 domain:cdnvideohub.com
 domain:cert-gib.com
+domain:chat2desk.com
 domain:checkip.amazonaws.com
 domain:chipcore.com
 domain:chizhik.club
@@ -365,6 +367,7 @@ domain:koshelek.app
 domain:ktech.team
 domain:lenta.com
 domain:lenta.tech
+domain:lexgarant.com
 domain:log.dzen.ru:@ads
 domain:lovina.app
 domain:magnit.com
@@ -503,6 +506,7 @@ domain:reaviz.com
 domain:reg.cloud
 domain:reg.com
 domain:relap.mail.ru:@ads
+domain:renins.com
 domain:reso-med.com
 domain:restream-media.net
 domain:robotext.io

@@ -386,6 +386,8 @@
 ::1 an.yandex.ru
 0.0.0.0 analytics.74.ru
 ::1 analytics.74.ru
+0.0.0.0 analytics.bitrix.info
+::1 analytics.bitrix.info
 0.0.0.0 analytics.click-or-die.ru
 ::1 analytics.click-or-die.ru
 0.0.0.0 analytics.cn.ru

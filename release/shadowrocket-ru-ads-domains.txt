@@ -192,6 +192,7 @@ DOMAIN-SUFFIX,an.mail.ru
 DOMAIN-SUFFIX,an.webvisor.org
 DOMAIN-SUFFIX,an.yandex.ru
 DOMAIN-SUFFIX,analytics.74.ru
+DOMAIN-SUFFIX,analytics.bitrix.info
 DOMAIN-SUFFIX,analytics.click-or-die.ru
 DOMAIN-SUFFIX,analytics.cn.ru
 DOMAIN-SUFFIX,analytics.dns-shop.ru

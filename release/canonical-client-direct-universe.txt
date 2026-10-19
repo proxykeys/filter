@@ -79,6 +79,13 @@ domain:beget.pro
 domain:beget.tech
 domain:begetcdn.cloud
 domain:best2pay.net
+domain:bitrix.info
+domain:bitrix24.com
+domain:bitrix24.net
+domain:bitrix24.tech
+domain:bitrix24public.com
+domain:bitrixphone.com
+domain:bitrixsoft.com
 domain:bizmrg.com
 domain:bk6bba-resources.com
 domain:book1917.live
@@ -317,6 +324,7 @@ domain:jivochat.de
 domain:jivochat.es
 domain:jivochat.ng
 domain:jivosite.com
+domain:joyreactor.cc
 domain:jump.taxi
 domain:justveryok.com
 domain:kaspersky-labs.com
@@ -364,6 +372,7 @@ domain:kontur-inc.com
 domain:kontur.host
 domain:koronapay.com
 domain:koshelek.app
+domain:ktalk.host
 domain:ktech.team
 domain:lenta.com
 domain:lenta.tech
@@ -482,6 +491,7 @@ domain:pobeda.page
 domain:polza.ai
 domain:popmechanic.io
 domain:poudobnee.com
+domain:pravmir.com
 domain:premier.one
 domain:premiumlive.site
 domain:priovtb.com
@@ -509,6 +519,7 @@ domain:relap.mail.ru:@ads
 domain:renins.com
 domain:reso-med.com
 domain:restream-media.net
+domain:robohall.tech
 domain:robotext.io
 domain:rocketozon.by
 domain:roistat.com:@ads
@@ -1006,6 +1017,8 @@ full:edge.geo.kaspersky.com:@cn
 full:error-tracking.megamarket.tech:@ads
 full:google-analytics-suite.ozon.ru:@ads
 full:informer.yandex.ru:@ads
+full:kp-config-smart-tv.akamaized.net
+full:kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 full:ksn-cinfo-geo.kaspersky-labs.com:@cn
 full:ksn-cinfo.geoksn.kaspersky.com:@cn
 full:ksn-crypto-info-geo.kaspersky-labs.com:@cn

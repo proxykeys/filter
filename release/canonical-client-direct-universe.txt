@@ -674,6 +674,8 @@ domain:tdev.by
 domain:tehnodom.com
 domain:telega.info
 domain:telega.me
+domain:terratraf.com:@ads
+domain:terratraf.io:@ads
 domain:tilda.cc
 domain:tilda.ws
 domain:tildaapi.com

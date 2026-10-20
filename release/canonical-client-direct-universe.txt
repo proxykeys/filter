@@ -255,6 +255,7 @@ domain:groupib.us
 domain:gw2ru.com
 domain:haicomdc.com
 domain:hayya.ae
+domain:hellodoc.app
 domain:hh.by
 domain:hh.kz
 domain:home.bank
@@ -386,6 +387,7 @@ domain:maritimebank.com
 domain:mc.yandex.ru:@ads
 domain:mcc250.pub.3gppnetwork.org
 domain:mcs.st
+domain:medrocket.me
 domain:medsi.com
 domain:medsi.pro
 domain:megafon.com

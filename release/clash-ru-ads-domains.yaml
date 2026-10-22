@@ -189,6 +189,7 @@ payload:
   - DOMAIN-SUFFIX,amc.yandex.ru
   - DOMAIN-SUFFIX,amnsreiuojy.ru
   - DOMAIN-SUFFIX,an.avast.ru
+  - DOMAIN-SUFFIX,an.b37mrtl.ru
   - DOMAIN-SUFFIX,an.mail.ru
   - DOMAIN-SUFFIX,an.webvisor.org
   - DOMAIN-SUFFIX,an.yandex.ru
@@ -1241,7 +1242,9 @@ payload:
   - DOMAIN-SUFFIX,statpipe.ru
   - DOMAIN-SUFFIX,stats.avito.ru
   - DOMAIN-SUFFIX,stats.bunkr.ru
+  - DOMAIN-SUFFIX,stats.cratco.ru
   - DOMAIN-SUFFIX,stats.gastronom.ru
+  - DOMAIN-SUFFIX,stats.getleadq.ru
   - DOMAIN-SUFFIX,stats.kod.ru
   - DOMAIN-SUFFIX,stats.lptracker.ru
   - DOMAIN-SUFFIX,stats.mos.ru
@@ -1549,6 +1552,7 @@ payload:
   - DOMAIN-SUFFIX,ytbnfd.fandeco.ru
   - DOMAIN-SUFFIX,ywfycv.baby-products.ru
   - DOMAIN-SUFFIX,z3.skdfoiqwjelmdkfser.ru
+  - DOMAIN-SUFFIX,zaimlytics.ru
   - DOMAIN-SUFFIX,zapbox.ru
   - DOMAIN-SUFFIX,zarabotki.ru
   - DOMAIN-SUFFIX,zbs.etodomendlyareklamy.ru

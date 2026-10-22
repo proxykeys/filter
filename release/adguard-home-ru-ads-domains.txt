@@ -188,6 +188,7 @@
 ||amc.yandex.ru^
 ||amnsreiuojy.ru^
 ||an.avast.ru^
+||an.b37mrtl.ru^
 ||an.mail.ru^
 ||an.webvisor.org^
 ||an.yandex.ru^
@@ -1240,7 +1241,9 @@
 ||statpipe.ru^
 ||stats.avito.ru^
 ||stats.bunkr.ru^
+||stats.cratco.ru^
 ||stats.gastronom.ru^
+||stats.getleadq.ru^
 ||stats.kod.ru^
 ||stats.lptracker.ru^
 ||stats.mos.ru^
@@ -1548,6 +1551,7 @@
 ||ytbnfd.fandeco.ru^
 ||ywfycv.baby-products.ru^
 ||z3.skdfoiqwjelmdkfser.ru^
+||zaimlytics.ru^
 ||zapbox.ru^
 ||zarabotki.ru^
 ||zbs.etodomendlyareklamy.ru^

@@ -378,6 +378,8 @@
 ::1 amnsreiuojy.ru
 0.0.0.0 an.avast.ru
 ::1 an.avast.ru
+0.0.0.0 an.b37mrtl.ru
+::1 an.b37mrtl.ru
 0.0.0.0 an.mail.ru
 ::1 an.mail.ru
 0.0.0.0 an.webvisor.org
@@ -2482,8 +2484,12 @@
 ::1 stats.avito.ru
 0.0.0.0 stats.bunkr.ru
 ::1 stats.bunkr.ru
+0.0.0.0 stats.cratco.ru
+::1 stats.cratco.ru
 0.0.0.0 stats.gastronom.ru
 ::1 stats.gastronom.ru
+0.0.0.0 stats.getleadq.ru
+::1 stats.getleadq.ru
 0.0.0.0 stats.kod.ru
 ::1 stats.kod.ru
 0.0.0.0 stats.lptracker.ru
@@ -3098,6 +3104,8 @@
 ::1 ywfycv.baby-products.ru
 0.0.0.0 z3.skdfoiqwjelmdkfser.ru
 ::1 z3.skdfoiqwjelmdkfser.ru
+0.0.0.0 zaimlytics.ru
+::1 zaimlytics.ru
 0.0.0.0 zapbox.ru
 ::1 zapbox.ru
 0.0.0.0 zarabotki.ru

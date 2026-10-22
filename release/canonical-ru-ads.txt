@@ -188,6 +188,7 @@ domain:amazy.ru
 domain:amc.yandex.ru
 domain:amnsreiuojy.ru
 domain:an.avast.ru
+domain:an.b37mrtl.ru
 domain:an.mail.ru
 domain:an.webvisor.org
 domain:an.yandex.ru
@@ -1240,7 +1241,9 @@ domain:statistics.fppressa.ru
 domain:statpipe.ru
 domain:stats.avito.ru
 domain:stats.bunkr.ru
+domain:stats.cratco.ru
 domain:stats.gastronom.ru
+domain:stats.getleadq.ru
 domain:stats.kod.ru
 domain:stats.lptracker.ru
 domain:stats.mos.ru
@@ -1548,6 +1551,7 @@ domain:yourhlth.ru.com
 domain:ytbnfd.fandeco.ru
 domain:ywfycv.baby-products.ru
 domain:z3.skdfoiqwjelmdkfser.ru
+domain:zaimlytics.ru
 domain:zapbox.ru
 domain:zarabotki.ru
 domain:zbs.etodomendlyareklamy.ru

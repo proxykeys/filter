@@ -692,6 +692,8 @@
 ::1 cdn.ddmanager.ru
 0.0.0.0 cdn.gpmdata.ru
 ::1 cdn.gpmdata.ru
+0.0.0.0 cdn.medlandispania.ru
+::1 cdn.medlandispania.ru
 0.0.0.0 cdn.movieads.ru
 ::1 cdn.movieads.ru
 0.0.0.0 cerohj.loccitane.ru
@@ -754,6 +756,8 @@
 ::1 code.r5hsid.ru
 0.0.0.0 code.vihub.ru
 ::1 code.vihub.ru
+0.0.0.0 collect.calvinklein.ru
+::1 collect.calvinklein.ru
 0.0.0.0 com495.ru
 ::1 com495.ru
 0.0.0.0 compare.meteoservice.ru
@@ -830,6 +834,8 @@
 ::1 csp.yandex.net
 0.0.0.0 cszz.ru
 ::1 cszz.ru
+0.0.0.0 cueohf.forum2x2.ru
+::1 cueohf.forum2x2.ru
 0.0.0.0 culturaltracking.ru
 ::1 culturaltracking.ru
 0.0.0.0 cures.ru.com
@@ -840,6 +846,8 @@
 ::1 cvhefd.ixbt.com
 0.0.0.0 cvt1.sibnet.ru
 ::1 cvt1.sibnet.ru
+0.0.0.0 czruoh.rusprofile.ru
+::1 czruoh.rusprofile.ru
 0.0.0.0 d.wi-fi.ru
 ::1 d.wi-fi.ru
 0.0.0.0 d0main.ru
@@ -1064,6 +1072,8 @@
 ::1 fft.delovoemesto.ru
 0.0.0.0 ffzffn.satra.ru
 ::1 ffzffn.satra.ru
+0.0.0.0 fhfmyl.foulard.ru
+::1 fhfmyl.foulard.ru
 0.0.0.0 fhhzrq.regnum.ru
 ::1 fhhzrq.regnum.ru
 0.0.0.0 filmplus.ru
@@ -1214,6 +1224,8 @@
 ::1 gsmonitor.ru
 0.0.0.0 gss.skatepro.ru
 ::1 gss.skatepro.ru
+0.0.0.0 gtm.koleso.ru
+::1 gtm.koleso.ru
 0.0.0.0 gvapp.ru
 ::1 gvapp.ru
 0.0.0.0 gvdmkf.major-expert.ru
@@ -1414,6 +1426,8 @@
 ::1 jvs.price.ru
 0.0.0.0 jwmhqs.fsk.ru
 ::1 jwmhqs.fsk.ru
+0.0.0.0 jwnloc.pharmacosmetica.ru
+::1 jwnloc.pharmacosmetica.ru
 0.0.0.0 jxreqj.agentprovocateur.ru
 ::1 jxreqj.agentprovocateur.ru
 0.0.0.0 k.laredoute.ru
@@ -1536,8 +1550,6 @@
 ::1 livesurf.ru
 0.0.0.0 lk.vectoranalytics.ru
 ::1 lk.vectoranalytics.ru
-0.0.0.0 load.gtm.koleso.ru
-::1 load.gtm.koleso.ru
 0.0.0.0 loadmoney.ru
 ::1 loadmoney.ru
 0.0.0.0 loan.aol.msk.su
@@ -1748,6 +1760,8 @@
 ::1 msr.shalom-center.ru
 0.0.0.0 mtbflj.elementaree.ru
 ::1 mtbflj.elementaree.ru
+0.0.0.0 mtpwie.garagetools.ru
+::1 mtpwie.garagetools.ru
 0.0.0.0 multimedia-projector.katrina.ru
 ::1 multimedia-projector.katrina.ru
 0.0.0.0 multonly.ru

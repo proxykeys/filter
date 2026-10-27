@@ -346,6 +346,7 @@ payload:
   - DOMAIN-SUFFIX,cdn-rum.ngenix.net
   - DOMAIN-SUFFIX,cdn.ddmanager.ru
   - DOMAIN-SUFFIX,cdn.gpmdata.ru
+  - DOMAIN-SUFFIX,cdn.medlandispania.ru
   - DOMAIN-SUFFIX,cdn.movieads.ru
   - DOMAIN-SUFFIX,cerohj.loccitane.ru
   - DOMAIN-SUFFIX,cheap-adipex.hut1.ru
@@ -377,6 +378,7 @@ payload:
   - DOMAIN-SUFFIX,codata.ru
   - DOMAIN-SUFFIX,code.r5hsid.ru
   - DOMAIN-SUFFIX,code.vihub.ru
+  - DOMAIN-SUFFIX,collect.calvinklein.ru
   - DOMAIN-SUFFIX,com495.ru
   - DOMAIN-SUFFIX,compare.meteoservice.ru
   - DOMAIN-SUFFIX,contema.ru
@@ -415,11 +417,13 @@ payload:
   - DOMAIN-SUFFIX,cshi.ru
   - DOMAIN-SUFFIX,csp.yandex.net
   - DOMAIN-SUFFIX,cszz.ru
+  - DOMAIN-SUFFIX,cueohf.forum2x2.ru
   - DOMAIN-SUFFIX,culturaltracking.ru
   - DOMAIN-SUFFIX,cures.ru.com
   - DOMAIN-SUFFIX,cusok.ru
   - DOMAIN-SUFFIX,cvhefd.ixbt.com
   - DOMAIN-SUFFIX,cvt1.sibnet.ru
+  - DOMAIN-SUFFIX,czruoh.rusprofile.ru
   - DOMAIN-SUFFIX,d.wi-fi.ru
   - DOMAIN-SUFFIX,d0main.ru
   - DOMAIN-SUFFIX,d1tracker.ru
@@ -532,6 +536,7 @@ payload:
   - DOMAIN-SUFFIX,ff.astv.ru
   - DOMAIN-SUFFIX,fft.delovoemesto.ru
   - DOMAIN-SUFFIX,ffzffn.satra.ru
+  - DOMAIN-SUFFIX,fhfmyl.foulard.ru
   - DOMAIN-SUFFIX,fhhzrq.regnum.ru
   - DOMAIN-SUFFIX,filmplus.ru
   - DOMAIN-SUFFIX,firelove.ru
@@ -607,6 +612,7 @@ payload:
   - DOMAIN-SUFFIX,greeentea.ru
   - DOMAIN-SUFFIX,gsmonitor.ru
   - DOMAIN-SUFFIX,gss.skatepro.ru
+  - DOMAIN-SUFFIX,gtm.koleso.ru
   - DOMAIN-SUFFIX,gvapp.ru
   - DOMAIN-SUFFIX,gvdmkf.major-expert.ru
   - DOMAIN-SUFFIX,gvyyri.major-auto.ru
@@ -707,6 +713,7 @@ payload:
   - DOMAIN-SUFFIX,jux9ms4vc7.ru
   - DOMAIN-SUFFIX,jvs.price.ru
   - DOMAIN-SUFFIX,jwmhqs.fsk.ru
+  - DOMAIN-SUFFIX,jwnloc.pharmacosmetica.ru
   - DOMAIN-SUFFIX,jxreqj.agentprovocateur.ru
   - DOMAIN-SUFFIX,k.laredoute.ru
   - DOMAIN-SUFFIX,k50.ru
@@ -768,7 +775,6 @@ payload:
   - DOMAIN-SUFFIX,linkwmr.ru
   - DOMAIN-SUFFIX,livesurf.ru
   - DOMAIN-SUFFIX,lk.vectoranalytics.ru
-  - DOMAIN-SUFFIX,load.gtm.koleso.ru
   - DOMAIN-SUFFIX,loadmoney.ru
   - DOMAIN-SUFFIX,loan.aol.msk.su
   - DOMAIN-SUFFIX,log.dzen.ru
@@ -874,6 +880,7 @@ payload:
   - DOMAIN-SUFFIX,ms.yandex.ru
   - DOMAIN-SUFFIX,msr.shalom-center.ru
   - DOMAIN-SUFFIX,mtbflj.elementaree.ru
+  - DOMAIN-SUFFIX,mtpwie.garagetools.ru
   - DOMAIN-SUFFIX,multimedia-projector.katrina.ru
   - DOMAIN-SUFFIX,multonly.ru
   - DOMAIN-SUFFIX,musiccounter.ru

@@ -308,6 +308,7 @@ domain:icqvideo.com
 domain:ideco.dev
 domain:ifconfig.me
 domain:it-territory.com
+domain:ivi.tv
 domain:ivicdn.tv
 domain:ixbt.com
 domain:ixbt.games

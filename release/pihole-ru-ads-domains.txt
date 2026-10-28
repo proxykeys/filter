@@ -848,6 +848,7 @@ metrics.americanairlines.com.ru
 metrics.animagazin.ru
 metrics.aviasales.ru
 metrics.prom.third-party-app.sberdevices.ru
+metrics.selectel.ru
 metrics.viqeo.tv
 metricus.artlebedev.ru
 metrika.kontur.ru

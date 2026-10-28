@@ -849,6 +849,7 @@ payload:
   - DOMAIN-SUFFIX,metrics.animagazin.ru
   - DOMAIN-SUFFIX,metrics.aviasales.ru
   - DOMAIN-SUFFIX,metrics.prom.third-party-app.sberdevices.ru
+  - DOMAIN-SUFFIX,metrics.selectel.ru
   - DOMAIN-SUFFIX,metrics.viqeo.tv
   - DOMAIN-SUFFIX,metricus.artlebedev.ru
   - DOMAIN-SUFFIX,metrika.kontur.ru

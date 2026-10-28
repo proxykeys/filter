@@ -848,6 +848,7 @@ domain:metrics.americanairlines.com.ru
 domain:metrics.animagazin.ru
 domain:metrics.aviasales.ru
 domain:metrics.prom.third-party-app.sberdevices.ru
+domain:metrics.selectel.ru
 domain:metrics.viqeo.tv
 domain:metricus.artlebedev.ru
 domain:metrika.kontur.ru

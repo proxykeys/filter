@@ -1698,6 +1698,8 @@
 ::1 metrics.aviasales.ru
 0.0.0.0 metrics.prom.third-party-app.sberdevices.ru
 ::1 metrics.prom.third-party-app.sberdevices.ru
+0.0.0.0 metrics.selectel.ru
+::1 metrics.selectel.ru
 0.0.0.0 metrics.viqeo.tv
 ::1 metrics.viqeo.tv
 0.0.0.0 metricus.artlebedev.ru

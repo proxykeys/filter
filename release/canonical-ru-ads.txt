@@ -871,7 +871,6 @@ domain:moogle.ru
 domain:more-data.ru
 domain:moviead55.ru
 domain:mpsuadv.ru
-domain:mpuls.ru
 domain:mqldrm.lgcity.ru
 domain:ms-shopguide.su
 domain:ms-shopplus.su

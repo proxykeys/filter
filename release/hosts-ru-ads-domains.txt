@@ -1744,8 +1744,6 @@
 ::1 moviead55.ru
 0.0.0.0 mpsuadv.ru
 ::1 mpsuadv.ru
-0.0.0.0 mpuls.ru
-::1 mpuls.ru
 0.0.0.0 mqldrm.lgcity.ru
 ::1 mqldrm.lgcity.ru
 0.0.0.0 ms-shopguide.su

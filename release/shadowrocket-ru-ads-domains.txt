@@ -871,7 +871,6 @@ DOMAIN-SUFFIX,moogle.ru
 DOMAIN-SUFFIX,more-data.ru
 DOMAIN-SUFFIX,moviead55.ru
 DOMAIN-SUFFIX,mpsuadv.ru
-DOMAIN-SUFFIX,mpuls.ru
 DOMAIN-SUFFIX,mqldrm.lgcity.ru
 DOMAIN-SUFFIX,ms-shopguide.su
 DOMAIN-SUFFIX,ms-shopplus.su

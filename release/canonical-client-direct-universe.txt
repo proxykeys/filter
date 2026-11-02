@@ -926,6 +926,7 @@ domain:ydb.tech
 domain:yndx.net
 domain:youla.io
 domain:yourgood.app
+domain:zapishu.me
 domain:zvuk-b2b.com
 domain:zvuk.com
 full:1l-hit.mail.ru:@ads

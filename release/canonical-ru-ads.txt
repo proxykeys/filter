@@ -242,7 +242,6 @@ domain:axacqy.henderson.ru
 domain:axkcmb.mosigra.ru
 domain:aydtkb.pikabu.ru
 domain:aztwwe.satom.ru
-domain:azxaxh.eleven.ru
 domain:b.1istochnik.ru
 domain:b.ddestiny.ru
 domain:b.doloaqywbvq.ru
@@ -1007,7 +1006,6 @@ domain:pr.rusmed.ru
 domain:prbn.ru
 domain:prescription-drugs.shengen.ru
 domain:pressms.ru
-domain:prhhqo.vintagevoyage.ru
 domain:primechoice.ru
 domain:prkhda.ezakaz.ru
 domain:pro100news.ru
@@ -1105,7 +1103,6 @@ domain:rot.rusoul.ru
 domain:rot.spotsniper.ru
 domain:rotaban.ru
 domain:rotateme.ru
-domain:rott.mazlspqnn.ru
 domain:rtb-media.ru
 domain:rtb.com.ru
 domain:rtb.mts.ru
@@ -1159,6 +1156,7 @@ domain:sexgramm.ru
 domain:sgood.ru
 domain:sgtm.dubai-investments.ru
 domain:sgtm.ixbt.site
+domain:sgtm.kamensnab.ru
 domain:sgtm.kaspersky.de
 domain:sgtm.stihl.ru
 domain:shakeson.ru
@@ -1251,6 +1249,7 @@ domain:stats.bunkr.ru
 domain:stats.cratco.ru
 domain:stats.gastronom.ru
 domain:stats.getleadq.ru
+domain:stats.ifknow.ru
 domain:stats.kod.ru
 domain:stats.lptracker.ru
 domain:stats.mos.ru
@@ -1297,7 +1296,6 @@ domain:targetman.ru
 domain:targetseek.ru
 domain:tbe.tom.ru
 domain:tbex.ru
-domain:tbvmlx.funkydunky.ru
 domain:tccjxk.123.ru
 domain:tds.vrcteam.ru
 domain:teaser-goods.ru
@@ -1509,7 +1507,6 @@ domain:www.ad-words.ru
 domain:www.armolipid.com.ru
 domain:www.be4life.ru
 domain:www.fasder12.ru
-domain:www.iskustvenny-intellekt.ru
 domain:www.mir-stalkera.ru
 domain:www.rbp1.ru
 domain:www.rbp2.ru
@@ -1556,12 +1553,10 @@ domain:ymzu9eeo1y.ru
 domain:ynyy83za4i.ru
 domain:yourhlth.ru.com
 domain:ytbnfd.fandeco.ru
-domain:ywfycv.baby-products.ru
 domain:z3.skdfoiqwjelmdkfser.ru
 domain:zaimlytics.ru
 domain:zapbox.ru
 domain:zarabotki.ru
-domain:zbs.etodomendlyareklamy.ru
 domain:zbyynuew9g.ru
 domain:zgqgig.skillbox.ru
 domain:zlolhl.3dnews.ru

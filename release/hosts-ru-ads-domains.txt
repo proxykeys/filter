@@ -486,8 +486,6 @@
 ::1 aydtkb.pikabu.ru
 0.0.0.0 aztwwe.satom.ru
 ::1 aztwwe.satom.ru
-0.0.0.0 azxaxh.eleven.ru
-::1 azxaxh.eleven.ru
 0.0.0.0 b.1istochnik.ru
 ::1 b.1istochnik.ru
 0.0.0.0 b.ddestiny.ru
@@ -2016,8 +2014,6 @@
 ::1 prescription-drugs.shengen.ru
 0.0.0.0 pressms.ru
 ::1 pressms.ru
-0.0.0.0 prhhqo.vintagevoyage.ru
-::1 prhhqo.vintagevoyage.ru
 0.0.0.0 primechoice.ru
 ::1 primechoice.ru
 0.0.0.0 prkhda.ezakaz.ru
@@ -2212,8 +2208,6 @@
 ::1 rotaban.ru
 0.0.0.0 rotateme.ru
 ::1 rotateme.ru
-0.0.0.0 rott.mazlspqnn.ru
-::1 rott.mazlspqnn.ru
 0.0.0.0 rtb-media.ru
 ::1 rtb-media.ru
 0.0.0.0 rtb.com.ru
@@ -2320,6 +2314,8 @@
 ::1 sgtm.dubai-investments.ru
 0.0.0.0 sgtm.ixbt.site
 ::1 sgtm.ixbt.site
+0.0.0.0 sgtm.kamensnab.ru
+::1 sgtm.kamensnab.ru
 0.0.0.0 sgtm.kaspersky.de
 ::1 sgtm.kaspersky.de
 0.0.0.0 sgtm.stihl.ru
@@ -2504,6 +2500,8 @@
 ::1 stats.gastronom.ru
 0.0.0.0 stats.getleadq.ru
 ::1 stats.getleadq.ru
+0.0.0.0 stats.ifknow.ru
+::1 stats.ifknow.ru
 0.0.0.0 stats.kod.ru
 ::1 stats.kod.ru
 0.0.0.0 stats.lptracker.ru
@@ -2596,8 +2594,6 @@
 ::1 tbe.tom.ru
 0.0.0.0 tbex.ru
 ::1 tbex.ru
-0.0.0.0 tbvmlx.funkydunky.ru
-::1 tbvmlx.funkydunky.ru
 0.0.0.0 tccjxk.123.ru
 ::1 tccjxk.123.ru
 0.0.0.0 tds.vrcteam.ru
@@ -3020,8 +3016,6 @@
 ::1 www.be4life.ru
 0.0.0.0 www.fasder12.ru
 ::1 www.fasder12.ru
-0.0.0.0 www.iskustvenny-intellekt.ru
-::1 www.iskustvenny-intellekt.ru
 0.0.0.0 www.mir-stalkera.ru
 ::1 www.mir-stalkera.ru
 0.0.0.0 www.rbp1.ru
@@ -3114,8 +3108,6 @@
 ::1 yourhlth.ru.com
 0.0.0.0 ytbnfd.fandeco.ru
 ::1 ytbnfd.fandeco.ru
-0.0.0.0 ywfycv.baby-products.ru
-::1 ywfycv.baby-products.ru
 0.0.0.0 z3.skdfoiqwjelmdkfser.ru
 ::1 z3.skdfoiqwjelmdkfser.ru
 0.0.0.0 zaimlytics.ru
@@ -3124,8 +3116,6 @@
 ::1 zapbox.ru
 0.0.0.0 zarabotki.ru
 ::1 zarabotki.ru
-0.0.0.0 zbs.etodomendlyareklamy.ru
-::1 zbs.etodomendlyareklamy.ru
 0.0.0.0 zbyynuew9g.ru
 ::1 zbyynuew9g.ru
 0.0.0.0 zgqgig.skillbox.ru

@@ -242,7 +242,6 @@ DOMAIN-SUFFIX,axacqy.henderson.ru
 DOMAIN-SUFFIX,axkcmb.mosigra.ru
 DOMAIN-SUFFIX,aydtkb.pikabu.ru
 DOMAIN-SUFFIX,aztwwe.satom.ru
-DOMAIN-SUFFIX,azxaxh.eleven.ru
 DOMAIN-SUFFIX,b.1istochnik.ru
 DOMAIN-SUFFIX,b.ddestiny.ru
 DOMAIN-SUFFIX,b.doloaqywbvq.ru
@@ -1007,7 +1006,6 @@ DOMAIN-SUFFIX,pr.rusmed.ru
 DOMAIN-SUFFIX,prbn.ru
 DOMAIN-SUFFIX,prescription-drugs.shengen.ru
 DOMAIN-SUFFIX,pressms.ru
-DOMAIN-SUFFIX,prhhqo.vintagevoyage.ru
 DOMAIN-SUFFIX,primechoice.ru
 DOMAIN-SUFFIX,prkhda.ezakaz.ru
 DOMAIN-SUFFIX,pro100news.ru
@@ -1105,7 +1103,6 @@ DOMAIN-SUFFIX,rot.rusoul.ru
 DOMAIN-SUFFIX,rot.spotsniper.ru
 DOMAIN-SUFFIX,rotaban.ru
 DOMAIN-SUFFIX,rotateme.ru
-DOMAIN-SUFFIX,rott.mazlspqnn.ru
 DOMAIN-SUFFIX,rtb-media.ru
 DOMAIN-SUFFIX,rtb.com.ru
 DOMAIN-SUFFIX,rtb.mts.ru
@@ -1159,6 +1156,7 @@ DOMAIN-SUFFIX,sexgramm.ru
 DOMAIN-SUFFIX,sgood.ru
 DOMAIN-SUFFIX,sgtm.dubai-investments.ru
 DOMAIN-SUFFIX,sgtm.ixbt.site
+DOMAIN-SUFFIX,sgtm.kamensnab.ru
 DOMAIN-SUFFIX,sgtm.kaspersky.de
 DOMAIN-SUFFIX,sgtm.stihl.ru
 DOMAIN-SUFFIX,shakeson.ru
@@ -1251,6 +1249,7 @@ DOMAIN-SUFFIX,stats.bunkr.ru
 DOMAIN-SUFFIX,stats.cratco.ru
 DOMAIN-SUFFIX,stats.gastronom.ru
 DOMAIN-SUFFIX,stats.getleadq.ru
+DOMAIN-SUFFIX,stats.ifknow.ru
 DOMAIN-SUFFIX,stats.kod.ru
 DOMAIN-SUFFIX,stats.lptracker.ru
 DOMAIN-SUFFIX,stats.mos.ru
@@ -1297,7 +1296,6 @@ DOMAIN-SUFFIX,targetman.ru
 DOMAIN-SUFFIX,targetseek.ru
 DOMAIN-SUFFIX,tbe.tom.ru
 DOMAIN-SUFFIX,tbex.ru
-DOMAIN-SUFFIX,tbvmlx.funkydunky.ru
 DOMAIN-SUFFIX,tccjxk.123.ru
 DOMAIN-SUFFIX,tds.vrcteam.ru
 DOMAIN-SUFFIX,teaser-goods.ru
@@ -1509,7 +1507,6 @@ DOMAIN-SUFFIX,www.ad-words.ru
 DOMAIN-SUFFIX,www.armolipid.com.ru
 DOMAIN-SUFFIX,www.be4life.ru
 DOMAIN-SUFFIX,www.fasder12.ru
-DOMAIN-SUFFIX,www.iskustvenny-intellekt.ru
 DOMAIN-SUFFIX,www.mir-stalkera.ru
 DOMAIN-SUFFIX,www.rbp1.ru
 DOMAIN-SUFFIX,www.rbp2.ru
@@ -1556,12 +1553,10 @@ DOMAIN-SUFFIX,ymzu9eeo1y.ru
 DOMAIN-SUFFIX,ynyy83za4i.ru
 DOMAIN-SUFFIX,yourhlth.ru.com
 DOMAIN-SUFFIX,ytbnfd.fandeco.ru
-DOMAIN-SUFFIX,ywfycv.baby-products.ru
 DOMAIN-SUFFIX,z3.skdfoiqwjelmdkfser.ru
 DOMAIN-SUFFIX,zaimlytics.ru
 DOMAIN-SUFFIX,zapbox.ru
 DOMAIN-SUFFIX,zarabotki.ru
-DOMAIN-SUFFIX,zbs.etodomendlyareklamy.ru
 DOMAIN-SUFFIX,zbyynuew9g.ru
 DOMAIN-SUFFIX,zgqgig.skillbox.ru
 DOMAIN-SUFFIX,zlolhl.3dnews.ru

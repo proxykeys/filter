@@ -458,6 +458,8 @@
 ::1 asing.ru
 0.0.0.0 ask-gps.ru
 ::1 ask-gps.ru
+0.0.0.0 asttoxa.ru
+::1 asttoxa.ru
 0.0.0.0 ateveq.street-beat.ru
 ::1 ateveq.street-beat.ru
 0.0.0.0 atomictrivia.ru

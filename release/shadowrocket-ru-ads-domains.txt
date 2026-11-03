@@ -228,6 +228,7 @@ DOMAIN-SUFFIX,apteka-money.ru
 DOMAIN-SUFFIX,aqouep.aquaphor.ru
 DOMAIN-SUFFIX,asing.ru
 DOMAIN-SUFFIX,ask-gps.ru
+DOMAIN-SUFFIX,asttoxa.ru
 DOMAIN-SUFFIX,ateveq.street-beat.ru
 DOMAIN-SUFFIX,atomictrivia.ru
 DOMAIN-SUFFIX,atxslk.galamart.ru

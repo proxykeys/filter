@@ -378,6 +378,7 @@
 ||code.r5hsid.ru^
 ||code.vihub.ru^
 ||collect.calvinklein.ru^
+||collect.ubs.com^
 ||com495.ru^
 ||compare.meteoservice.ru^
 ||contema.ru^
@@ -952,7 +953,6 @@
 ||oqbimz.aviasales.ru^
 ||oriondigital.ru^
 ||otclick-adv.ru^
-||oufuqh.kant.ru^
 ||out.pladform.ru^
 ||owebmoney.ru^
 ||p.altergeo.ru^

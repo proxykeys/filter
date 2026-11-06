@@ -378,6 +378,7 @@ DOMAIN-SUFFIX,codata.ru
 DOMAIN-SUFFIX,code.r5hsid.ru
 DOMAIN-SUFFIX,code.vihub.ru
 DOMAIN-SUFFIX,collect.calvinklein.ru
+DOMAIN-SUFFIX,collect.ubs.com
 DOMAIN-SUFFIX,com495.ru
 DOMAIN-SUFFIX,compare.meteoservice.ru
 DOMAIN-SUFFIX,contema.ru
@@ -952,7 +953,6 @@ DOMAIN-SUFFIX,openssp.ru
 DOMAIN-SUFFIX,oqbimz.aviasales.ru
 DOMAIN-SUFFIX,oriondigital.ru
 DOMAIN-SUFFIX,otclick-adv.ru
-DOMAIN-SUFFIX,oufuqh.kant.ru
 DOMAIN-SUFFIX,out.pladform.ru
 DOMAIN-SUFFIX,owebmoney.ru
 DOMAIN-SUFFIX,p.altergeo.ru

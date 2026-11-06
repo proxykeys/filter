@@ -758,6 +758,8 @@
 ::1 code.vihub.ru
 0.0.0.0 collect.calvinklein.ru
 ::1 collect.calvinklein.ru
+0.0.0.0 collect.ubs.com
+::1 collect.ubs.com
 0.0.0.0 com495.ru
 ::1 com495.ru
 0.0.0.0 compare.meteoservice.ru
@@ -1906,8 +1908,6 @@
 ::1 oriondigital.ru
 0.0.0.0 otclick-adv.ru
 ::1 otclick-adv.ru
-0.0.0.0 oufuqh.kant.ru
-::1 oufuqh.kant.ru
 0.0.0.0 out.pladform.ru
 ::1 out.pladform.ru
 0.0.0.0 owebmoney.ru

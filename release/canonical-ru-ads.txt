@@ -378,6 +378,7 @@ domain:codata.ru
 domain:code.r5hsid.ru
 domain:code.vihub.ru
 domain:collect.calvinklein.ru
+domain:collect.ubs.com
 domain:com495.ru
 domain:compare.meteoservice.ru
 domain:contema.ru
@@ -952,7 +953,6 @@ domain:openssp.ru
 domain:oqbimz.aviasales.ru
 domain:oriondigital.ru
 domain:otclick-adv.ru
-domain:oufuqh.kant.ru
 domain:out.pladform.ru
 domain:owebmoney.ru
 domain:p.altergeo.ru

@@ -2874,6 +2874,8 @@
 ::1 viral-cdn.ru
 0.0.0.0 visor.sberbank.ru
 ::1 visor.sberbank.ru
+0.0.0.0 visor.sbrf.ru
+::1 visor.sbrf.ru
 0.0.0.0 vjmqdx.nozhikov.ru
 ::1 vjmqdx.nozhikov.ru
 0.0.0.0 vk-ads.ru

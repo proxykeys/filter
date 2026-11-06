@@ -1436,6 +1436,7 @@ domain:vimgs.ru
 domain:vira.ru
 domain:viral-cdn.ru
 domain:visor.sberbank.ru
+domain:visor.sbrf.ru
 domain:vjmqdx.nozhikov.ru
 domain:vk-ads.ru
 domain:vk-analytics.ru

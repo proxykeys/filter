@@ -468,6 +468,7 @@ domain:okolo.app
 domain:opennet.dev
 domain:oskelly.co
 domain:ostin.com
+domain:otzovik.com
 domain:ozon.app
 domain:ozon.by
 domain:ozon.com

@@ -295,7 +295,6 @@ DOMAIN-SUFFIX,bn.ohah.ru
 DOMAIN-SUFFIX,bn.orthodoxy.ru
 DOMAIN-SUFFIX,bolshoykush.ru
 DOMAIN-SUFFIX,bonuscake.ru
-DOMAIN-SUFFIX,boostcpm.su
 DOMAIN-SUFFIX,borzjournal.ru
 DOMAIN-SUFFIX,botdetector.ru
 DOMAIN-SUFFIX,botfaqtor.ru

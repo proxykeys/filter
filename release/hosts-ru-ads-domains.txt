@@ -592,8 +592,6 @@
 ::1 bolshoykush.ru
 0.0.0.0 bonuscake.ru
 ::1 bonuscake.ru
-0.0.0.0 boostcpm.su
-::1 boostcpm.su
 0.0.0.0 borzjournal.ru
 ::1 borzjournal.ru
 0.0.0.0 botdetector.ru

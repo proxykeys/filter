@@ -207,6 +207,7 @@ domain:analytics.move.ru
 domain:analytics.msk1.ru
 domain:analytics.ngs55.ru
 domain:analytics.rotapost.ru
+domain:analytics.saminformburo.ru
 domain:analytics.sberhealth.ru
 domain:analytics.sports.ru
 domain:analytics.sutochno.ru
@@ -1231,6 +1232,7 @@ domain:stat.radar.imgsmail.ru
 domain:stat.rare.ru
 domain:stat.rum.cdnvideo.ru
 domain:stat.ruvr.ru
+domain:stat.skolkobrat.ru
 domain:stat.sputnik.ru
 domain:stat.tildacdn.com
 domain:stat.tvigle.ru
@@ -1244,6 +1246,7 @@ domain:static.terrhq.ru
 domain:statics1.tceru134gsur.ru
 domain:statistics.fppressa.ru
 domain:statpipe.ru
+domain:stats.anileda-lada.ru
 domain:stats.avito.ru
 domain:stats.bunkr.ru
 domain:stats.cratco.ru
@@ -1251,10 +1254,12 @@ domain:stats.gastronom.ru
 domain:stats.getleadq.ru
 domain:stats.ifknow.ru
 domain:stats.kod.ru
+domain:stats.kodovyy-tsekh.ru
 domain:stats.lptracker.ru
 domain:stats.mos.ru
 domain:stats.otbivnoe.ru
 domain:stats.rustore.ru
+domain:stats.techrenewal.ru
 domain:stats.tiffany.com.ru
 domain:stats.travelask.ru
 domain:stats.vk-portal.net
@@ -1399,6 +1404,7 @@ domain:ulogix.ru
 domain:umekana.ru
 domain:umgpjdlllhl.ru
 domain:umyugu88.ru
+domain:unami.24frames.ru
 domain:underclick.ru
 domain:underdone.ru
 domain:unisound.cdnvideo.ru

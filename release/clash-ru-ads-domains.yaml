@@ -208,6 +208,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.msk1.ru
   - DOMAIN-SUFFIX,analytics.ngs55.ru
   - DOMAIN-SUFFIX,analytics.rotapost.ru
+  - DOMAIN-SUFFIX,analytics.saminformburo.ru
   - DOMAIN-SUFFIX,analytics.sberhealth.ru
   - DOMAIN-SUFFIX,analytics.sports.ru
   - DOMAIN-SUFFIX,analytics.sutochno.ru
@@ -1232,6 +1233,7 @@ payload:
   - DOMAIN-SUFFIX,stat.rare.ru
   - DOMAIN-SUFFIX,stat.rum.cdnvideo.ru
   - DOMAIN-SUFFIX,stat.ruvr.ru
+  - DOMAIN-SUFFIX,stat.skolkobrat.ru
   - DOMAIN-SUFFIX,stat.sputnik.ru
   - DOMAIN-SUFFIX,stat.tildacdn.com
   - DOMAIN-SUFFIX,stat.tvigle.ru
@@ -1245,6 +1247,7 @@ payload:
   - DOMAIN-SUFFIX,statics1.tceru134gsur.ru
   - DOMAIN-SUFFIX,statistics.fppressa.ru
   - DOMAIN-SUFFIX,statpipe.ru
+  - DOMAIN-SUFFIX,stats.anileda-lada.ru
   - DOMAIN-SUFFIX,stats.avito.ru
   - DOMAIN-SUFFIX,stats.bunkr.ru
   - DOMAIN-SUFFIX,stats.cratco.ru
@@ -1252,10 +1255,12 @@ payload:
   - DOMAIN-SUFFIX,stats.getleadq.ru
   - DOMAIN-SUFFIX,stats.ifknow.ru
   - DOMAIN-SUFFIX,stats.kod.ru
+  - DOMAIN-SUFFIX,stats.kodovyy-tsekh.ru
   - DOMAIN-SUFFIX,stats.lptracker.ru
   - DOMAIN-SUFFIX,stats.mos.ru
   - DOMAIN-SUFFIX,stats.otbivnoe.ru
   - DOMAIN-SUFFIX,stats.rustore.ru
+  - DOMAIN-SUFFIX,stats.techrenewal.ru
   - DOMAIN-SUFFIX,stats.tiffany.com.ru
   - DOMAIN-SUFFIX,stats.travelask.ru
   - DOMAIN-SUFFIX,stats.vk-portal.net
@@ -1400,6 +1405,7 @@ payload:
   - DOMAIN-SUFFIX,umekana.ru
   - DOMAIN-SUFFIX,umgpjdlllhl.ru
   - DOMAIN-SUFFIX,umyugu88.ru
+  - DOMAIN-SUFFIX,unami.24frames.ru
   - DOMAIN-SUFFIX,underclick.ru
   - DOMAIN-SUFFIX,underdone.ru
   - DOMAIN-SUFFIX,unisound.cdnvideo.ru

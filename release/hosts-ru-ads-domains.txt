@@ -416,6 +416,8 @@
 ::1 analytics.ngs55.ru
 0.0.0.0 analytics.rotapost.ru
 ::1 analytics.rotapost.ru
+0.0.0.0 analytics.saminformburo.ru
+::1 analytics.saminformburo.ru
 0.0.0.0 analytics.sberhealth.ru
 ::1 analytics.sberhealth.ru
 0.0.0.0 analytics.sports.ru
@@ -2464,6 +2466,8 @@
 ::1 stat.rum.cdnvideo.ru
 0.0.0.0 stat.ruvr.ru
 ::1 stat.ruvr.ru
+0.0.0.0 stat.skolkobrat.ru
+::1 stat.skolkobrat.ru
 0.0.0.0 stat.sputnik.ru
 ::1 stat.sputnik.ru
 0.0.0.0 stat.tildacdn.com
@@ -2490,6 +2494,8 @@
 ::1 statistics.fppressa.ru
 0.0.0.0 statpipe.ru
 ::1 statpipe.ru
+0.0.0.0 stats.anileda-lada.ru
+::1 stats.anileda-lada.ru
 0.0.0.0 stats.avito.ru
 ::1 stats.avito.ru
 0.0.0.0 stats.bunkr.ru
@@ -2504,6 +2510,8 @@
 ::1 stats.ifknow.ru
 0.0.0.0 stats.kod.ru
 ::1 stats.kod.ru
+0.0.0.0 stats.kodovyy-tsekh.ru
+::1 stats.kodovyy-tsekh.ru
 0.0.0.0 stats.lptracker.ru
 ::1 stats.lptracker.ru
 0.0.0.0 stats.mos.ru
@@ -2512,6 +2520,8 @@
 ::1 stats.otbivnoe.ru
 0.0.0.0 stats.rustore.ru
 ::1 stats.rustore.ru
+0.0.0.0 stats.techrenewal.ru
+::1 stats.techrenewal.ru
 0.0.0.0 stats.tiffany.com.ru
 ::1 stats.tiffany.com.ru
 0.0.0.0 stats.travelask.ru
@@ -2800,6 +2810,8 @@
 ::1 umgpjdlllhl.ru
 0.0.0.0 umyugu88.ru
 ::1 umyugu88.ru
+0.0.0.0 unami.24frames.ru
+::1 unami.24frames.ru
 0.0.0.0 underclick.ru
 ::1 underclick.ru
 0.0.0.0 underdone.ru

@@ -207,6 +207,7 @@ analytics.move.ru
 analytics.msk1.ru
 analytics.ngs55.ru
 analytics.rotapost.ru
+analytics.saminformburo.ru
 analytics.sberhealth.ru
 analytics.sports.ru
 analytics.sutochno.ru
@@ -1231,6 +1232,7 @@ stat.radar.imgsmail.ru
 stat.rare.ru
 stat.rum.cdnvideo.ru
 stat.ruvr.ru
+stat.skolkobrat.ru
 stat.sputnik.ru
 stat.tildacdn.com
 stat.tvigle.ru
@@ -1244,6 +1246,7 @@ static.terrhq.ru
 statics1.tceru134gsur.ru
 statistics.fppressa.ru
 statpipe.ru
+stats.anileda-lada.ru
 stats.avito.ru
 stats.bunkr.ru
 stats.cratco.ru
@@ -1251,10 +1254,12 @@ stats.gastronom.ru
 stats.getleadq.ru
 stats.ifknow.ru
 stats.kod.ru
+stats.kodovyy-tsekh.ru
 stats.lptracker.ru
 stats.mos.ru
 stats.otbivnoe.ru
 stats.rustore.ru
+stats.techrenewal.ru
 stats.tiffany.com.ru
 stats.travelask.ru
 stats.vk-portal.net
@@ -1399,6 +1404,7 @@ ulogix.ru
 umekana.ru
 umgpjdlllhl.ru
 umyugu88.ru
+unami.24frames.ru
 underclick.ru
 underdone.ru
 unisound.cdnvideo.ru

@@ -744,6 +744,7 @@ domain:unidraw.io
 domain:unirest.tech
 domain:userapi.com
 domain:usocial.pro
+domain:vigo.tech
 domain:vimu.tv
 domain:viqeo.tv
 domain:viqeotv.com

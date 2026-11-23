@@ -277,7 +277,6 @@ DOMAIN-SUFFIX,bantex.ru
 DOMAIN-SUFFIX,bardatm.ru
 DOMAIN-SUFFIX,barddfvgkhctch11.ru
 DOMAIN-SUFFIX,bazamodov.ru
-DOMAIN-SUFFIX,bcdwku.eg.ru
 DOMAIN-SUFFIX,beetraf.ru
 DOMAIN-SUFFIX,begun.ru
 DOMAIN-SUFFIX,beroll.ru
@@ -423,7 +422,6 @@ DOMAIN-SUFFIX,cures.ru.com
 DOMAIN-SUFFIX,cusok.ru
 DOMAIN-SUFFIX,cvhefd.ixbt.com
 DOMAIN-SUFFIX,cvt1.sibnet.ru
-DOMAIN-SUFFIX,czruoh.rusprofile.ru
 DOMAIN-SUFFIX,d.wi-fi.ru
 DOMAIN-SUFFIX,d0main.ru
 DOMAIN-SUFFIX,d1tracker.ru
@@ -462,6 +460,7 @@ DOMAIN-SUFFIX,disorderstatus.ru
 DOMAIN-SUFFIX,dmp-ai.ru
 DOMAIN-SUFFIX,dmp-one.ru
 DOMAIN-SUFFIX,dmp.vihub.ru
+DOMAIN-SUFFIX,dnrobx.maskshop.ru
 DOMAIN-SUFFIX,doortrade.ru
 DOMAIN-SUFFIX,doprodavec.ru
 DOMAIN-SUFFIX,doptik.ru
@@ -490,6 +489,7 @@ DOMAIN-SUFFIX,edirect.efind.ru
 DOMAIN-SUFFIX,effad.ru
 DOMAIN-SUFFIX,efhcel.erborian.ru
 DOMAIN-SUFFIX,egg.afisha.ru
+DOMAIN-SUFFIX,egvtnv.spellsmell.ru
 DOMAIN-SUFFIX,eiydgc.12storeez.ru
 DOMAIN-SUFFIX,ekgmca.gipfel.ru
 DOMAIN-SUFFIX,elephant.fotostrana.ru
@@ -775,6 +775,7 @@ DOMAIN-SUFFIX,linkunder.ru
 DOMAIN-SUFFIX,linkwmr.ru
 DOMAIN-SUFFIX,livesurf.ru
 DOMAIN-SUFFIX,lk.vectoranalytics.ru
+DOMAIN-SUFFIX,load.ss.hardparty.ru
 DOMAIN-SUFFIX,loadmoney.ru
 DOMAIN-SUFFIX,loan.aol.msk.su
 DOMAIN-SUFFIX,log.dzen.ru
@@ -884,6 +885,7 @@ DOMAIN-SUFFIX,mtpwie.garagetools.ru
 DOMAIN-SUFFIX,multimedia-projector.katrina.ru
 DOMAIN-SUFFIX,multonly.ru
 DOMAIN-SUFFIX,musiccounter.ru
+DOMAIN-SUFFIX,mxxaoa.vstroyka-solo.ru
 DOMAIN-SUFFIX,my-adv.ru
 DOMAIN-SUFFIX,my-img.ru
 DOMAIN-SUFFIX,my.rb2psh.ru
@@ -913,6 +915,7 @@ DOMAIN-SUFFIX,newms-shop.su
 DOMAIN-SUFFIX,news.mirtesen.ru
 DOMAIN-SUFFIX,newton1.ru
 DOMAIN-SUFFIX,nextel-ringtone.spb.su
+DOMAIN-SUFFIX,nfhisz.mirmagnitov.ru
 DOMAIN-SUFFIX,ngazee.novostroy-m.ru
 DOMAIN-SUFFIX,ningme.ru
 DOMAIN-SUFFIX,node.market-place.su
@@ -1071,7 +1074,6 @@ DOMAIN-SUFFIX,rcmjs.rambler.ru
 DOMAIN-SUFFIX,rcounter.rambler.ru
 DOMAIN-SUFFIX,readme.ru
 DOMAIN-SUFFIX,readto.ru
-DOMAIN-SUFFIX,real.delovoemesto.ru
 DOMAIN-SUFFIX,rec2000.at.ua
 DOMAIN-SUFFIX,redclick.ru
 DOMAIN-SUFFIX,redflu.ru
@@ -1259,6 +1261,7 @@ DOMAIN-SUFFIX,stats.lptracker.ru
 DOMAIN-SUFFIX,stats.mos.ru
 DOMAIN-SUFFIX,stats.otbivnoe.ru
 DOMAIN-SUFFIX,stats.rustore.ru
+DOMAIN-SUFFIX,stats.svk.su
 DOMAIN-SUFFIX,stats.techrenewal.ru
 DOMAIN-SUFFIX,stats.tiffany.com.ru
 DOMAIN-SUFFIX,stats.travelask.ru
@@ -1276,6 +1279,7 @@ DOMAIN-SUFFIX,suprion.ru
 DOMAIN-SUFFIX,sv-pr.ru
 DOMAIN-SUFFIX,svi.online.sberbank.ru
 DOMAIN-SUFFIX,svk-native.ru
+DOMAIN-SUFFIX,svszpr.planeta-sport.ru
 DOMAIN-SUFFIX,sw88.disney.ru
 DOMAIN-SUFFIX,sw88.marvel.com.ru
 DOMAIN-SUFFIX,sw88.starwars.ru
@@ -1396,6 +1400,7 @@ DOMAIN-SUFFIX,uaas.yandex.ru
 DOMAIN-SUFFIX,ubar-pro4.ru
 DOMAIN-SUFFIX,uc.xddi.ru
 DOMAIN-SUFFIX,ucounter.ucoz.net
+DOMAIN-SUFFIX,ugpayr.brd.ru
 DOMAIN-SUFFIX,ukrashulya.ru
 DOMAIN-SUFFIX,ukxefa.bonkids.ru
 DOMAIN-SUFFIX,ulclick.ru
@@ -1440,6 +1445,7 @@ DOMAIN-SUFFIX,vidtok.ru
 DOMAIN-SUFFIX,vimgs.ru
 DOMAIN-SUFFIX,vira.ru
 DOMAIN-SUFFIX,viral-cdn.ru
+DOMAIN-SUFFIX,virqxp.hsr24.ru
 DOMAIN-SUFFIX,visor.sberbank.ru
 DOMAIN-SUFFIX,visor.sbrf.ru
 DOMAIN-SUFFIX,vjmqdx.nozhikov.ru
@@ -1486,6 +1492,7 @@ DOMAIN-SUFFIX,webvisor.ru
 DOMAIN-SUFFIX,weight-loss.hut1.ru
 DOMAIN-SUFFIX,wfkemc.dmsky.ru
 DOMAIN-SUFFIX,wgczby.foroffice.ru
+DOMAIN-SUFFIX,wgrcoj.aizel.ru
 DOMAIN-SUFFIX,whiteboxdigital.ru
 DOMAIN-SUFFIX,widget.market-place.su
 DOMAIN-SUFFIX,widget.socialmart.ru
@@ -1514,7 +1521,9 @@ DOMAIN-SUFFIX,www.ad-words.ru
 DOMAIN-SUFFIX,www.armolipid.com.ru
 DOMAIN-SUFFIX,www.be4life.ru
 DOMAIN-SUFFIX,www.fasder12.ru
+DOMAIN-SUFFIX,www.iskustvenny-intellekt.ru
 DOMAIN-SUFFIX,www.mir-stalkera.ru
+DOMAIN-SUFFIX,www.mojwprb.ru
 DOMAIN-SUFFIX,www.rbp1.ru
 DOMAIN-SUFFIX,www.rbp2.ru
 DOMAIN-SUFFIX,www.rbp3.ru
@@ -1542,7 +1551,6 @@ DOMAIN-SUFFIX,xoor.ru
 DOMAIN-SUFFIX,xray.mail.ru
 DOMAIN-SUFFIX,xrxybn.kotofey-shop.ru
 DOMAIN-SUFFIX,xtgfujmknprb.ru
-DOMAIN-SUFFIX,xuawdz.xn--b1aedqiqb.xn--p1ai
 DOMAIN-SUFFIX,xuddeg.rukzakoff.ru
 DOMAIN-SUFFIX,xvjnwf.deagostini.ru
 DOMAIN-SUFFIX,xycgec.theoutlet.ru
@@ -1569,6 +1577,7 @@ DOMAIN-SUFFIX,zgqgig.skillbox.ru
 DOMAIN-SUFFIX,zlolhl.3dnews.ru
 DOMAIN-SUFFIX,zlolhl.anekdot.ru
 DOMAIN-SUFFIX,zlolhl.mediametrics.ru
+DOMAIN-SUFFIX,zlolhl.smart-lab.ru
 DOMAIN-SUFFIX,zmqdez.ru
 DOMAIN-SUFFIX,zoda.ru
 DOMAIN-SUFFIX,zona1.at.ua

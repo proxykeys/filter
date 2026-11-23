@@ -556,8 +556,6 @@
 ::1 barddfvgkhctch11.ru
 0.0.0.0 bazamodov.ru
 ::1 bazamodov.ru
-0.0.0.0 bcdwku.eg.ru
-::1 bcdwku.eg.ru
 0.0.0.0 beetraf.ru
 ::1 beetraf.ru
 0.0.0.0 begun.ru
@@ -848,8 +846,6 @@
 ::1 cvhefd.ixbt.com
 0.0.0.0 cvt1.sibnet.ru
 ::1 cvt1.sibnet.ru
-0.0.0.0 czruoh.rusprofile.ru
-::1 czruoh.rusprofile.ru
 0.0.0.0 d.wi-fi.ru
 ::1 d.wi-fi.ru
 0.0.0.0 d0main.ru
@@ -926,6 +922,8 @@
 ::1 dmp-one.ru
 0.0.0.0 dmp.vihub.ru
 ::1 dmp.vihub.ru
+0.0.0.0 dnrobx.maskshop.ru
+::1 dnrobx.maskshop.ru
 0.0.0.0 doortrade.ru
 ::1 doortrade.ru
 0.0.0.0 doprodavec.ru
@@ -982,6 +980,8 @@
 ::1 efhcel.erborian.ru
 0.0.0.0 egg.afisha.ru
 ::1 egg.afisha.ru
+0.0.0.0 egvtnv.spellsmell.ru
+::1 egvtnv.spellsmell.ru
 0.0.0.0 eiydgc.12storeez.ru
 ::1 eiydgc.12storeez.ru
 0.0.0.0 ekgmca.gipfel.ru
@@ -1552,6 +1552,8 @@
 ::1 livesurf.ru
 0.0.0.0 lk.vectoranalytics.ru
 ::1 lk.vectoranalytics.ru
+0.0.0.0 load.ss.hardparty.ru
+::1 load.ss.hardparty.ru
 0.0.0.0 loadmoney.ru
 ::1 loadmoney.ru
 0.0.0.0 loan.aol.msk.su
@@ -1770,6 +1772,8 @@
 ::1 multonly.ru
 0.0.0.0 musiccounter.ru
 ::1 musiccounter.ru
+0.0.0.0 mxxaoa.vstroyka-solo.ru
+::1 mxxaoa.vstroyka-solo.ru
 0.0.0.0 my-adv.ru
 ::1 my-adv.ru
 0.0.0.0 my-img.ru
@@ -1828,6 +1832,8 @@
 ::1 newton1.ru
 0.0.0.0 nextel-ringtone.spb.su
 ::1 nextel-ringtone.spb.su
+0.0.0.0 nfhisz.mirmagnitov.ru
+::1 nfhisz.mirmagnitov.ru
 0.0.0.0 ngazee.novostroy-m.ru
 ::1 ngazee.novostroy-m.ru
 0.0.0.0 ningme.ru
@@ -2144,8 +2150,6 @@
 ::1 readme.ru
 0.0.0.0 readto.ru
 ::1 readto.ru
-0.0.0.0 real.delovoemesto.ru
-::1 real.delovoemesto.ru
 0.0.0.0 rec2000.at.ua
 ::1 rec2000.at.ua
 0.0.0.0 redclick.ru
@@ -2520,6 +2524,8 @@
 ::1 stats.otbivnoe.ru
 0.0.0.0 stats.rustore.ru
 ::1 stats.rustore.ru
+0.0.0.0 stats.svk.su
+::1 stats.svk.su
 0.0.0.0 stats.techrenewal.ru
 ::1 stats.techrenewal.ru
 0.0.0.0 stats.tiffany.com.ru
@@ -2554,6 +2560,8 @@
 ::1 svi.online.sberbank.ru
 0.0.0.0 svk-native.ru
 ::1 svk-native.ru
+0.0.0.0 svszpr.planeta-sport.ru
+::1 svszpr.planeta-sport.ru
 0.0.0.0 sw88.disney.ru
 ::1 sw88.disney.ru
 0.0.0.0 sw88.marvel.com.ru
@@ -2794,6 +2802,8 @@
 ::1 uc.xddi.ru
 0.0.0.0 ucounter.ucoz.net
 ::1 ucounter.ucoz.net
+0.0.0.0 ugpayr.brd.ru
+::1 ugpayr.brd.ru
 0.0.0.0 ukrashulya.ru
 ::1 ukrashulya.ru
 0.0.0.0 ukxefa.bonkids.ru
@@ -2882,6 +2892,8 @@
 ::1 vira.ru
 0.0.0.0 viral-cdn.ru
 ::1 viral-cdn.ru
+0.0.0.0 virqxp.hsr24.ru
+::1 virqxp.hsr24.ru
 0.0.0.0 visor.sberbank.ru
 ::1 visor.sberbank.ru
 0.0.0.0 visor.sbrf.ru
@@ -2974,6 +2986,8 @@
 ::1 wfkemc.dmsky.ru
 0.0.0.0 wgczby.foroffice.ru
 ::1 wgczby.foroffice.ru
+0.0.0.0 wgrcoj.aizel.ru
+::1 wgrcoj.aizel.ru
 0.0.0.0 whiteboxdigital.ru
 ::1 whiteboxdigital.ru
 0.0.0.0 widget.market-place.su
@@ -3030,8 +3044,12 @@
 ::1 www.be4life.ru
 0.0.0.0 www.fasder12.ru
 ::1 www.fasder12.ru
+0.0.0.0 www.iskustvenny-intellekt.ru
+::1 www.iskustvenny-intellekt.ru
 0.0.0.0 www.mir-stalkera.ru
 ::1 www.mir-stalkera.ru
+0.0.0.0 www.mojwprb.ru
+::1 www.mojwprb.ru
 0.0.0.0 www.rbp1.ru
 ::1 www.rbp1.ru
 0.0.0.0 www.rbp2.ru
@@ -3086,8 +3104,6 @@
 ::1 xrxybn.kotofey-shop.ru
 0.0.0.0 xtgfujmknprb.ru
 ::1 xtgfujmknprb.ru
-0.0.0.0 xuawdz.xn--b1aedqiqb.xn--p1ai
-::1 xuawdz.xn--b1aedqiqb.xn--p1ai
 0.0.0.0 xuddeg.rukzakoff.ru
 ::1 xuddeg.rukzakoff.ru
 0.0.0.0 xvjnwf.deagostini.ru
@@ -3140,6 +3156,8 @@
 ::1 zlolhl.anekdot.ru
 0.0.0.0 zlolhl.mediametrics.ru
 ::1 zlolhl.mediametrics.ru
+0.0.0.0 zlolhl.smart-lab.ru
+::1 zlolhl.smart-lab.ru
 0.0.0.0 zmqdez.ru
 ::1 zmqdez.ru
 0.0.0.0 zoda.ru

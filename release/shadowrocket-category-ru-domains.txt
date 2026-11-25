@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,ad.mail.ru:@ads
 DOMAIN-SUFFIX,adfox.ru:@ads
 DOMAIN-SUFFIX,adfox.yandex.ru:@ads
 DOMAIN-SUFFIX,admetrica.ru:@ads
+DOMAIN-SUFFIX,admkamyshin.info
 DOMAIN-SUFFIX,adriver.ru:@ads
 DOMAIN-SUFFIX,ads.sber.ru:@ads
 DOMAIN-SUFFIX,ads.viqeo.tv:@ads
@@ -70,6 +71,7 @@ DOMAIN-SUFFIX,baltnews.lt
 DOMAIN-SUFFIX,bank131.com
 DOMAIN-SUFFIX,baranky.com
 DOMAIN-SUFFIX,bargipsy.com
+DOMAIN-SUFFIX,barnaul.org
 DOMAIN-SUFFIX,beeline.tv
 DOMAIN-SUFFIX,beget.app
 DOMAIN-SUFFIX,beget.cloud
@@ -149,6 +151,7 @@ DOMAIN-SUFFIX,dert.site
 DOMAIN-SUFFIX,dert.tech
 DOMAIN-SUFFIX,dev-my.com
 DOMAIN-SUFFIX,dev-my.games
+DOMAIN-SUFFIX,devmachine.ai
 DOMAIN-SUFFIX,dodois.com
 DOMAIN-SUFFIX,dodois.io
 DOMAIN-SUFFIX,dodopizza.com
@@ -367,8 +370,11 @@ DOMAIN-SUFFIX,kaspersky.pt
 DOMAIN-SUFFIX,kaspersky.ro
 DOMAIN-SUFFIX,kaspersky.rs
 DOMAIN-SUFFIX,kaspersky.se
+DOMAIN-SUFFIX,kaspiysk.org
+DOMAIN-SUFFIX,kchr.info
 DOMAIN-SUFFIX,keyboardmen.com
 DOMAIN-SUFFIX,khangar.net
+DOMAIN-SUFFIX,khural.org
 DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,kinorium.com
 DOMAIN-SUFFIX,knightspeak.com
@@ -427,6 +433,7 @@ DOMAIN-SUFFIX,ms.dzen.ru:@ads
 DOMAIN-SUFFIX,ms.vk.com:@ads
 DOMAIN-SUFFIX,ms.vk.ru:@ads
 DOMAIN-SUFFIX,mts-ws.net
+DOMAIN-SUFFIX,murom.info
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,my-manager-account.com
 DOMAIN-SUFFIX,my.com
@@ -446,6 +453,8 @@ DOMAIN-SUFFIX,netschool.website
 DOMAIN-SUFFIX,ngenix.net
 DOMAIN-SUFFIX,noticias-rt.com
 DOMAIN-SUFFIX,notimundo.press
+DOMAIN-SUFFIX,novoshakhtinsk.org
+DOMAIN-SUFFIX,ntagil.org
 DOMAIN-SUFFIX,obs.mts.ru:@ads
 DOMAIN-SUFFIX,odnoklasniki.by
 DOMAIN-SUFFIX,odnoklasniki.ua
@@ -464,6 +473,7 @@ DOMAIN-SUFFIX,okl.lt
 DOMAIN-SUFFIX,okolo.app
 DOMAIN-SUFFIX,opennet.dev
 DOMAIN-SUFFIX,oskelly.co
+DOMAIN-SUFFIX,oskol.city
 DOMAIN-SUFFIX,ostin.com
 DOMAIN-SUFFIX,otzovik.com
 DOMAIN-SUFFIX,ozon.app
@@ -584,6 +594,7 @@ DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,ru.ccb.com
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,rubtsovsk.org
 DOMAIN-SUFFIX,rugpt.io
 DOMAIN-SUFFIX,ruhub.tv
 DOMAIN-SUFFIX,runewsrt.com
@@ -640,6 +651,7 @@ DOMAIN-SUFFIX,smartmed.pro
 DOMAIN-SUFFIX,smena.cafe
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,sn-esp.site
+DOMAIN-SUFFIX,sobranie.info
 DOMAIN-SUFFIX,sokolov.io
 DOMAIN-SUFFIX,sourcecraft.dev
 DOMAIN-SUFFIX,spasibo.digital

@@ -246,6 +246,7 @@ domain:gismeteo.net
 domain:gismeteo.st
 domain:gogettaxi.org
 domain:goicq.org
+domain:goodline.info
 domain:gorzdrav.org
 domain:goup.ai
 domain:gramotei.online
@@ -404,6 +405,7 @@ domain:medrocket.me
 domain:medsi.com
 domain:medsi.pro
 domain:megabitus.com
+domain:megafon.cloud
 domain:megafon.com
 domain:megamarket.tech
 domain:mel.fm
@@ -459,6 +461,7 @@ domain:noticias-rt.com
 domain:notimundo.press
 domain:novoshakhtinsk.org
 domain:ntagil.org
+domain:o7.com
 domain:obs.mts.ru:@ads
 domain:odnoklasniki.by
 domain:odnoklasniki.ua
@@ -509,6 +512,7 @@ domain:paywb.com
 domain:perekrestok.com
 domain:pixonic.com
 domain:pobeda.page
+domain:podryad.tv
 domain:polza.ai
 domain:popmechanic.io
 domain:poudobnee.com
@@ -534,6 +538,7 @@ domain:rbsgate.com
 domain:rbsuat.com
 domain:rbth.com
 domain:reaviz.com
+domain:redcom.net
 domain:reg.cloud
 domain:reg.com
 domain:relap.mail.ru:@ads
@@ -943,6 +948,7 @@ domain:yndx.net
 domain:youla.io
 domain:yourgood.app
 domain:zapishu.me
+domain:zsttk.net
 domain:zvuk-b2b.com
 domain:zvuk.com
 full:1l-hit.mail.ru:@ads

@@ -580,6 +580,8 @@
 ::1 bigleads.ru
 0.0.0.0 bigsauron.ru
 ::1 bigsauron.ru
+0.0.0.0 bk.goodline.info
+::1 bk.goodline.info
 0.0.0.0 blogan.ru
 ::1 blogan.ru
 0.0.0.0 blogun.ru

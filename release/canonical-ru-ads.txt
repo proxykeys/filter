@@ -1270,6 +1270,7 @@ domain:stats.vk-portal.net
 domain:stats2.videonow.ru
 domain:stbid.ru
 domain:stghyx.citilink.ru
+domain:stmtag.ru
 domain:stracker.rmg.ru
 domain:stream.datago.ru
 domain:sunhe.jinr.ru

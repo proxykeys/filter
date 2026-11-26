@@ -1270,6 +1270,7 @@ DOMAIN-SUFFIX,stats.vk-portal.net
 DOMAIN-SUFFIX,stats2.videonow.ru
 DOMAIN-SUFFIX,stbid.ru
 DOMAIN-SUFFIX,stghyx.citilink.ru
+DOMAIN-SUFFIX,stmtag.ru
 DOMAIN-SUFFIX,stracker.rmg.ru
 DOMAIN-SUFFIX,stream.datago.ru
 DOMAIN-SUFFIX,sunhe.jinr.ru

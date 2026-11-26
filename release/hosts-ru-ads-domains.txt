@@ -2542,6 +2542,8 @@
 ::1 stbid.ru
 0.0.0.0 stghyx.citilink.ru
 ::1 stghyx.citilink.ru
+0.0.0.0 stmtag.ru
+::1 stmtag.ru
 0.0.0.0 stracker.rmg.ru
 ::1 stracker.rmg.ru
 0.0.0.0 stream.datago.ru

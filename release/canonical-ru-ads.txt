@@ -222,6 +222,7 @@ domain:api.appmetrica.yandex.ru
 domain:api.eye.sbdv.ru
 domain:apistats.rg.ru
 domain:apkonline.ru
+domain:appmetrica.sovcombank.ru
 domain:appmetrica.yandex.com
 domain:appmetrica.yandex.net
 domain:apptracer.ru

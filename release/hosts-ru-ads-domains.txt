@@ -446,6 +446,8 @@
 ::1 apistats.rg.ru
 0.0.0.0 apkonline.ru
 ::1 apkonline.ru
+0.0.0.0 appmetrica.sovcombank.ru
+::1 appmetrica.sovcombank.ru
 0.0.0.0 appmetrica.yandex.com
 ::1 appmetrica.yandex.com
 0.0.0.0 appmetrica.yandex.net

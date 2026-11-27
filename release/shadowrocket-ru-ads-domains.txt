@@ -222,6 +222,7 @@ DOMAIN-SUFFIX,api.appmetrica.yandex.ru
 DOMAIN-SUFFIX,api.eye.sbdv.ru
 DOMAIN-SUFFIX,apistats.rg.ru
 DOMAIN-SUFFIX,apkonline.ru
+DOMAIN-SUFFIX,appmetrica.sovcombank.ru
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,apptracer.ru

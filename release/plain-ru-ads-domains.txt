@@ -222,6 +222,7 @@ api.appmetrica.yandex.ru
 api.eye.sbdv.ru
 apistats.rg.ru
 apkonline.ru
+appmetrica.sovcombank.ru
 appmetrica.yandex.com
 appmetrica.yandex.net
 apptracer.ru

@@ -100,6 +100,8 @@
 ::1 abs.firstvds.ru
 0.0.0.0 abt.s3.yandex.net
 ::1 abt.s3.yandex.net
+0.0.0.0 ac.avito.ru
+::1 ac.avito.ru
 0.0.0.0 acollector.wb.ru
 ::1 acollector.wb.ru
 0.0.0.0 action.evrikak.ru
